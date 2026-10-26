@@ -1,0 +1,14 @@
+{
+ "schema": 1,
+ "materials": [
+  {
+   "id": "bio-sci-en",
+   "title": "科學專業英文(生物科學)",
+   "file": "data/course-bio.json",
+   "pdf": "materials/科學專業英文(生物科學).pdf",
+   "terms": 263,
+   "mode": "vocabulary",
+   "version": "2026.10.25"
+  }
+ ]
+}

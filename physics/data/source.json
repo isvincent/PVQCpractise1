@@ -1,0 +1,3264 @@
+{
+ "schema": 1,
+ "material": {
+  "title": "科學專業英文(物理)",
+  "file": "科學專業英文(物理).pdf",
+  "pages": 9,
+  "type": "vocabulary",
+  "detectedMode": "vocabulary",
+  "detectReason": "每頁皆為英文詞條＋繁體中文對照的兩欄表格，判定為詞彙型教材，採單字學習模式。",
+  "termCount": 325
+ },
+ "terms": [
+  {
+   "id": "t-x-ray",
+   "en": "X-ray",
+   "zh": "X 射線",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 1
+   }
+  },
+  {
+   "id": "t-work",
+   "en": "work",
+   "zh": "功",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 2
+   }
+  },
+  {
+   "id": "t-wetting",
+   "en": "wetting",
+   "zh": "潤濕",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 3
+   }
+  },
+  {
+   "id": "t-weight",
+   "en": "weight",
+   "zh": "重；重量；權重",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 4
+   }
+  },
+  {
+   "id": "t-weber",
+   "en": "weber",
+   "zh": "韋伯 (單位)",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 5
+   }
+  },
+  {
+   "id": "t-wavelet",
+   "en": "wavelet",
+   "zh": "子波；小波",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 6
+   }
+  },
+  {
+   "id": "t-wavelength",
+   "en": "wavelength",
+   "zh": "波長",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 7
+   }
+  },
+  {
+   "id": "t-wave",
+   "en": "wave",
+   "zh": "波",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 8
+   }
+  },
+  {
+   "id": "t-watt",
+   "en": "watt",
+   "zh": "瓦(單位)；瓦特 (單位)",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 9
+   }
+  },
+  {
+   "id": "t-wafer",
+   "en": "wafer",
+   "zh": "晶圓",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 10
+   }
+  },
+  {
+   "id": "t-voltmeter",
+   "en": "voltmeter",
+   "zh": "伏特計；電壓計",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 11
+   }
+  },
+  {
+   "id": "t-voltage",
+   "en": "voltage",
+   "zh": "電壓",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 12
+   }
+  },
+  {
+   "id": "t-volt",
+   "en": "volt",
+   "zh": "伏；伏特",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 13
+   }
+  },
+  {
+   "id": "t-velocity",
+   "en": "velocity",
+   "zh": "速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 14
+   }
+  },
+  {
+   "id": "t-vector",
+   "en": "vector",
+   "zh": "向量",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 15
+   }
+  },
+  {
+   "id": "t-uranus",
+   "en": "Uranus",
+   "zh": "天王星",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 16
+   }
+  },
+  {
+   "id": "t-timbre",
+   "en": "timbre",
+   "zh": "音品；音色",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 17
+   }
+  },
+  {
+   "id": "t-thermometer",
+   "en": "thermometer",
+   "zh": "溫度計",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 18
+   }
+  },
+  {
+   "id": "t-tension",
+   "en": "tension",
+   "zh": "張力；抗張力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 19
+   }
+  },
+  {
+   "id": "t-system",
+   "en": "system",
+   "zh": "系；系統；體系",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 20
+   }
+  },
+  {
+   "id": "t-superconductor",
+   "en": "superconductor",
+   "zh": "超導體",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 21
+   }
+  },
+  {
+   "id": "t-source",
+   "en": "source",
+   "zh": "源；源極",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 22
+   }
+  },
+  {
+   "id": "t-sonar",
+   "en": "sonar",
+   "zh": "聲納",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 23
+   }
+  },
+  {
+   "id": "t-solid",
+   "en": "solid",
+   "zh": "固體",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 24
+   }
+  },
+  {
+   "id": "t-saturn",
+   "en": "Saturn",
+   "zh": "土星",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 25
+   }
+  },
+  {
+   "id": "t-satellite",
+   "en": "satellite",
+   "zh": "衛星；伴線",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 26
+   }
+  },
+  {
+   "id": "t-rotation",
+   "en": "rotation",
+   "zh": "轉動；旋轉； 自轉 ；旋光",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 27
+   }
+  },
+  {
+   "id": "t-resistor",
+   "en": "resistor",
+   "zh": "電阻；電阻器",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 28
+   }
+  },
+  {
+   "id": "t-refraction",
+   "en": "refraction",
+   "zh": "折射",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 29
+   }
+  },
+  {
+   "id": "t-ray",
+   "en": "ray",
+   "zh": "線；射線",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 1,
+    "order": 30
+   }
+  },
+  {
+   "id": "t-quantum",
+   "en": "quantum",
+   "zh": "量子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 31
+   }
+  },
+  {
+   "id": "t-planet",
+   "en": "planet",
+   "zh": "行星",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 32
+   }
+  },
+  {
+   "id": "t-pixel",
+   "en": "pixel",
+   "zh": "像素",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 33
+   }
+  },
+  {
+   "id": "t-physics",
+   "en": "physics",
+   "zh": "物理；物理學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 34
+   }
+  },
+  {
+   "id": "t-period",
+   "en": "period",
+   "zh": "周期",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 35
+   }
+  },
+  {
+   "id": "t-ohm",
+   "en": "ohm",
+   "zh": "歐姆 (電阻單位)",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 36
+   }
+  },
+  {
+   "id": "t-nucleon",
+   "en": "nucleon",
+   "zh": "核子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 37
+   }
+  },
+  {
+   "id": "t-neutron",
+   "en": "neutron",
+   "zh": "中子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 38
+   }
+  },
+  {
+   "id": "t-neutrino",
+   "en": "neutrino",
+   "zh": "微中子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 39
+   }
+  },
+  {
+   "id": "t-neptune",
+   "en": "Neptune",
+   "zh": "海王星",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 40
+   }
+  },
+  {
+   "id": "t-nebula",
+   "en": "nebula",
+   "zh": "星雲",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 41
+   }
+  },
+  {
+   "id": "t-nature",
+   "en": "nature",
+   "zh": "本性",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 42
+   }
+  },
+  {
+   "id": "t-nanometer",
+   "en": "nanometer",
+   "zh": "奈米",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 43
+   }
+  },
+  {
+   "id": "t-motor",
+   "en": "motor",
+   "zh": "發動機；馬達",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 44
+   }
+  },
+  {
+   "id": "t-motion",
+   "en": "motion",
+   "zh": "動；運動",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 45
+   }
+  },
+  {
+   "id": "t-mirror",
+   "en": "mirror",
+   "zh": "面鏡",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 46
+   }
+  },
+  {
+   "id": "t-milligram",
+   "en": "milligram",
+   "zh": "毫克",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 47
+   }
+  },
+  {
+   "id": "t-microwave",
+   "en": "microwave",
+   "zh": "微波",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 48
+   }
+  },
+  {
+   "id": "t-micron",
+   "en": "micron",
+   "zh": "微米",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 49
+   }
+  },
+  {
+   "id": "t-mechanics",
+   "en": "mechanics",
+   "zh": "力學 ；機械學；技術性的部分；技術；技巧",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 50
+   }
+  },
+  {
+   "id": "t-liquid",
+   "en": "liquid",
+   "zh": "液體",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 51
+   }
+  },
+  {
+   "id": "t-lens",
+   "en": "lens",
+   "zh": "透鏡；鏡片；（照相機等的）鏡頭 ；給……攝影",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 52
+   }
+  },
+  {
+   "id": "t-joule",
+   "en": "joule",
+   "zh": "焦耳（能量單位）",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 53
+   }
+  },
+  {
+   "id": "t-isotope",
+   "en": "isotope",
+   "zh": "同位素",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 54
+   }
+  },
+  {
+   "id": "t-inertia",
+   "en": "inertia",
+   "zh": "慣性；慣量",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 55
+   }
+  },
+  {
+   "id": "t-impulse",
+   "en": "impulse",
+   "zh": "衝量；脈衝；衝擊",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 56
+   }
+  },
+  {
+   "id": "t-gyroscope",
+   "en": "gyroscope",
+   "zh": "陀螺儀",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 57
+   }
+  },
+  {
+   "id": "t-ground-state",
+   "en": "ground state",
+   "zh": "基態",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 58
+   }
+  },
+  {
+   "id": "t-grid",
+   "en": "grid",
+   "zh": "柵極",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 59
+   }
+  },
+  {
+   "id": "t-gravity",
+   "en": "gravity",
+   "zh": "重力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 60
+   }
+  },
+  {
+   "id": "t-gas",
+   "en": "gas",
+   "zh": "氣[體]",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 61
+   }
+  },
+  {
+   "id": "t-galaxy",
+   "en": "galaxy",
+   "zh": "星系；銀河系；銀河",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 62
+   }
+  },
+  {
+   "id": "t-fusion",
+   "en": "fusion",
+   "zh": "融合；聚變；核融合；熔化",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 63
+   }
+  },
+  {
+   "id": "t-friction",
+   "en": "friction",
+   "zh": "摩擦",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 64
+   }
+  },
+  {
+   "id": "t-frequency",
+   "en": "frequency",
+   "zh": "頻；頻率",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 65
+   }
+  },
+  {
+   "id": "t-force",
+   "en": "force",
+   "zh": "力；力量；力氣；武力；強迫；迫使；用力推進力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 66
+   }
+  },
+  {
+   "id": "t-focus",
+   "en": "focus",
+   "zh": "焦點；聚焦",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 67
+   }
+  },
+  {
+   "id": "t-fluid",
+   "en": "fluid",
+   "zh": "流體；流質",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 2,
+    "order": 68
+   }
+  },
+  {
+   "id": "t-field",
+   "en": "field",
+   "zh": "場",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 69
+   }
+  },
+  {
+   "id": "t-femtometer",
+   "en": "femtometer",
+   "zh": "飛米；飛米(10-21m)",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 70
+   }
+  },
+  {
+   "id": "t-farad",
+   "en": "farad",
+   "zh": "法拉(電容單位)",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 71
+   }
+  },
+  {
+   "id": "t-escape",
+   "en": "escape",
+   "zh": "脫離；逃跑；逃脫",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 72
+   }
+  },
+  {
+   "id": "t-equilibrium",
+   "en": "equilibrium",
+   "zh": "平衡",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 73
+   }
+  },
+  {
+   "id": "t-envelope",
+   "en": "envelope",
+   "zh": "包络；包封",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 74
+   }
+  },
+  {
+   "id": "t-energy",
+   "en": "energy",
+   "zh": "能量；能",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 75
+   }
+  },
+  {
+   "id": "t-emitter",
+   "en": "emitter",
+   "zh": "射極；發射體；發射器",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 76
+   }
+  },
+  {
+   "id": "t-emission",
+   "en": "emission",
+   "zh": "發射",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 77
+   }
+  },
+  {
+   "id": "t-ellipse",
+   "en": "ellipse",
+   "zh": "橢圓",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 78
+   }
+  },
+  {
+   "id": "t-element",
+   "en": "element",
+   "zh": "元素；元件；元",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 79
+   }
+  },
+  {
+   "id": "t-electron",
+   "en": "electron",
+   "zh": "電子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 80
+   }
+  },
+  {
+   "id": "t-electromagnet",
+   "en": "electromagnet",
+   "zh": "電磁鐵；電磁體",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 81
+   }
+  },
+  {
+   "id": "t-electricity",
+   "en": "electricity",
+   "zh": "電；電學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 82
+   }
+  },
+  {
+   "id": "t-elastic",
+   "en": "elastic",
+   "zh": "彈性的",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 83
+   }
+  },
+  {
+   "id": "t-eddy-current",
+   "en": "eddy current",
+   "zh": "渦流；渦電流",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 84
+   }
+  },
+  {
+   "id": "t-earth",
+   "en": "earth",
+   "zh": "地；接地",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 85
+   }
+  },
+  {
+   "id": "t-earth-proper",
+   "en": "Earth",
+   "zh": "地球",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 86
+   }
+  },
+  {
+   "id": "t-doppler-effect",
+   "en": "Doppler effect",
+   "zh": "都卜勒效應",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 87
+   }
+  },
+  {
+   "id": "t-doping",
+   "en": "doping",
+   "zh": "參雜",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 88
+   }
+  },
+  {
+   "id": "t-donor",
+   "en": "donor",
+   "zh": "施子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 89
+   }
+  },
+  {
+   "id": "t-displacement",
+   "en": "displacement",
+   "zh": "位移",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 90
+   }
+  },
+  {
+   "id": "t-diode",
+   "en": "diode",
+   "zh": "二極體；二極管",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 91
+   }
+  },
+  {
+   "id": "t-dimension",
+   "en": "dimension",
+   "zh": "維；維度；因次；尺度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 92
+   }
+  },
+  {
+   "id": "t-deceleration",
+   "en": "deceleration",
+   "zh": "減速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 93
+   }
+  },
+  {
+   "id": "t-current",
+   "en": "current",
+   "zh": "流；電流",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 94
+   }
+  },
+  {
+   "id": "t-crest",
+   "en": "crest",
+   "zh": "峰；波峰",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 95
+   }
+  },
+  {
+   "id": "t-coordinate",
+   "en": "coordinate",
+   "zh": "坐標",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 96
+   }
+  },
+  {
+   "id": "t-convection",
+   "en": "convection",
+   "zh": "對流",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 97
+   }
+  },
+  {
+   "id": "t-conservation",
+   "en": "conservation",
+   "zh": "守恆；保存；(對資源的)保護；管理",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 98
+   }
+  },
+  {
+   "id": "t-conductor",
+   "en": "conductor",
+   "zh": "導體",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 99
+   }
+  },
+  {
+   "id": "t-conduction",
+   "en": "conduction",
+   "zh": "傳導",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 100
+   }
+  },
+  {
+   "id": "t-compression",
+   "en": "compression",
+   "zh": "壓縮",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 101
+   }
+  },
+  {
+   "id": "t-component",
+   "en": "component",
+   "zh": "分量；構成要素；零件；成分；組成的；構成的",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 102
+   }
+  },
+  {
+   "id": "t-commutator",
+   "en": "commutator",
+   "zh": "交換子；交換算符；對易算符；換向器",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 103
+   }
+  },
+  {
+   "id": "t-collision",
+   "en": "collision",
+   "zh": "碰撞",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 104
+   }
+  },
+  {
+   "id": "t-collector",
+   "en": "collector",
+   "zh": "集極；集電極；集流器",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 105
+   }
+  },
+  {
+   "id": "t-cohesive",
+   "en": "cohesive",
+   "zh": "凝聚性的；有黏著力的；有結合力的；團結的",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 3,
+    "order": 106
+   }
+  },
+  {
+   "id": "t-coefficient",
+   "en": "coefficient",
+   "zh": "係數；協同因素；共同作用的；合作的",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 107
+   }
+  },
+  {
+   "id": "t-cobalt",
+   "en": "cobalt",
+   "zh": "鈷",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 108
+   }
+  },
+  {
+   "id": "t-cluster",
+   "en": "cluster",
+   "zh": "團；集團；星團；星系團",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 109
+   }
+  },
+  {
+   "id": "t-classical",
+   "en": "classical",
+   "zh": "古典的；典型的",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 110
+   }
+  },
+  {
+   "id": "t-channel",
+   "en": "channel",
+   "zh": "頻道；通道",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 111
+   }
+  },
+  {
+   "id": "t-centimeter",
+   "en": "centimeter",
+   "zh": "公分；厘米",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 112
+   }
+  },
+  {
+   "id": "t-cavity",
+   "en": "cavity",
+   "zh": "腔；空腔",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 113
+   }
+  },
+  {
+   "id": "t-cathode",
+   "en": "cathode",
+   "zh": "陰極；負極",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 114
+   }
+  },
+  {
+   "id": "t-carrier",
+   "en": "carrier",
+   "zh": "載子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 115
+   }
+  },
+  {
+   "id": "t-capacitor",
+   "en": "capacitor",
+   "zh": "電容[器]",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 116
+   }
+  },
+  {
+   "id": "t-capacitance",
+   "en": "capacitance",
+   "zh": "電容",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 117
+   }
+  },
+  {
+   "id": "t-beta-decay",
+   "en": "beta decay",
+   "zh": "β 衰變；貝他衰變",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 118
+   }
+  },
+  {
+   "id": "t-base",
+   "en": "base",
+   "zh": "基極",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 119
+   }
+  },
+  {
+   "id": "t-bar",
+   "en": "bar",
+   "zh": "巴 (壓強單位)",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 120
+   }
+  },
+  {
+   "id": "t-atom",
+   "en": "atom",
+   "zh": "原子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 121
+   }
+  },
+  {
+   "id": "t-antiparticle",
+   "en": "antiparticle",
+   "zh": "反粒子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 122
+   }
+  },
+  {
+   "id": "t-antinode",
+   "en": "antinode",
+   "zh": "腹；波腹",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 123
+   }
+  },
+  {
+   "id": "t-anode",
+   "en": "anode",
+   "zh": "陽極",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 124
+   }
+  },
+  {
+   "id": "t-amplitude",
+   "en": "amplitude",
+   "zh": "振幅；幅",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 125
+   }
+  },
+  {
+   "id": "t-ampere",
+   "en": "ampere",
+   "zh": "安培",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 126
+   }
+  },
+  {
+   "id": "t-ammeter",
+   "en": "ammeter",
+   "zh": "安培計",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 127
+   }
+  },
+  {
+   "id": "t-action",
+   "en": "action",
+   "zh": "作用；作用力；作用量",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 128
+   }
+  },
+  {
+   "id": "t-acceleration-of-gravity",
+   "en": "acceleration of gravity",
+   "zh": "重力加速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 129
+   }
+  },
+  {
+   "id": "t-acceleration",
+   "en": "acceleration",
+   "zh": "加速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 130
+   }
+  },
+  {
+   "id": "t-absolute-pressure",
+   "en": "absolute pressure",
+   "zh": "絕對壓；絕對壓力；絕對壓強",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 131
+   }
+  },
+  {
+   "id": "t-weightlessness",
+   "en": "weightlessness",
+   "zh": "失重",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 132
+   }
+  },
+  {
+   "id": "t-wed",
+   "en": "wed",
+   "zh": "使結合；結婚",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 133
+   }
+  },
+  {
+   "id": "t-wavefront",
+   "en": "wavefront",
+   "zh": "波前",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 134
+   }
+  },
+  {
+   "id": "t-wake",
+   "en": "wake",
+   "zh": "尾流",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 135
+   }
+  },
+  {
+   "id": "t-vernier",
+   "en": "vernier",
+   "zh": "游標",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 136
+   }
+  },
+  {
+   "id": "t-venus",
+   "en": "Venus",
+   "zh": "金星",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 137
+   }
+  },
+  {
+   "id": "t-vaporization",
+   "en": "vaporization",
+   "zh": "汽化",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 138
+   }
+  },
+  {
+   "id": "t-restitution",
+   "en": "restitution",
+   "zh": "恢復；賠償；歸還；復職",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 139
+   }
+  },
+  {
+   "id": "t-quantization",
+   "en": "quantization",
+   "zh": "量子化",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 140
+   }
+  },
+  {
+   "id": "t-permeability",
+   "en": "permeability",
+   "zh": "磁導率； 滲透率",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 141
+   }
+  },
+  {
+   "id": "t-newton",
+   "en": "Newton",
+   "zh": "牛頓(人名)",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 142
+   }
+  },
+  {
+   "id": "t-myopia",
+   "en": "myopia",
+   "zh": "近視",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 143
+   }
+  },
+  {
+   "id": "t-lepton",
+   "en": "lepton",
+   "zh": "輕子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 4,
+    "order": 144
+   }
+  },
+  {
+   "id": "t-infrared-light",
+   "en": "infrared light",
+   "zh": "紅外光；紅外線",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 145
+   }
+  },
+  {
+   "id": "t-hole",
+   "en": "hole",
+   "zh": "電洞",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 146
+   }
+  },
+  {
+   "id": "t-gate",
+   "en": "gate",
+   "zh": "閘",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 147
+   }
+  },
+  {
+   "id": "t-fission",
+   "en": "fission",
+   "zh": "分裂；核分裂；裂變",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 148
+   }
+  },
+  {
+   "id": "t-fiberscope",
+   "en": "fiberscope",
+   "zh": "光纖鏡",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 149
+   }
+  },
+  {
+   "id": "t-fermion",
+   "en": "fermion",
+   "zh": "費米子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 150
+   }
+  },
+  {
+   "id": "t-ether",
+   "en": "ether",
+   "zh": "以太",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 151
+   }
+  },
+  {
+   "id": "t-electrostatics",
+   "en": "electrostatics",
+   "zh": "靜電學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 152
+   }
+  },
+  {
+   "id": "t-electromagnetism",
+   "en": "electromagnetism",
+   "zh": "電磁學；電磁",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 153
+   }
+  },
+  {
+   "id": "t-electrodynamics",
+   "en": "electrodynamics",
+   "zh": "電動力學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 154
+   }
+  },
+  {
+   "id": "t-echo",
+   "en": "echo",
+   "zh": "回聲；回波",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 155
+   }
+  },
+  {
+   "id": "t-dyne",
+   "en": "dyne",
+   "zh": "達因",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 156
+   }
+  },
+  {
+   "id": "t-dynamics",
+   "en": "dynamics",
+   "zh": "動力學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 157
+   }
+  },
+  {
+   "id": "t-duality",
+   "en": "duality",
+   "zh": "二象性；對偶性",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 158
+   }
+  },
+  {
+   "id": "t-disturbance",
+   "en": "disturbance",
+   "zh": "擾動；擾亂",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 159
+   }
+  },
+  {
+   "id": "t-dissociation",
+   "en": "dissociation",
+   "zh": "解離",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 160
+   }
+  },
+  {
+   "id": "t-dispersion",
+   "en": "dispersion",
+   "zh": "色散；頻散；瀰散；分散；散布",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 161
+   }
+  },
+  {
+   "id": "t-diffusion",
+   "en": "diffusion",
+   "zh": "擴散",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 162
+   }
+  },
+  {
+   "id": "t-diffraction",
+   "en": "diffraction",
+   "zh": "繞射",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 163
+   }
+  },
+  {
+   "id": "t-detector",
+   "en": "detector",
+   "zh": "探測器",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 164
+   }
+  },
+  {
+   "id": "t-derived",
+   "en": "derived",
+   "zh": "導出的",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 165
+   }
+  },
+  {
+   "id": "t-declination",
+   "en": "declination",
+   "zh": "偏角；偏差；赤緯",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 166
+   }
+  },
+  {
+   "id": "t-decibel",
+   "en": "decibel",
+   "zh": "分貝",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 167
+   }
+  },
+  {
+   "id": "t-cyclotron",
+   "en": "cyclotron",
+   "zh": "迴旋加速器",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 168
+   }
+  },
+  {
+   "id": "t-corpuscle",
+   "en": "corpuscle",
+   "zh": "微粒",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 169
+   }
+  },
+  {
+   "id": "t-cladding",
+   "en": "cladding",
+   "zh": "包覆層",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 170
+   }
+  },
+  {
+   "id": "t-circular",
+   "en": "circular",
+   "zh": "圓的；圓形的；環形的；循環的；通知；公告；傳單",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 171
+   }
+  },
+  {
+   "id": "t-chromatic",
+   "en": "chromatic",
+   "zh": "彩色的；著色的；染色性的",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 172
+   }
+  },
+  {
+   "id": "t-cholesteric",
+   "en": "cholesteric",
+   "zh": "膽固醇類的；膽甾醇類的；甾相",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 173
+   }
+  },
+  {
+   "id": "t-chip",
+   "en": "chip",
+   "zh": "晶片",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 174
+   }
+  },
+  {
+   "id": "t-charm",
+   "en": "charm",
+   "zh": "魅數",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 175
+   }
+  },
+  {
+   "id": "t-charge",
+   "en": "charge",
+   "zh": "[電]荷",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 176
+   }
+  },
+  {
+   "id": "t-capillarity",
+   "en": "capillarity",
+   "zh": "毛細作用；毛細現象",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 177
+   }
+  },
+  {
+   "id": "t-candela",
+   "en": "candela",
+   "zh": "燭光；燭光 (亮度單位)",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 178
+   }
+  },
+  {
+   "id": "t-aperture",
+   "en": "aperture",
+   "zh": "孔；孔徑",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 179
+   }
+  },
+  {
+   "id": "t-antineutrino",
+   "en": "antineutrino",
+   "zh": "反微中子；反中微子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 180
+   }
+  },
+  {
+   "id": "t-annihilation",
+   "en": "annihilation",
+   "zh": "消滅",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 5,
+    "order": 181
+   }
+  },
+  {
+   "id": "t-aether",
+   "en": "aether",
+   "zh": "以太；高處清新空氣",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 182
+   }
+  },
+  {
+   "id": "t-work-kinetic-energy-theorem",
+   "en": "work-kinetic energy theorem",
+   "zh": "功能定理",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 183
+   }
+  },
+  {
+   "id": "t-work-function",
+   "en": "work function",
+   "zh": "功函數",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 184
+   }
+  },
+  {
+   "id": "t-weak-interaction",
+   "en": "weak interaction",
+   "zh": "弱作用；弱交互作用",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 185
+   }
+  },
+  {
+   "id": "t-wave-particle-duality",
+   "en": "wave-particle duality",
+   "zh": "波粒二象性",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 186
+   }
+  },
+  {
+   "id": "t-wave-velocity",
+   "en": "wave velocity",
+   "zh": "波速；波速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 187
+   }
+  },
+  {
+   "id": "t-wave-trough",
+   "en": "wave trough",
+   "zh": "波谷",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 188
+   }
+  },
+  {
+   "id": "t-wave-train",
+   "en": "wave train",
+   "zh": "波列",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 189
+   }
+  },
+  {
+   "id": "t-wave-packet",
+   "en": "wave packet",
+   "zh": "波包",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 190
+   }
+  },
+  {
+   "id": "t-wave-optics",
+   "en": "wave optics",
+   "zh": "波光學；波動光學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 191
+   }
+  },
+  {
+   "id": "t-wave-motion",
+   "en": "wave motion",
+   "zh": "波動",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 192
+   }
+  },
+  {
+   "id": "t-wave-mechanics",
+   "en": "wave mechanics",
+   "zh": "波動力學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 193
+   }
+  },
+  {
+   "id": "t-wave-crest",
+   "en": "wave crest",
+   "zh": "波峰",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 194
+   }
+  },
+  {
+   "id": "t-valence-band",
+   "en": "valence band",
+   "zh": "價帶",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 195
+   }
+  },
+  {
+   "id": "t-thermal-equilibrium",
+   "en": "thermal equilibrium",
+   "zh": "熱平衡",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 196
+   }
+  },
+  {
+   "id": "t-thermal-energy",
+   "en": "thermal energy",
+   "zh": "熱能",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 197
+   }
+  },
+  {
+   "id": "t-static-friction",
+   "en": "static friction",
+   "zh": "靜摩擦",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 198
+   }
+  },
+  {
+   "id": "t-south-pole",
+   "en": "south pole",
+   "zh": "南極",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 199
+   }
+  },
+  {
+   "id": "t-solid-state",
+   "en": "solid state",
+   "zh": "固態",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 200
+   }
+  },
+  {
+   "id": "t-quantum-theory",
+   "en": "quantum theory",
+   "zh": "量子論",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 201
+   }
+  },
+  {
+   "id": "t-quantum-effect",
+   "en": "quantum effect",
+   "zh": "量子效應",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 202
+   }
+  },
+  {
+   "id": "t-planetary-system",
+   "en": "planetary system",
+   "zh": "行星系",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 203
+   }
+  },
+  {
+   "id": "t-phase-diagram",
+   "en": "phase diagram",
+   "zh": "相圖",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 204
+   }
+  },
+  {
+   "id": "t-natural-frequency",
+   "en": "natural frequency",
+   "zh": "固有頻率",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 205
+   }
+  },
+  {
+   "id": "t-liquid-crystal",
+   "en": "liquid crystal",
+   "zh": "液晶；液態晶體",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 206
+   }
+  },
+  {
+   "id": "t-kinetic-friction",
+   "en": "kinetic friction",
+   "zh": "動摩擦",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 207
+   }
+  },
+  {
+   "id": "t-kinematics",
+   "en": "kinematics",
+   "zh": "運動學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 208
+   }
+  },
+  {
+   "id": "t-index-of-refraction",
+   "en": "index of refraction",
+   "zh": "折射率",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 209
+   }
+  },
+  {
+   "id": "t-hot-big-bang",
+   "en": "hot big bang",
+   "zh": "大熱爆",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 210
+   }
+  },
+  {
+   "id": "t-grazing-angle",
+   "en": "grazing angle",
+   "zh": "掠射角",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 211
+   }
+  },
+  {
+   "id": "t-gauge-pressure",
+   "en": "gauge pressure",
+   "zh": "計示壓",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 212
+   }
+  },
+  {
+   "id": "t-gasoline-engine",
+   "en": "gasoline engine",
+   "zh": "汽油引擎",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 213
+   }
+  },
+  {
+   "id": "t-galilean-transformation",
+   "en": "Galilean transformation",
+   "zh": "伽利略變換",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 214
+   }
+  },
+  {
+   "id": "t-galaxy-cluster",
+   "en": "galaxy cluster",
+   "zh": "星系團",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 215
+   }
+  },
+  {
+   "id": "t-fusion-point",
+   "en": "fusion point",
+   "zh": "熔點",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 216
+   }
+  },
+  {
+   "id": "t-fundamental-tone",
+   "en": "fundamental tone",
+   "zh": "基音",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 217
+   }
+  },
+  {
+   "id": "t-fundamental-frequency",
+   "en": "fundamental frequency",
+   "zh": "基頻",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 6,
+    "order": 218
+   }
+  },
+  {
+   "id": "t-fuel-cell",
+   "en": "fuel cell",
+   "zh": "燃料電池",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 219
+   }
+  },
+  {
+   "id": "t-force-couple",
+   "en": "force couple",
+   "zh": "力偶",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 220
+   }
+  },
+  {
+   "id": "t-force-constant",
+   "en": "force constant",
+   "zh": "力常數",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 221
+   }
+  },
+  {
+   "id": "t-focal-point",
+   "en": "focal point",
+   "zh": "焦點",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 222
+   }
+  },
+  {
+   "id": "t-focal-length",
+   "en": "focal length",
+   "zh": "焦距",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 223
+   }
+  },
+  {
+   "id": "t-fluid-mechanics",
+   "en": "fluid mechanics",
+   "zh": "流體力學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 224
+   }
+  },
+  {
+   "id": "t-field-effect-transistor",
+   "en": "field-effect transistor",
+   "zh": "場效電晶體",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 225
+   }
+  },
+  {
+   "id": "t-fictitious-force",
+   "en": "fictitious force",
+   "zh": "假想力；虛設力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 226
+   }
+  },
+  {
+   "id": "t-fiber-optics",
+   "en": "fiber optics",
+   "zh": "光纖光學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 227
+   }
+  },
+  {
+   "id": "t-fahrenheit-scale",
+   "en": "Fahrenheit scale",
+   "zh": "華氏溫標",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 228
+   }
+  },
+  {
+   "id": "t-eye-lens",
+   "en": "eye-lens",
+   "zh": "目鏡",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 229
+   }
+  },
+  {
+   "id": "t-extrinsic-semiconductor",
+   "en": "extrinsic semiconductor",
+   "zh": "雜質半導體",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 230
+   }
+  },
+  {
+   "id": "t-external-force",
+   "en": "external force",
+   "zh": "外力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 231
+   }
+  },
+  {
+   "id": "t-excited-state",
+   "en": "excited state",
+   "zh": "激發態",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 232
+   }
+  },
+  {
+   "id": "t-excitation-energy",
+   "en": "excitation energy",
+   "zh": "激發能",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 233
+   }
+  },
+  {
+   "id": "t-escape-velocity",
+   "en": "escape velocity",
+   "zh": "脫離速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 234
+   }
+  },
+  {
+   "id": "t-equivalent-resistance",
+   "en": "equivalent resistance",
+   "zh": "等效電阻",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 235
+   }
+  },
+  {
+   "id": "t-equation-of-motion",
+   "en": "equation of motion",
+   "zh": "運動方程；運動方程式",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 236
+   }
+  },
+  {
+   "id": "t-equation-of-continuity",
+   "en": "equation of continuity",
+   "zh": "連續方程；連續方程式；連續性方程",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 237
+   }
+  },
+  {
+   "id": "t-energy-level",
+   "en": "energy level",
+   "zh": "能階",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 238
+   }
+  },
+  {
+   "id": "t-energy-gap",
+   "en": "energy gap",
+   "zh": "能隙",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 239
+   }
+  },
+  {
+   "id": "t-emission-spectrum",
+   "en": "emission spectrum",
+   "zh": "發射譜；發射光譜",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 240
+   }
+  },
+  {
+   "id": "t-elementary-particle",
+   "en": "elementary particle",
+   "zh": "基本粒子",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 241
+   }
+  },
+  {
+   "id": "t-elementary-charge",
+   "en": "elementary charge",
+   "zh": "元電荷；基本電荷",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 242
+   }
+  },
+  {
+   "id": "t-elemental-semiconductor",
+   "en": "elemental semiconductor",
+   "zh": "元素半導體",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 243
+   }
+  },
+  {
+   "id": "t-electrostatic-induction",
+   "en": "electrostatic induction",
+   "zh": "靜電感應",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 244
+   }
+  },
+  {
+   "id": "t-electrostatic-force",
+   "en": "electrostatic force",
+   "zh": "靜電力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 245
+   }
+  },
+  {
+   "id": "t-electrostatic-field",
+   "en": "electrostatic field",
+   "zh": "靜電場",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 246
+   }
+  },
+  {
+   "id": "t-electromotive-force",
+   "en": "electromotive force",
+   "zh": "電動勢",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 247
+   }
+  },
+  {
+   "id": "t-electromagnetic-wave",
+   "en": "electromagnetic wave",
+   "zh": "電磁波",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 248
+   }
+  },
+  {
+   "id": "t-electromagnetic-spectrum",
+   "en": "electromagnetic spectrum",
+   "zh": "電磁波譜",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 249
+   }
+  },
+  {
+   "id": "t-electromagnetic-induction",
+   "en": "electromagnetic induction",
+   "zh": "電磁感應",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 250
+   }
+  },
+  {
+   "id": "t-electric-resistance",
+   "en": "electric resistance",
+   "zh": "電阻",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 251
+   }
+  },
+  {
+   "id": "t-electric-potential",
+   "en": "electric potential",
+   "zh": "電位；電勢",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 252
+   }
+  },
+  {
+   "id": "t-electric-motor",
+   "en": "electric motor",
+   "zh": "電動機",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 253
+   }
+  },
+  {
+   "id": "t-electric-generator",
+   "en": "electric generator",
+   "zh": "發電機",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 254
+   }
+  },
+  {
+   "id": "t-electric-force",
+   "en": "electric force",
+   "zh": "電力；電場力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 255
+   }
+  },
+  {
+   "id": "t-electric-field",
+   "en": "electric field",
+   "zh": "電場",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 7,
+    "order": 256
+   }
+  },
+  {
+   "id": "t-electric-current",
+   "en": "electric current",
+   "zh": "電流",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 257
+   }
+  },
+  {
+   "id": "t-elastic-potential",
+   "en": "elastic potential",
+   "zh": "彈性勢",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 258
+   }
+  },
+  {
+   "id": "t-elastic-force",
+   "en": "elastic force",
+   "zh": "彈力；彈性力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 259
+   }
+  },
+  {
+   "id": "t-elastic-collision",
+   "en": "elastic collision",
+   "zh": "彈性碰撞",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 260
+   }
+  },
+  {
+   "id": "t-drift-velocity",
+   "en": "drift velocity",
+   "zh": "漂移速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 261
+   }
+  },
+  {
+   "id": "t-down-quark",
+   "en": "down quark",
+   "zh": "下夸克",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 262
+   }
+  },
+  {
+   "id": "t-dissipative-force",
+   "en": "dissipative force",
+   "zh": "耗散力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 263
+   }
+  },
+  {
+   "id": "t-discrete-spectrum",
+   "en": "discrete spectrum",
+   "zh": "離散譜",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 264
+   }
+  },
+  {
+   "id": "t-diesel-engine",
+   "en": "diesel engine",
+   "zh": "柴油機",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 265
+   }
+  },
+  {
+   "id": "t-cyclotron-frequency",
+   "en": "cyclotron frequency",
+   "zh": "迴旋頻率",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 266
+   }
+  },
+  {
+   "id": "t-current-strength",
+   "en": "current strength",
+   "zh": "電流強度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 267
+   }
+  },
+  {
+   "id": "t-current-loop",
+   "en": "current loop",
+   "zh": "電流迴路",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 268
+   }
+  },
+  {
+   "id": "t-critical-temperature",
+   "en": "critical temperature",
+   "zh": "臨界溫度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 269
+   }
+  },
+  {
+   "id": "t-critical-angle",
+   "en": "critical angle",
+   "zh": "臨界角",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 270
+   }
+  },
+  {
+   "id": "t-coulombs-law",
+   "en": "Coulomb's law",
+   "zh": "庫侖定律",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 271
+   }
+  },
+  {
+   "id": "t-coulomb-blockade",
+   "en": "Coulomb blockade",
+   "zh": "庫侖障礙",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 272
+   }
+  },
+  {
+   "id": "t-convex-lens",
+   "en": "convex lens",
+   "zh": "凸透鏡",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 273
+   }
+  },
+  {
+   "id": "t-converging-lens",
+   "en": "converging lens",
+   "zh": "會聚透鏡",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 274
+   }
+  },
+  {
+   "id": "t-continuous-spectrum",
+   "en": "continuous spectrum",
+   "zh": "連續譜；連續光譜",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 275
+   }
+  },
+  {
+   "id": "t-conservation-of-mass",
+   "en": "conservation of mass",
+   "zh": "質量守恆",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 276
+   }
+  },
+  {
+   "id": "t-concave-mirror",
+   "en": "concave mirror",
+   "zh": "凹面鏡",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 277
+   }
+  },
+  {
+   "id": "t-concave-lens",
+   "en": "concave lens",
+   "zh": "凹透鏡",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 278
+   }
+  },
+  {
+   "id": "t-cohesive-force",
+   "en": "cohesive force",
+   "zh": "內聚力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 279
+   }
+  },
+  {
+   "id": "t-classical-physics",
+   "en": "classical physics",
+   "zh": "古典物理；古典物理學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 280
+   }
+  },
+  {
+   "id": "t-charge-coupled-device",
+   "en": "charge-coupled device",
+   "zh": "電荷耦合元件；僅稱CCD",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 281
+   }
+  },
+  {
+   "id": "t-chain-reaction",
+   "en": "chain reaction",
+   "zh": "連鎖反應",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 282
+   }
+  },
+  {
+   "id": "t-centripetal-acceleration",
+   "en": "centripetal acceleration",
+   "zh": "向心加速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 283
+   }
+  },
+  {
+   "id": "t-center-of-gravity",
+   "en": "center of gravity",
+   "zh": "重心",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 284
+   }
+  },
+  {
+   "id": "t-celsius-degree",
+   "en": "Celsius degree",
+   "zh": "攝度；攝氏度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 285
+   }
+  },
+  {
+   "id": "t-cathode-ray",
+   "en": "cathode ray",
+   "zh": "陰極射線",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 286
+   }
+  },
+  {
+   "id": "t-brownian-motion",
+   "en": "Brownian motion",
+   "zh": "布朗運動",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 287
+   }
+  },
+  {
+   "id": "t-braking-radiation",
+   "en": "braking radiation",
+   "zh": "制動輻射",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 288
+   }
+  },
+  {
+   "id": "t-boyles-law",
+   "en": "Boyle's law",
+   "zh": "波以耳定律",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 289
+   }
+  },
+  {
+   "id": "t-bow-wave",
+   "en": "bow wave",
+   "zh": "頭波",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 290
+   }
+  },
+  {
+   "id": "t-boiling-point",
+   "en": "boiling point",
+   "zh": "沸點",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 291
+   }
+  },
+  {
+   "id": "t-bohr-radius",
+   "en": "Bohr radius",
+   "zh": "波耳半徑",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 292
+   }
+  },
+  {
+   "id": "t-blue-shift",
+   "en": "blue shift",
+   "zh": "藍位移",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 293
+   }
+  },
+  {
+   "id": "t-binding-energy",
+   "en": "binding energy",
+   "zh": "結合能；束縛能",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 8,
+    "order": 294
+   }
+  },
+  {
+   "id": "t-big-bang-theory",
+   "en": "big bang theory",
+   "zh": "霹靂說；大霹靂理論",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 295
+   }
+  },
+  {
+   "id": "t-barometer",
+   "en": "barometer",
+   "zh": "氣壓計",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 296
+   }
+  },
+  {
+   "id": "t-balmer-series",
+   "en": "Balmer series",
+   "zh": "巴耳末系",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 297
+   }
+  },
+  {
+   "id": "t-ballistic-transport",
+   "en": "ballistic transport",
+   "zh": "無礙傳輸",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 298
+   }
+  },
+  {
+   "id": "t-background-radiation",
+   "en": "background radiation",
+   "zh": "背景輻射",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 299
+   }
+  },
+  {
+   "id": "t-average-velocity",
+   "en": "average velocity",
+   "zh": "平均速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 300
+   }
+  },
+  {
+   "id": "t-average-speed",
+   "en": "average speed",
+   "zh": "平均速率",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 301
+   }
+  },
+  {
+   "id": "t-average-power",
+   "en": "average power",
+   "zh": "平均功率",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 302
+   }
+  },
+  {
+   "id": "t-audible-frequency",
+   "en": "audible frequency",
+   "zh": "可聽頻率",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 303
+   }
+  },
+  {
+   "id": "t-atwoods-machine",
+   "en": "Atwood's machine",
+   "zh": "阿特午機",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 304
+   }
+  },
+  {
+   "id": "t-atomic-number",
+   "en": "atomic number",
+   "zh": "原子序",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 305
+   }
+  },
+  {
+   "id": "t-atomic-nucleus",
+   "en": "atomic nucleus",
+   "zh": "原子核",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 306
+   }
+  },
+  {
+   "id": "t-atomic-clock",
+   "en": "atomic clock",
+   "zh": "原子鐘",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 307
+   }
+  },
+  {
+   "id": "t-astronomical-unit",
+   "en": "astronomical unit",
+   "zh": "天文單位：簡稱 AU",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 308
+   }
+  },
+  {
+   "id": "t-arm-of-force",
+   "en": "arm of force",
+   "zh": "力臂",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 309
+   }
+  },
+  {
+   "id": "t-apparent-brightness",
+   "en": "apparent brightness",
+   "zh": "視亮度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 310
+   }
+  },
+  {
+   "id": "t-aperture-stop",
+   "en": "aperture stop",
+   "zh": "孔徑光闌",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 311
+   }
+  },
+  {
+   "id": "t-angular-momentum",
+   "en": "angular momentum",
+   "zh": "角動量",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 312
+   }
+  },
+  {
+   "id": "t-angular-frequency",
+   "en": "angular frequency",
+   "zh": "角頻；角頻率",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 313
+   }
+  },
+  {
+   "id": "t-angular-displacement",
+   "en": "angular displacement",
+   "zh": "角移",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 314
+   }
+  },
+  {
+   "id": "t-angular-acceleration",
+   "en": "angular acceleration",
+   "zh": "角加速度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 315
+   }
+  },
+  {
+   "id": "t-andromeda-galaxy",
+   "en": "Andromeda galaxy",
+   "zh": "仙女座星系",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 316
+   }
+  },
+  {
+   "id": "t-alpha-decay",
+   "en": "alpha decay",
+   "zh": "α 衰變；阿爾發衰變",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 317
+   }
+  },
+  {
+   "id": "t-adiabatic-process",
+   "en": "adiabatic process",
+   "zh": "絕熱過程；緩漸過程",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 318
+   }
+  },
+  {
+   "id": "t-adhesive-force",
+   "en": "adhesive force",
+   "zh": "附著力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 319
+   }
+  },
+  {
+   "id": "t-action-at-a-distance",
+   "en": "action at a distance",
+   "zh": "超距力 ； 超距作用",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 320
+   }
+  },
+  {
+   "id": "t-acoustics",
+   "en": "acoustics",
+   "zh": "聲學",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 321
+   }
+  },
+  {
+   "id": "t-accelerated-motion",
+   "en": "accelerated motion",
+   "zh": "加速運動；加速度運動",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 322
+   }
+  },
+  {
+   "id": "t-absorption-spectrum",
+   "en": "absorption spectrum",
+   "zh": "吸收譜",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 323
+   }
+  },
+  {
+   "id": "t-absolute-zero",
+   "en": "absolute zero",
+   "zh": "絕對零度",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 324
+   }
+  },
+  {
+   "id": "t-weak-force",
+   "en": "weak force",
+   "zh": "弱核力",
+   "source": {
+    "file": "科學專業英文(物理).pdf",
+    "page": 9,
+    "order": 325
+   }
+  }
+ ]
+}

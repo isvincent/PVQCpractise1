@@ -1,0 +1,2644 @@
+{
+ "schema": 1,
+ "material": {
+  "title": "科學專業英文(生物科學)",
+  "file": "科學專業英文(生物科學).pdf",
+  "pages": 14,
+  "type": "vocabulary",
+  "detectedMode": "vocabulary",
+  "detectReason": "每頁皆為英文詞條＋繁體中文對照的兩欄表格，判定為詞彙型教材，採單字學習模式。",
+  "termCount": 263
+ },
+ "terms": [
+  {
+   "id": "t-x-ray-crystallography",
+   "en": "X-ray crystallography",
+   "zh": "X 光繞射法",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 1
+   }
+  },
+  {
+   "id": "t-xanthophyll",
+   "en": "xanthophyll",
+   "zh": "葉黃素",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 2
+   }
+  },
+  {
+   "id": "t-weak-acid",
+   "en": "weak acid",
+   "zh": "弱酸",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 3
+   }
+  },
+  {
+   "id": "t-vimentin",
+   "en": "vimentin",
+   "zh": "波形蛋白",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 4
+   }
+  },
+  {
+   "id": "t-vesicle",
+   "en": "vesicle",
+   "zh": "囊泡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 5
+   }
+  },
+  {
+   "id": "t-variation",
+   "en": "variation",
+   "zh": "變異",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 6
+   }
+  },
+  {
+   "id": "t-vacuole",
+   "en": "vacuole",
+   "zh": "液泡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 7
+   }
+  },
+  {
+   "id": "t-upward-and-downward-causation",
+   "en": "upward and downward causation",
+   "zh": "上向及下向因果",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 8
+   }
+  },
+  {
+   "id": "t-unipotent",
+   "en": "unipotent",
+   "zh": "單能(幹細胞)",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 9
+   }
+  },
+  {
+   "id": "t-understructure",
+   "en": "understructure",
+   "zh": "底層結構",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 10
+   }
+  },
+  {
+   "id": "t-tricarboxylic-acid-cycle",
+   "en": "tricarboxylic acid cycle",
+   "zh": "三羧酸循環",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 11
+   }
+  },
+  {
+   "id": "t-tricarboxylic",
+   "en": "tricarboxylic",
+   "zh": "三羧酸",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 12
+   }
+  },
+  {
+   "id": "t-transport-protein",
+   "en": "transport protein",
+   "zh": "運輸單不",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 13
+   }
+  },
+  {
+   "id": "t-transmutational-evolution",
+   "en": "transmutational evolution",
+   "zh": "質變演化",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 14
+   }
+  },
+  {
+   "id": "t-translation",
+   "en": "translation",
+   "zh": "轉譯",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 15
+   }
+  },
+  {
+   "id": "t-transgenic-organism",
+   "en": "transgenic organism",
+   "zh": "基因轉殖生物",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 16
+   }
+  },
+  {
+   "id": "t-transformational-evolution",
+   "en": "transformational evolution",
+   "zh": "轉形演化",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 17
+   }
+  },
+  {
+   "id": "t-transcription",
+   "en": "transcription",
+   "zh": "轉錄",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 1,
+    "order": 18
+   }
+  },
+  {
+   "id": "t-trait",
+   "en": "trait",
+   "zh": "表徵",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 19
+   }
+  },
+  {
+   "id": "t-totipotent",
+   "en": "totipotent",
+   "zh": "全能性(幹細胞)",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 20
+   }
+  },
+  {
+   "id": "t-totipotency",
+   "en": "totipotency",
+   "zh": "分化全能性",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 21
+   }
+  },
+  {
+   "id": "t-thylakoid",
+   "en": "thylakoid",
+   "zh": "類囊體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 22
+   }
+  },
+  {
+   "id": "t-theory-of-natural-selection",
+   "en": "theory of natural selection",
+   "zh": "天擇說",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 23
+   }
+  },
+  {
+   "id": "t-theory",
+   "en": "theory",
+   "zh": "學說",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 24
+   }
+  },
+  {
+   "id": "t-the-survival-of-the-fittest",
+   "en": "the survival of the fittest",
+   "zh": "適者生存",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 25
+   }
+  },
+  {
+   "id": "t-the-origin-of-species",
+   "en": "the origin of species",
+   "zh": "物種起源",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 26
+   }
+  },
+  {
+   "id": "t-tetrad",
+   "en": "tetrad",
+   "zh": "四分體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 27
+   }
+  },
+  {
+   "id": "t-test-cross",
+   "en": "test cross",
+   "zh": "試交",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 28
+   }
+  },
+  {
+   "id": "t-test",
+   "en": "test",
+   "zh": "試驗",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 29
+   }
+  },
+  {
+   "id": "t-telophase",
+   "en": "telophase",
+   "zh": "末期",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 30
+   }
+  },
+  {
+   "id": "t-taxol",
+   "en": "Taxol",
+   "zh": "紫杉醇；泰克索(一種抗癌藥物)",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 31
+   }
+  },
+  {
+   "id": "t-target-gene",
+   "en": "target gene",
+   "zh": "目標基因",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 32
+   }
+  },
+  {
+   "id": "t-synapsis",
+   "en": "synapsis",
+   "zh": "聯會",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 33
+   }
+  },
+  {
+   "id": "t-susceptible-gene",
+   "en": "susceptible gene",
+   "zh": "易感基因",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 34
+   }
+  },
+  {
+   "id": "t-strong-acid",
+   "en": "strong acid",
+   "zh": "強酸",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 35
+   }
+  },
+  {
+   "id": "t-stem-cell",
+   "en": "stem cell",
+   "zh": "幹細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 36
+   }
+  },
+  {
+   "id": "t-spindle-fiber",
+   "en": "spindle fiber",
+   "zh": "紡錘絲",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 37
+   }
+  },
+  {
+   "id": "t-spermatid",
+   "en": "spermatid",
+   "zh": "精細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 2,
+    "order": 38
+   }
+  },
+  {
+   "id": "t-sorting-center",
+   "en": "sorting center",
+   "zh": "配送中心",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 39
+   }
+  },
+  {
+   "id": "t-somatic-embryogenesis",
+   "en": "somatic embryogenesis",
+   "zh": "體胚形成",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 40
+   }
+  },
+  {
+   "id": "t-solution",
+   "en": "solution",
+   "zh": "溶液；解答；解決(辦法)",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 41
+   }
+  },
+  {
+   "id": "t-smooth-endoplasmic-reticulum",
+   "en": "smooth endoplasmic reticulum",
+   "zh": "平滑型內質網",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 42
+   }
+  },
+  {
+   "id": "t-sister-chromatids",
+   "en": "sister chromatids",
+   "zh": "姐妹染色分體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 43
+   }
+  },
+  {
+   "id": "t-sheath",
+   "en": "sheath",
+   "zh": "鞘；葉鞘；翅鞘",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 44
+   }
+  },
+  {
+   "id": "t-sex-linked-inheritance",
+   "en": "sex-linked inheritance",
+   "zh": "性聯遺傳",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 45
+   }
+  },
+  {
+   "id": "t-sex-chromosome",
+   "en": "sex chromosome",
+   "zh": "性染色體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 46
+   }
+  },
+  {
+   "id": "t-semidominance",
+   "en": "semidominance",
+   "zh": "半顯性",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 47
+   }
+  },
+  {
+   "id": "t-semiconservative-replication",
+   "en": "semiconservative replication",
+   "zh": "半保留複製",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 48
+   }
+  },
+  {
+   "id": "t-self-organization",
+   "en": "self-organization",
+   "zh": "自我組織",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 49
+   }
+  },
+  {
+   "id": "t-selective-marker-genes",
+   "en": "selective marker genes",
+   "zh": "標誌基因",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 50
+   }
+  },
+  {
+   "id": "t-selection",
+   "en": "selection",
+   "zh": "自然篩選",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 51
+   }
+  },
+  {
+   "id": "t-secretory-pathway",
+   "en": "secretory pathway",
+   "zh": "分泌路徑",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 52
+   }
+  },
+  {
+   "id": "t-secondary-spermatocyte",
+   "en": "secondary spermatocyte",
+   "zh": "次級精母細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 53
+   }
+  },
+  {
+   "id": "t-secondary-oocyte",
+   "en": "secondary oocyte",
+   "zh": "次級卵母細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 54
+   }
+  },
+  {
+   "id": "t-scanning-probe-microscope",
+   "en": "scanning probe microscope",
+   "zh": "掃描式原子探測顯微鏡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 55
+   }
+  },
+  {
+   "id": "t-rough-endoplasmic-reticulum",
+   "en": "rough endoplasmic reticulum",
+   "zh": "粗糙型內質網",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 56
+   }
+  },
+  {
+   "id": "t-rna-polymerase",
+   "en": "RNA polymerase",
+   "zh": "RNA 聚合酶",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 57
+   }
+  },
+  {
+   "id": "t-ribulose-1-5-bisphosphate",
+   "en": "ribulose-1,5-bisphosphate",
+   "zh": "五碳化合物雙磷酸核酮糖",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 58
+   }
+  },
+  {
+   "id": "t-ribosome",
+   "en": "ribosome",
+   "zh": "核糖體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 3,
+    "order": 59
+   }
+  },
+  {
+   "id": "t-reticulum",
+   "en": "reticulum",
+   "zh": "網狀物；蜂巢胃；網狀結構；網狀組織；網胃；反芻動物的第二胃",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 60
+   }
+  },
+  {
+   "id": "t-result",
+   "en": "result",
+   "zh": "分析結果",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 61
+   }
+  },
+  {
+   "id": "t-respiration",
+   "en": "respiration",
+   "zh": "呼吸作用",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 62
+   }
+  },
+  {
+   "id": "t-reporter-genes",
+   "en": "reporter genes",
+   "zh": "報導基因",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 63
+   }
+  },
+  {
+   "id": "t-recessive",
+   "en": "recessive",
+   "zh": "隱性",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 64
+   }
+  },
+  {
+   "id": "t-reaction-center",
+   "en": "reaction center",
+   "zh": "反應中心",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 65
+   }
+  },
+  {
+   "id": "t-protoplast",
+   "en": "protoplast",
+   "zh": "原生質體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 66
+   }
+  },
+  {
+   "id": "t-protein-kinase",
+   "en": "protein kinase",
+   "zh": "蛋白質激酶",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 67
+   }
+  },
+  {
+   "id": "t-prophase",
+   "en": "prophase",
+   "zh": "前期",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 68
+   }
+  },
+  {
+   "id": "t-prometaphase",
+   "en": "prometaphase",
+   "zh": "前中期",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 69
+   }
+  },
+  {
+   "id": "t-progenitor-cell",
+   "en": "progenitor cell",
+   "zh": "先驅細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 70
+   }
+  },
+  {
+   "id": "t-problem",
+   "en": "problem",
+   "zh": "問題",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 71
+   }
+  },
+  {
+   "id": "t-primary-spermatocyte",
+   "en": "primary spermatocyte",
+   "zh": "初級精母細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 72
+   }
+  },
+  {
+   "id": "t-primary-oocyte",
+   "en": "primary oocyte",
+   "zh": "初級卵母細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 73
+   }
+  },
+  {
+   "id": "t-primary-electron-acceptor",
+   "en": "primary electron acceptor",
+   "zh": "初級電子接受者",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 74
+   }
+  },
+  {
+   "id": "t-polygenic-inheritance",
+   "en": "polygenic inheritance",
+   "zh": "多基因遺傳",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 75
+   }
+  },
+  {
+   "id": "t-polar-body",
+   "en": "polar body",
+   "zh": "極體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 76
+   }
+  },
+  {
+   "id": "t-pluripotent",
+   "en": "pluripotent",
+   "zh": "多能性(幹細胞)；多能的",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 77
+   }
+  },
+  {
+   "id": "t-plastid",
+   "en": "plastid",
+   "zh": "色素體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 4,
+    "order": 78
+   }
+  },
+  {
+   "id": "t-plasmid",
+   "en": "plasmid",
+   "zh": "質體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 79
+   }
+  },
+  {
+   "id": "t-pili",
+   "en": "pili",
+   "zh": "線毛",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 80
+   }
+  },
+  {
+   "id": "t-photosystem",
+   "en": "photosystem",
+   "zh": "光系統",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 81
+   }
+  },
+  {
+   "id": "t-photosynthesis",
+   "en": "photosynthesis",
+   "zh": "光合作用",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 82
+   }
+  },
+  {
+   "id": "t-phosphorylation",
+   "en": "phosphorylation",
+   "zh": "磷酸化",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 83
+   }
+  },
+  {
+   "id": "t-phosphate-buffer",
+   "en": "phosphate buffer",
+   "zh": "磷酸緩衝液",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 84
+   }
+  },
+  {
+   "id": "t-phenotype",
+   "en": "phenotype",
+   "zh": "表現型",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 85
+   }
+  },
+  {
+   "id": "t-phase-contrast-microscope",
+   "en": "phase contrast microscope",
+   "zh": "位相差顯微鏡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 86
+   }
+  },
+  {
+   "id": "t-pericentriolar-materials",
+   "en": "pericentriolar materials",
+   "zh": "中心粒周物質",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 87
+   }
+  },
+  {
+   "id": "t-peptidoglycan",
+   "en": "peptidoglycan",
+   "zh": "肽聚糖",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 88
+   }
+  },
+  {
+   "id": "t-pedigree",
+   "en": "pedigree",
+   "zh": "譜系",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 89
+   }
+  },
+  {
+   "id": "t-paramecium",
+   "en": "Paramecium",
+   "zh": "草履蟲",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 90
+   }
+  },
+  {
+   "id": "t-oxidative-phosphorylation",
+   "en": "oxidative phosphorylation",
+   "zh": "氧化磷酸化",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 91
+   }
+  },
+  {
+   "id": "t-organogenesis",
+   "en": "organogenesis",
+   "zh": "器官形成",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 92
+   }
+  },
+  {
+   "id": "t-organelle",
+   "en": "organelle",
+   "zh": "胞器",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 93
+   }
+  },
+  {
+   "id": "t-oligopotent",
+   "en": "oligopotent",
+   "zh": "寡能(幹細胞)",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 94
+   }
+  },
+  {
+   "id": "t-observation",
+   "en": "observation",
+   "zh": "觀察",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 95
+   }
+  },
+  {
+   "id": "t-observant-naturalist",
+   "en": "observant naturalist",
+   "zh": "觀察自然學者",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 96
+   }
+  },
+  {
+   "id": "t-nucleus",
+   "en": "nucleus",
+   "zh": "細胞核",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 97
+   }
+  },
+  {
+   "id": "t-nucleoplasm",
+   "en": "nucleoplasm",
+   "zh": "核質；核漿",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 98
+   }
+  },
+  {
+   "id": "t-nucleolus",
+   "en": "nucleolus",
+   "zh": "核仁",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 5,
+    "order": 99
+   }
+  },
+  {
+   "id": "t-nucleoid-region",
+   "en": "nucleoid region",
+   "zh": "擬核區",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 100
+   }
+  },
+  {
+   "id": "t-nucleohyaloplasm",
+   "en": "nucleohyaloplasm",
+   "zh": "核液質",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 101
+   }
+  },
+  {
+   "id": "t-nuclear-region",
+   "en": "nuclear region",
+   "zh": "核區",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 102
+   }
+  },
+  {
+   "id": "t-nuclear-membrane",
+   "en": "nuclear membrane",
+   "zh": "核膜",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 103
+   }
+  },
+  {
+   "id": "t-nuclear-matrix",
+   "en": "nuclear matrix",
+   "zh": "核基質",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 104
+   }
+  },
+  {
+   "id": "t-nonlinearity",
+   "en": "nonlinearity",
+   "zh": "非線性",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 105
+   }
+  },
+  {
+   "id": "t-noncyclic-flow",
+   "en": "noncyclic flow",
+   "zh": "非循環式",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 106
+   }
+  },
+  {
+   "id": "t-natural-history",
+   "en": "natural history",
+   "zh": "自然歷史",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 107
+   }
+  },
+  {
+   "id": "t-myoblast",
+   "en": "myoblast",
+   "zh": "肌細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 108
+   }
+  },
+  {
+   "id": "t-myeloid-stem-cell",
+   "en": "myeloid stem cell",
+   "zh": "骨髓幹細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 109
+   }
+  },
+  {
+   "id": "t-myeloid",
+   "en": "myeloid",
+   "zh": "骨髓的；脊椎的",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 110
+   }
+  },
+  {
+   "id": "t-myelin-sheath",
+   "en": "myelin sheath",
+   "zh": "神經髓鞘",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 111
+   }
+  },
+  {
+   "id": "t-myelin",
+   "en": "myelin",
+   "zh": "髓素；神經髓；髓燐脂",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 112
+   }
+  },
+  {
+   "id": "t-mutation",
+   "en": "mutation",
+   "zh": "突變",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 113
+   }
+  },
+  {
+   "id": "t-multipotent",
+   "en": "multipotent",
+   "zh": "多分化(幹細胞)",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 114
+   }
+  },
+  {
+   "id": "t-multiple-level",
+   "en": "multiple level",
+   "zh": "多層次",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 115
+   }
+  },
+  {
+   "id": "t-multiple-allele-inheritance",
+   "en": "multiple allele inheritance",
+   "zh": "複等位基因遺傳",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 116
+   }
+  },
+  {
+   "id": "t-mitotic-phase",
+   "en": "mitotic phase",
+   "zh": "分裂期",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 117
+   }
+  },
+  {
+   "id": "t-mitosis",
+   "en": "mitosis",
+   "zh": "有絲分裂",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 118
+   }
+  },
+  {
+   "id": "t-mitochondrion",
+   "en": "mitochondrion",
+   "zh": "粒線體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 6,
+    "order": 119
+   }
+  },
+  {
+   "id": "t-microtubule-organizing-center",
+   "en": "microtubule-organizing center",
+   "zh": "微管組織中心",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 120
+   }
+  },
+  {
+   "id": "t-microtubule",
+   "en": "microtubule",
+   "zh": "微管；微導管",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 121
+   }
+  },
+  {
+   "id": "t-microscope",
+   "en": "microscope",
+   "zh": "顯微鏡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 122
+   }
+  },
+  {
+   "id": "t-microprojectile-bombardment",
+   "en": "microprojectile bombardment",
+   "zh": "粒子槍法",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 123
+   }
+  },
+  {
+   "id": "t-microinjection",
+   "en": "microinjection",
+   "zh": "微注射法",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 124
+   }
+  },
+  {
+   "id": "t-micrographia",
+   "en": "micrographia",
+   "zh": "微物圖誌；寫字過小症",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 125
+   }
+  },
+  {
+   "id": "t-microfilament",
+   "en": "microfilament",
+   "zh": "微絲；微細絲",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 126
+   }
+  },
+  {
+   "id": "t-methylene-blue",
+   "en": "methylene blue",
+   "zh": "亞甲藍",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 127
+   }
+  },
+  {
+   "id": "t-metaphase-plate",
+   "en": "metaphase plate",
+   "zh": "中期板",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 128
+   }
+  },
+  {
+   "id": "t-metaphase",
+   "en": "metaphase",
+   "zh": "中期",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 129
+   }
+  },
+  {
+   "id": "t-mendels-law",
+   "en": "Mendel's law",
+   "zh": "孟德爾遺傳法則",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 130
+   }
+  },
+  {
+   "id": "t-meiosis-ii",
+   "en": "meiosis II",
+   "zh": "減數分裂第二階段",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 131
+   }
+  },
+  {
+   "id": "t-meiosis-i",
+   "en": "meiosis I",
+   "zh": "減數分裂第一階段",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 132
+   }
+  },
+  {
+   "id": "t-meiosis",
+   "en": "meiosis",
+   "zh": "減數分裂",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 133
+   }
+  },
+  {
+   "id": "t-matrix",
+   "en": "matrix",
+   "zh": "基質",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 134
+   }
+  },
+  {
+   "id": "t-material-and-method",
+   "en": "material and method",
+   "zh": "設計實驗",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 135
+   }
+  },
+  {
+   "id": "t-lymphoid-stem-cell",
+   "en": "lymphoid stem cell",
+   "zh": "淋巴幹細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 136
+   }
+  },
+  {
+   "id": "t-lymphoid",
+   "en": "lymphoid",
+   "zh": "淋巴",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 137
+   }
+  },
+  {
+   "id": "t-light-harvesting-complex",
+   "en": "light-harvesting complex",
+   "zh": "捕光複合體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 7,
+    "order": 138
+   }
+  },
+  {
+   "id": "t-light-reaction",
+   "en": "light reaction",
+   "zh": "光反應",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 139
+   }
+  },
+  {
+   "id": "t-leaf-disks",
+   "en": "leaf disks",
+   "zh": "葉圓片",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 140
+   }
+  },
+  {
+   "id": "t-law-of-segregation",
+   "en": "law of segregation",
+   "zh": "分離率",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 141
+   }
+  },
+  {
+   "id": "t-law-of-independent-assortment",
+   "en": "law of independent assortment",
+   "zh": "獨立分配律",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 142
+   }
+  },
+  {
+   "id": "t-lactic-acid-fermentation",
+   "en": "lactic acid fermentation",
+   "zh": "乳酸發酵",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 143
+   }
+  },
+  {
+   "id": "t-lactate-fermentation",
+   "en": "lactate fermentation",
+   "zh": "乳酸發酵",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 144
+   }
+  },
+  {
+   "id": "t-krebs-cycle",
+   "en": "Krebs cycle",
+   "zh": "克氏循環",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 145
+   }
+  },
+  {
+   "id": "t-knock-out",
+   "en": "knock out",
+   "zh": "基因剔除",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 146
+   }
+  },
+  {
+   "id": "t-ion-channel",
+   "en": "ion channel",
+   "zh": "離子通道",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 147
+   }
+  },
+  {
+   "id": "t-invadosome",
+   "en": "invadosome",
+   "zh": "侵襲體；(在癌細胞中)侵襲性偽足；侵犯僞足",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 148
+   }
+  },
+  {
+   "id": "t-invader",
+   "en": "invader",
+   "zh": "侵入物；入侵者；侵略者",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 149
+   }
+  },
+  {
+   "id": "t-interphase",
+   "en": "interphase",
+   "zh": "間期",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 150
+   }
+  },
+  {
+   "id": "t-intermediate-inheritance",
+   "en": "intermediate inheritance",
+   "zh": "中間型遺傳",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 151
+   }
+  },
+  {
+   "id": "t-intermediate-filaments",
+   "en": "intermediate filaments",
+   "zh": "中間絲",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 152
+   }
+  },
+  {
+   "id": "t-inner-cell-mass",
+   "en": "inner cell mass",
+   "zh": "內細胞群",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 153
+   }
+  },
+  {
+   "id": "t-inheritance",
+   "en": "inheritance",
+   "zh": "傳遞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 154
+   }
+  },
+  {
+   "id": "t-incomplete-dominance",
+   "en": "incomplete dominance",
+   "zh": "不完全顯性",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 155
+   }
+  },
+  {
+   "id": "t-hypothesis",
+   "en": "hypothesis",
+   "zh": "假說",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 156
+   }
+  },
+  {
+   "id": "t-homozygote",
+   "en": "homozygote",
+   "zh": "同型合子",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 8,
+    "order": 157
+   }
+  },
+  {
+   "id": "t-holistic",
+   "en": "holistic",
+   "zh": "整體性",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 158
+   }
+  },
+  {
+   "id": "t-heterozygote",
+   "en": "heterozygote",
+   "zh": "異型合子",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 159
+   }
+  },
+  {
+   "id": "t-hematopoietic-stem-cell",
+   "en": "hematopoietic stem cell",
+   "zh": "造血幹細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 160
+   }
+  },
+  {
+   "id": "t-hematopoietic",
+   "en": "hematopoietic",
+   "zh": "造血的；生血的",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 161
+   }
+  },
+  {
+   "id": "t-haploid",
+   "en": "haploid",
+   "zh": "單倍體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 162
+   }
+  },
+  {
+   "id": "t-granum",
+   "en": "granum",
+   "zh": "葉綠餅",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 163
+   }
+  },
+  {
+   "id": "t-golgi-stain",
+   "en": "Golgi stain",
+   "zh": "高基氏染色法",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 164
+   }
+  },
+  {
+   "id": "t-golgi-apparatus",
+   "en": "Golgi apparatus",
+   "zh": "高基氏體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 165
+   }
+  },
+  {
+   "id": "t-glycolysis",
+   "en": "glycolysis",
+   "zh": "糖解作用",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 166
+   }
+  },
+  {
+   "id": "t-glyceraldehyde-3-phosphate",
+   "en": "glyceraldehyde-3-phosphate",
+   "zh": "磷酸甘油醛",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 167
+   }
+  },
+  {
+   "id": "t-genotyping",
+   "en": "genotyping",
+   "zh": "基因分型",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 168
+   }
+  },
+  {
+   "id": "t-genotype",
+   "en": "genotype",
+   "zh": "基因型",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 169
+   }
+  },
+  {
+   "id": "t-genetically-modified-organism",
+   "en": "genetically modified organism",
+   "zh": "基因改造生物；基改生物",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 170
+   }
+  },
+  {
+   "id": "t-gene",
+   "en": "gene",
+   "zh": "基因",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 171
+   }
+  },
+  {
+   "id": "t-gametogenesis",
+   "en": "gametogenesis",
+   "zh": "配子行成",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 172
+   }
+  },
+  {
+   "id": "t-fluorescence-microscopy",
+   "en": "fluorescence microscopy",
+   "zh": "螢光顯微鏡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 173
+   }
+  },
+  {
+   "id": "t-fluid-mosaic-model",
+   "en": "Fluid Mosaic Model",
+   "zh": "流體鑲嵌模型",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 174
+   }
+  },
+  {
+   "id": "t-fluid",
+   "en": "fluid",
+   "zh": "流體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 175
+   }
+  },
+  {
+   "id": "t-flagella",
+   "en": "flagella",
+   "zh": "鞭毛",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 176
+   }
+  },
+  {
+   "id": "t-fertilization",
+   "en": "fertilization",
+   "zh": "受精作用",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 177
+   }
+  },
+  {
+   "id": "t-fermentation",
+   "en": "fermentation",
+   "zh": "發酵作用",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 9,
+    "order": 178
+   }
+  },
+  {
+   "id": "t-evolution",
+   "en": "evolution",
+   "zh": "演化學",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 179
+   }
+  },
+  {
+   "id": "t-energy-currency",
+   "en": "energy currency",
+   "zh": "能量貨幣",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 180
+   }
+  },
+  {
+   "id": "t-endoplasmic-reticulum",
+   "en": "endoplasmic reticulum",
+   "zh": "內質網",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 181
+   }
+  },
+  {
+   "id": "t-endoplasmic",
+   "en": "endoplasmic",
+   "zh": "內質的",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 182
+   }
+  },
+  {
+   "id": "t-endomembrane-system",
+   "en": "endomembrane system",
+   "zh": "內膜系統",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 183
+   }
+  },
+  {
+   "id": "t-emergence",
+   "en": "emergence",
+   "zh": "突顯",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 184
+   }
+  },
+  {
+   "id": "t-embryonic-stem-cells",
+   "en": "embryonic stem cells",
+   "zh": "胚胎幹細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 185
+   }
+  },
+  {
+   "id": "t-electron-transport-chain",
+   "en": "electron transport chain",
+   "zh": "電子傳遞鏈",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 186
+   }
+  },
+  {
+   "id": "t-dyad",
+   "en": "dyad",
+   "zh": "二分體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 187
+   }
+  },
+  {
+   "id": "t-drosophila-melanogaster",
+   "en": "Drosophila melanogaster",
+   "zh": "果蠅",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 188
+   }
+  },
+  {
+   "id": "t-dominant-trait",
+   "en": "dominant trait",
+   "zh": "顯性表徵",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 189
+   }
+  },
+  {
+   "id": "t-dominant",
+   "en": "dominant",
+   "zh": "顯性",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 190
+   }
+  },
+  {
+   "id": "t-dominance",
+   "en": "dominance",
+   "zh": "顯性；優勢；支配(地位)；統治(地位)",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 191
+   }
+  },
+  {
+   "id": "t-dna-polymerase",
+   "en": "DNA polymerase",
+   "zh": "DNA 聚合酶",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 192
+   }
+  },
+  {
+   "id": "t-dna-marker",
+   "en": "DNA marker",
+   "zh": "DNA 標記",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 193
+   }
+  },
+  {
+   "id": "t-discussion",
+   "en": "discussion",
+   "zh": "討論",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 194
+   }
+  },
+  {
+   "id": "t-diploid",
+   "en": "diploid",
+   "zh": "二倍體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 195
+   }
+  },
+  {
+   "id": "t-differential-interference-contrast",
+   "en": "differential interference contrast",
+   "zh": "微分干涉差顯微鏡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 196
+   }
+  },
+  {
+   "id": "t-dephosphorylation",
+   "en": "dephosphorylation",
+   "zh": "去磷酸化；脫磷酸",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 10,
+    "order": 197
+   }
+  },
+  {
+   "id": "t-decentralized",
+   "en": "decentralized",
+   "zh": "無中央控制",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 198
+   }
+  },
+  {
+   "id": "t-cytosol",
+   "en": "cytosol",
+   "zh": "細胞質液",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 199
+   }
+  },
+  {
+   "id": "t-cytoskeleton",
+   "en": "cytoskeleton",
+   "zh": "細胞骨架",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 200
+   }
+  },
+  {
+   "id": "t-cytoplasmic-microtubule",
+   "en": "cytoplasmic microtubule",
+   "zh": "胞質微小管",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 201
+   }
+  },
+  {
+   "id": "t-cytoplasm",
+   "en": "cytoplasm",
+   "zh": "細胞質",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 202
+   }
+  },
+  {
+   "id": "t-cyclin",
+   "en": "cyclin",
+   "zh": "週期素",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 203
+   }
+  },
+  {
+   "id": "t-cyclic-flow",
+   "en": "cyclic flow",
+   "zh": "循環式",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 204
+   }
+  },
+  {
+   "id": "t-confocal-microscopy",
+   "en": "confocal microscopy",
+   "zh": "共軛顯微鏡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 205
+   }
+  },
+  {
+   "id": "t-complementary-base-pairing",
+   "en": "complementary base pairing",
+   "zh": "互補鹼基配對",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 206
+   }
+  },
+  {
+   "id": "t-common-descent",
+   "en": "common descent",
+   "zh": "共同祖先",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 207
+   }
+  },
+  {
+   "id": "t-codominance",
+   "en": "codominance",
+   "zh": "共顯性",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 208
+   }
+  },
+  {
+   "id": "t-citric-acid-cycle",
+   "en": "citric acid cycle",
+   "zh": "檸檬酸循環",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 209
+   }
+  },
+  {
+   "id": "t-chromosome-theory-of-inheritance",
+   "en": "Chromosome Theory of Inheritance",
+   "zh": "遺傳的染色體學說",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 210
+   }
+  },
+  {
+   "id": "t-chromosome",
+   "en": "chromosome",
+   "zh": "染色體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 211
+   }
+  },
+  {
+   "id": "t-chromosomal-microtubule",
+   "en": "chromosomal microtubule",
+   "zh": "染色體微管",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 212
+   }
+  },
+  {
+   "id": "t-chromatin",
+   "en": "chromatin",
+   "zh": "染色質",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 213
+   }
+  },
+  {
+   "id": "t-chloroplast",
+   "en": "chloroplast",
+   "zh": "葉綠體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 214
+   }
+  },
+  {
+   "id": "t-chlorophyll",
+   "en": "chlorophyll",
+   "zh": "葉綠素",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 215
+   }
+  },
+  {
+   "id": "t-chlorella",
+   "en": "Chlorella",
+   "zh": "綠球藻",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 216
+   }
+  },
+  {
+   "id": "t-character",
+   "en": "character",
+   "zh": "性狀",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 11,
+    "order": 217
+   }
+  },
+  {
+   "id": "t-centriole",
+   "en": "centriole",
+   "zh": "中心粒",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 218
+   }
+  },
+  {
+   "id": "t-central-vacuole",
+   "en": "central vacuole",
+   "zh": "中央液泡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 219
+   }
+  },
+  {
+   "id": "t-central-dogma",
+   "en": "central dogma",
+   "zh": "中心法則",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 220
+   }
+  },
+  {
+   "id": "t-cell-wall",
+   "en": "cell wall",
+   "zh": "細胞壁",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 221
+   }
+  },
+  {
+   "id": "t-cell-theory",
+   "en": "cell theory",
+   "zh": "細胞學說",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 222
+   }
+  },
+  {
+   "id": "t-cell-plate",
+   "en": "cell plate",
+   "zh": "細胞板",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 223
+   }
+  },
+  {
+   "id": "t-cell-differentiation",
+   "en": "cell differentiation",
+   "zh": "細胞分化",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 224
+   }
+  },
+  {
+   "id": "t-cell-cycle",
+   "en": "cell cycle",
+   "zh": "細胞周期",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 225
+   }
+  },
+  {
+   "id": "t-cell",
+   "en": "cell",
+   "zh": "細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 226
+   }
+  },
+  {
+   "id": "t-catastrophism",
+   "en": "catastrophism",
+   "zh": "災變說",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 227
+   }
+  },
+  {
+   "id": "t-carotenoid-pigment",
+   "en": "carotenoid pigment",
+   "zh": "類胡蘿卜色素; 類葉紅素色素",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 228
+   }
+  },
+  {
+   "id": "t-carotenoid-pathway",
+   "en": "carotenoid pathway",
+   "zh": "類胡蘿卜素途徑",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 229
+   }
+  },
+  {
+   "id": "t-carotenoid",
+   "en": "carotenoid",
+   "zh": "類胡蘿蔔素",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 230
+   }
+  },
+  {
+   "id": "t-carotene",
+   "en": "carotene",
+   "zh": "胡蘿蔔素",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 231
+   }
+  },
+  {
+   "id": "t-carbon-reaction",
+   "en": "carbon reaction",
+   "zh": "固碳反應",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 232
+   }
+  },
+  {
+   "id": "t-capsule",
+   "en": "capsule",
+   "zh": "莢膜",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 233
+   }
+  },
+  {
+   "id": "t-canine-hip-dysphasia",
+   "en": "canine hip dysphasia",
+   "zh": "髖關節退化症",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 234
+   }
+  },
+  {
+   "id": "t-camptothecin-alkaloids",
+   "en": "camptothecin alkaloids",
+   "zh": "喜樹生物鹼；喜樹生物堿",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 235
+   }
+  },
+  {
+   "id": "t-camptothecin",
+   "en": "camptothecin",
+   "zh": "喜樹鹼；喜樹堿",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 236
+   }
+  },
+  {
+   "id": "t-calvin-cycle",
+   "en": "Calvin cycle",
+   "zh": "卡爾文循環",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 12,
+    "order": 237
+   }
+  },
+  {
+   "id": "t-boyles-law",
+   "en": "Boyles law",
+   "zh": "波以耳定律",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 238
+   }
+  },
+  {
+   "id": "t-blastocyst",
+   "en": "blastocyst",
+   "zh": "早期囊胚",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 239
+   }
+  },
+  {
+   "id": "t-biological-potential",
+   "en": "biological potential",
+   "zh": "生物潛能",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 240
+   }
+  },
+  {
+   "id": "t-bioinformation",
+   "en": "Bioinformation",
+   "zh": "生物資訊學",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 241
+   }
+  },
+  {
+   "id": "t-bacterial-carotenoid",
+   "en": "bacterial carotenoid",
+   "zh": "細菌類胡蘿卜素",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 242
+   }
+  },
+  {
+   "id": "t-bacterial",
+   "en": "bacterial",
+   "zh": "細菌的；細菌引起的",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 243
+   }
+  },
+  {
+   "id": "t-autosome",
+   "en": "autosome",
+   "zh": "體染色體",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 244
+   }
+  },
+  {
+   "id": "t-aquaporin",
+   "en": "aquaporin",
+   "zh": "水通道蛋白",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 245
+   }
+  },
+  {
+   "id": "t-apoptosis",
+   "en": "apoptosis",
+   "zh": "凋亡",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 246
+   }
+  },
+  {
+   "id": "t-antibiotic-genes",
+   "en": "antibiotic genes",
+   "zh": "抗抗生素基因",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 247
+   }
+  },
+  {
+   "id": "t-antenna-pigment",
+   "en": "antenna pigment",
+   "zh": "天線色素",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 248
+   }
+  },
+  {
+   "id": "t-anaphase",
+   "en": "anaphase",
+   "zh": "後期",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 249
+   }
+  },
+  {
+   "id": "t-an-acid-solution",
+   "en": "an acid solution",
+   "zh": "酸溶液",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 250
+   }
+  },
+  {
+   "id": "t-allele",
+   "en": "allele",
+   "zh": "等位基因",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 251
+   }
+  },
+  {
+   "id": "t-alcohol-fermentation",
+   "en": "alcohol fermentation",
+   "zh": "酒精發酵",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 252
+   }
+  },
+  {
+   "id": "t-agrobacteria-infection-method",
+   "en": "Agrobacteria infection method",
+   "zh": "農桿菌感染法",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 253
+   }
+  },
+  {
+   "id": "t-aerobic-respiration",
+   "en": "aerobic respiration",
+   "zh": "有氧呼吸",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 254
+   }
+  },
+  {
+   "id": "t-adult-stem-cells",
+   "en": "adult stem cells",
+   "zh": "成體幹細胞",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 255
+   }
+  },
+  {
+   "id": "t-adaptive-radiation",
+   "en": "adaptive radiation",
+   "zh": "適應輻射",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 256
+   }
+  },
+  {
+   "id": "t-adaption",
+   "en": "adaption",
+   "zh": "適應",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 257
+   }
+  },
+  {
+   "id": "t-actin-binding-protein",
+   "en": "actin-binding protein",
+   "zh": "微絲結合蛋白",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 13,
+    "order": 258
+   }
+  },
+  {
+   "id": "t-acid-cycle",
+   "en": "acid cycle",
+   "zh": "酸循環",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 14,
+    "order": 259
+   }
+  },
+  {
+   "id": "t-acid",
+   "en": "acid",
+   "zh": "酸的；有酸味的；酸性的 n.酸；有酸味的東西",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 14,
+    "order": 260
+   }
+  },
+  {
+   "id": "t-acetyl-coa",
+   "en": "acetyl-CoA",
+   "zh": "乙醯輔酶 A",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 14,
+    "order": 261
+   }
+  },
+  {
+   "id": "t-accessory-pigment",
+   "en": "accessory pigment",
+   "zh": "輔助色素",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 14,
+    "order": 262
+   }
+  },
+  {
+   "id": "t-3-phosphoglycerate",
+   "en": "3-phosphoglycerate",
+   "zh": "三碳的磷酸甘油酸",
+   "source": {
+    "file": "科學專業英文(生物科學).pdf",
+    "page": 14,
+    "order": 263
+   }
+  }
+ ]
+}

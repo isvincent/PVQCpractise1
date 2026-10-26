@@ -1,0 +1,26 @@
+{
+  "name": "科學專業英文 AI 自主學習｜五科總覽",
+  "short_name": "科學英文",
+  "description": "生物科學、物理、化學、地球科學、腦科學五科專業英文自主學習 App 的總覽首頁：跨科搜尋、每日一字、學習進度與小遊戲。",
+  "lang": "zh-Hant-TW",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f6ff",
+  "theme_color": "#312e81",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "生物科學", "url": "./biology/index.html", "icons": [{ "src": "biology/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "物理", "url": "./physics/index.html", "icons": [{ "src": "physics/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "化學", "url": "./chemistry/index.html", "icons": [{ "src": "chemistry/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "地球科學", "url": "./earth-science/index.html", "icons": [{ "src": "earth-science/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "腦科學", "url": "./brain-science/index.html", "icons": [{ "src": "brain-science/icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

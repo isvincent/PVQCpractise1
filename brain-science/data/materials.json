@@ -1,0 +1,14 @@
+{
+ "schema": 1,
+ "materials": [
+  {
+   "id": "brain-sci-en",
+   "title": "科學專業英文(腦科學)",
+   "file": "data/course-brain.json",
+   "pdf": "materials/科學專業英文(腦科學).pdf",
+   "terms": 448,
+   "mode": "vocabulary",
+   "version": "2026.10.26"
+  }
+ ]
+}

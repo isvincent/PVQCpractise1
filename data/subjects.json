@@ -1,0 +1,655 @@
+{
+ "schema": 1,
+ "subjects": [
+  {
+   "key": "biology",
+   "dir": "biology",
+   "emoji": "🧬",
+   "zh": "生物科學",
+   "en": "Biology",
+   "colors": [
+    "#5146e5",
+    "#7c3aed",
+    "#db2777"
+   ],
+   "calcs": [
+    [
+     "棋盤方格（孟德爾遺傳）",
+     "Punnett square"
+    ]
+   ],
+   "title": "科學專業英文(生物科學)",
+   "pdf": "biology/materials/科學專業英文(生物科學).pdf",
+   "db": "bio-english-pwa",
+   "terms": 263,
+   "rows": 263,
+   "pages": 14,
+   "chapters": 7,
+   "units": 13,
+   "illus": 65,
+   "corrections": 44,
+   "levels": {
+    "1": 110,
+    "2": 106,
+    "3": 47
+   },
+   "unitList": [
+    {
+     "id": "u01",
+     "zh": "科學方法與系統思維",
+     "en": "Scientific Method & Systems Thinking",
+     "n": 17
+    },
+    {
+     "id": "u02",
+     "zh": "顯微鏡、染色與實驗溶液",
+     "en": "Microscopy, Stains & Lab Solutions",
+     "n": 19
+    },
+    {
+     "id": "u03",
+     "zh": "細胞構造與胞器",
+     "en": "Cell Structures & Organelles",
+     "n": 38
+    },
+    {
+     "id": "u04",
+     "zh": "細胞膜運輸與細胞骨架",
+     "en": "Membrane Transport & Cytoskeleton",
+     "n": 17
+    },
+    {
+     "id": "u05",
+     "zh": "細胞呼吸與發酵",
+     "en": "Cellular Respiration & Fermentation",
+     "n": 19
+    },
+    {
+     "id": "u06",
+     "zh": "光合作用與色素",
+     "en": "Photosynthesis & Pigments",
+     "n": 25
+    },
+    {
+     "id": "u07",
+     "zh": "細胞週期與有絲分裂",
+     "en": "Cell Cycle & Mitosis",
+     "n": 17
+    },
+    {
+     "id": "u08",
+     "zh": "減數分裂與配子形成",
+     "en": "Meiosis & Gametogenesis",
+     "n": 16
+    },
+    {
+     "id": "u09",
+     "zh": "孟德爾遺傳與遺傳模式",
+     "en": "Mendelian Genetics & Inheritance Patterns",
+     "n": 29
+    },
+    {
+     "id": "u10",
+     "zh": "DNA、基因與中心法則",
+     "en": "DNA, Genes & the Central Dogma",
+     "n": 13
+    },
+    {
+     "id": "u11",
+     "zh": "生物技術與基因工程",
+     "en": "Biotechnology & Genetic Engineering",
+     "n": 18
+    },
+    {
+     "id": "u12",
+     "zh": "幹細胞與細胞分化",
+     "en": "Stem Cells & Differentiation",
+     "n": 20
+    },
+    {
+     "id": "u13",
+     "zh": "演化與天擇",
+     "en": "Evolution & Natural Selection",
+     "n": 15
+    }
+   ],
+   "version": "2026.10.25"
+  },
+  {
+   "key": "physics",
+   "dir": "physics",
+   "emoji": "⚛️",
+   "zh": "物理",
+   "en": "Physics",
+   "colors": [
+    "#0b4fb3",
+    "#0891b2",
+    "#f59e0b"
+   ],
+   "calcs": [
+    [
+     "溫標換算",
+     "Temperature"
+    ],
+    [
+     "薄透鏡成像",
+     "Thin lens"
+    ],
+    [
+     "等效電阻",
+     "Resistors"
+    ]
+   ],
+   "title": "科學專業英文(物理)",
+   "pdf": "physics/materials/科學專業英文(物理).pdf",
+   "db": "physics-english-pwa",
+   "terms": 325,
+   "rows": 325,
+   "pages": 9,
+   "chapters": 7,
+   "units": 14,
+   "illus": 75,
+   "corrections": 34,
+   "levels": {
+    "1": 187,
+    "2": 111,
+    "3": 27
+   },
+   "unitList": [
+    {
+     "id": "u01",
+     "zh": "物理學、單位與測量",
+     "en": "Physics, Units & Measurement",
+     "n": 26
+    },
+    {
+     "id": "u02",
+     "zh": "運動學",
+     "en": "Kinematics",
+     "n": 17
+    },
+    {
+     "id": "u03",
+     "zh": "力與牛頓運動定律",
+     "en": "Forces & Newton's Laws",
+     "n": 24
+    },
+    {
+     "id": "u04",
+     "zh": "功、能量與動量",
+     "en": "Work, Energy & Momentum",
+     "n": 15
+    },
+    {
+     "id": "u05",
+     "zh": "物質狀態與流體",
+     "en": "States of Matter & Fluids",
+     "n": 21
+    },
+    {
+     "id": "u06",
+     "zh": "熱學與熱機",
+     "en": "Heat & Heat Engines",
+     "n": 15
+    },
+    {
+     "id": "u07",
+     "zh": "波動與聲音",
+     "en": "Waves & Sound",
+     "n": 28
+    },
+    {
+     "id": "u08",
+     "zh": "光學",
+     "en": "Optics",
+     "n": 31
+    },
+    {
+     "id": "u09",
+     "zh": "靜電與電路",
+     "en": "Electrostatics & Circuits",
+     "n": 28
+    },
+    {
+     "id": "u10",
+     "zh": "磁與電磁感應",
+     "en": "Magnetism & Electromagnetic Induction",
+     "n": 19
+    },
+    {
+     "id": "u11",
+     "zh": "半導體與電子元件",
+     "en": "Semiconductors & Electronic Devices",
+     "n": 26
+    },
+    {
+     "id": "u12",
+     "zh": "量子與原子物理",
+     "en": "Quantum & Atomic Physics",
+     "n": 27
+    },
+    {
+     "id": "u13",
+     "zh": "原子核與粒子物理",
+     "en": "Nuclear & Particle Physics",
+     "n": 25
+    },
+    {
+     "id": "u14",
+     "zh": "天文與宇宙學",
+     "en": "Astronomy & Cosmology",
+     "n": 23
+    }
+   ],
+   "version": "2026.10.26"
+  },
+  {
+   "key": "chemistry",
+   "dir": "chemistry",
+   "emoji": "⚗️",
+   "zh": "化學",
+   "en": "Chemistry",
+   "colors": [
+    "#065f46",
+    "#0d9488",
+    "#7c3aed"
+   ],
+   "calcs": [
+    [
+     "原子組成",
+     "Atomic composition"
+    ],
+    [
+     "莫耳與濃度",
+     "Moles & molarity"
+    ],
+    [
+     "pH 計算",
+     "pH"
+    ]
+   ],
+   "title": "科學專業英文(化學)",
+   "pdf": "chemistry/materials/科學專業英文(化學).pdf",
+   "db": "chemistry-english-pwa",
+   "terms": 541,
+   "rows": 545,
+   "pages": 24,
+   "chapters": 7,
+   "units": 17,
+   "illus": 79,
+   "corrections": 45,
+   "levels": {
+    "1": 241,
+    "2": 218,
+    "3": 82
+   },
+   "unitList": [
+    {
+     "id": "u01",
+     "zh": "化學與物質的分類",
+     "en": "Chemistry & Classifying Matter",
+     "n": 12
+    },
+    {
+     "id": "u02",
+     "zh": "實驗器材與分離純化",
+     "en": "Lab Equipment, Separation & Purification",
+     "n": 19
+    },
+    {
+     "id": "u03",
+     "zh": "原子構造與電子組態",
+     "en": "Atomic Structure & Electron Configuration",
+     "n": 18
+    },
+    {
+     "id": "u04",
+     "zh": "週期表、元素與礦物",
+     "en": "Periodic Table, Elements & Minerals",
+     "n": 38
+    },
+    {
+     "id": "u05",
+     "zh": "化學鍵與分子結構",
+     "en": "Chemical Bonds & Molecular Structure",
+     "n": 21
+    },
+    {
+     "id": "u06",
+     "zh": "物質狀態、晶體與材料",
+     "en": "States of Matter, Crystals & Materials",
+     "n": 45
+    },
+    {
+     "id": "u07",
+     "zh": "化學計量與單位",
+     "en": "Stoichiometry & Units",
+     "n": 17
+    },
+    {
+     "id": "u08",
+     "zh": "溶液、膠體與界面",
+     "en": "Solutions, Colloids & Interfaces",
+     "n": 28
+    },
+    {
+     "id": "u09",
+     "zh": "熱化學與反應速率",
+     "en": "Thermochemistry & Reaction Rates",
+     "n": 18
+    },
+    {
+     "id": "u10",
+     "zh": "酸鹼與鹽",
+     "en": "Acids, Bases & Salts",
+     "n": 19
+    },
+    {
+     "id": "u11",
+     "zh": "氧化還原與電化學",
+     "en": "Redox & Electrochemistry",
+     "n": 22
+    },
+    {
+     "id": "u12",
+     "zh": "烴類與石油化學",
+     "en": "Hydrocarbons & Petrochemistry",
+     "n": 51
+    },
+    {
+     "id": "u13",
+     "zh": "含氧與含氮有機化合物",
+     "en": "Oxygen- & Nitrogen-Containing Organic Compounds",
+     "n": 48
+    },
+    {
+     "id": "u14",
+     "zh": "高分子與先進材料",
+     "en": "Polymers & Advanced Materials",
+     "n": 49
+    },
+    {
+     "id": "u15",
+     "zh": "生物化學：醣、蛋白質、酵素與核酸",
+     "en": "Biochemistry: Sugars, Proteins, Enzymes & Nucleic Acids",
+     "n": 67
+    },
+    {
+     "id": "u17",
+     "zh": "藥物、食品與生活化學",
+     "en": "Drugs, Food & Everyday Chemistry",
+     "n": 32
+    },
+    {
+     "id": "u16",
+     "zh": "環境、大氣與核化學",
+     "en": "Environmental, Atmospheric & Nuclear Chemistry",
+     "n": 37
+    }
+   ],
+   "version": "2026.10.26"
+  },
+  {
+   "key": "earth",
+   "dir": "earth-science",
+   "emoji": "🌏",
+   "zh": "地球科學",
+   "en": "Earth Science",
+   "colors": [
+    "#1e3a8a",
+    "#0e7490",
+    "#4d7c0f"
+   ],
+   "calcs": [
+    [
+     "半衰期定年",
+     "Half-life dating"
+    ],
+    [
+     "正午太陽仰角",
+     "Noon sun altitude"
+    ],
+    [
+     "天文距離",
+     "Parallax distance"
+    ]
+   ],
+   "title": "科學專業英文(地球科學)",
+   "pdf": "earth-science/materials/科學專業英文(地球科學).pdf",
+   "db": "earth-english-pwa",
+   "terms": 471,
+   "rows": 471,
+   "pages": 7,
+   "chapters": 7,
+   "units": 15,
+   "illus": 76,
+   "corrections": 36,
+   "levels": {
+    "1": 285,
+    "2": 161,
+    "3": 25
+   },
+   "unitList": [
+    {
+     "id": "u01",
+     "zh": "地球系統、資源與觀測工具",
+     "en": "Earth System, Resources & Tools",
+     "n": 20
+    },
+    {
+     "id": "u02",
+     "zh": "礦物與岩石",
+     "en": "Minerals & Rocks",
+     "n": 18
+    },
+    {
+     "id": "u03",
+     "zh": "地球內部與板塊構造",
+     "en": "Earth's Interior & Plate Tectonics",
+     "n": 20
+    },
+    {
+     "id": "u04",
+     "zh": "地震、火山與地質構造",
+     "en": "Earthquakes, Volcanoes & Geologic Structures",
+     "n": 26
+    },
+    {
+     "id": "u05",
+     "zh": "地表作用與地形",
+     "en": "Surface Processes & Landforms",
+     "n": 23
+    },
+    {
+     "id": "u06",
+     "zh": "地質年代與化石",
+     "en": "Geologic Time & Fossils",
+     "n": 50
+    },
+    {
+     "id": "u07",
+     "zh": "大氣組成與結構",
+     "en": "Atmospheric Composition & Structure",
+     "n": 31
+    },
+    {
+     "id": "u08",
+     "zh": "天氣與天氣系統",
+     "en": "Weather & Weather Systems",
+     "n": 58
+    },
+    {
+     "id": "u09",
+     "zh": "氣候變遷、能源與環境",
+     "en": "Climate Change, Energy & Environment",
+     "n": 29
+    },
+    {
+     "id": "u10",
+     "zh": "海洋與水循環",
+     "en": "Oceans & the Water Cycle",
+     "n": 42
+    },
+    {
+     "id": "u11",
+     "zh": "地球與月球的運動、時間與天球",
+     "en": "Earth–Moon Motion, Time & the Celestial Sphere",
+     "n": 30
+    },
+    {
+     "id": "u12",
+     "zh": "太陽與太陽系",
+     "en": "The Sun & the Solar System",
+     "n": 27
+    },
+    {
+     "id": "u13",
+     "zh": "恆星、星系與宇宙",
+     "en": "Stars, Galaxies & the Universe",
+     "n": 36
+    },
+    {
+     "id": "u14",
+     "zh": "天文觀測與電磁波",
+     "en": "Astronomical Observation & EM Waves",
+     "n": 29
+    },
+    {
+     "id": "u15",
+     "zh": "地球科學中的物理概念",
+     "en": "Physics Concepts in Earth Science",
+     "n": 32
+    }
+   ],
+   "version": "2026.10.26"
+  },
+  {
+   "key": "brain",
+   "dir": "brain-science",
+   "emoji": "🧠",
+   "zh": "腦科學",
+   "en": "Brain Science",
+   "colors": [
+    "#86198f",
+    "#6d28d9",
+    "#2563eb"
+   ],
+   "calcs": [
+    [
+     "神經傳導時間",
+     "Nerve conduction"
+    ],
+    [
+     "睡眠週期",
+     "Sleep cycles"
+    ],
+    [
+     "標準分數",
+     "Standard scores"
+    ]
+   ],
+   "title": "科學專業英文(腦科學)",
+   "pdf": "brain-science/materials/科學專業英文(腦科學).pdf",
+   "db": "brain-english-pwa",
+   "terms": 448,
+   "rows": 465,
+   "pages": 15,
+   "chapters": 7,
+   "units": 14,
+   "illus": 76,
+   "corrections": 60,
+   "levels": {
+    "1": 124,
+    "2": 197,
+    "3": 127
+   },
+   "unitList": [
+    {
+     "id": "u01",
+     "zh": "神經元、突觸與神經訊號",
+     "en": "Neurons, Synapses & Neural Signals",
+     "n": 23
+    },
+    {
+     "id": "u02",
+     "zh": "神經傳導物質、荷爾蒙與藥物",
+     "en": "Neurotransmitters, Hormones & Drugs",
+     "n": 29
+    },
+    {
+     "id": "u03",
+     "zh": "解剖方位與腦切面",
+     "en": "Anatomical Directions & Brain Sections",
+     "n": 19
+    },
+    {
+     "id": "u04",
+     "zh": "大腦皮質與腦葉",
+     "en": "Cerebral Cortex & Lobes",
+     "n": 39
+    },
+    {
+     "id": "u05",
+     "zh": "皮質下構造、腦幹與小腦",
+     "en": "Subcortical Structures, Brainstem & Cerebellum",
+     "n": 41
+    },
+    {
+     "id": "u06",
+     "zh": "感覺與知覺",
+     "en": "Sensation & Perception",
+     "n": 27
+    },
+    {
+     "id": "u07",
+     "zh": "運動控制、自律神經與睡眠節律",
+     "en": "Motor Control, Autonomic Nervous System & Sleep",
+     "n": 23
+    },
+    {
+     "id": "u08",
+     "zh": "學習、記憶與大腦可塑性",
+     "en": "Learning, Memory & Neuroplasticity",
+     "n": 30
+    },
+    {
+     "id": "u09",
+     "zh": "注意力、語言與高階認知",
+     "en": "Attention, Language & Higher Cognition",
+     "n": 28
+    },
+    {
+     "id": "u10",
+     "zh": "神經與精神疾病",
+     "en": "Neurological & Psychiatric Disorders",
+     "n": 26
+    },
+    {
+     "id": "u11",
+     "zh": "腦科學研究方法與科技",
+     "en": "Research Methods & Technology",
+     "n": 28
+    },
+    {
+     "id": "u12",
+     "zh": "測驗理論、信效度與統計",
+     "en": "Test Theory, Reliability, Validity & Statistics",
+     "n": 29
+    },
+    {
+     "id": "u13",
+     "zh": "評量方法與學習歷程",
+     "en": "Assessment Methods & Portfolios",
+     "n": 46
+    },
+    {
+     "id": "u14",
+     "zh": "情緒、人格、社會行為與生活英文",
+     "en": "Emotion, Personality, Social Behaviour & Everyday English",
+     "n": 60
+    }
+   ],
+   "version": "2026.10.26"
+  }
+ ]
+}

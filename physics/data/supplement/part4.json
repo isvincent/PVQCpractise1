@@ -1,0 +1,3051 @@
+[
+ {
+  "id": "t-electromotive-force",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˌlɛktroʊˈmoʊtɪv ˈfɔrs/",
+  "ipa_uk": "/ɪˌlektrəʊˈməʊtɪv ˈfɔːs/",
+  "syllables": "e·lec·tro·mo·tive force",
+  "def_en": "The energy a source such as a battery gives each unit of charge passing through it, measured in volts.",
+  "def_zh": "電動勢（emf，符號 ε）是電源（如電池）對每單位電荷所做的功，ε = W/q，單位為伏特（V）；它其實不是一種力。",
+  "example_en": "The electromotive force of this battery is 1.5 V, but its terminal voltage drops when current flows.",
+  "example_zh": "這顆電池的電動勢是 1.5 V，但有電流通過時端電壓會下降。",
+  "morph": [
+   {
+    "part": "electro-",
+    "meaning": "電"
+   },
+   {
+    "part": "mot-",
+    "meaning": "動"
+   },
+   {
+    "part": "-ive",
+    "meaning": "…的"
+   }
+  ],
+  "related": [
+   "t-voltage",
+   "t-volt",
+   "t-current",
+   "t-electric-potential"
+  ],
+  "confusables": [
+   {
+    "term": "voltage",
+    "zh": "電壓",
+    "note": "電壓是兩點間的電位差；電動勢是電源提供的能量，有內電阻時端電壓小於電動勢。"
+   }
+  ],
+  "illus": "circuit",
+  "tf": {
+   "statement_zh": "電動勢的單位與電壓相同，都是伏特（V）。",
+   "answer": true,
+   "explain": "電動勢是每單位電荷獲得的能量（J/C），即伏特。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electromagnetic-wave",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˌlɛktroʊmæɡˈnɛtɪk ˈweɪv/",
+  "ipa_uk": "/ɪˌlektrəʊmæɡˈnetɪk ˈweɪv/",
+  "syllables": "e·lec·tro·mag·net·ic wave",
+  "def_en": "A wave of changing electric and magnetic fields that travels through space at the speed of light.",
+  "def_zh": "電磁波是由互相垂直、隨時間變化的電場與磁場組成的橫波，可在真空中傳播，速率 c ≈ 3.0×10⁸ m/s。",
+  "example_en": "An electromagnetic wave can travel through the vacuum of space from the Sun to Earth.",
+  "example_zh": "電磁波可以穿越太空中的真空，從太陽傳到地球。",
+  "morph": [
+   {
+    "part": "electro-",
+    "meaning": "電"
+   },
+   {
+    "part": "magnet",
+    "meaning": "磁"
+   }
+  ],
+  "related": [
+   "t-electromagnetic-spectrum",
+   "t-microwave",
+   "t-x-ray",
+   "t-infrared-light"
+  ],
+  "confusables": [
+   {
+    "term": "mechanical wave",
+    "zh": "力學波",
+    "note": "力學波（如聲波）需要介質，電磁波不需要。"
+   }
+  ],
+  "illus": "em-spectrum",
+  "tf": {
+   "statement_zh": "電磁波和聲波一樣，必須靠介質才能傳播。",
+   "answer": false,
+   "explain": "電磁波可在真空中傳播，聲波才需要介質。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electromagnetic-spectrum",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˌlɛktroʊmæɡˈnɛtɪk ˈspɛktrəm/",
+  "ipa_uk": "/ɪˌlektrəʊmæɡˈnetɪk ˈspektrəm/",
+  "syllables": "e·lec·tro·mag·net·ic spec·trum",
+  "def_en": "The full range of electromagnetic waves arranged by frequency or wavelength, from radio waves to gamma rays.",
+  "def_zh": "電磁波譜是依頻率或波長排列的全部電磁波：無線電波、微波、紅外線、可見光、紫外線、X 射線、γ 射線，頻率依序升高。",
+  "example_en": "Visible light is only a narrow band in the electromagnetic spectrum.",
+  "example_zh": "可見光只是電磁波譜中很窄的一段。",
+  "morph": [
+   {
+    "part": "spectr-",
+    "meaning": "看、影像"
+   }
+  ],
+  "related": [
+   "t-electromagnetic-wave",
+   "t-microwave",
+   "t-infrared-light",
+   "t-x-ray"
+  ],
+  "confusables": [],
+  "illus": "em-spectrum",
+  "tf": {
+   "statement_zh": "在電磁波譜中，X 射線的頻率比可見光高。",
+   "answer": true,
+   "explain": "X 射線波長較短、頻率較高，位於紫外線之後。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electromagnetic-induction",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˌlɛktroʊmæɡˈnɛtɪk ɪnˈdʌkʃən/",
+  "ipa_uk": "/ɪˌlektrəʊmæɡˈnetɪk ɪnˈdʌkʃn/",
+  "syllables": "e·lec·tro·mag·net·ic in·duc·tion",
+  "def_en": "The production of a voltage or current in a conductor when the magnetic flux through it changes.",
+  "def_zh": "電磁感應是通過線圈的磁通量變化時產生感應電動勢與感應電流的現象，遵守法拉第定律 ε = −ΔΦ_B/Δt 與冷次定律。",
+  "example_en": "Electromagnetic induction explains how a moving magnet makes current flow in a coil.",
+  "example_zh": "電磁感應說明了移動的磁鐵如何使線圈中產生電流。",
+  "morph": [
+   {
+    "part": "in-",
+    "meaning": "向內"
+   },
+   {
+    "part": "duct",
+    "meaning": "引導"
+   },
+   {
+    "part": "-ion",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-electric-generator",
+   "t-eddy-current",
+   "t-electromagnet",
+   "t-electromagnetism"
+  ],
+  "confusables": [
+   {
+    "term": "electrostatic induction",
+    "zh": "靜電感應",
+    "note": "靜電感應是帶電體使導體電荷重新分布，與磁通量變化無關。"
+   }
+  ],
+  "illus": "induction",
+  "tf": {
+   "statement_zh": "磁鐵靜止放在線圈中，線圈會持續產生感應電流。",
+   "answer": false,
+   "explain": "必須有磁通量變化才有感應電流，磁鐵靜止時磁通量不變。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electric-resistance",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlɛktrɪk rɪˈzɪstəns/",
+  "ipa_uk": "/ɪˈlektrɪk rɪˈzɪstəns/",
+  "syllables": "e·lec·tric re·sis·tance",
+  "def_en": "How strongly a material or device opposes the flow of electric current; equal to voltage divided by current.",
+  "def_zh": "電阻表示導體阻礙電流的程度，R = V/I，單位為歐姆（Ω）；導線電阻 R = ρL/A，與長度成正比、與截面積成反比。",
+  "example_en": "A longer, thinner wire has a greater electric resistance.",
+  "example_zh": "較長、較細的導線電阻較大。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "反、回"
+   },
+   {
+    "part": "sist",
+    "meaning": "站立"
+   },
+   {
+    "part": "-ance",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-ohm",
+   "t-resistor",
+   "t-voltage",
+   "t-equivalent-resistance"
+  ],
+  "confusables": [
+   {
+    "term": "resistor",
+    "zh": "電阻器",
+    "note": "resistor 是元件；resistance 是物理量。"
+   }
+  ],
+  "illus": "circuit",
+  "tf": {
+   "statement_zh": "電阻的定義為 R = V/I，單位是歐姆（Ω）。",
+   "answer": true,
+   "explain": "1 Ω = 1 V/A。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electric-potential",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlɛktrɪk pəˈtɛnʃəl/",
+  "ipa_uk": "/ɪˈlektrɪk pəˈtenʃl/",
+  "syllables": "e·lec·tric po·ten·tial",
+  "def_en": "The electric potential energy per unit charge at a point in an electric field, measured in volts.",
+  "def_zh": "電位（電勢）是某點單位正電荷所具有的電位能，V = U/q，單位伏特（V）；點電荷的電位 V = kQ/r，為純量。",
+  "example_en": "The electric potential near a positive charge is higher than far away from it.",
+  "example_zh": "正電荷附近的電位比遠處高。",
+  "morph": [
+   {
+    "part": "potent",
+    "meaning": "有能力的"
+   },
+   {
+    "part": "-ial",
+    "meaning": "…的"
+   }
+  ],
+  "related": [
+   "t-voltage",
+   "t-electric-field",
+   "t-volt",
+   "t-electrostatic-field"
+  ],
+  "confusables": [
+   {
+    "term": "potential energy",
+    "zh": "位能",
+    "note": "電位能 U 的單位是焦耳；電位 V = U/q 的單位是伏特。"
+   }
+  ],
+  "illus": "electric-field",
+  "tf": {
+   "statement_zh": "電位和電場一樣都是向量。",
+   "answer": false,
+   "explain": "電位是純量，電場才是向量。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electric-motor",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlɛktrɪk ˈmoʊtɚ/",
+  "ipa_uk": "/ɪˈlektrɪk ˈməʊtə/",
+  "syllables": "e·lec·tric mo·tor",
+  "def_en": "A device that uses the magnetic force on current-carrying coils to turn electrical energy into rotation.",
+  "def_zh": "電動機（馬達）利用磁場對載流線圈的作用力產生轉動，把電能轉換為力學能；直流馬達以換向器使線圈持續同向轉動。",
+  "example_en": "An electric motor turns the blades of a fan.",
+  "example_zh": "電動機帶動電扇的扇葉轉動。",
+  "morph": [
+   {
+    "part": "mot-",
+    "meaning": "動"
+   },
+   {
+    "part": "-or",
+    "meaning": "…者／器"
+   }
+  ],
+  "related": [
+   "t-motor",
+   "t-commutator",
+   "t-electric-generator",
+   "t-current-loop"
+  ],
+  "confusables": [
+   {
+    "term": "electric generator",
+    "zh": "發電機",
+    "note": "構造相似，但發電機把力學能轉成電能，方向相反。"
+   }
+  ],
+  "illus": "motor-generator",
+  "tf": {
+   "statement_zh": "電動機的主要功能是把電能轉換為力學能。",
+   "answer": true,
+   "explain": "馬達通電後轉動，輸出力學能。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electric-generator",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlɛktrɪk ˈdʒɛnəˌreɪtɚ/",
+  "ipa_uk": "/ɪˈlektrɪk ˈdʒenəreɪtə/",
+  "syllables": "e·lec·tric gen·er·a·tor",
+  "def_en": "A machine that turns mechanical energy into electrical energy by rotating coils in a magnetic field.",
+  "def_zh": "發電機使線圈在磁場中轉動，造成磁通量變化而產生感應電動勢，把力學能轉換為電能，原理為電磁感應。",
+  "example_en": "A wind turbine drives an electric generator to produce electricity.",
+  "example_zh": "風力機帶動發電機發電。",
+  "morph": [
+   {
+    "part": "gener-",
+    "meaning": "產生"
+   },
+   {
+    "part": "-ator",
+    "meaning": "…器"
+   }
+  ],
+  "related": [
+   "t-electromagnetic-induction",
+   "t-electric-motor",
+   "t-commutator",
+   "t-eddy-current"
+  ],
+  "confusables": [
+   {
+    "term": "electric motor",
+    "zh": "電動機",
+    "note": "電動機把電能轉為力學能，與發電機相反。"
+   }
+  ],
+  "illus": "motor-generator",
+  "tf": {
+   "statement_zh": "發電機的原理是庫侖定律。",
+   "answer": false,
+   "explain": "發電機依據電磁感應（法拉第定律）運作。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electric-force",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlɛktrɪk ˈfɔrs/",
+  "ipa_uk": "/ɪˈlektrɪk ˈfɔːs/",
+  "syllables": "e·lec·tric force",
+  "def_en": "The attraction or repulsion between electric charges; like charges repel and unlike charges attract.",
+  "def_zh": "電力（電場力）是電荷之間的作用力，同性相斥、異性相吸；點電荷間 F = kq₁q₂/r²，電荷在電場中受力 F = qE。",
+  "example_en": "The electric force between two electrons pushes them apart.",
+  "example_zh": "兩個電子之間的電力使它們互相推開。",
+  "morph": [],
+  "related": [
+   "t-coulombs-law",
+   "t-electrostatic-force",
+   "t-electric-field",
+   "t-charge"
+  ],
+  "confusables": [
+   {
+    "term": "electric power",
+    "zh": "電功率",
+    "note": "中文都可能說「電力」，但 electric power 指單位時間的電能（W）。"
+   }
+  ],
+  "illus": "coulomb",
+  "tf": {
+   "statement_zh": "兩個帶同性電荷的物體之間的電力為斥力。",
+   "answer": true,
+   "explain": "同性電荷互相排斥。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electric-field",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlɛktrɪk ˈfild/",
+  "ipa_uk": "/ɪˈlektrɪk ˈfiːld/",
+  "syllables": "e·lec·tric field",
+  "def_en": "The region around a charge where other charges feel a force; its strength is force per unit charge.",
+  "def_zh": "電場是電荷周圍使其他電荷受力的空間，電場強度 E = F/q，單位 N/C（或 V/m），方向為正電荷受力方向。",
+  "example_en": "The electric field lines point away from a positive charge.",
+  "example_zh": "電場線由正電荷向外指出。",
+  "morph": [],
+  "related": [
+   "t-electric-force",
+   "t-electric-potential",
+   "t-electrostatic-field",
+   "t-field"
+  ],
+  "confusables": [
+   {
+    "term": "magnetic field",
+    "zh": "磁場",
+    "note": "磁場作用於運動電荷或電流；電場作用於任何電荷。"
+   }
+  ],
+  "illus": "electric-field",
+  "tf": {
+   "statement_zh": "電場的方向定義為負電荷在該處的受力方向。",
+   "answer": false,
+   "explain": "電場方向是正電荷的受力方向，負電荷受力方向相反。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electric-current",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlɛktrɪk ˈkɝənt/",
+  "ipa_uk": "/ɪˈlektrɪk ˈkʌrənt/",
+  "syllables": "e·lec·tric cur·rent",
+  "def_en": "The rate at which electric charge flows through a conductor, measured in amperes.",
+  "def_zh": "電流是單位時間通過導體截面的電量，I = Δq/Δt，單位安培（A）；規定的電流方向為正電荷移動方向。",
+  "example_en": "The electric current in the bulb is 0.5 A.",
+  "example_zh": "流過燈泡的電流是 0.5 A。",
+  "morph": [
+   {
+    "part": "curr-",
+    "meaning": "跑、流"
+   },
+   {
+    "part": "-ent",
+    "meaning": "…的"
+   }
+  ],
+  "related": [
+   "t-current",
+   "t-ampere",
+   "t-drift-velocity",
+   "t-ammeter"
+  ],
+  "confusables": [
+   {
+    "term": "electron flow",
+    "zh": "電子流",
+    "note": "電子流動方向與規定的電流方向相反。"
+   }
+  ],
+  "illus": "circuit",
+  "tf": {
+   "statement_zh": "金屬導線中的電流方向與電子移動方向相反。",
+   "answer": true,
+   "explain": "電子帶負電，規定電流方向為正電荷移動方向。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-elastic-potential",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlæstɪk pəˈtɛnʃəl/",
+  "ipa_uk": "/ɪˈlæstɪk pəˈtenʃl/",
+  "syllables": "e·las·tic po·ten·tial",
+  "def_en": "Energy stored in a stretched or compressed elastic object such as a spring; usually called elastic potential energy.",
+  "def_zh": "彈性勢即彈性位能，物體因彈性形變而儲存的能量；彈簧的彈性位能 U = ½kx²，x 為形變量。",
+  "example_en": "The elastic potential stored in a stretched bow becomes the arrow's kinetic energy.",
+  "example_zh": "拉開的弓所儲存的彈性位能轉為箭的動能。",
+  "morph": [
+   {
+    "part": "elast-",
+    "meaning": "推動、彈回"
+   }
+  ],
+  "related": [
+   "t-elastic",
+   "t-force-constant",
+   "t-elastic-force",
+   "t-energy"
+  ],
+  "confusables": [
+   {
+    "term": "gravitational potential energy",
+    "zh": "重力位能",
+    "note": "重力位能取決於高度，彈性位能取決於形變量。"
+   }
+  ],
+  "illus": "spring",
+  "tf": {
+   "statement_zh": "彈簧只有在被拉長時才儲存彈性位能，被壓縮時不會。",
+   "answer": false,
+   "explain": "U = ½kx²，拉長或壓縮相同的 x 都儲存相同位能。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-elastic-force",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlæstɪk ˈfɔrs/",
+  "ipa_uk": "/ɪˈlæstɪk ˈfɔːs/",
+  "syllables": "e·las·tic force",
+  "def_en": "The restoring force produced by a deformed elastic object, pushing or pulling it back to its original shape.",
+  "def_zh": "彈力是物體發生彈性形變時產生、欲恢復原狀的力；在彈性限度內遵守虎克定律 F = −kx。",
+  "example_en": "The elastic force of the spring pulls the block back toward its starting point.",
+  "example_zh": "彈簧的彈力把木塊拉回起始位置。",
+  "morph": [
+   {
+    "part": "elast-",
+    "meaning": "推動、彈回"
+   }
+  ],
+  "related": [
+   "t-force-constant",
+   "t-elastic",
+   "t-elastic-potential",
+   "t-force"
+  ],
+  "confusables": [],
+  "illus": "spring",
+  "tf": {
+   "statement_zh": "在彈性限度內，彈簧的彈力大小與形變量成正比。",
+   "answer": true,
+   "explain": "虎克定律 F = kx。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-elastic-collision",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɪˈlæstɪk kəˈlɪʒən/",
+  "ipa_uk": "/ɪˈlæstɪk kəˈlɪʒn/",
+  "syllables": "e·las·tic col·li·sion",
+  "def_en": "A collision in which both total momentum and total kinetic energy of the objects are conserved.",
+  "def_zh": "彈性碰撞中系統的總動量與總動能都守恆，恢復係數 e = 1；理想的撞球碰撞接近彈性碰撞。",
+  "example_en": "In an elastic collision, the two balls bounce apart with no loss of kinetic energy.",
+  "example_zh": "在彈性碰撞中，兩球彈開，動能沒有損失。",
+  "morph": [
+   {
+    "part": "col-",
+    "meaning": "一起"
+   },
+   {
+    "part": "lis",
+    "meaning": "撞擊"
+   }
+  ],
+  "related": [
+   "t-collision",
+   "t-restitution",
+   "t-conservation",
+   "t-impulse"
+  ],
+  "confusables": [
+   {
+    "term": "inelastic collision",
+    "zh": "非彈性碰撞",
+    "note": "非彈性碰撞動量守恆但動能減少。"
+   }
+  ],
+  "illus": "collision",
+  "tf": {
+   "statement_zh": "彈性碰撞中只有動量守恆，總動能一定減少。",
+   "answer": false,
+   "explain": "彈性碰撞動量與動能都守恆。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-drift-velocity",
+  "unit": "u09",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈdrɪft vəˈlɑsəti/",
+  "ipa_uk": "/ˈdrɪft vəˈlɒsəti/",
+  "syllables": "drift ve·loc·i·ty",
+  "def_en": "The small average velocity of charge carriers moving through a conductor because of an electric field.",
+  "def_zh": "漂移速度是載子在電場作用下的平均定向速度，I = nqAv_d；金屬中通常只有約 10⁻⁴ m/s 的量級。",
+  "example_en": "The drift velocity of electrons in a copper wire is less than a millimeter per second.",
+  "example_zh": "銅線中電子的漂移速度每秒不到一毫米。",
+  "morph": [],
+  "related": [
+   "t-electric-current",
+   "t-carrier",
+   "t-electron",
+   "t-current"
+  ],
+  "confusables": [],
+  "illus": "circuit",
+  "tf": {
+   "statement_zh": "導線中電子的漂移速度遠小於電訊號在電路中傳遞的速度。",
+   "answer": true,
+   "explain": "電子漂移很慢，但電場幾乎以光速建立，電燈開關一按就亮。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-down-quark",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈdaʊn ˈkwɔrk/",
+  "ipa_uk": "/ˈdaʊn ˈkwɔːk/",
+  "syllables": "down quark",
+  "def_en": "A light quark with electric charge −1/3 e; protons contain one and neutrons contain two.",
+  "def_zh": "下夸克是第一代夸克之一，電荷 −⅓e；質子由 uud、中子由 udd 組成。",
+  "example_en": "A neutron is made of one up quark and two down quarks.",
+  "example_zh": "中子由一個上夸克和兩個下夸克組成。",
+  "morph": [],
+  "related": [
+   "t-elementary-particle",
+   "t-neutron",
+   "t-fermion",
+   "t-weak-interaction"
+  ],
+  "confusables": [
+   {
+    "term": "up quark",
+    "zh": "上夸克",
+    "note": "上夸克電荷 +⅔e，下夸克 −⅓e。"
+   }
+  ],
+  "illus": "particles",
+  "tf": {
+   "statement_zh": "質子由兩個下夸克和一個上夸克組成。",
+   "answer": false,
+   "explain": "質子是 uud（兩個上、一個下），udd 是中子。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-dissipative-force",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈdɪsəˌpeɪtɪv ˈfɔrs/",
+  "ipa_uk": "/ˈdɪsɪpeɪtɪv ˈfɔːs/",
+  "syllables": "dis·si·pa·tive force",
+  "def_en": "A force, such as kinetic friction or air drag, that turns mechanical energy into heat and other forms.",
+  "def_zh": "耗散力是使力學能轉變為熱能等其他形式而減少的力，如動摩擦力、空氣阻力；屬於非保守力。",
+  "example_en": "Air resistance is a dissipative force that slows a falling leaf.",
+  "example_zh": "空氣阻力是一種耗散力，使飄落的樹葉減速。",
+  "morph": [
+   {
+    "part": "dis-",
+    "meaning": "分散"
+   },
+   {
+    "part": "-ive",
+    "meaning": "…的"
+   }
+  ],
+  "related": [
+   "t-friction",
+   "t-kinetic-friction",
+   "t-thermal-energy",
+   "t-work"
+  ],
+  "confusables": [
+   {
+    "term": "conservative force",
+    "zh": "保守力",
+    "note": "保守力（如重力）作功與路徑無關，不會損失力學能。"
+   }
+  ],
+  "illus": "work-energy",
+  "tf": {
+   "statement_zh": "動摩擦力是耗散力，會使系統的力學能減少。",
+   "answer": true,
+   "explain": "動摩擦力作負功，把力學能轉為熱能。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-discrete-spectrum",
+  "unit": "u12",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/dɪˈskrit ˈspɛktrəm/",
+  "ipa_uk": "/dɪˈskriːt ˈspektrəm/",
+  "syllables": "dis·crete spec·trum",
+  "def_en": "A spectrum made of separate lines at particular wavelengths, as produced by atoms of a gas.",
+  "def_zh": "離散譜（線光譜）只在特定波長出現分立的亮線或暗線，來自原子能階的量子化，例如低壓氫氣的發射光譜。",
+  "example_en": "Hydrogen gas in a discharge tube gives a discrete spectrum of bright lines.",
+  "example_zh": "放電管中的氫氣產生由亮線組成的離散譜。",
+  "morph": [
+   {
+    "part": "dis-",
+    "meaning": "分開"
+   },
+   {
+    "part": "cret",
+    "meaning": "分辨"
+   }
+  ],
+  "related": [
+   "t-emission-spectrum",
+   "t-continuous-spectrum",
+   "t-energy-level",
+   "t-balmer-series"
+  ],
+  "confusables": [
+   {
+    "term": "discreet",
+    "zh": "謹慎的",
+    "note": "同音異義字，discreet 是一般形容詞，與物理無關。"
+   }
+  ],
+  "illus": "spectra",
+  "tf": {
+   "statement_zh": "熾熱的固體會發出離散譜。",
+   "answer": false,
+   "explain": "熾熱固體發出連續光譜，低壓氣體才發出離散的線光譜。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-diesel-engine",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈdizəl ˈɛndʒən/",
+  "ipa_uk": "/ˈdiːzl ˈendʒɪn/",
+  "syllables": "die·sel en·gine",
+  "def_en": "An internal combustion engine in which fuel ignites from the heat of highly compressed air, without a spark plug.",
+  "def_zh": "柴油機是內燃機，壓縮行程把空氣壓縮至高溫，噴入柴油後自燃，不需火星塞；以發明者狄塞爾（Diesel）命名。",
+  "example_en": "Trucks often use a diesel engine because it is efficient under heavy loads.",
+  "example_zh": "卡車常使用柴油機，因為它在重負載下效率高。",
+  "morph": [],
+  "related": [
+   "t-gasoline-engine",
+   "t-compression",
+   "t-adiabatic-process",
+   "t-thermal-energy"
+  ],
+  "confusables": [
+   {
+    "term": "gasoline engine",
+    "zh": "汽油引擎",
+    "note": "汽油引擎靠火星塞點火；柴油機靠壓縮升溫自燃。"
+   }
+  ],
+  "illus": "heat-engine",
+  "tf": {
+   "statement_zh": "柴油機靠壓縮空氣升溫使燃料自燃，不需要火星塞。",
+   "answer": true,
+   "explain": "這是柴油機（壓燃式）與汽油引擎的主要差別。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cyclotron-frequency",
+  "unit": "u10",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsaɪkləˌtrɑn ˈfrikwənsi/",
+  "ipa_uk": "/ˈsaɪklətrɒn ˈfriːkwənsi/",
+  "syllables": "cy·clo·tron fre·quen·cy",
+  "def_en": "The frequency at which a charged particle circles in a uniform magnetic field, f = qB/(2πm).",
+  "def_zh": "迴旋頻率是帶電粒子在均勻磁場中做圓周運動的頻率 f = qB/(2πm)，在非相對論情況下與速率無關。",
+  "example_en": "The cyclotron frequency of a proton depends on the magnetic field but not on its speed.",
+  "example_zh": "質子的迴旋頻率取決於磁場，而與速率無關。",
+  "morph": [
+   {
+    "part": "cyclo-",
+    "meaning": "圓、環"
+   },
+   {
+    "part": "-tron",
+    "meaning": "儀器"
+   }
+  ],
+  "related": [
+   "t-cyclotron",
+   "t-frequency",
+   "t-angular-frequency",
+   "t-period"
+  ],
+  "confusables": [],
+  "illus": "cyclotron",
+  "tf": {
+   "statement_zh": "帶電粒子的迴旋頻率與其速率成正比。",
+   "answer": false,
+   "explain": "r = mv/(qB) 隨速率增加，但 f = qB/(2πm) 與速率無關（非相對論）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-current-strength",
+  "unit": "u09",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkɝənt ˈstrɛŋkθ/",
+  "ipa_uk": "/ˈkʌrənt ˈstreŋθ/",
+  "syllables": "cur·rent strength",
+  "def_en": "An older term for the size of an electric current, the charge passing a point per second.",
+  "def_zh": "電流強度即電流的大小，單位時間通過導體截面的電量 I = Δq/Δt，SI 單位為安培（A）；現多直接稱電流。",
+  "example_en": "The current strength in the circuit was measured with an ammeter.",
+  "example_zh": "電路中的電流強度用安培計測量。",
+  "morph": [],
+  "related": [
+   "t-electric-current",
+   "t-ampere",
+   "t-ammeter",
+   "t-current"
+  ],
+  "confusables": [],
+  "illus": "meters",
+  "tf": {
+   "statement_zh": "電流強度的 SI 單位是安培（A）。",
+   "answer": true,
+   "explain": "安培是 SI 七個基本單位之一。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-current-loop",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkɝənt ˈlup/",
+  "ipa_uk": "/ˈkʌrənt ˈluːp/",
+  "syllables": "cur·rent loop",
+  "def_en": "A closed loop of wire carrying current; it produces a magnetic field like a small bar magnet.",
+  "def_zh": "電流迴路是載有電流的封閉線圈，會產生類似小磁棒的磁場（磁偶極）；在磁場中會受力矩而轉動，為馬達的原理。",
+  "example_en": "A current loop placed in a magnetic field feels a torque that makes it rotate.",
+  "example_zh": "放在磁場中的電流迴路會受到力矩而轉動。",
+  "morph": [],
+  "related": [
+   "t-electromagnet",
+   "t-electric-motor",
+   "t-permeability"
+  ],
+  "confusables": [],
+  "illus": "electromagnet",
+  "tf": {
+   "statement_zh": "均勻磁場中的電流迴路所受的力矩一定為零。",
+   "answer": false,
+   "explain": "均勻磁場中合力為零，但一般會受到力矩，馬達就是靠此轉動。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-critical-temperature",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkrɪtɪkəl ˈtɛmpərətʃɚ/",
+  "ipa_uk": "/ˈkrɪtɪkl ˈtemprətʃə/",
+  "syllables": "crit·i·cal tem·per·a·ture",
+  "def_en": "The temperature below which a material becomes superconducting; also the highest temperature at which a gas can be liquefied by pressure.",
+  "def_zh": "臨界溫度 T_c：超導體在此溫度以下電阻降為零；在相圖中則指氣體能被加壓液化的最高溫度（臨界點溫度）。",
+  "example_en": "Mercury becomes a superconductor below its critical temperature of about 4.2 K.",
+  "example_zh": "水銀在約 4.2 K 的臨界溫度以下成為超導體。",
+  "morph": [
+   {
+    "part": "crit-",
+    "meaning": "判斷、分界"
+   }
+  ],
+  "related": [
+   "t-superconductor",
+   "t-phase-diagram",
+   "t-absolute-zero",
+   "t-electric-resistance"
+  ],
+  "confusables": [],
+  "illus": "superconductor",
+  "tf": {
+   "statement_zh": "溫度低於臨界溫度時，超導體的電阻降為零。",
+   "answer": true,
+   "explain": "這是超導現象的定義特徵。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-critical-angle",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkrɪtɪkəl ˈæŋɡəl/",
+  "ipa_uk": "/ˈkrɪtɪkl ˈæŋɡl/",
+  "syllables": "crit·i·cal an·gle",
+  "def_en": "The angle of incidence above which light going into a less dense medium is totally reflected.",
+  "def_zh": "臨界角是光由光密介質射向光疏介質時，折射角為 90° 的入射角，sin θc = n₂/n₁；入射角大於臨界角便發生全反射。",
+  "example_en": "The critical angle for light going from glass to air is about 42°.",
+  "example_zh": "光由玻璃射向空氣的臨界角約為 42°。",
+  "morph": [
+   {
+    "part": "crit-",
+    "meaning": "判斷、分界"
+   }
+  ],
+  "related": [
+   "t-refraction",
+   "t-index-of-refraction",
+   "t-fiber-optics",
+   "t-cladding"
+  ],
+  "confusables": [
+   {
+    "term": "grazing angle",
+    "zh": "掠射角",
+    "note": "掠射角是光線與界面之間的夾角，不是與法線的夾角。"
+   }
+  ],
+  "illus": "total-reflection",
+  "tf": {
+   "statement_zh": "光從空氣射入水中時，入射角大於臨界角就會發生全反射。",
+   "answer": false,
+   "explain": "全反射只發生在光由光密介質（如水）射向光疏介質（如空氣）時。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-coulombs-law",
+  "unit": "u09",
+  "level": 1,
+  "pos": "proper n. phr.",
+  "ipa_us": "/ˈkuˌlɑmz ˈlɔ/",
+  "ipa_uk": "/ˈkuːlɒmz ˈlɔː/",
+  "syllables": "Cou·lomb's law",
+  "def_en": "The law stating that the force between two point charges is proportional to their charges and inversely proportional to distance squared.",
+  "def_zh": "庫侖定律：兩點電荷間的靜電力 F = kq₁q₂/r²，k ≈ 9.0×10⁹ N·m²/C²，方向沿兩電荷連線。",
+  "example_en": "Coulomb's law shows that doubling the distance makes the force one quarter as large.",
+  "example_zh": "庫侖定律顯示，距離加倍時力變為原來的四分之一。",
+  "morph": [],
+  "related": [
+   "t-electric-force",
+   "t-electrostatic-force",
+   "t-charge",
+   "t-elementary-charge"
+  ],
+  "confusables": [
+   {
+    "term": "Newton's law of gravitation",
+    "zh": "萬有引力定律",
+    "note": "形式相似（平方反比），但重力只有吸引，靜電力可吸引或排斥。"
+   }
+  ],
+  "illus": "coulomb",
+  "tf": {
+   "statement_zh": "依庫侖定律，兩點電荷距離加倍時靜電力變為原來的 1/4。",
+   "answer": true,
+   "explain": "F ∝ 1/r²，r 變 2 倍，F 變 1/4。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-coulomb-blockade",
+  "unit": "u11",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkuˌlɑm blɑˈkeɪd/",
+  "ipa_uk": "/ˈkuːlɒm blɒˈkeɪd/",
+  "syllables": "Cou·lomb block·ade",
+  "def_en": "The blocking of current through a tiny conducting island because adding one more electron requires extra charging energy.",
+  "def_zh": "庫侖阻塞（原文「庫侖障礙」）：在極小的導體島（如量子點）中，加入一個電子需克服充電能 e²/2C，低溫低偏壓下電流被阻斷。",
+  "example_en": "Coulomb blockade lets a single-electron transistor control current one electron at a time.",
+  "example_zh": "庫侖阻塞讓單電子電晶體能一次一個電子地控制電流。",
+  "morph": [
+   {
+    "part": "block",
+    "meaning": "阻擋"
+   },
+   {
+    "part": "-ade",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-ballistic-transport",
+   "t-quantum-effect",
+   "t-elementary-charge",
+   "t-capacitance"
+  ],
+  "confusables": [],
+  "illus": "coulomb",
+  "tf": {
+   "statement_zh": "庫侖阻塞在室溫下的一般大型金屬導線中很容易觀察到。",
+   "answer": false,
+   "explain": "需極小的電容（奈米尺度）與低溫，使充電能遠大於熱能才明顯。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-convex-lens",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkɑnvɛks ˈlɛnz/",
+  "ipa_uk": "/ˈkɒnveks ˈlenz/",
+  "syllables": "con·vex lens",
+  "def_en": "A lens thicker in the middle than at the edges that brings parallel light rays together at a focus.",
+  "def_zh": "凸透鏡中央厚、邊緣薄，可使平行光會聚於焦點，又稱會聚透鏡；物體在焦距外成倒立實像，焦距內成正立放大虛像。",
+  "example_en": "A magnifying glass is a convex lens.",
+  "example_zh": "放大鏡就是一種凸透鏡。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "一起"
+   },
+   {
+    "part": "vex",
+    "meaning": "拱起"
+   }
+  ],
+  "related": [
+   "t-converging-lens",
+   "t-focal-length",
+   "t-focal-point",
+   "t-lens"
+  ],
+  "confusables": [
+   {
+    "term": "concave lens",
+    "zh": "凹透鏡",
+    "note": "凹透鏡中央薄、使光發散。"
+   }
+  ],
+  "illus": "convex-lens",
+  "tf": {
+   "statement_zh": "凸透鏡的中央比邊緣厚。",
+   "answer": true,
+   "explain": "凸透鏡中央厚、邊緣薄。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-converging-lens",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/kənˈvɝdʒɪŋ ˈlɛnz/",
+  "ipa_uk": "/kənˈvɜːdʒɪŋ ˈlenz/",
+  "syllables": "con·verg·ing lens",
+  "def_en": "A lens that bends parallel light rays so they meet at a focal point; in air, a convex lens.",
+  "def_zh": "會聚透鏡使平行光折射後會聚於焦點，焦距為正；在空氣中的凸透鏡即會聚透鏡。",
+  "example_en": "A converging lens can focus sunlight to a bright spot.",
+  "example_zh": "會聚透鏡可以把陽光聚焦成一個亮點。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "一起"
+   },
+   {
+    "part": "verg",
+    "meaning": "轉向"
+   }
+  ],
+  "related": [
+   "t-convex-lens",
+   "t-focal-point",
+   "t-focal-length",
+   "t-focus"
+  ],
+  "confusables": [
+   {
+    "term": "diverging lens",
+    "zh": "發散透鏡",
+    "note": "發散透鏡使光散開，焦距為負。"
+   }
+  ],
+  "illus": "convex-lens",
+  "tf": {
+   "statement_zh": "會聚透鏡只能形成實像。",
+   "answer": false,
+   "explain": "物體在焦距以內時，會聚透鏡形成正立放大的虛像（放大鏡）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-continuous-spectrum",
+  "unit": "u12",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/kənˈtɪnjuəs ˈspɛktrəm/",
+  "ipa_uk": "/kənˈtɪnjuəs ˈspektrəm/",
+  "syllables": "con·tin·u·ous spec·trum",
+  "def_en": "A spectrum containing all wavelengths in a range without gaps, such as light from a hot solid.",
+  "def_zh": "連續光譜包含某範圍內所有波長、沒有間斷，如熾熱固體、白熾燈絲或太陽的光經三稜鏡分出的彩虹色帶。",
+  "example_en": "A glowing light bulb filament gives a continuous spectrum.",
+  "example_zh": "發光的燈絲產生連續光譜。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "一起"
+   },
+   {
+    "part": "tin",
+    "meaning": "握持"
+   }
+  ],
+  "related": [
+   "t-discrete-spectrum",
+   "t-emission-spectrum",
+   "t-absorption-spectrum",
+   "t-dispersion"
+  ],
+  "confusables": [],
+  "illus": "spectra",
+  "tf": {
+   "statement_zh": "白熾燈泡的燈絲發出連續光譜。",
+   "answer": true,
+   "explain": "熾熱固體發出各種波長的光。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-conservation-of-mass",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌkɑnsɚˈveɪʃən əv ˈmæs/",
+  "ipa_uk": "/ˌkɒnsəˈveɪʃn əv ˈmæs/",
+  "syllables": "con·ser·va·tion of mass",
+  "def_en": "The principle that the total mass in a closed system stays the same during ordinary physical and chemical changes.",
+  "def_zh": "質量守恆：封閉系統在一般物理與化學變化中總質量不變；在核反應中靜止質量可轉為能量（E = mc²），需改用質能守恆。",
+  "example_en": "Burning wood in a sealed container obeys conservation of mass.",
+  "example_zh": "在密封容器中燃燒木頭遵守質量守恆。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "完全"
+   },
+   {
+    "part": "serv",
+    "meaning": "保存"
+   }
+  ],
+  "related": [
+   "t-conservation",
+   "t-binding-energy",
+   "t-fission",
+   "t-fusion"
+  ],
+  "confusables": [
+   {
+    "term": "conservation of energy",
+    "zh": "能量守恆",
+    "note": "相對論把兩者合併為質能守恆。"
+   }
+  ],
+  "illus": "fission-fusion",
+  "tf": {
+   "statement_zh": "在核反應中，反應前後的靜止質量總和嚴格守恆。",
+   "answer": false,
+   "explain": "核反應有質量虧損，減少的質量轉換成能量 E = Δmc²。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-concave-mirror",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/kɑnˈkeɪv ˈmɪrɚ/",
+  "ipa_uk": "/kɒnˈkeɪv ˈmɪrə/",
+  "syllables": "con·cave mir·ror",
+  "def_en": "A mirror curved inward like the inside of a spoon that reflects parallel rays to a focus.",
+  "def_zh": "凹面鏡的反射面向內凹，可使平行光反射後會聚於焦點，焦距 f = R/2；常用於手電筒、望遠鏡。",
+  "example_en": "A concave mirror in a flashlight sends the light out in a parallel beam.",
+  "example_zh": "手電筒裡的凹面鏡把光反射成平行光束。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "完全"
+   },
+   {
+    "part": "cav",
+    "meaning": "中空"
+   }
+  ],
+  "related": [
+   "t-mirror",
+   "t-focal-point",
+   "t-focal-length",
+   "t-convex-lens"
+  ],
+  "confusables": [
+   {
+    "term": "convex mirror",
+    "zh": "凸面鏡",
+    "note": "凸面鏡使光發散，常用於路口反光鏡。"
+   }
+  ],
+  "illus": "concave-mirror",
+  "tf": {
+   "statement_zh": "球面凹面鏡的焦距約等於曲率半徑的一半。",
+   "answer": true,
+   "explain": "近軸光線下 f = R/2。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-concave-lens",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/kɑnˈkeɪv ˈlɛnz/",
+  "ipa_uk": "/kɒnˈkeɪv ˈlenz/",
+  "syllables": "con·cave lens",
+  "def_en": "A lens thinner in the middle than at the edges that spreads parallel light rays apart.",
+  "def_zh": "凹透鏡中央薄、邊緣厚，使平行光發散，其延長線交於虛焦點；對實物只成正立縮小虛像，可矯正近視。",
+  "example_en": "Glasses for nearsighted people use a concave lens.",
+  "example_zh": "近視眼鏡使用凹透鏡。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "完全"
+   },
+   {
+    "part": "cav",
+    "meaning": "中空"
+   }
+  ],
+  "related": [
+   "t-myopia",
+   "t-lens",
+   "t-focal-point",
+   "t-convex-lens"
+  ],
+  "confusables": [
+   {
+    "term": "concave mirror",
+    "zh": "凹面鏡",
+    "note": "凹面鏡使光會聚，凹透鏡使光發散，效果相反。"
+   }
+  ],
+  "illus": "concave-lens",
+  "tf": {
+   "statement_zh": "凹透鏡可以把實物成像為放大的實像。",
+   "answer": false,
+   "explain": "凹透鏡對實物只成正立、縮小的虛像。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cohesive-force",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/koʊˈhisɪv ˈfɔrs/",
+  "ipa_uk": "/kəʊˈhiːsɪv ˈfɔːs/",
+  "syllables": "co·he·sive force",
+  "def_en": "The attractive force between molecules of the same substance, which causes surface tension.",
+  "def_zh": "內聚力是同種物質分子之間的吸引力，造成表面張力與水滴成球形；與附著力的大小關係決定毛細現象中液面升或降。",
+  "example_en": "Cohesive force makes water form round droplets on a leaf.",
+  "example_zh": "內聚力使水在葉片上形成圓滾滾的水滴。",
+  "morph": [
+   {
+    "part": "co-",
+    "meaning": "一起"
+   },
+   {
+    "part": "hes",
+    "meaning": "黏著"
+   }
+  ],
+  "related": [
+   "t-adhesive-force",
+   "t-capillarity",
+   "t-wetting",
+   "t-cohesive"
+  ],
+  "confusables": [
+   {
+    "term": "adhesive force",
+    "zh": "附著力",
+    "note": "附著力是不同物質分子間的吸引力。"
+   }
+  ],
+  "illus": "capillarity",
+  "tf": {
+   "statement_zh": "水銀在細玻璃管中下降，是因為水銀的內聚力大於它與玻璃之間的附著力。",
+   "answer": true,
+   "explain": "內聚力 > 附著力時液面下降且呈凸面。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-classical-physics",
+  "unit": "u01",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈklæsɪkəl ˈfɪzɪks/",
+  "ipa_uk": "/ˈklæsɪkl ˈfɪzɪks/",
+  "syllables": "clas·si·cal phys·ics",
+  "def_en": "Physics developed before about 1900, including Newtonian mechanics, thermodynamics and electromagnetism, without quantum theory or relativity.",
+  "def_zh": "古典物理指約 1900 年以前建立的物理，包括牛頓力學、熱學與馬克士威電磁學，不含量子論與相對論。",
+  "example_en": "Classical physics works well for cars and planets but fails inside atoms.",
+  "example_zh": "古典物理適用於汽車和行星，但在原子內部就不適用了。",
+  "morph": [
+   {
+    "part": "phys-",
+    "meaning": "自然"
+   },
+   {
+    "part": "-ics",
+    "meaning": "學科"
+   }
+  ],
+  "related": [
+   "t-classical",
+   "t-mechanics",
+   "t-quantum-theory",
+   "t-ether"
+  ],
+  "confusables": [
+   {
+    "term": "modern physics",
+    "zh": "近代物理",
+    "note": "近代物理包含量子力學與相對論。"
+   }
+  ],
+  "illus": "history",
+  "tf": {
+   "statement_zh": "古典物理可以完整解釋黑體輻射與光電效應。",
+   "answer": false,
+   "explain": "這兩個現象需要量子論才能解釋，促成近代物理的誕生。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-charge-coupled-device",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈtʃɑrdʒ ˌkʌpəld dɪˈvaɪs/",
+  "ipa_uk": "/ˈtʃɑːdʒ ˌkʌpld dɪˈvaɪs/",
+  "syllables": "charge-cou·pled de·vice",
+  "def_en": "An image sensor chip whose pixels turn light into electric charge, which is shifted out and read as a picture.",
+  "def_zh": "電荷耦合元件（簡稱 CCD）是影像感測晶片，每個像素利用光電效應把光轉為電荷，再依序轉移讀出形成影像。",
+  "example_en": "The telescope camera uses a charge-coupled device to record faint starlight.",
+  "example_zh": "望遠鏡的相機使用電荷耦合元件記錄微弱的星光。",
+  "morph": [
+   {
+    "part": "co-",
+    "meaning": "一起"
+   },
+   {
+    "part": "-ple",
+    "meaning": "連結"
+   }
+  ],
+  "related": [
+   "t-pixel",
+   "t-chip",
+   "t-wafer",
+   "t-detector"
+  ],
+  "confusables": [
+   {
+    "term": "CMOS sensor",
+    "zh": "CMOS 影像感測器",
+    "note": "另一種影像感測器，各像素自帶放大電路，手機多用。"
+   }
+  ],
+  "illus": "ccd",
+  "tf": {
+   "statement_zh": "CCD 利用光電效應把入射光轉換成電荷。",
+   "answer": true,
+   "explain": "光子在半導體中激發電子，累積成電荷訊號。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-chain-reaction",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈtʃeɪn riˈækʃən/",
+  "ipa_uk": "/ˈtʃeɪn riˈækʃn/",
+  "syllables": "chain re·ac·tion",
+  "def_en": "A self-sustaining series of nuclear fissions in which neutrons released by one fission cause further fissions.",
+  "def_zh": "連鎖反應是核分裂放出的中子再引發其他原子核分裂、使反應持續進行的過程；核電廠以控制棒吸收中子控制其速率。",
+  "example_en": "Control rods absorb neutrons to keep the chain reaction in a reactor steady.",
+  "example_zh": "控制棒吸收中子，使反應爐中的連鎖反應保持穩定。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "回"
+   },
+   {
+    "part": "act",
+    "meaning": "做"
+   }
+  ],
+  "related": [
+   "t-fission",
+   "t-neutron",
+   "t-binding-energy",
+   "t-atomic-nucleus"
+  ],
+  "confusables": [],
+  "illus": "fission-fusion",
+  "tf": {
+   "statement_zh": "核融合是靠中子引發的連鎖反應持續進行。",
+   "answer": false,
+   "explain": "中子引發的連鎖反應是核分裂的特徵；核融合需高溫高壓。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-centripetal-acceleration",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/sɛnˈtrɪpətəl əkˌsɛləˈreɪʃən/",
+  "ipa_uk": "/senˈtrɪpɪtl əkˌseləˈreɪʃn/",
+  "syllables": "cen·trip·e·tal ac·cel·er·a·tion",
+  "def_en": "The acceleration of an object moving in a circle, directed toward the center, with size v²/r.",
+  "def_zh": "向心加速度是圓周運動物體指向圓心的加速度，a_c = v²/r = rω²；它改變速度方向而不改變速率。",
+  "example_en": "A car turning a corner has a centripetal acceleration toward the center of the curve.",
+  "example_zh": "轉彎的汽車具有指向彎道中心的向心加速度。",
+  "morph": [
+   {
+    "part": "centr-",
+    "meaning": "中心"
+   },
+   {
+    "part": "-pet",
+    "meaning": "趨向"
+   }
+  ],
+  "related": [
+   "t-acceleration",
+   "t-circular",
+   "t-rotation",
+   "t-angular-frequency"
+  ],
+  "confusables": [
+   {
+    "term": "centrifugal force",
+    "zh": "離心力",
+    "note": "離心力是轉動座標系中的假想力，方向向外。"
+   }
+  ],
+  "illus": "circular-motion",
+  "tf": {
+   "statement_zh": "等速率圓周運動的向心加速度大小為 v²/r，方向指向圓心。",
+   "answer": true,
+   "explain": "公式 a_c = v²/r。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-center-of-gravity",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɛntɚ əv ˈɡrævəti/",
+  "ipa_uk": "/ˈsentər əv ˈɡrævəti/",
+  "syllables": "cen·ter of grav·i·ty",
+  "def_en": "The point where the whole weight of an object can be considered to act.",
+  "def_zh": "重心是物體所受重力的等效作用點；均勻重力場中與質心重合，支撐點在重心正下方（或上方懸掛）時可保持平衡。",
+  "example_en": "A low center of gravity makes a racing car hard to tip over.",
+  "example_zh": "低重心使賽車不容易翻覆。",
+  "morph": [
+   {
+    "part": "grav-",
+    "meaning": "重"
+   }
+  ],
+  "related": [
+   "t-equilibrium",
+   "t-weight",
+   "t-gravity",
+   "t-arm-of-force"
+  ],
+  "confusables": [
+   {
+    "term": "center of mass",
+    "zh": "質心",
+    "note": "均勻重力場中兩者重合，但定義不同。"
+   }
+  ],
+  "illus": "center-of-gravity",
+  "tf": {
+   "statement_zh": "物體的重心一定位於物體內部。",
+   "answer": false,
+   "explain": "圓環、馬蹄鐵的重心在物體之外的空處。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-celsius-degree",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɛlsiəs dɪˈɡri/",
+  "ipa_uk": "/ˈselsiəs dɪˈɡriː/",
+  "syllables": "Cel·si·us de·gree",
+  "def_en": "The unit of the Celsius temperature scale, on which water freezes at 0 °C and boils at 100 °C at 1 atm.",
+  "def_zh": "攝氏度（°C）是攝氏溫標的單位，1 大氣壓下水的冰點 0 °C、沸點 100 °C；1 °C 的溫差等於 1 K，T(K) = t(°C) + 273.15。",
+  "example_en": "A temperature change of one Celsius degree equals a change of one kelvin.",
+  "example_zh": "溫度變化一攝氏度等於變化一克耳文。",
+  "morph": [],
+  "related": [
+   "t-fahrenheit-scale",
+   "t-thermometer",
+   "t-absolute-zero",
+   "t-boiling-point"
+  ],
+  "confusables": [
+   {
+    "term": "Fahrenheit degree",
+    "zh": "華氏度",
+    "note": "1 °F 的溫差只有 5/9 °C。"
+   }
+  ],
+  "illus": "thermometer-scales",
+  "tf": {
+   "statement_zh": "溫度差 1 °C 與溫度差 1 K 大小相同。",
+   "answer": true,
+   "explain": "攝氏與克氏溫標刻度間隔相同，只差零點。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cathode-ray",
+  "unit": "u12",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkæθoʊd ˈreɪ/",
+  "ipa_uk": "/ˈkæθəʊd ˈreɪ/",
+  "syllables": "cath·ode ray",
+  "def_en": "A stream of electrons emitted from the cathode of a vacuum tube, deflected by electric and magnetic fields.",
+  "def_zh": "陰極射線是真空管中由陰極射出的電子束，可被電場與磁場偏折；湯姆森據此於 1897 年發現電子並測得荷質比。",
+  "example_en": "J. J. Thomson showed that a cathode ray is made of negatively charged particles.",
+  "example_zh": "湯姆森證明陰極射線是由帶負電的粒子組成。",
+  "morph": [
+   {
+    "part": "cata-",
+    "meaning": "向下"
+   },
+   {
+    "part": "-ode",
+    "meaning": "路徑"
+   }
+  ],
+  "related": [
+   "t-cathode",
+   "t-electron",
+   "t-anode",
+   "t-x-ray"
+  ],
+  "confusables": [],
+  "illus": "electric-field",
+  "tf": {
+   "statement_zh": "陰極射線是一種電磁波。",
+   "answer": false,
+   "explain": "陰極射線是電子束，會被電場、磁場偏折，電磁波則不會。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-brownian-motion",
+  "unit": "u05",
+  "level": 1,
+  "pos": "proper n. phr.",
+  "ipa_us": "/ˈbraʊniən ˈmoʊʃən/",
+  "ipa_uk": "/ˈbraʊniən ˈməʊʃn/",
+  "syllables": "Brown·i·an mo·tion",
+  "def_en": "The random zigzag movement of tiny particles in a fluid caused by collisions with fast-moving molecules.",
+  "def_zh": "布朗運動是懸浮在流體中的微粒因受周圍分子不均勻撞擊而做的不規則運動，是分子存在與熱運動的證據。",
+  "example_en": "Pollen grains in water show Brownian motion under a microscope.",
+  "example_zh": "在顯微鏡下，水中的花粉微粒呈現布朗運動。",
+  "morph": [],
+  "related": [
+   "t-diffusion",
+   "t-thermal-energy",
+   "t-fluid",
+   "t-liquid"
+  ],
+  "confusables": [],
+  "illus": "brownian",
+  "tf": {
+   "statement_zh": "布朗運動是液體分子不規則撞擊懸浮微粒所造成的。",
+   "answer": true,
+   "explain": "愛因斯坦 1905 年以此理論支持分子存在。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-braking-radiation",
+  "unit": "u12",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈbreɪkɪŋ ˌreɪdiˈeɪʃən/",
+  "ipa_uk": "/ˈbreɪkɪŋ ˌreɪdiˈeɪʃn/",
+  "syllables": "brak·ing ra·di·a·tion",
+  "def_en": "Electromagnetic radiation, often X-rays, given off when fast electrons are sharply slowed by atomic nuclei; also called bremsstrahlung.",
+  "def_zh": "制動輻射（德文 Bremsstrahlung）是高速電子受原子核電場減速時放出的電磁輻射，X 射線管產生的連續 X 光譜即來自此。",
+  "example_en": "Braking radiation produces the continuous part of an X-ray tube's spectrum.",
+  "example_zh": "制動輻射產生 X 射線管光譜中的連續部分。",
+  "morph": [
+   {
+    "part": "radi-",
+    "meaning": "光線"
+   },
+   {
+    "part": "-ation",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-x-ray",
+   "t-cathode-ray",
+   "t-electron",
+   "t-continuous-spectrum"
+  ],
+  "confusables": [
+   {
+    "term": "characteristic X-rays",
+    "zh": "特性 X 射線",
+    "note": "特性 X 射線來自內層電子躍遷，形成特定波長的譜線。"
+   }
+  ],
+  "illus": "em-spectrum",
+  "tf": {
+   "statement_zh": "制動輻射只產生單一特定頻率的 X 射線。",
+   "answer": false,
+   "explain": "電子減速程度不一，制動輻射形成連續光譜。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-boyles-law",
+  "unit": "u06",
+  "level": 1,
+  "pos": "proper n. phr.",
+  "ipa_us": "/ˈbɔɪlz ˈlɔ/",
+  "ipa_uk": "/ˈbɔɪlz ˈlɔː/",
+  "syllables": "Boyle's law",
+  "def_en": "For a fixed amount of gas at constant temperature, pressure is inversely proportional to volume: PV = constant.",
+  "def_zh": "波以耳定律：定量氣體在定溫下，壓力與體積成反比，PV = 定值（P₁V₁ = P₂V₂）。",
+  "example_en": "Boyle's law explains why a balloon shrinks when you squeeze it.",
+  "example_zh": "波以耳定律說明了氣球被擠壓時為什麼會縮小。",
+  "morph": [],
+  "related": [
+   "t-gas",
+   "t-absolute-pressure",
+   "t-barometer",
+   "t-thermal-equilibrium"
+  ],
+  "confusables": [
+   {
+    "term": "Charles's law",
+    "zh": "查理定律",
+    "note": "查理定律是定壓下體積與絕對溫度成正比。"
+   }
+  ],
+  "illus": "boyles-law",
+  "tf": {
+   "statement_zh": "依波以耳定律，定溫下氣體體積減為一半時，壓力變為兩倍。",
+   "answer": true,
+   "explain": "PV = 定值。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-bow-wave",
+  "unit": "u07",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈbaʊ ˈweɪv/",
+  "ipa_uk": "/ˈbaʊ ˈweɪv/",
+  "syllables": "bow wave",
+  "def_en": "The V-shaped wave formed in front of a source moving faster than the waves it makes, like a speeding boat.",
+  "def_zh": "頭波是波源速率大於波速時，波前疊加形成的 V 形波，如快艇船首的水波；在空氣中的三維版本為震波（音爆）。",
+  "example_en": "A speedboat creates a bow wave that spreads out in a V shape.",
+  "example_zh": "快艇產生向外擴散的 V 形頭波。",
+  "morph": [],
+  "related": [
+   "t-doppler-effect",
+   "t-wake",
+   "t-wavefront",
+   "t-wave-velocity"
+  ],
+  "confusables": [
+   {
+    "term": "wake",
+    "zh": "尾流",
+    "note": "wake 指船後方留下的擾動水流，頭波在船前方。"
+   }
+  ],
+  "illus": "doppler",
+  "tf": {
+   "statement_zh": "頭波只會在波源速率小於波速時形成。",
+   "answer": false,
+   "explain": "波源速率大於波速時，波前疊加才形成頭波。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-boiling-point",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈbɔɪlɪŋ ˌpɔɪnt/",
+  "ipa_uk": "/ˈbɔɪlɪŋ ˌpɔɪnt/",
+  "syllables": "boil·ing point",
+  "def_en": "The temperature at which a liquid's vapor pressure equals the surrounding pressure, so it boils.",
+  "def_zh": "沸點是液體飽和蒸氣壓等於外界壓力而沸騰的溫度；1 大氣壓下水的沸點為 100 °C，外壓降低時沸點降低。",
+  "example_en": "On a high mountain, the boiling point of water is lower than 100 °C.",
+  "example_zh": "在高山上，水的沸點低於 100 °C。",
+  "morph": [],
+  "related": [
+   "t-vaporization",
+   "t-fusion-point",
+   "t-celsius-degree",
+   "t-phase-diagram"
+  ],
+  "confusables": [
+   {
+    "term": "melting point",
+    "zh": "熔點",
+    "note": "熔點是固液相變的溫度。"
+   }
+  ],
+  "illus": "thermometer-scales",
+  "tf": {
+   "statement_zh": "在高山上氣壓較低，水的沸點會比平地低。",
+   "answer": true,
+   "explain": "外界壓力降低，沸點降低。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-bohr-radius",
+  "unit": "u12",
+  "level": 2,
+  "pos": "proper n. phr.",
+  "ipa_us": "/ˈbɔr ˈreɪdiəs/",
+  "ipa_uk": "/ˈbɔː ˈreɪdiəs/",
+  "syllables": "Bohr ra·di·us",
+  "def_en": "The radius of the smallest electron orbit in Bohr's model of hydrogen, about 0.0529 nanometers.",
+  "def_zh": "波耳半徑 a₀ 是波耳氫原子模型中基態（n = 1）電子軌道的半徑，約 5.29×10⁻¹¹ m（0.0529 nm）；第 n 軌道半徑 rₙ = n²a₀。",
+  "example_en": "The Bohr radius sets the size scale of a hydrogen atom.",
+  "example_zh": "波耳半徑決定了氫原子的尺寸量級。",
+  "morph": [
+   {
+    "part": "radi-",
+    "meaning": "輻條、半徑"
+   }
+  ],
+  "related": [
+   "t-ground-state",
+   "t-energy-level",
+   "t-atom",
+   "t-quantization"
+  ],
+  "confusables": [],
+  "illus": "bohr-atom",
+  "tf": {
+   "statement_zh": "波耳半徑約為 0.53 nm。",
+   "answer": false,
+   "explain": "波耳半徑約 0.053 nm（5.3×10⁻¹¹ m）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-blue-shift",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈblu ˈʃɪft/",
+  "ipa_uk": "/ˈbluː ˈʃɪft/",
+  "syllables": "blue shift",
+  "def_en": "A decrease in the wavelength of light from an object moving toward the observer, shifting spectral lines toward blue.",
+  "def_zh": "藍移是光源向觀察者接近時，因都卜勒效應使光譜線波長變短、向藍端移動的現象，與紅移相對。",
+  "example_en": "The blue shift in its spectrum shows that the Andromeda galaxy is approaching us.",
+  "example_zh": "仙女座星系光譜的藍移顯示它正在接近我們。",
+  "morph": [],
+  "related": [
+   "t-doppler-effect",
+   "t-andromeda-galaxy",
+   "t-galaxy",
+   "t-wavelength"
+  ],
+  "confusables": [
+   {
+    "term": "red shift",
+    "zh": "紅移",
+    "note": "紅移代表光源遠離，波長變長。"
+   }
+  ],
+  "illus": "big-bang",
+  "tf": {
+   "statement_zh": "遙遠星系的光譜出現藍移，表示它正在接近我們。",
+   "answer": true,
+   "explain": "接近時波長變短，即藍移。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-binding-energy",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈbaɪndɪŋ ˈɛnɚdʒi/",
+  "ipa_uk": "/ˈbaɪndɪŋ ˈenədʒi/",
+  "syllables": "bind·ing en·er·gy",
+  "def_en": "The energy needed to separate a nucleus into its individual protons and neutrons, equal to the mass defect times c².",
+  "def_zh": "結合能是把原子核拆成個別核子所需的能量，等於質量虧損乘 c²（E = Δmc²）；每核子結合能以鐵-56 附近最大。",
+  "example_en": "Iron-56 has one of the highest binding energy per nucleon values.",
+  "example_zh": "鐵-56 的每核子結合能是最高的之一。",
+  "morph": [
+   {
+    "part": "bind",
+    "meaning": "綁"
+   }
+  ],
+  "related": [
+   "t-nucleon",
+   "t-atomic-nucleus",
+   "t-fission",
+   "t-fusion"
+  ],
+  "confusables": [],
+  "illus": "nucleus",
+  "tf": {
+   "statement_zh": "原子核的質量大於組成它的核子質量總和。",
+   "answer": false,
+   "explain": "原子核質量小於核子質量總和，差額即質量虧損，對應結合能。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-big-bang-theory",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈbɪɡ ˈbæŋ ˈθiəri/",
+  "ipa_uk": "/ˈbɪɡ ˈbæŋ ˈθɪəri/",
+  "syllables": "big bang the·o·ry",
+  "def_en": "The theory that the universe began about 13.8 billion years ago from an extremely hot, dense state and has been expanding since.",
+  "def_zh": "大霹靂理論認為宇宙約 138 億年前起源於極高溫、高密度的狀態，之後持續膨脹冷卻；證據包括星系紅移與宇宙微波背景輻射。",
+  "example_en": "The cosmic microwave background supports the big bang theory.",
+  "example_zh": "宇宙微波背景輻射支持大霹靂理論。",
+  "morph": [],
+  "related": [
+   "t-hot-big-bang",
+   "t-background-radiation",
+   "t-galaxy-cluster",
+   "t-blue-shift"
+  ],
+  "confusables": [],
+  "illus": "big-bang",
+  "tf": {
+   "statement_zh": "宇宙微波背景輻射是支持大霹靂理論的重要證據。",
+   "answer": true,
+   "explain": "它是早期高溫宇宙殘留的輻射，溫度約 2.7 K。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-barometer",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/bəˈrɑmətɚ/",
+  "ipa_uk": "/bəˈrɒmɪtə/",
+  "syllables": "ba·rom·e·ter",
+  "def_en": "An instrument for measuring atmospheric pressure, such as a mercury column or an aneroid barometer.",
+  "def_zh": "氣壓計是測量大氣壓力的儀器，如托里切利水銀氣壓計：海平面 1 atm 約可支撐 76 cmHg 的水銀柱。",
+  "example_en": "The barometer reading fell as the typhoon approached.",
+  "example_zh": "颱風接近時，氣壓計的讀數下降了。",
+  "morph": [
+   {
+    "part": "baro-",
+    "meaning": "重、壓"
+   },
+   {
+    "part": "-meter",
+    "meaning": "測量器"
+   }
+  ],
+  "related": [
+   "t-absolute-pressure",
+   "t-gauge-pressure",
+   "t-boyles-law",
+   "t-fluid"
+  ],
+  "confusables": [
+   {
+    "term": "manometer",
+    "zh": "壓力計",
+    "note": "manometer 測量容器內氣體壓力，barometer 專測大氣壓。"
+   }
+  ],
+  "illus": "pressure",
+  "tf": {
+   "statement_zh": "海平面上，水銀氣壓計的水銀柱高約 10 m。",
+   "answer": false,
+   "explain": "約 76 cm；約 10 m 是用水做氣壓計時的水柱高。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-balmer-series",
+  "unit": "u12",
+  "level": 2,
+  "pos": "proper n. phr.",
+  "ipa_us": "/ˈbɑlmɚ ˈsɪriz/",
+  "ipa_uk": "/ˈbɑːlmə ˈsɪəriːz/",
+  "syllables": "Bal·mer se·ries",
+  "def_en": "The set of hydrogen spectral lines produced when electrons drop to the n = 2 level; several are visible light.",
+  "def_zh": "巴耳末系是氫原子電子由較高能階躍遷回 n = 2 時放出的譜線，1/λ = R(1/2² − 1/n²)，其中數條落在可見光區。",
+  "example_en": "The red line at 656 nm belongs to the Balmer series of hydrogen.",
+  "example_zh": "656 nm 的紅色譜線屬於氫的巴耳末系。",
+  "morph": [],
+  "related": [
+   "t-energy-level",
+   "t-emission-spectrum",
+   "t-discrete-spectrum",
+   "t-ground-state"
+  ],
+  "confusables": [
+   {
+    "term": "Lyman series",
+    "zh": "來曼系",
+    "note": "來曼系躍遷回 n = 1，位於紫外線區。"
+   }
+  ],
+  "illus": "energy-levels",
+  "tf": {
+   "statement_zh": "巴耳末系是氫原子電子躍遷回 n = 2 能階所產生的譜線。",
+   "answer": true,
+   "explain": "部分譜線（如 Hα 656 nm）為可見光。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-ballistic-transport",
+  "unit": "u11",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/bəˈlɪstɪk ˈtrænspɔrt/",
+  "ipa_uk": "/bəˈlɪstɪk ˈtrænspɔːt/",
+  "syllables": "bal·lis·tic trans·port",
+  "def_en": "Movement of electrons through a conductor shorter than their mean free path, so they travel without scattering.",
+  "def_zh": "彈道傳輸（原文「無礙傳輸」）是導體長度小於載子平均自由路徑時，電子幾乎不受散射、像子彈般直線通過的傳輸方式，見於奈米元件。",
+  "example_en": "Ballistic transport can occur in very short carbon nanotubes.",
+  "example_zh": "彈道傳輸可發生在非常短的奈米碳管中。",
+  "morph": [
+   {
+    "part": "ballist-",
+    "meaning": "投擲"
+   },
+   {
+    "part": "trans-",
+    "meaning": "穿越"
+   },
+   {
+    "part": "port",
+    "meaning": "運送"
+   }
+  ],
+  "related": [
+   "t-coulomb-blockade",
+   "t-carrier",
+   "t-drift-velocity",
+   "t-quantum-effect"
+  ],
+  "confusables": [],
+  "illus": "diode-transistor",
+  "tf": {
+   "statement_zh": "在彈道傳輸中，電子通過導體時會頻繁地碰撞散射。",
+   "answer": false,
+   "explain": "彈道傳輸的特徵正是電子幾乎不散射。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-background-radiation",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈbækˌɡraʊnd ˌreɪdiˈeɪʃən/",
+  "ipa_uk": "/ˈbækɡraʊnd ˌreɪdiˈeɪʃn/",
+  "syllables": "back·ground ra·di·a·tion",
+  "def_en": "Radiation always present around us; in cosmology, the microwave radiation left over from the early universe.",
+  "def_zh": "背景輻射泛指環境中一直存在的輻射；宇宙學中指宇宙微波背景輻射（CMB），對應約 2.7 K 的黑體輻射，是大霹靂的遺跡。",
+  "example_en": "The cosmic background radiation comes evenly from every direction in the sky.",
+  "example_zh": "宇宙背景輻射從天空各方向均勻地傳來。",
+  "morph": [
+   {
+    "part": "radi-",
+    "meaning": "光線"
+   }
+  ],
+  "related": [
+   "t-big-bang-theory",
+   "t-hot-big-bang",
+   "t-microwave",
+   "t-electromagnetic-wave"
+  ],
+  "confusables": [],
+  "illus": "big-bang",
+  "tf": {
+   "statement_zh": "宇宙微波背景輻射對應的溫度約為 2.7 K。",
+   "answer": true,
+   "explain": "實測約 2.725 K，幾乎各向同性。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-average-velocity",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈævərɪdʒ vəˈlɑsəti/",
+  "ipa_uk": "/ˈævərɪdʒ vəˈlɒsəti/",
+  "syllables": "av·er·age ve·loc·i·ty",
+  "def_en": "Total displacement divided by the total time taken; it is a vector.",
+  "def_zh": "平均速度 = 位移 ÷ 經過時間，v̄ = Δx/Δt，是向量，方向與位移相同，單位 m/s。",
+  "example_en": "After running one full lap, her average velocity was zero.",
+  "example_zh": "跑完一整圈後，她的平均速度為零。",
+  "morph": [],
+  "related": [
+   "t-average-speed",
+   "t-displacement",
+   "t-velocity",
+   "t-accelerated-motion"
+  ],
+  "confusables": [
+   {
+    "term": "average speed",
+    "zh": "平均速率",
+    "note": "平均速率 = 路徑長 ÷ 時間，是純量。"
+   }
+  ],
+  "illus": "displacement-path",
+  "tf": {
+   "statement_zh": "平均速度的大小一定等於平均速率。",
+   "answer": false,
+   "explain": "路徑非直線或有折返時，路徑長大於位移大小，平均速率較大。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-average-speed",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈævərɪdʒ ˈspid/",
+  "ipa_uk": "/ˈævərɪdʒ ˈspiːd/",
+  "syllables": "av·er·age speed",
+  "def_en": "Total distance traveled divided by the total time taken; it is a scalar.",
+  "def_zh": "平均速率 = 路徑長 ÷ 經過時間，是純量，只有大小沒有方向，單位 m/s。",
+  "example_en": "The bus covered 60 km in 1.5 hours, so its average speed was 40 km/h.",
+  "example_zh": "公車 1.5 小時行駛 60 km，平均速率為 40 km/h。",
+  "morph": [],
+  "related": [
+   "t-average-velocity",
+   "t-velocity",
+   "t-displacement",
+   "t-motion"
+  ],
+  "confusables": [
+   {
+    "term": "average velocity",
+    "zh": "平均速度",
+    "note": "平均速度以位移計算，是向量。"
+   }
+  ],
+  "illus": "displacement-path",
+  "tf": {
+   "statement_zh": "繞操場跑一圈回到起點，平均速度為零，但平均速率不為零。",
+   "answer": true,
+   "explain": "位移為零，路徑長不為零。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-average-power",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈævərɪdʒ ˈpaʊɚ/",
+  "ipa_uk": "/ˈævərɪdʒ ˈpaʊə/",
+  "syllables": "av·er·age pow·er",
+  "def_en": "The total work done or energy transferred divided by the time taken.",
+  "def_zh": "平均功率 = 所作的功 ÷ 經過時間，P̄ = W/Δt，單位瓦特（W = J/s）。",
+  "example_en": "The student's average power while climbing the stairs was about 300 W.",
+  "example_zh": "那位學生爬樓梯時的平均功率約為 300 W。",
+  "morph": [],
+  "related": [
+   "t-watt",
+   "t-work",
+   "t-energy",
+   "t-work-kinetic-energy-theorem"
+  ],
+  "confusables": [
+   {
+    "term": "energy",
+    "zh": "能量",
+    "note": "能量單位焦耳；功率是能量轉移的快慢。"
+   }
+  ],
+  "illus": "work-energy",
+  "tf": {
+   "statement_zh": "平均功率的 SI 單位是焦耳（J）。",
+   "answer": false,
+   "explain": "功率單位是瓦特（W = J/s），焦耳是功與能的單位。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-audible-frequency",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈɔdəbəl ˈfrikwənsi/",
+  "ipa_uk": "/ˈɔːdəbl ˈfriːkwənsi/",
+  "syllables": "au·di·ble fre·quen·cy",
+  "def_en": "A sound frequency that humans can hear, roughly 20 Hz to 20,000 Hz.",
+  "def_zh": "可聽頻率是人耳能聽到的聲波頻率，約 20 Hz 至 20 kHz；高於此為超聲波，低於此為次聲波。",
+  "example_en": "Dog whistles produce sound above the audible frequency range of humans.",
+  "example_zh": "狗哨發出的聲音高於人類可聽頻率範圍。",
+  "morph": [
+   {
+    "part": "aud-",
+    "meaning": "聽"
+   },
+   {
+    "part": "-ible",
+    "meaning": "可…的"
+   }
+  ],
+  "related": [
+   "t-frequency",
+   "t-decibel",
+   "t-acoustics",
+   "t-timbre"
+  ],
+  "confusables": [],
+  "illus": "decibel",
+  "tf": {
+   "statement_zh": "頻率高於 20 kHz 的超聲波超出人耳的可聽頻率範圍。",
+   "answer": true,
+   "explain": "人耳可聽範圍約 20 Hz–20 kHz。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-atwoods-machine",
+  "unit": "u03",
+  "level": 1,
+  "pos": "proper n. phr.",
+  "ipa_us": "/ˈætwʊdz məˈʃin/",
+  "ipa_uk": "/ˈætwʊdz məˈʃiːn/",
+  "syllables": "At·wood's ma·chine",
+  "def_en": "A pulley with two masses hung on either end of a string, used to study constant acceleration.",
+  "def_zh": "阿特午機是在定滑輪兩端以細繩懸掛兩物體的裝置；理想情況下加速度 a = (m₁ − m₂)g/(m₁ + m₂)，用來研究等加速度運動。",
+  "example_en": "In Atwood's machine, the heavier mass speeds up downward while the lighter one rises.",
+  "example_zh": "在阿特午機中，較重的物體加速下降，較輕的物體上升。",
+  "morph": [],
+  "related": [
+   "t-tension",
+   "t-acceleration-of-gravity",
+   "t-force",
+   "t-equation-of-motion"
+  ],
+  "confusables": [],
+  "illus": "atwood",
+  "tf": {
+   "statement_zh": "阿特午機兩端質量相等時，系統的加速度為 g。",
+   "answer": false,
+   "explain": "兩端質量相等時合力為零，加速度為零。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-atomic-number",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/əˈtɑmɪk ˈnʌmbɚ/",
+  "ipa_uk": "/əˈtɒmɪk ˈnʌmbə/",
+  "syllables": "a·tom·ic num·ber",
+  "def_en": "The number of protons in the nucleus of an atom, which identifies the element.",
+  "def_zh": "原子序 Z 是原子核內的質子數，決定元素種類；中性原子的電子數也等於 Z。",
+  "example_en": "Carbon has an atomic number of 6.",
+  "example_zh": "碳的原子序是 6。",
+  "morph": [
+   {
+    "part": "a-",
+    "meaning": "不"
+   },
+   {
+    "part": "tom",
+    "meaning": "切割"
+   }
+  ],
+  "related": [
+   "t-isotope",
+   "t-atomic-nucleus",
+   "t-element",
+   "t-nucleon"
+  ],
+  "confusables": [
+   {
+    "term": "mass number",
+    "zh": "質量數",
+    "note": "質量數 A 是質子數加中子數。"
+   }
+  ],
+  "illus": "nucleus",
+  "tf": {
+   "statement_zh": "同一元素的各種同位素原子序相同。",
+   "answer": true,
+   "explain": "同位素質子數相同、中子數不同。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-atomic-nucleus",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/əˈtɑmɪk ˈnukliəs/",
+  "ipa_uk": "/əˈtɒmɪk ˈnjuːkliəs/",
+  "syllables": "a·tom·ic nu·cle·us",
+  "def_en": "The tiny, dense center of an atom, made of protons and neutrons and holding almost all its mass.",
+  "def_zh": "原子核位於原子中心，由質子與中子組成，集中了原子幾乎全部質量；半徑約 10⁻¹⁵ m 量級，約為原子的十萬分之一。",
+  "example_en": "Rutherford's gold foil experiment revealed the atomic nucleus.",
+  "example_zh": "拉塞福的金箔實驗揭示了原子核的存在。",
+  "morph": [
+   {
+    "part": "nucle-",
+    "meaning": "核、果仁"
+   }
+  ],
+  "related": [
+   "t-nucleon",
+   "t-atomic-number",
+   "t-binding-energy",
+   "t-femtometer"
+  ],
+  "confusables": [
+   {
+    "term": "nucleon",
+    "zh": "核子",
+    "note": "核子是原子核內的質子或中子。"
+   }
+  ],
+  "illus": "nucleus",
+  "tf": {
+   "statement_zh": "原子核的體積佔原子體積的大部分。",
+   "answer": false,
+   "explain": "原子核半徑僅約原子的十萬分之一，原子大部分是空的。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-atomic-clock",
+  "unit": "u01",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/əˈtɑmɪk ˈklɑk/",
+  "ipa_uk": "/əˈtɒmɪk ˈklɒk/",
+  "syllables": "a·tom·ic clock",
+  "def_en": "An extremely accurate clock that keeps time using the frequency of radiation from atomic energy-level transitions.",
+  "def_zh": "原子鐘利用原子能階躍遷輻射的穩定頻率計時；SI 的秒即以銫-133 原子躍遷頻率 9 192 631 770 Hz 定義。",
+  "example_en": "GPS satellites carry an atomic clock to keep precise time.",
+  "example_zh": "GPS 衛星攜帶原子鐘以保持精確時間。",
+  "morph": [
+   {
+    "part": "a-",
+    "meaning": "不"
+   },
+   {
+    "part": "tom",
+    "meaning": "切割"
+   }
+  ],
+  "related": [
+   "t-period",
+   "t-frequency",
+   "t-energy-level",
+   "t-satellite"
+  ],
+  "confusables": [],
+  "illus": "si-units",
+  "tf": {
+   "statement_zh": "SI 單位的「秒」是以銫原子的躍遷頻率來定義。",
+   "answer": true,
+   "explain": "1 s 為銫-133 該躍遷輻射 9 192 631 770 個週期的時間。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-astronomical-unit",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌæstrəˈnɑmɪkəl ˈjunɪt/",
+  "ipa_uk": "/ˌæstrəˈnɒmɪkl ˈjuːnɪt/",
+  "syllables": "as·tro·nom·i·cal u·nit",
+  "def_en": "A unit of distance equal to the average distance from Earth to the Sun, about 1.5 × 10¹¹ m.",
+  "def_zh": "天文單位（AU）是長度單位，約等於地球到太陽的平均距離，1 AU = 149 597 870 700 m ≈ 1.5×10¹¹ m。",
+  "example_en": "Jupiter is about 5.2 astronomical units from the Sun.",
+  "example_zh": "木星距離太陽約 5.2 天文單位。",
+  "morph": [
+   {
+    "part": "astro-",
+    "meaning": "星"
+   },
+   {
+    "part": "nom",
+    "meaning": "法則"
+   }
+  ],
+  "related": [
+   "t-planet",
+   "t-earth",
+   "t-planetary-system",
+   "t-ellipse"
+  ],
+  "confusables": [
+   {
+    "term": "light-year",
+    "zh": "光年",
+    "note": "光年是光一年走的距離，約 63 000 AU。"
+   }
+  ],
+  "illus": "solar-system",
+  "tf": {
+   "statement_zh": "1 天文單位比 1 光年還長。",
+   "answer": false,
+   "explain": "1 光年約 6.3×10⁴ AU，遠大於 1 AU。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-arm-of-force",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈɑrm əv ˈfɔrs/",
+  "ipa_uk": "/ˈɑːm əv ˈfɔːs/",
+  "syllables": "arm of force",
+  "def_en": "The perpendicular distance from the rotation axis to the line of action of a force; also called the moment arm.",
+  "def_zh": "力臂是轉軸到力的作用線的垂直距離，力矩 τ = F × 力臂；英文也常稱 moment arm 或 lever arm。",
+  "example_en": "Using a longer wrench increases the arm of force and makes the bolt easier to turn.",
+  "example_zh": "使用較長的扳手可增加力臂，讓螺栓更容易轉動。",
+  "morph": [],
+  "related": [
+   "t-force-couple",
+   "t-center-of-gravity",
+   "t-equilibrium",
+   "t-rotation"
+  ],
+  "confusables": [
+   {
+    "term": "torque",
+    "zh": "力矩",
+    "note": "力矩是力與力臂的乘積，力臂只是距離。"
+   }
+  ],
+  "illus": "torque",
+  "tf": {
+   "statement_zh": "若力的作用線通過轉軸，則力臂為零，力矩也為零。",
+   "answer": true,
+   "explain": "力臂為零時 τ = F × 0 = 0。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-apparent-brightness",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/əˈpærənt ˈbraɪtnəs/",
+  "ipa_uk": "/əˈpærənt ˈbraɪtnəs/",
+  "syllables": "ap·par·ent bright·ness",
+  "def_en": "How bright a star appears from Earth, depending on its true luminosity and its distance.",
+  "def_zh": "視亮度是從地球觀測到天體的亮度，即單位面積接收的功率 b = L/(4πd²)，與天體本身發光度 L 及距離 d 有關。",
+  "example_en": "The Sun has the greatest apparent brightness in our sky because it is so close.",
+  "example_zh": "太陽距離很近，所以在天空中視亮度最大。",
+  "morph": [
+   {
+    "part": "ap-",
+    "meaning": "向"
+   },
+   {
+    "part": "par",
+    "meaning": "出現"
+   }
+  ],
+  "related": [
+   "t-galaxy",
+   "t-andromeda-galaxy",
+   "t-astronomical-unit",
+   "t-electromagnetic-wave"
+  ],
+  "confusables": [
+   {
+    "term": "luminosity",
+    "zh": "光度；發光度",
+    "note": "光度是天體本身每秒放出的總能量，與距離無關。"
+   }
+  ],
+  "illus": "galaxy",
+  "tf": {
+   "statement_zh": "視亮度較大的恆星，本身的發光度一定較大。",
+   "answer": false,
+   "explain": "視亮度也取決於距離，近而暗的恆星可能比遠而亮的看起來更亮。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-aperture-stop",
+  "unit": "u08",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈæpɚtʃɚ ˌstɑp/",
+  "ipa_uk": "/ˈæpətʃə ˌstɒp/",
+  "syllables": "ap·er·ture stop",
+  "def_en": "The opening in an optical system that limits the amount of light passing through, such as a camera diaphragm.",
+  "def_zh": "孔徑光闌是光學系統中限制通過光束大小（進光量）的開口，如相機的光圈；縮小光圈會減少進光量並增加景深。",
+  "example_en": "Closing the aperture stop of a camera lets in less light.",
+  "example_zh": "把相機的孔徑光闌縮小會讓進入的光變少。",
+  "morph": [
+   {
+    "part": "aper-",
+    "meaning": "打開"
+   },
+   {
+    "part": "-ture",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-aperture",
+   "t-lens",
+   "t-focal-length",
+   "t-diffraction"
+  ],
+  "confusables": [
+   {
+    "term": "field stop",
+    "zh": "視場光闌",
+    "note": "視場光闌限制成像的範圍，而非進光量。"
+   }
+  ],
+  "illus": "convex-lens",
+  "tf": {
+   "statement_zh": "相機的光圈就是一種孔徑光闌，縮小光圈會減少進光量。",
+   "answer": true,
+   "explain": "孔徑光闌決定通過系統的光束大小。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-angular-momentum",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈæŋɡjəlɚ moʊˈmɛntəm/",
+  "ipa_uk": "/ˈæŋɡjələ məˈmentəm/",
+  "syllables": "an·gu·lar mo·men·tum",
+  "def_en": "The rotational quantity of motion of an object, equal to moment of inertia times angular velocity, L = Iω.",
+  "def_zh": "角動量是轉動的運動量，L = Iω（質點 L = r × p），單位 kg·m²/s；不受外力矩時角動量守恆。",
+  "example_en": "A figure skater spins faster when she pulls in her arms because angular momentum is conserved.",
+  "example_zh": "花式溜冰選手收回手臂時轉得更快，因為角動量守恆。",
+  "morph": [
+   {
+    "part": "angul-",
+    "meaning": "角"
+   },
+   {
+    "part": "moment-",
+    "meaning": "運動、推動"
+   }
+  ],
+  "related": [
+   "t-gyroscope",
+   "t-rotation",
+   "t-conservation",
+   "t-angular-frequency"
+  ],
+  "confusables": [
+   {
+    "term": "linear momentum",
+    "zh": "動量",
+    "note": "動量 p = mv 描述平移運動。"
+   }
+  ],
+  "illus": "gyroscope",
+  "tf": {
+   "statement_zh": "花式溜冰選手收回手臂時，角動量會變大。",
+   "answer": false,
+   "explain": "無外力矩時角動量守恆；轉動慣量變小，角速度變大。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-angular-frequency",
+  "unit": "u07",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈæŋɡjəlɚ ˈfrikwənsi/",
+  "ipa_uk": "/ˈæŋɡjələ ˈfriːkwənsi/",
+  "syllables": "an·gu·lar fre·quen·cy",
+  "def_en": "The rate of change of phase in oscillation or rotation, ω = 2πf, measured in radians per second.",
+  "def_zh": "角頻率 ω 表示振動或轉動每秒經過的相位角，ω = 2πf = 2π/T，單位 rad/s；簡諧運動 x = A cos(ωt)。",
+  "example_en": "A pendulum with a period of 2 s has an angular frequency of π rad/s.",
+  "example_zh": "週期 2 秒的單擺，角頻率為 π rad/s。",
+  "morph": [
+   {
+    "part": "angul-",
+    "meaning": "角"
+   },
+   {
+    "part": "frequ-",
+    "meaning": "頻繁"
+   }
+  ],
+  "related": [
+   "t-frequency",
+   "t-period",
+   "t-angular-displacement",
+   "t-cyclotron-frequency"
+  ],
+  "confusables": [
+   {
+    "term": "frequency",
+    "zh": "頻率",
+    "note": "頻率 f 單位 Hz；角頻率 ω = 2πf 單位 rad/s。"
+   }
+  ],
+  "illus": "angular-motion",
+  "tf": {
+   "statement_zh": "角頻率與頻率的關係為 ω = 2πf。",
+   "answer": true,
+   "explain": "每一週期相位改變 2π 弧度。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-angular-displacement",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈæŋɡjəlɚ dɪsˈpleɪsmənt/",
+  "ipa_uk": "/ˈæŋɡjələ dɪsˈpleɪsmənt/",
+  "syllables": "an·gu·lar dis·place·ment",
+  "def_en": "The angle through which an object rotates about an axis, usually measured in radians.",
+  "def_zh": "角位移（原文「角移」）是物體繞軸轉過的角度 Δθ，SI 單位為弧度（rad）；弧長 s = rθ。",
+  "example_en": "A wheel that turns half a revolution has an angular displacement of π rad.",
+  "example_zh": "轉了半圈的輪子，角位移為 π rad。",
+  "morph": [
+   {
+    "part": "angul-",
+    "meaning": "角"
+   },
+   {
+    "part": "dis-",
+    "meaning": "離開"
+   },
+   {
+    "part": "place",
+    "meaning": "位置"
+   }
+  ],
+  "related": [
+   "t-displacement",
+   "t-angular-acceleration",
+   "t-angular-frequency",
+   "t-rotation"
+  ],
+  "confusables": [],
+  "illus": "angular-motion",
+  "tf": {
+   "statement_zh": "角位移的 SI 單位是「度」。",
+   "answer": false,
+   "explain": "SI 單位為弧度（rad），度不是 SI 單位。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-angular-acceleration",
+  "unit": "u02",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈæŋɡjəlɚ əkˌsɛləˈreɪʃən/",
+  "ipa_uk": "/ˈæŋɡjələ əkˌseləˈreɪʃn/",
+  "syllables": "an·gu·lar ac·cel·er·a·tion",
+  "def_en": "The rate at which angular velocity changes with time, measured in radians per second squared.",
+  "def_zh": "角加速度 α 是角速度隨時間的變化率，α = Δω/Δt，單位 rad/s²；由淨力矩產生，τ = Iα。",
+  "example_en": "When the fan is switched on, its blades have an angular acceleration.",
+  "example_zh": "電扇開啟時，扇葉具有角加速度。",
+  "morph": [
+   {
+    "part": "angul-",
+    "meaning": "角"
+   },
+   {
+    "part": "ac-",
+    "meaning": "朝向"
+   },
+   {
+    "part": "celer",
+    "meaning": "快速"
+   }
+  ],
+  "related": [
+   "t-angular-displacement",
+   "t-angular-momentum",
+   "t-rotation",
+   "t-acceleration"
+  ],
+  "confusables": [
+   {
+    "term": "centripetal acceleration",
+    "zh": "向心加速度",
+    "note": "向心加速度改變速度方向；角加速度改變轉動快慢。"
+   }
+  ],
+  "illus": "angular-motion",
+  "tf": {
+   "statement_zh": "等角速度轉動的物體，角加速度為零。",
+   "answer": true,
+   "explain": "角速度不變，α = Δω/Δt = 0。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-andromeda-galaxy",
+  "unit": "u14",
+  "level": 1,
+  "pos": "proper n. phr.",
+  "ipa_us": "/ænˈdrɑmədə ˈɡæləksi/",
+  "ipa_uk": "/ænˈdrɒmɪdə ˈɡæləksi/",
+  "syllables": "An·drom·e·da gal·ax·y",
+  "def_en": "The large spiral galaxy nearest to the Milky Way, about 2.5 million light-years away.",
+  "def_zh": "仙女座星系（M31）是離銀河系最近的大型螺旋星系，距離約 250 萬光年，光譜呈藍移，正朝銀河系接近。",
+  "example_en": "On a dark night, the Andromeda galaxy can be seen with the naked eye.",
+  "example_zh": "在黑暗的夜晚，用肉眼就能看到仙女座星系。",
+  "morph": [],
+  "related": [
+   "t-galaxy",
+   "t-blue-shift",
+   "t-galaxy-cluster",
+   "t-nebula"
+  ],
+  "confusables": [
+   {
+    "term": "Andromeda Nebula",
+    "zh": "仙女座大星雲",
+    "note": "早期名稱；後來哈伯證實它是銀河系外的星系。"
+   }
+  ],
+  "illus": "galaxy",
+  "tf": {
+   "statement_zh": "仙女座星系位於銀河系之內。",
+   "answer": false,
+   "explain": "它是銀河系外的獨立星系，距離約 250 萬光年。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-alpha-decay",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈælfə dɪˈkeɪ/",
+  "ipa_uk": "/ˈælfə dɪˈkeɪ/",
+  "syllables": "al·pha de·cay",
+  "def_en": "Radioactive decay in which a nucleus emits an alpha particle, a helium-4 nucleus of two protons and two neutrons.",
+  "def_zh": "α 衰變是原子核放出 α 粒子（氦-4 原子核）的放射性衰變，衰變後原子序減 2、質量數減 4。",
+  "example_en": "Uranium-238 undergoes alpha decay to become thorium-234.",
+  "example_zh": "鈾-238 經過 α 衰變成為釷-234。",
+  "morph": [
+   {
+    "part": "de-",
+    "meaning": "向下"
+   },
+   {
+    "part": "cay",
+    "meaning": "落下"
+   }
+  ],
+  "related": [
+   "t-beta-decay",
+   "t-atomic-number",
+   "t-isotope",
+   "t-atomic-nucleus"
+  ],
+  "confusables": [
+   {
+    "term": "beta decay",
+    "zh": "β 衰變",
+    "note": "β⁻ 衰變放出電子，原子序加 1、質量數不變。"
+   }
+  ],
+  "illus": "decay",
+  "tf": {
+   "statement_zh": "原子核發生 α 衰變後，原子序減 2，質量數減 4。",
+   "answer": true,
+   "explain": "α 粒子含 2 個質子、2 個中子。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-adiabatic-process",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌædiəˈbætɪk ˈprɑsɛs/",
+  "ipa_uk": "/ˌædiəˈbætɪk ˈprəʊses/",
+  "syllables": "ad·i·a·bat·ic pro·cess",
+  "def_en": "A process in which no heat enters or leaves a system, so any change in internal energy comes from work.",
+  "def_zh": "絕熱過程是系統與外界沒有熱量交換（Q = 0）的過程，內能變化全來自作功 ΔU = −W；絕熱壓縮使氣體升溫。",
+  "example_en": "The rapid compression in a diesel engine is nearly an adiabatic process.",
+  "example_zh": "柴油機中的快速壓縮近似於絕熱過程。",
+  "morph": [
+   {
+    "part": "a-",
+    "meaning": "不"
+   },
+   {
+    "part": "dia-",
+    "meaning": "穿過"
+   },
+   {
+    "part": "bat",
+    "meaning": "走"
+   }
+  ],
+  "related": [
+   "t-diesel-engine",
+   "t-thermal-energy",
+   "t-compression",
+   "t-boyles-law"
+  ],
+  "confusables": [
+   {
+    "term": "isothermal process",
+    "zh": "等溫過程",
+    "note": "等溫過程溫度不變但有熱交換；絕熱過程無熱交換但溫度可變。"
+   }
+  ],
+  "illus": "heat-engine",
+  "tf": {
+   "statement_zh": "在絕熱過程中，氣體的溫度一定保持不變。",
+   "answer": false,
+   "explain": "絕熱是沒有熱交換；絕熱壓縮溫度上升、絕熱膨脹溫度下降。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-adhesive-force",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ədˈhisɪv ˈfɔrs/",
+  "ipa_uk": "/ədˈhiːsɪv ˈfɔːs/",
+  "syllables": "ad·he·sive force",
+  "def_en": "The attractive force between molecules of different substances, such as water and glass.",
+  "def_zh": "附著力是不同物質分子之間的吸引力；水與玻璃的附著力大於水的內聚力，因此水能潤濕玻璃並在細管中上升。",
+  "example_en": "Adhesive force makes water climb up the walls of a narrow glass tube.",
+  "example_zh": "附著力使水沿著細玻璃管的管壁上升。",
+  "morph": [
+   {
+    "part": "ad-",
+    "meaning": "朝向"
+   },
+   {
+    "part": "hes",
+    "meaning": "黏著"
+   }
+  ],
+  "related": [
+   "t-cohesive-force",
+   "t-capillarity",
+   "t-wetting",
+   "t-liquid"
+  ],
+  "confusables": [
+   {
+    "term": "cohesive force",
+    "zh": "內聚力",
+    "note": "內聚力是同種物質分子間的吸引力。"
+   }
+  ],
+  "illus": "capillarity",
+  "tf": {
+   "statement_zh": "水在細玻璃管中上升，是因為水與玻璃的附著力大於水的內聚力。",
+   "answer": true,
+   "explain": "附著力 > 內聚力時液面上升、呈凹面。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-action-at-a-distance",
+  "unit": "u03",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈækʃən æt ə ˈdɪstəns/",
+  "ipa_uk": "/ˈækʃn æt ə ˈdɪstəns/",
+  "syllables": "ac·tion at a dis·tance",
+  "def_en": "The idea that objects can exert forces on each other across empty space without contact or a medium.",
+  "def_zh": "超距作用（超距力）指物體不需接觸或介質即可隔空瞬間作用的觀念，如牛頓的萬有引力；近代物理改以「場」來描述，且作用以有限速率傳遞。",
+  "example_en": "Newton was uneasy about gravity acting as action at a distance.",
+  "example_zh": "牛頓對重力以超距作用的方式作用感到不安。",
+  "morph": [
+   {
+    "part": "dis-",
+    "meaning": "分開"
+   },
+   {
+    "part": "st",
+    "meaning": "站立"
+   }
+  ],
+  "related": [
+   "t-field",
+   "t-gravity",
+   "t-electric-field",
+   "t-classical-physics"
+  ],
+  "confusables": [
+   {
+    "term": "contact force",
+    "zh": "接觸力",
+    "note": "接觸力如摩擦力、正向力，需物體直接接觸。"
+   }
+  ],
+  "illus": "history",
+  "tf": {
+   "statement_zh": "依超距作用的觀點，力必須透過物體接觸或介質才能傳遞。",
+   "answer": false,
+   "explain": "超距作用正是主張力可以不經接觸或介質隔空作用。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acoustics",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/əˈkustɪks/",
+  "ipa_uk": "/əˈkuːstɪks/",
+  "syllables": "a·cous·tics",
+  "def_en": "The branch of physics that studies sound: how it is produced, travels and is heard.",
+  "def_zh": "聲學是研究聲音的產生、傳播、接收與效應的物理分支；也可指場所（如音樂廳）的音響效果。",
+  "example_en": "Acoustics helps engineers design concert halls with clear sound.",
+  "example_zh": "聲學幫助工程師設計聲音清晰的音樂廳。",
+  "morph": [
+   {
+    "part": "acous-",
+    "meaning": "聽"
+   },
+   {
+    "part": "-ics",
+    "meaning": "學科"
+   }
+  ],
+  "related": [
+   "t-timbre",
+   "t-echo",
+   "t-decibel",
+   "t-audible-frequency"
+  ],
+  "confusables": [
+   {
+    "term": "optics",
+    "zh": "光學",
+    "note": "光學研究光；聲學研究聲音。"
+   }
+  ],
+  "illus": "sound-wave",
+  "tf": {
+   "statement_zh": "聲學是研究聲音的產生、傳播與接收的物理分支。",
+   "answer": true,
+   "explain": "acoustics 源自希臘文「聽」。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-accelerated-motion",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/əkˈsɛləˌreɪtɪd ˈmoʊʃən/",
+  "ipa_uk": "/əkˈseləreɪtɪd ˈməʊʃn/",
+  "syllables": "ac·cel·er·at·ed mo·tion",
+  "def_en": "Motion in which an object's velocity changes in size, direction, or both.",
+  "def_zh": "加速運動（加速度運動）是速度（大小或方向）隨時間改變的運動；加速度 a = Δv/Δt，速度方向改變也算加速運動。",
+  "example_en": "A falling apple is in accelerated motion because gravity keeps increasing its speed.",
+  "example_zh": "下落的蘋果在做加速運動，因為重力不斷增加它的速率。",
+  "morph": [
+   {
+    "part": "ac-",
+    "meaning": "朝向"
+   },
+   {
+    "part": "celer",
+    "meaning": "快速"
+   },
+   {
+    "part": "mot-",
+    "meaning": "動"
+   }
+  ],
+  "related": [
+   "t-acceleration",
+   "t-deceleration",
+   "t-velocity",
+   "t-centripetal-acceleration"
+  ],
+  "confusables": [
+   {
+    "term": "uniform motion",
+    "zh": "等速運動",
+    "note": "等速度運動的加速度為零。"
+   }
+  ],
+  "illus": "velocity-graph",
+  "tf": {
+   "statement_zh": "等速率圓周運動的速率不變，所以不是加速運動。",
+   "answer": false,
+   "explain": "速度方向持續改變，具有向心加速度，屬於加速運動。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-absorption-spectrum",
+  "unit": "u12",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/əbˈsɔrpʃən ˈspɛktrəm/",
+  "ipa_uk": "/əbˈzɔːpʃn ˈspektrəm/",
+  "syllables": "ab·sorp·tion spec·trum",
+  "def_en": "A continuous spectrum crossed by dark lines where a cool gas has absorbed particular wavelengths.",
+  "def_zh": "吸收譜（吸收光譜）是連續光通過較冷氣體時，特定波長被原子吸收而出現暗線的光譜；暗線位置與該元素發射譜線相同。",
+  "example_en": "The dark lines in the Sun's absorption spectrum reveal elements in its atmosphere.",
+  "example_zh": "太陽吸收光譜中的暗線揭示了其大氣中的元素。",
+  "morph": [
+   {
+    "part": "ab-",
+    "meaning": "離開"
+   },
+   {
+    "part": "sorb",
+    "meaning": "吸入"
+   }
+  ],
+  "related": [
+   "t-emission-spectrum",
+   "t-continuous-spectrum",
+   "t-energy-level",
+   "t-discrete-spectrum"
+  ],
+  "confusables": [
+   {
+    "term": "emission spectrum",
+    "zh": "發射光譜",
+    "note": "發射光譜是黑底上的亮線。"
+   }
+  ],
+  "illus": "spectra",
+  "tf": {
+   "statement_zh": "太陽光譜中的夫朗和斐暗線屬於吸收光譜。",
+   "answer": true,
+   "explain": "太陽大氣中的元素吸收了特定波長。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-absolute-zero",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈæbsəˌlut ˈzɪroʊ/",
+  "ipa_uk": "/ˈæbsəluːt ˈzɪərəʊ/",
+  "syllables": "ab·so·lute ze·ro",
+  "def_en": "The lowest possible temperature, 0 K or −273.15 °C, at which particles have minimum thermal energy.",
+  "def_zh": "絕對零度是理論上最低的溫度，0 K = −273.15 °C，此時粒子熱運動能量最小；依熱力學第三定律無法真正達到。",
+  "example_en": "Scientists have cooled atoms to within a billionth of a degree of absolute zero.",
+  "example_zh": "科學家已把原子冷卻到距絕對零度不到十億分之一度。",
+  "morph": [
+   {
+    "part": "ab-",
+    "meaning": "離開"
+   },
+   {
+    "part": "solut",
+    "meaning": "鬆開"
+   }
+  ],
+  "related": [
+   "t-celsius-degree",
+   "t-fahrenheit-scale",
+   "t-critical-temperature",
+   "t-thermometer"
+  ],
+  "confusables": [],
+  "illus": "thermometer-scales",
+  "tf": {
+   "statement_zh": "絕對零度等於 −273.15 °F。",
+   "answer": false,
+   "explain": "絕對零度是 −273.15 °C（約 −459.67 °F）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-weak-force",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈwik ˈfɔrs/",
+  "ipa_uk": "/ˈwiːk ˈfɔːs/",
+  "syllables": "weak force",
+  "def_en": "One of the four fundamental forces; it acts at very short range and causes beta decay.",
+  "def_zh": "弱力（弱核力、弱交互作用）是四種基本交互作用之一，作用範圍極短，可改變夸克種類，造成 β 衰變。",
+  "example_en": "The weak force changes a down quark into an up quark during beta decay.",
+  "example_zh": "在 β 衰變中，弱力使下夸克轉變成上夸克。",
+  "morph": [],
+  "related": [
+   "t-weak-interaction",
+   "t-beta-decay",
+   "t-neutrino",
+   "t-down-quark"
+  ],
+  "confusables": [
+   {
+    "term": "strong force",
+    "zh": "強力；強核力",
+    "note": "強力把夸克與核子束縛在一起，造成原子核穩定。"
+   }
+  ],
+  "illus": "decay",
+  "tf": {
+   "statement_zh": "β 衰變是由弱力（弱交互作用）引起的。",
+   "answer": true,
+   "explain": "弱交互作用使中子轉變為質子並放出電子與反微中子。"
+  },
+  "confidence": "high"
+ }
+]

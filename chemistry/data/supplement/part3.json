@@ -1,0 +1,3590 @@
+[
+ {
+  "id": "t-pigment",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈpɪɡmənt/",
+  "ipa_uk": "/ˈpɪɡmənt/",
+  "syllables": "pig·ment",
+  "def_en": "A colored substance, usually insoluble, that gives color to paints, plastics, or living tissue.",
+  "def_zh": "顏料；色素。通常不溶於介質、以細微顆粒分散而呈色的物質，如二氧化鈦（TiO₂，白色）；生物體內的葉綠素、胡蘿蔔素也屬色素。",
+  "example_en": "Titanium dioxide is a white pigment used in most house paints.",
+  "example_zh": "二氧化鈦是大多數居家油漆中使用的白色顏料。",
+  "morph": [
+   {
+    "part": "pigm-",
+    "meaning": "塗色（拉丁 pingere 繪畫）"
+   },
+   {
+    "part": "-ment",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-paint",
+   "t-dyestuff",
+   "t-chlorophyll",
+   "t-carotene"
+  ],
+  "confusables": [
+   {
+    "term": "dye",
+    "zh": "染料",
+    "note": "染料通常可溶於介質；顏料多不溶、以顆粒分散"
+   }
+  ],
+  "illus": "plastics",
+  "tf": {
+   "statement_zh": "顏料通常以不溶的微小顆粒分散在油漆等介質中呈色。",
+   "answer": true,
+   "explain": "正確。顏料多半不溶，與可溶於介質的染料不同。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-pixel",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈpɪksəl/",
+  "ipa_uk": "/ˈpɪksl/",
+  "syllables": "pix·el",
+  "def_en": "The smallest single point of color on a digital display or image.",
+  "def_zh": "畫素（像素）。數位影像或顯示器上最小的發光／成色單位；液晶與 OLED 螢幕的每個畫素常由紅、綠、藍子畫素組成。",
+  "example_en": "Each pixel of an LCD screen contains liquid crystals that control how much light passes.",
+  "example_zh": "液晶螢幕的每個畫素都含有控制透光量的液晶。",
+  "morph": [
+   {
+    "part": "pix",
+    "meaning": "pictures 的縮寫"
+   },
+   {
+    "part": "el",
+    "meaning": "element 元素"
+   }
+  ],
+  "related": [
+   "t-liquid",
+   "t-nematic",
+   "t-ccfl",
+   "t-semiconductor"
+  ],
+  "confusables": [],
+  "illus": "liquid-crystal",
+  "tf": {
+   "statement_zh": "畫素是化學元素週期表中最小的單位。",
+   "answer": false,
+   "explain": "錯誤。畫素是數位影像與顯示器上最小的成色點，與元素無關。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-plasma",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈplæzmə/",
+  "ipa_uk": "/ˈplæzmə/",
+  "syllables": "plas·ma",
+  "def_en": "A state of matter of hot ionized gas containing free electrons and positive ions.",
+  "def_zh": "電漿。物質第四態，由高溫或強電場使氣體游離，含自由電子與正離子，整體近電中性，如閃電、霓虹燈、太陽。",
+  "example_en": "A neon sign glows because the gas inside becomes a plasma.",
+  "example_zh": "霓虹燈會發光，是因為燈管內的氣體變成了電漿。",
+  "morph": [],
+  "related": [
+   "t-solid",
+   "t-liquid",
+   "t-gas",
+   "t-neon"
+  ],
+  "confusables": [
+   {
+    "term": "blood plasma",
+    "zh": "血漿",
+    "note": "生物學中 plasma 指血漿；化學／物理指電漿"
+   }
+  ],
+  "illus": "states-particles",
+  "tf": {
+   "statement_zh": "電漿中含有自由電子與正離子，因此能導電。",
+   "answer": true,
+   "explain": "正確。電漿是游離的氣體，帶電粒子可自由移動而導電。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-plastic",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n. / adj.",
+  "ipa_us": "/ˈplæstɪk/",
+  "ipa_uk": "/ˈplæstɪk/",
+  "syllables": "plas·tic",
+  "def_en": "A synthetic polymer material that can be molded; as an adjective, able to be shaped without breaking.",
+  "def_zh": "塑膠；塑膠製品（名詞），由合成高分子製成、可塑形的材料；可塑的、塑性的（形容詞），指受力後可永久變形而不斷裂。塑膠分為熱塑性與熱固性。",
+  "example_en": "Most plastic bottles are made of a polyester called PET.",
+  "example_zh": "大多數塑膠瓶是由一種稱為 PET 的聚酯製成。",
+  "morph": [
+   {
+    "part": "plast-",
+    "meaning": "塑形（希臘 plassein）"
+   },
+   {
+    "part": "-ic",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-polymer",
+   "t-thermoplastic",
+   "t-thermosetting",
+   "t-polyethylene"
+  ],
+  "confusables": [
+   {
+    "term": "elastic",
+    "zh": "有彈性的",
+    "note": "elastic 受力後可回復原狀；plastic 變形後不回復"
+   }
+  ],
+  "illus": "plastics",
+  "tf": {
+   "statement_zh": "所有塑膠加熱後都能軟化並重新塑形。",
+   "answer": false,
+   "explain": "錯誤。只有熱塑性塑膠可以；熱固性塑膠為網狀交聯，加熱不會軟化。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-polyester",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈpɑliˌɛstɚ/",
+  "ipa_uk": "/ˌpɒliˈestə/",
+  "syllables": "pol·y·es·ter",
+  "def_en": "A polymer whose repeating units are linked by ester groups, used for fibers and bottles.",
+  "def_zh": "聚酯。主鏈以酯基（–COO–）連接的高分子，由二元酸與二元醇縮合聚合而成，如 PET（聚對苯二甲酸乙二酯），用於衣料纖維與寶特瓶。",
+  "example_en": "Polyester is made by condensation polymerization, which releases water.",
+  "example_zh": "聚酯是由縮合聚合製成，反應中會釋出水。",
+  "morph": [
+   {
+    "part": "poly-",
+    "meaning": "多"
+   },
+   {
+    "part": "ester",
+    "meaning": "酯"
+   }
+  ],
+  "related": [
+   "t-ester",
+   "t-polymer",
+   "t-fiber",
+   "t-nylon"
+  ],
+  "confusables": [
+   {
+    "term": "polyamide",
+    "zh": "聚醯胺",
+    "note": "聚醯胺（如尼龍）以醯胺鍵 –CONH– 相連，聚酯以酯基相連"
+   }
+  ],
+  "illus": "fibers",
+  "tf": {
+   "statement_zh": "聚酯是由單體以加成聚合製得，不會產生副產物。",
+   "answer": false,
+   "explain": "錯誤。聚酯由二元酸與二元醇進行縮合聚合，會產生水等小分子。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-polymer",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈpɑləmɚ/",
+  "ipa_uk": "/ˈpɒlɪmə/",
+  "syllables": "pol·y·mer",
+  "def_en": "A very large molecule made of many repeating small units called monomers.",
+  "def_zh": "聚合物（高分子）。由許多小分子單體重複連接而成的巨大分子；天然者如澱粉、蛋白質、纖維素，合成者如聚乙烯、尼龍。（PDF p.9 與 p.22 皆出現，中文同為「聚合物」。）",
+  "example_en": "Polyethylene is a polymer made from thousands of ethylene units.",
+  "example_zh": "聚乙烯是由數千個乙烯單元構成的聚合物。",
+  "morph": [
+   {
+    "part": "poly-",
+    "meaning": "多"
+   },
+   {
+    "part": "-mer",
+    "meaning": "部分、單元"
+   }
+  ],
+  "related": [
+   "t-monomer",
+   "t-polymerization",
+   "t-copolymer",
+   "t-plastic"
+  ],
+  "confusables": [
+   {
+    "term": "monomer",
+    "zh": "單體",
+    "note": "單體是構成聚合物的小分子單元"
+   }
+  ],
+  "illus": "polymerization",
+  "tf": {
+   "statement_zh": "澱粉與蛋白質都是天然聚合物。",
+   "answer": true,
+   "explain": "正確。澱粉由葡萄糖、蛋白質由胺基酸重複連接而成。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-polymerization",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/pəˌlɪməraɪˈzeɪʃən/",
+  "ipa_uk": "/ˌpɒlɪməraɪˈzeɪʃn/",
+  "syllables": "pol·y·mer·i·za·tion",
+  "def_en": "A chemical reaction in which many monomers join together to form a polymer.",
+  "def_zh": "聚合；聚合作用。單體連接成聚合物的反應，分為加成聚合（如乙烯→聚乙烯，無副產物）與縮合聚合（如尼龍、聚酯，脫去水等小分子）。（PDF p.9 與 p.22 皆出現。）",
+  "example_en": "Addition polymerization of ethylene produces polyethylene.",
+  "example_zh": "乙烯的加成聚合會生成聚乙烯。",
+  "morph": [
+   {
+    "part": "poly-",
+    "meaning": "多"
+   },
+   {
+    "part": "-mer",
+    "meaning": "單元"
+   },
+   {
+    "part": "-ization",
+    "meaning": "化、作用"
+   }
+  ],
+  "related": [
+   "t-polymer",
+   "t-monomer",
+   "t-addition",
+   "t-dimerization"
+  ],
+  "confusables": [
+   {
+    "term": "polymer",
+    "zh": "聚合物",
+    "note": "polymer 是產物；polymerization 是反應過程"
+   }
+  ],
+  "illus": "polymerization",
+  "tf": {
+   "statement_zh": "縮合聚合在連接單體時會脫去水等小分子。",
+   "answer": true,
+   "explain": "正確。縮合聚合會產生小分子副產物，加成聚合則不會。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-potential",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/pəˈtɛnʃəl/",
+  "ipa_uk": "/pəˈtenʃl/",
+  "syllables": "po·ten·tial",
+  "def_en": "In chemistry, the electric potential energy per charge at a point, such as an electrode potential.",
+  "def_zh": "勢；位（電位、位能）。電化學中常指電極電位或電位差（單位伏特 V），如標準還原電位 E°；物理中位能（potential energy）也稱「勢能」。",
+  "example_en": "Zinc has a lower reduction potential than copper, so it acts as the anode.",
+  "example_zh": "鋅的還原電位比銅低，所以作為陽極。",
+  "morph": [
+   {
+    "part": "potent-",
+    "meaning": "有能力的"
+   },
+   {
+    "part": "-ial",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-voltage",
+   "t-electrode",
+   "t-galvanic",
+   "t-anode"
+  ],
+  "confusables": [
+   {
+    "term": "voltage",
+    "zh": "電壓",
+    "note": "voltage 指兩點之間的電位差"
+   }
+  ],
+  "illus": "galvanic-cell",
+  "tf": {
+   "statement_zh": "標準還原電位越大的物質，越容易被還原。",
+   "answer": true,
+   "explain": "正確。E° 越大，越容易得電子而被還原，是較強的氧化劑。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-precipitation",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/prɪˌsɪpɪˈteɪʃən/",
+  "ipa_uk": "/prɪˌsɪpɪˈteɪʃn/",
+  "syllables": "pre·cip·i·ta·tion",
+  "def_en": "The formation of an insoluble solid from a solution during a chemical reaction.",
+  "def_zh": "沉澱；沉澱作用。溶液中的離子結合成難溶固體而析出的過程，如 Ag⁺ + Cl⁻ → AgCl(s)（白色沉澱）。氣象上 precipitation 則指降水。（原文「沈澱：」應作「沉澱；」。）",
+  "example_en": "Adding silver nitrate to salt water causes the precipitation of white silver chloride.",
+  "example_zh": "在鹽水中加入硝酸銀，會產生白色氯化銀沉澱。",
+  "morph": [
+   {
+    "part": "pre-",
+    "meaning": "在前"
+   },
+   {
+    "part": "cipit-",
+    "meaning": "頭（拉丁 caput，頭朝下落下）"
+   },
+   {
+    "part": "-ation",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-solubility",
+   "t-filtration",
+   "t-solution",
+   "t-salt"
+  ],
+  "confusables": [
+   {
+    "term": "precipitate",
+    "zh": "沉澱物",
+    "note": "precipitate 是析出的固體；precipitation 是過程"
+   }
+  ],
+  "illus": "filtration",
+  "tf": {
+   "statement_zh": "沉澱反應中析出的固體可用過濾分離。",
+   "answer": true,
+   "explain": "正確。沉澱物留在濾紙上，濾液通過。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-preservative",
+  "unit": "u15",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/prɪˈzɝvətɪv/",
+  "ipa_uk": "/prɪˈzɜːvətɪv/",
+  "syllables": "pre·serv·a·tive",
+  "def_en": "A substance added to food or products to slow spoilage by microbes or oxidation.",
+  "def_zh": "防腐劑。加入食品、化妝品或藥品中，抑制微生物生長或防止氧化以延長保存期限的物質，如苯甲酸鈉、己二烯酸（山梨酸）鉀。",
+  "example_en": "Sodium benzoate is a common preservative in soft drinks.",
+  "example_zh": "苯甲酸鈉是汽水中常見的防腐劑。",
+  "morph": [
+   {
+    "part": "pre-",
+    "meaning": "預先"
+   },
+   {
+    "part": "serv-",
+    "meaning": "保存"
+   },
+   {
+    "part": "-ative",
+    "meaning": "具…性質的"
+   }
+  ],
+  "related": [
+   "t-antioxidant",
+   "t-cosmetic",
+   "t-formalin",
+   "t-rancidity"
+  ],
+  "confusables": [
+   {
+    "term": "antioxidant",
+    "zh": "抗氧化劑",
+    "note": "抗氧化劑專門防止氧化；防腐劑多指抑制微生物"
+   }
+  ],
+  "illus": "drugs",
+  "tf": {
+   "statement_zh": "福馬林可作為食品防腐劑合法添加。",
+   "answer": false,
+   "explain": "錯誤。福馬林（甲醛水溶液）有毒，禁止添加於食品，僅用於標本保存等。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-probability",
+  "unit": "u03",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌprɑbəˈbɪləti/",
+  "ipa_uk": "/ˌprɒbəˈbɪləti/",
+  "syllables": "prob·a·bil·i·ty",
+  "def_en": "The likelihood of an event; in atoms, the chance of finding an electron in a region.",
+  "def_zh": "機率。在原子結構中，軌域代表電子在空間某區域出現機率較高的範圍（電子雲），而非固定的軌道。",
+  "example_en": "An orbital shows where the probability of finding an electron is high.",
+  "example_zh": "軌域顯示找到電子的機率較高的區域。",
+  "morph": [
+   {
+    "part": "prob-",
+    "meaning": "證明、檢驗"
+   },
+   {
+    "part": "-ability",
+    "meaning": "可能性"
+   }
+  ],
+  "related": [
+   "t-orbital",
+   "t-orbit",
+   "t-shell",
+   "t-subshell"
+  ],
+  "confusables": [],
+  "illus": "orbitals",
+  "tf": {
+   "statement_zh": "量子力學中，可以精確指出電子在某一時刻的位置與運動軌跡。",
+   "answer": false,
+   "explain": "錯誤。只能描述電子在某區域出現的機率，這就是軌域的意義。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-product",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈprɑdʌkt/",
+  "ipa_uk": "/ˈprɒdʌkt/",
+  "syllables": "prod·uct",
+  "def_en": "A substance formed in a chemical reaction, written on the right side of the equation.",
+  "def_zh": "產物（生成物）。化學反應後生成的物質，寫在反應式箭頭右側，如 2H₂ + O₂ → 2H₂O 中的 H₂O。",
+  "example_en": "In photosynthesis, glucose and oxygen are the products.",
+  "example_zh": "在光合作用中，葡萄糖與氧氣是產物。",
+  "morph": [
+   {
+    "part": "pro-",
+    "meaning": "向前"
+   },
+   {
+    "part": "duct",
+    "meaning": "引導"
+   }
+  ],
+  "related": [
+   "t-reactant",
+   "t-reaction",
+   "t-yield",
+   "t-actual"
+  ],
+  "confusables": [
+   {
+    "term": "reactant",
+    "zh": "反應物",
+    "note": "反應物在箭頭左側，被消耗"
+   }
+  ],
+  "illus": "reaction-equation",
+  "tf": {
+   "statement_zh": "在化學反應式中，產物寫在箭頭的左側。",
+   "answer": false,
+   "explain": "錯誤。產物寫在箭頭右側，反應物寫在左側。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-propanol",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈproʊpəˌnɔl/",
+  "ipa_uk": "/ˈprəʊpənɒl/",
+  "syllables": "pro·pa·nol",
+  "def_en": "An alcohol with three carbon atoms, C₃H₇OH, existing as 1-propanol and 2-propanol.",
+  "def_zh": "丙醇。含三個碳的醇類 C₃H₇OH，有 1-丙醇與 2-丙醇（異丙醇）兩種異構物；異丙醇常作消毒用酒精。",
+  "example_en": "2-Propanol, also called isopropyl alcohol, is used to disinfect skin; it is an isomer of 1-propanol.",
+  "example_zh": "2-丙醇又稱異丙醇，用於皮膚消毒；它是 1-丙醇的異構物。",
+  "morph": [
+   {
+    "part": "prop-",
+    "meaning": "三個碳"
+   },
+   {
+    "part": "-an-",
+    "meaning": "烷（單鍵）"
+   },
+   {
+    "part": "-ol",
+    "meaning": "醇"
+   }
+  ],
+  "related": [
+   "t-alcohol",
+   "t-propanal",
+   "t-butanol",
+   "t-isomer"
+  ],
+  "confusables": [
+   {
+    "term": "propanal",
+    "zh": "丙醛",
+    "note": "-al 表醛（–CHO），-ol 表醇（–OH）"
+   }
+  ],
+  "illus": "functional-groups",
+  "tf": {
+   "statement_zh": "1-丙醇與 2-丙醇分子式相同，是結構異構物。",
+   "answer": true,
+   "explain": "正確。兩者都是 C₃H₈O，只是 –OH 接在不同碳上。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-protein",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈproʊtin/",
+  "ipa_uk": "/ˈprəʊtiːn/",
+  "syllables": "pro·tein",
+  "def_en": "A large biological polymer made of amino acids joined by peptide bonds.",
+  "def_zh": "蛋白質。由胺基酸以肽鍵（–CONH–）連接而成的生物高分子，具有特定的立體結構（如 α 螺旋）；受熱或強酸鹼會變性。",
+  "example_en": "Heating an egg denatures the protein in the egg white.",
+  "example_zh": "加熱雞蛋會使蛋白中的蛋白質變性。",
+  "morph": [
+   {
+    "part": "prot-",
+    "meaning": "最初、首要（希臘 protos）"
+   },
+   {
+    "part": "-ein",
+    "meaning": "物質"
+   }
+  ],
+  "related": [
+   "t-polypeptide",
+   "t-enzyme",
+   "t-denaturation",
+   "t-collagen"
+  ],
+  "confusables": [
+   {
+    "term": "peptide",
+    "zh": "肽",
+    "note": "肽是較短的胺基酸鏈；蛋白質是長鏈並摺疊成特定結構"
+   }
+  ],
+  "illus": "proteins",
+  "tf": {
+   "statement_zh": "蛋白質變性時，胺基酸之間的肽鍵全部斷裂。",
+   "answer": false,
+   "explain": "錯誤。變性主要破壞立體結構（氫鍵等），肽鍵通常不斷裂。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-proton",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈproʊtɑn/",
+  "ipa_uk": "/ˈprəʊtɒn/",
+  "syllables": "pro·ton",
+  "def_en": "A positively charged particle in the atomic nucleus; its number defines the element.",
+  "def_zh": "質子。位於原子核內、帶一單位正電荷的粒子，質量約 1 amu；質子數即原子序，決定元素種類。酸鹼化學中 H⁺ 也常稱質子。",
+  "example_en": "Every carbon atom has six protons in its nucleus.",
+  "example_zh": "每個碳原子的原子核內都有六個質子。",
+  "morph": [
+   {
+    "part": "proto-",
+    "meaning": "第一"
+   }
+  ],
+  "related": [
+   "t-neutron",
+   "t-nucleus",
+   "t-atom",
+   "t-isotope"
+  ],
+  "confusables": [
+   {
+    "term": "neutron",
+    "zh": "中子",
+    "note": "中子不帶電；質子帶正電"
+   }
+  ],
+  "illus": "atom-structure",
+  "tf": {
+   "statement_zh": "同一元素的同位素具有相同的質子數。",
+   "answer": true,
+   "explain": "正確。同位素質子數相同、中子數不同。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-pyrite",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈpaɪraɪt/",
+  "ipa_uk": "/ˈpaɪraɪt/",
+  "syllables": "py·rite",
+  "def_en": "A shiny brass-yellow mineral of iron disulfide, FeS₂, called fool's gold.",
+  "def_zh": "黃鐵礦。成分為二硫化鐵 FeS₂ 的礦物，具金黃色金屬光澤，俗稱「愚人金」；常呈立方體晶形。",
+  "example_en": "Pyrite is often mistaken for gold because of its yellow luster.",
+  "example_zh": "黃鐵礦常因黃色光澤而被誤認為黃金。",
+  "morph": [
+   {
+    "part": "pyr-",
+    "meaning": "火（希臘 pyr，敲擊會產生火花）"
+   },
+   {
+    "part": "-ite",
+    "meaning": "礦物字尾"
+   }
+  ],
+  "related": [
+   "t-mineral",
+   "t-galena",
+   "t-crystal",
+   "t-quartz"
+  ],
+  "confusables": [],
+  "illus": "minerals",
+  "tf": {
+   "statement_zh": "黃鐵礦的主要成分是黃金。",
+   "answer": false,
+   "explain": "錯誤。黃鐵礦是 FeS₂（二硫化鐵），俗稱愚人金。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-quartz",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/kwɔrts/",
+  "ipa_uk": "/kwɔːts/",
+  "syllables": "quartz",
+  "def_en": "A hard, common crystalline mineral made of silicon dioxide, SiO₂.",
+  "def_zh": "石英。成分為二氧化矽 SiO₂ 的晶體礦物，硬度高（莫氏 7），是玻璃與矽晶的原料；石英晶體具壓電性，用於石英錶。",
+  "example_en": "Glass is made mainly by melting quartz sand.",
+  "example_zh": "玻璃主要是由熔化石英砂製成。",
+  "morph": [],
+  "related": [
+   "t-mineral",
+   "t-glass",
+   "t-crystal",
+   "t-semiconductor"
+  ],
+  "confusables": [
+   {
+    "term": "glass",
+    "zh": "玻璃",
+    "note": "玻璃是非晶質；石英是有規則排列的晶體"
+   }
+  ],
+  "illus": "minerals",
+  "tf": {
+   "statement_zh": "石英與玻璃的主要成分都是二氧化矽，但石英是晶體。",
+   "answer": true,
+   "explain": "正確。玻璃為非晶質，石英原子排列規則。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-radioactivity",
+  "unit": "u16",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌreɪdioʊækˈtɪvəti/",
+  "ipa_uk": "/ˌreɪdiəʊækˈtɪvəti/",
+  "syllables": "ra·di·o·ac·tiv·i·ty",
+  "def_en": "The spontaneous release of radiation from unstable atomic nuclei as they decay.",
+  "def_zh": "放射性。不穩定原子核自發衰變並放出 α、β 粒子或 γ 射線的性質；由貝克勒發現，居禮夫婦深入研究。",
+  "example_en": "Radioactivity was studied by Marie Curie, who discovered polonium and radium.",
+  "example_zh": "居禮夫人研究放射性，並發現了釙與鐳。",
+  "morph": [
+   {
+    "part": "radio-",
+    "meaning": "輻射"
+   },
+   {
+    "part": "act-",
+    "meaning": "作用"
+   },
+   {
+    "part": "-ivity",
+    "meaning": "性質"
+   }
+  ],
+  "related": [
+   "t-radon",
+   "t-isotope",
+   "t-fission",
+   "t-tracer"
+  ],
+  "confusables": [],
+  "illus": "radioactivity",
+  "tf": {
+   "statement_zh": "加熱或加壓可以明顯改變放射性元素的衰變速率。",
+   "answer": false,
+   "explain": "錯誤。放射性衰變幾乎不受溫度、壓力等化學條件影響。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-radon",
+  "unit": "u16",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈreɪdɑn/",
+  "ipa_uk": "/ˈreɪdɒn/",
+  "syllables": "ra·don",
+  "def_en": "A radioactive noble gas, Rn, element 86, formed from radium decay in rocks.",
+  "def_zh": "氡。原子序 86 的放射性鈍氣（Rn），由岩石、土壤中鐳的衰變產生，室內累積吸入會增加肺癌風險。",
+  "example_en": "Radon can build up in basements and should be checked with a detector.",
+  "example_zh": "氡可能在地下室累積，應以偵測器檢測。",
+  "morph": [
+   {
+    "part": "rad-",
+    "meaning": "鐳 radium"
+   },
+   {
+    "part": "-on",
+    "meaning": "鈍氣字尾（如 neon, argon）"
+   }
+  ],
+  "related": [
+   "t-noble-gas",
+   "t-radioactivity",
+   "t-xenon",
+   "t-neon"
+  ],
+  "confusables": [],
+  "illus": "element-families",
+  "tf": {
+   "statement_zh": "氡是放射性的鈍氣元素。",
+   "answer": true,
+   "explain": "正確。氡屬第 18 族鈍氣，且所有同位素都具放射性。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-rayon",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈreɪɑn/",
+  "ipa_uk": "/ˈreɪɒn/",
+  "syllables": "ray·on",
+  "def_en": "A fiber made by dissolving and regenerating natural cellulose, often from wood pulp.",
+  "def_zh": "嫘縈；人造絲。以木漿等天然纖維素溶解後再生抽絲製成的「再生纖維」，屬半合成纖維，觸感似絲。（原文「丝」為簡體字，應作「絲」。）",
+  "example_en": "Rayon is made from cellulose, so it is called a regenerated fiber.",
+  "example_zh": "嫘縈是由纖維素製成，因此稱為再生纖維。",
+  "morph": [],
+  "related": [
+   "t-cellulose",
+   "t-fiber",
+   "t-regeneration",
+   "t-nylon"
+  ],
+  "confusables": [
+   {
+    "term": "nylon",
+    "zh": "尼龍",
+    "note": "尼龍是完全合成的聚醯胺；嫘縈原料是天然纖維素"
+   }
+  ],
+  "illus": "fibers",
+  "tf": {
+   "statement_zh": "嫘縈是由石油製成的完全合成纖維。",
+   "answer": false,
+   "explain": "錯誤。嫘縈以天然纖維素為原料再生製成。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-reactant",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/riˈæktənt/",
+  "ipa_uk": "/riˈæktənt/",
+  "syllables": "re·act·ant",
+  "def_en": "A starting substance that is used up in a chemical reaction, written left of the arrow.",
+  "def_zh": "反應物。化學反應開始時參與反應而被消耗的物質，寫在反應式箭頭左側；最先用完者稱為限量試劑。",
+  "example_en": "Hydrogen and oxygen are the reactants that form water.",
+  "example_zh": "氫與氧是生成水的反應物。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "回、相對"
+   },
+   {
+    "part": "act",
+    "meaning": "作用"
+   },
+   {
+    "part": "-ant",
+    "meaning": "…者"
+   }
+  ],
+  "related": [
+   "t-product",
+   "t-reaction",
+   "t-yield",
+   "t-mole"
+  ],
+  "confusables": [
+   {
+    "term": "reagent",
+    "zh": "試劑",
+    "note": "reagent 泛指實驗用的化學藥品"
+   }
+  ],
+  "illus": "reaction-equation",
+  "tf": {
+   "statement_zh": "反應中先用完的反應物決定產物的理論產量。",
+   "answer": true,
+   "explain": "正確。限量試劑決定最多能生成多少產物。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-reaction",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/riˈækʃən/",
+  "ipa_uk": "/riˈækʃn/",
+  "syllables": "re·ac·tion",
+  "def_en": "A process in which substances change into new substances by breaking and forming bonds.",
+  "def_zh": "反應。物質經由化學鍵斷裂與生成而變成新物質的過程，如燃燒、中和；一般義也指「感應（+to）」與物理的「反作用（力）」。",
+  "example_en": "The reaction between an acid and a base produces salt and water.",
+  "example_zh": "酸與鹼之間的反應會生成鹽和水。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "回、相對"
+   },
+   {
+    "part": "act",
+    "meaning": "作用"
+   },
+   {
+    "part": "-ion",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-reactant",
+   "t-product",
+   "t-enthalpy",
+   "t-catalyst"
+  ],
+  "confusables": [],
+  "illus": "reaction-equation",
+  "tf": {
+   "statement_zh": "化學反應前後，原子的種類與數目保持不變。",
+   "answer": true,
+   "explain": "正確。這是質量守恆：原子只是重新排列。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-recovery",
+  "unit": "u16",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/rɪˈkʌvəri/",
+  "ipa_uk": "/rɪˈkʌvəri/",
+  "syllables": "re·cov·er·y",
+  "def_en": "The process of getting back useful materials or energy from waste for reuse.",
+  "def_zh": "回收（再用）。從廢棄物中取回有用的物質或能量，如從廢電子產品回收金、銀，或從廢氣回收熱能。",
+  "example_en": "The recovery of silver from used photographic film saves resources.",
+  "example_zh": "從使用過的底片中回收銀可以節省資源。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "再、回"
+   },
+   {
+    "part": "cover",
+    "meaning": "取得"
+   },
+   {
+    "part": "-y",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-recycle",
+   "t-reuse",
+   "t-reduce",
+   "t-regeneration"
+  ],
+  "confusables": [
+   {
+    "term": "recycle",
+    "zh": "循環使用",
+    "note": "recycle 多指把廢棄物再製成產品"
+   }
+  ],
+  "illus": "green-chemistry",
+  "tf": {
+   "statement_zh": "從廢棄電路板中取回金屬是資源回收的一種。",
+   "answer": true,
+   "explain": "正確。這屬於物質回收（recovery）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-recycle",
+  "unit": "u16",
+  "level": 1,
+  "pos": "v.",
+  "ipa_us": "/riˈsaɪkəl/",
+  "ipa_uk": "/ˌriːˈsaɪkl/",
+  "syllables": "re·cy·cle",
+  "def_en": "To process used materials so they can be made into new products.",
+  "def_zh": "循環使用；回收再製。將用過的材料經處理後再製成新產品，如寶特瓶回收製成聚酯纖維；是 3R（減量、重複使用、回收）之一。",
+  "example_en": "We recycle PET bottles to make polyester fibers for clothing.",
+  "example_zh": "我們回收寶特瓶，製成衣物用的聚酯纖維。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "再"
+   },
+   {
+    "part": "cycl-",
+    "meaning": "循環"
+   }
+  ],
+  "related": [
+   "t-reuse",
+   "t-reduce",
+   "t-recovery",
+   "t-polyester"
+  ],
+  "confusables": [
+   {
+    "term": "reuse",
+    "zh": "重複使用",
+    "note": "reuse 不經再製直接再用；recycle 需加工再製"
+   }
+  ],
+  "illus": "green-chemistry",
+  "tf": {
+   "statement_zh": "在 3R 中，回收（recycle）的優先順序高於減量（reduce）。",
+   "answer": false,
+   "explain": "錯誤。優先順序為減量、重複使用，最後才是回收。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-reduce",
+  "unit": "u11",
+  "level": 1,
+  "pos": "v.",
+  "ipa_us": "/rɪˈdus/",
+  "ipa_uk": "/rɪˈdjuːs/",
+  "syllables": "re·duce",
+  "def_en": "In chemistry, to cause a substance to gain electrons; generally, to use less of something.",
+  "def_zh": "還原：使物質得到電子（氧化數降低），如 CuO 被 H₂ 還原成 Cu；在環保 3R 中則指「減量使用」。",
+  "example_en": "Hydrogen gas can reduce copper(II) oxide to copper metal.",
+  "example_zh": "氫氣可以把氧化銅（II）還原成金屬銅。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "回"
+   },
+   {
+    "part": "duc-",
+    "meaning": "引導"
+   }
+  ],
+  "related": [
+   "t-reductant",
+   "t-reduction",
+   "t-oxidant",
+   "t-recycle"
+  ],
+  "confusables": [
+   {
+    "term": "oxidize",
+    "zh": "氧化",
+    "note": "oxidize 指失去電子"
+   }
+  ],
+  "illus": "redox",
+  "tf": {
+   "statement_zh": "物質被還原時，其氧化數會增加。",
+   "answer": false,
+   "explain": "錯誤。被還原是得到電子，氧化數降低。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-reductant",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/rɪˈdʌktənt/",
+  "ipa_uk": "/rɪˈdʌktənt/",
+  "syllables": "re·duc·tant",
+  "def_en": "A substance that donates electrons to another substance and is itself oxidized.",
+  "def_zh": "還原劑。在氧化還原反應中提供電子、使他物被還原，而自身被氧化的物質，如 Zn、H₂、C。",
+  "example_en": "In a zinc–copper cell, zinc metal is the reductant.",
+  "example_zh": "在鋅銅電池中，鋅金屬是還原劑。",
+  "morph": [
+   {
+    "part": "reduct-",
+    "meaning": "還原"
+   },
+   {
+    "part": "-ant",
+    "meaning": "…者、劑"
+   }
+  ],
+  "related": [
+   "t-oxidant",
+   "t-reduce",
+   "t-reduction",
+   "t-anode"
+  ],
+  "confusables": [
+   {
+    "term": "oxidant",
+    "zh": "氧化劑",
+    "note": "氧化劑得電子，自身被還原"
+   }
+  ],
+  "illus": "redox",
+  "tf": {
+   "statement_zh": "還原劑在反應中失去電子而被氧化。",
+   "answer": true,
+   "explain": "正確。還原劑給出電子，自身氧化數上升。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-regeneration",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/rɪˌdʒɛnəˈreɪʃən/",
+  "ipa_uk": "/rɪˌdʒenəˈreɪʃn/",
+  "syllables": "re·gen·er·a·tion",
+  "def_en": "The process of restoring a used material, such as a catalyst or resin, to its active form.",
+  "def_zh": "再生。使已使用的物質恢復原有活性或形態，如離子交換樹脂、觸媒的再生；嫘縈即由纖維素溶解後「再生」成纖維。",
+  "example_en": "Regeneration of the ion-exchange resin is done by rinsing it with salt water.",
+  "example_zh": "離子交換樹脂的再生是用鹽水沖洗完成的。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "再"
+   },
+   {
+    "part": "gener-",
+    "meaning": "產生"
+   },
+   {
+    "part": "-ation",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-rayon",
+   "t-cellulose",
+   "t-catalyst",
+   "t-recovery"
+  ],
+  "confusables": [],
+  "illus": "green-chemistry",
+  "tf": {
+   "statement_zh": "嫘縈屬於再生纖維，因為它是由天然纖維素溶解後重新抽絲製成。",
+   "answer": true,
+   "explain": "正確。故嫘縈又稱再生纖維素纖維。"
+  },
+  "confidence": "medium"
+ },
+ {
+  "id": "t-saccharide",
+  "unit": "u15",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsækəˌraɪd/",
+  "ipa_uk": "/ˈsækəraɪd/",
+  "syllables": "sac·cha·ride",
+  "def_en": "A sugar unit or carbohydrate; monosaccharides, disaccharides, and polysaccharides are types.",
+  "def_zh": "醣。碳水化合物的統稱，依單元數分為單醣（葡萄糖、果糖）、雙醣（蔗糖、麥芽糖）與多醣（澱粉、纖維素、肝醣）。",
+  "example_en": "Sucrose is a disaccharide, while glucose is a simple saccharide.",
+  "example_zh": "蔗糖是雙醣，而葡萄糖是單醣。",
+  "morph": [
+   {
+    "part": "sacchar-",
+    "meaning": "糖（拉丁 saccharum）"
+   },
+   {
+    "part": "-ide",
+    "meaning": "化合物字尾"
+   }
+  ],
+  "related": [
+   "t-carbohydrate",
+   "t-glucose",
+   "t-disaccharide",
+   "t-starch"
+  ],
+  "confusables": [],
+  "illus": "carbohydrates",
+  "tf": {
+   "statement_zh": "纖維素是由葡萄糖組成的多醣。",
+   "answer": true,
+   "explain": "正確。纖維素與澱粉、肝醣同為葡萄糖構成的多醣。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-salt",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/sɔlt/",
+  "ipa_uk": "/sɔːlt/",
+  "syllables": "salt",
+  "def_en": "An ionic compound formed from the cation of a base and the anion of an acid.",
+  "def_zh": "鹽。由陽離子（金屬或 NH₄⁺）與酸根陰離子組成的離子化合物，常由酸鹼中和生成；食鹽 NaCl 只是其中一種。",
+  "example_en": "When hydrochloric acid reacts with sodium hydroxide, the salt formed is sodium chloride.",
+  "example_zh": "鹽酸與氫氧化鈉反應時，生成的鹽是氯化鈉。",
+  "morph": [],
+  "related": [
+   "t-acid-salt",
+   "t-acid",
+   "t-base",
+   "t-cation"
+  ],
+  "confusables": [
+   {
+    "term": "acid salt",
+    "zh": "酸式鹽",
+    "note": "酸式鹽仍含可解離的 H，如 NaHCO₃"
+   }
+  ],
+  "illus": "neutralization",
+  "tf": {
+   "statement_zh": "化學上的「鹽」只指氯化鈉。",
+   "answer": false,
+   "explain": "錯誤。鹽泛指酸根與陽離子組成的離子化合物，如 CaCO₃、KNO₃。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-saponification",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/səˌpɑnəfəˈkeɪʃən/",
+  "ipa_uk": "/səˌpɒnɪfɪˈkeɪʃn/",
+  "syllables": "sa·pon·i·fi·ca·tion",
+  "def_en": "The reaction of a fat or ester with a strong base to make soap and glycerol.",
+  "def_zh": "皂化（作用）。油脂（酯）與強鹼（如 NaOH）水解生成脂肪酸鈉（肥皂）與甘油的反應；廣義指酯的鹼性水解。",
+  "example_en": "Saponification of vegetable oil with sodium hydroxide produces soap.",
+  "example_zh": "植物油與氫氧化鈉進行皂化反應會生成肥皂。",
+  "morph": [
+   {
+    "part": "sapon-",
+    "meaning": "肥皂（拉丁 sapo）"
+   },
+   {
+    "part": "-ification",
+    "meaning": "化、作用"
+   }
+  ],
+  "related": [
+   "t-soap",
+   "t-ester",
+   "t-glycerol",
+   "t-hydrolysis"
+  ],
+  "confusables": [
+   {
+    "term": "esterification",
+    "zh": "酯化",
+    "note": "酯化是酸＋醇生成酯，是另一方向的反應"
+   }
+  ],
+  "illus": "esterification",
+  "tf": {
+   "statement_zh": "皂化反應的產物包括肥皂與甘油。",
+   "answer": true,
+   "explain": "正確。油脂＋鹼→脂肪酸鹽（肥皂）＋甘油。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-scale",
+  "unit": "u02",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/skeɪl/",
+  "ipa_uk": "/skeɪl/",
+  "syllables": "scale",
+  "def_en": "A series of marks for measuring, such as a pH scale; also hard mineral deposit in kettles.",
+  "def_zh": "標；標度；規：用於量測的刻度系統，如 pH 刻度、溫標；也指天平。另指鍋垢、水垢，主要為 CaCO₃、Mg(OH)₂ 等由硬水加熱沉積而成。",
+  "example_en": "The kettle was coated with scale because the water was hard.",
+  "example_zh": "因為是硬水，水壺內積了一層水垢。",
+  "morph": [],
+  "related": [
+   "t-temperature",
+   "t-thermometer",
+   "t-balance",
+   "t-decalcifier"
+  ],
+  "confusables": [],
+  "illus": "ph-scale",
+  "tf": {
+   "statement_zh": "水垢的主要成分是碳酸鈣等由硬水沉積的物質，可用醋酸溶解。",
+   "answer": true,
+   "explain": "正確。酸可與 CaCO₃ 反應，故可用醋或檸檬酸除垢。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-semiconductor",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈsɛmikənˌdʌktɚ/",
+  "ipa_uk": "/ˌsemikənˈdʌktə/",
+  "syllables": "sem·i·con·duc·tor",
+  "def_en": "A material, such as silicon, whose electrical conductivity is between a conductor and an insulator.",
+  "def_zh": "半導體。導電性介於導體與絕緣體之間的材料，如矽（Si）、鍺；經摻雜可調整導電性，用於晶片、二極體、太陽能電池。",
+  "example_en": "Silicon is the most widely used semiconductor in computer chips.",
+  "example_zh": "矽是電腦晶片中最常用的半導體。",
+  "morph": [
+   {
+    "part": "semi-",
+    "meaning": "半"
+   },
+   {
+    "part": "con-",
+    "meaning": "共同"
+   },
+   {
+    "part": "duct",
+    "meaning": "引導"
+   }
+  ],
+  "related": [
+   "t-doping",
+   "t-wafer",
+   "t-photoresist",
+   "t-superconductor"
+  ],
+  "confusables": [
+   {
+    "term": "superconductor",
+    "zh": "超導體",
+    "note": "超導體在低溫時電阻為零"
+   }
+  ],
+  "illus": "chip-making",
+  "tf": {
+   "statement_zh": "半導體的導電性會隨溫度升高而降低，和金屬一樣。",
+   "answer": false,
+   "explain": "錯誤。一般半導體溫度升高時導電性增加，與金屬相反。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-separation",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌsɛpəˈreɪʃən/",
+  "ipa_uk": "/ˌsepəˈreɪʃn/",
+  "syllables": "sep·a·ra·tion",
+  "def_en": "The process of dividing a mixture into its components using differences in properties.",
+  "def_zh": "分離。利用成分性質（沸點、溶解度、粒徑、吸附力）的差異，將混合物分開的過程，如過濾、蒸餾、萃取、層析。",
+  "example_en": "Distillation is a separation method based on different boiling points.",
+  "example_zh": "蒸餾是一種根據沸點不同進行的分離方法。",
+  "morph": [
+   {
+    "part": "se-",
+    "meaning": "分開"
+   },
+   {
+    "part": "par-",
+    "meaning": "準備"
+   },
+   {
+    "part": "-ation",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-distillation",
+   "t-filtration",
+   "t-extraction",
+   "t-chromatography"
+  ],
+  "confusables": [
+   {
+    "term": "purification",
+    "zh": "純化",
+    "note": "純化以去除雜質、得到純物質為目的"
+   }
+  ],
+  "illus": "distillation",
+  "tf": {
+   "statement_zh": "分離混合物時，各成分的化學性質都會改變。",
+   "answer": false,
+   "explain": "錯誤。物理分離方法不改變成分的化學性質。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-shell",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ʃɛl/",
+  "ipa_uk": "/ʃel/",
+  "syllables": "shell",
+  "def_en": "A main energy level of electrons around the nucleus, labeled K, L, M or n = 1, 2, 3.",
+  "def_zh": "殼；層；殼層。原子核外電子依能量分成的主層，以 K、L、M…或主量子數 n = 1, 2, 3 表示，第 n 層最多容納 2n² 個電子。",
+  "example_en": "The L shell can hold up to eight electrons.",
+  "example_zh": "L 殼層最多可容納八個電子。",
+  "morph": [],
+  "related": [
+   "t-subshell",
+   "t-orbital",
+   "t-orbit",
+   "t-bohr"
+  ],
+  "confusables": [
+   {
+    "term": "subshell",
+    "zh": "副殼層",
+    "note": "副殼層是殼層再細分的 s、p、d、f"
+   }
+  ],
+  "illus": "orbitals",
+  "tf": {
+   "statement_zh": "第 3 殼層（M 層）最多可容納 18 個電子。",
+   "answer": true,
+   "explain": "正確。2n² = 2×3² = 18。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-silver",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈsɪlvɚ/",
+  "ipa_uk": "/ˈsɪlvə/",
+  "syllables": "sil·ver",
+  "def_en": "A shiny metallic element, Ag, element 47, the best conductor of electricity and heat.",
+  "def_zh": "銀。原子序 47 的過渡金屬（Ag），導電與導熱性在所有金屬中最佳；銀離子可殺菌，銀鹽（AgBr）曾用於底片感光。",
+  "example_en": "Silver tarnishes because it reacts with sulfur compounds to form black Ag₂S.",
+  "example_zh": "銀會變黑，是因為它與硫化物反應生成黑色的 Ag₂S。",
+  "morph": [],
+  "related": [
+   "t-metal",
+   "t-argentite",
+   "t-cerargyrite",
+   "t-amalgam"
+  ],
+  "confusables": [],
+  "illus": "periodic-table",
+  "tf": {
+   "statement_zh": "銀的元素符號是 Si。",
+   "answer": false,
+   "explain": "錯誤。銀是 Ag（拉丁 argentum）；Si 是矽。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-single",
+  "unit": "u05",
+  "level": 1,
+  "pos": "adj.",
+  "ipa_us": "/ˈsɪŋɡəl/",
+  "ipa_uk": "/ˈsɪŋɡl/",
+  "syllables": "sin·gle",
+  "def_en": "Only one; in chemistry, describing one shared pair of electrons, as in a single bond.",
+  "def_zh": "單一的；單個的。化學中常見於 single bond（單鍵，共用一對電子）、single displacement（單取代反應）、single crystal（單晶）。",
+  "example_en": "Every carbon–carbon bond in ethane is a single bond.",
+  "example_zh": "乙烷中每個碳–碳鍵都是單鍵。",
+  "morph": [],
+  "related": [
+   "t-covalent",
+   "t-alkane",
+   "t-bond",
+   "t-overlap"
+  ],
+  "confusables": [],
+  "illus": "covalent-bond",
+  "tf": {
+   "statement_zh": "單鍵是兩原子共用兩對電子形成的鍵。",
+   "answer": false,
+   "explain": "錯誤。單鍵共用一對電子；共用兩對是雙鍵。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-soap",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/soʊp/",
+  "ipa_uk": "/səʊp/",
+  "syllables": "soap",
+  "def_en": "A salt of a long-chain fatty acid that removes grease by forming micelles in water.",
+  "def_zh": "肥皂。長鏈脂肪酸的鈉鹽或鉀鹽，由油脂皂化製得；分子具親水端（–COO⁻）與疏水長碳鏈，在水中形成微胞包覆油污。",
+  "example_en": "Soap does not lather well in hard water because it forms insoluble calcium salts.",
+  "example_zh": "肥皂在硬水中不易起泡，因為會生成不溶的鈣鹽。",
+  "morph": [],
+  "related": [
+   "t-saponification",
+   "t-detergent",
+   "t-micelle",
+   "t-surfactant"
+  ],
+  "confusables": [
+   {
+    "term": "detergent",
+    "zh": "清潔劑",
+    "note": "合成清潔劑在硬水中仍有效"
+   }
+  ],
+  "illus": "micelle",
+  "tf": {
+   "statement_zh": "肥皂分子的長碳鏈是親水端。",
+   "answer": false,
+   "explain": "錯誤。長碳鏈是疏水（親油）端，羧酸根離子才是親水端。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-soda",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsoʊdə/",
+  "ipa_uk": "/ˈsəʊdə/",
+  "syllables": "so·da",
+  "def_en": "A common name for sodium compounds, especially sodium carbonate, Na₂CO₃.",
+  "def_zh": "鈉鹼；蘇打。鈉化合物的俗稱：蘇打（純鹼）為 Na₂CO₃，小蘇打為 NaHCO₃，苛性鈉（燒鹼）為 NaOH；soda water 為汽水（碳酸水）。",
+  "example_en": "Baking soda, NaHCO₃, releases carbon dioxide when heated.",
+  "example_zh": "小蘇打（NaHCO₃）受熱時會放出二氧化碳。",
+  "morph": [],
+  "related": [
+   "t-base",
+   "t-alkaline",
+   "t-antacid",
+   "t-acid-salt"
+  ],
+  "confusables": [
+   {
+    "term": "caustic soda",
+    "zh": "苛性鈉",
+    "note": "即 NaOH，強鹼"
+   }
+  ],
+  "illus": "neutralization",
+  "tf": {
+   "statement_zh": "小蘇打的化學式是 Na₂CO₃。",
+   "answer": false,
+   "explain": "錯誤。小蘇打是 NaHCO₃；Na₂CO₃ 是蘇打（純鹼）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-sol",
+  "unit": "u08",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/sɑl/",
+  "ipa_uk": "/sɒl/",
+  "syllables": "sol",
+  "def_en": "A colloid in which tiny solid particles are dispersed in a liquid.",
+  "def_zh": "溶膠。固體微粒（約 1–1000 nm）分散在液體中的膠體，如墨水、氫氧化鐵溶膠；可產生廷得耳效應，溶膠凝結可成凝膠。",
+  "example_en": "Iron(III) hydroxide sol shows the Tyndall effect when light passes through it.",
+  "example_zh": "光通過氫氧化鐵（III）溶膠時會出現廷得耳效應。",
+  "morph": [],
+  "related": [
+   "t-colloid",
+   "t-gel",
+   "t-emulsion",
+   "t-peptization"
+  ],
+  "confusables": [
+   {
+    "term": "solution",
+    "zh": "溶液",
+    "note": "溶液粒子更小，無廷得耳效應"
+   }
+  ],
+  "illus": "colloid",
+  "tf": {
+   "statement_zh": "溶膠是固體微粒分散在液體中的膠體。",
+   "answer": true,
+   "explain": "正確。分散質為固體、分散媒為液體。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-solid",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈsɑlɪd/",
+  "ipa_uk": "/ˈsɒlɪd/",
+  "syllables": "sol·id",
+  "def_en": "A state of matter with a fixed shape and volume because particles are closely packed.",
+  "def_zh": "固體。粒子緊密排列、只能在固定位置振動，因此具有固定形狀與體積的物質狀態；分為晶體與非晶質。",
+  "example_en": "Ice is the solid form of water.",
+  "example_zh": "冰是水的固態。",
+  "morph": [],
+  "related": [
+   "t-liquid",
+   "t-gas",
+   "t-crystal",
+   "t-amorphous"
+  ],
+  "confusables": [],
+  "illus": "states-particles",
+  "tf": {
+   "statement_zh": "固體中的粒子完全靜止不動。",
+   "answer": false,
+   "explain": "錯誤。固體粒子仍在固定位置附近振動。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-solubility",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌsɑljəˈbɪləti/",
+  "ipa_uk": "/ˌsɒljuˈbɪləti/",
+  "syllables": "sol·u·bil·i·ty",
+  "def_en": "The maximum amount of a solute that dissolves in a given amount of solvent at a temperature.",
+  "def_zh": "溶度；溶解度。在特定溫度下，一定量溶劑所能溶解溶質的最大量（達飽和），常以 g／100 g 水表示；多數固體溶解度隨溫度升高而增大，氣體則減小。",
+  "example_en": "The solubility of oxygen in water decreases as water gets warmer.",
+  "example_zh": "水溫升高時，氧在水中的溶解度會降低。",
+  "morph": [
+   {
+    "part": "solu-",
+    "meaning": "鬆開、溶解"
+   },
+   {
+    "part": "-bility",
+    "meaning": "能力"
+   }
+  ],
+  "related": [
+   "t-solution",
+   "t-solute",
+   "t-dissolution",
+   "t-miscible"
+  ],
+  "confusables": [],
+  "illus": "solution",
+  "tf": {
+   "statement_zh": "氣體在水中的溶解度通常隨溫度升高而增加。",
+   "answer": false,
+   "explain": "錯誤。氣體溶解度通常隨溫度升高而降低。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-solute",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈsɑljut/",
+  "ipa_uk": "/ˈsɒljuːt/",
+  "syllables": "sol·ute",
+  "def_en": "The substance that is dissolved in a solvent to make a solution.",
+  "def_zh": "溶質。溶解在溶劑中形成溶液的物質，通常為含量較少者，如糖水中的糖。",
+  "example_en": "In salt water, sodium chloride is the solute and water is the solvent.",
+  "example_zh": "在鹽水中，氯化鈉是溶質，水是溶劑。",
+  "morph": [
+   {
+    "part": "solu-",
+    "meaning": "溶解"
+   }
+  ],
+  "related": [
+   "t-solution",
+   "t-solubility",
+   "t-concentration",
+   "t-aqueous"
+  ],
+  "confusables": [
+   {
+    "term": "solvent",
+    "zh": "溶劑",
+    "note": "溶劑是溶解他物的介質"
+   }
+  ],
+  "illus": "solution",
+  "tf": {
+   "statement_zh": "糖水中的水是溶質。",
+   "answer": false,
+   "explain": "錯誤。糖是溶質，水是溶劑。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-solution",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/səˈluʃən/",
+  "ipa_uk": "/səˈluːʃn/",
+  "syllables": "so·lu·tion",
+  "def_en": "A homogeneous mixture of a solute evenly dissolved in a solvent.",
+  "def_zh": "溶液。溶質均勻溶解於溶劑中所形成的均勻混合物；以水為溶劑者稱水溶液，合金也可視為固態溶液。",
+  "example_en": "A copper sulfate solution is blue and clear.",
+  "example_zh": "硫酸銅溶液是藍色且澄清的。",
+  "morph": [
+   {
+    "part": "solu-",
+    "meaning": "溶解"
+   },
+   {
+    "part": "-tion",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-solute",
+   "t-homogeneous",
+   "t-aqueous",
+   "t-concentration"
+  ],
+  "confusables": [
+   {
+    "term": "colloid",
+    "zh": "膠體",
+    "note": "膠體粒子較大，會有廷得耳效應"
+   }
+  ],
+  "illus": "solution",
+  "tf": {
+   "statement_zh": "溶液屬於均勻混合物。",
+   "answer": true,
+   "explain": "正確。溶質粒子均勻分散，各處組成相同。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-specificity",
+  "unit": "u15",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌspɛsəˈfɪsəti/",
+  "ipa_uk": "/ˌspesɪˈfɪsəti/",
+  "syllables": "spec·i·fic·i·ty",
+  "def_en": "The property of an enzyme acting only on a particular substrate or reaction.",
+  "def_zh": "專一性（生化）。酵素只能催化特定受質或特定反應的性質，可用鎖鑰模型說明，如麥芽糖酶只分解麥芽糖。",
+  "example_en": "Because of its specificity, amylase breaks down starch but not cellulose.",
+  "example_zh": "由於具有專一性，澱粉酶能分解澱粉卻不能分解纖維素。",
+  "morph": [
+   {
+    "part": "specif-",
+    "meaning": "特定"
+   },
+   {
+    "part": "-icity",
+    "meaning": "性質"
+   }
+  ],
+  "related": [
+   "t-enzyme",
+   "t-substrate",
+   "t-maltase",
+   "t-amylase"
+  ],
+  "confusables": [],
+  "illus": "enzyme",
+  "tf": {
+   "statement_zh": "酵素的專一性可以用鎖鑰模型解釋。",
+   "answer": true,
+   "explain": "正確。受質形狀需與活性位置吻合。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-spectrometer",
+  "unit": "u02",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/spɛkˈtrɑmɪtɚ/",
+  "ipa_uk": "/spekˈtrɒmɪtə/",
+  "syllables": "spec·trom·e·ter",
+  "def_en": "An instrument that separates and measures light by wavelength, or ions by mass.",
+  "def_zh": "光譜儀；分光計；質譜儀。分析光譜（依波長分開並量測強度）的儀器；mass spectrometer 為質譜儀，依質荷比分開離子以測定分子量。",
+  "example_en": "A spectrometer can identify elements from the lines in their spectra.",
+  "example_zh": "光譜儀能根據光譜中的譜線辨識元素。",
+  "morph": [
+   {
+    "part": "spectro-",
+    "meaning": "光譜"
+   },
+   {
+    "part": "-meter",
+    "meaning": "測量儀"
+   }
+  ],
+  "related": [
+   "t-spectrum",
+   "t-meter",
+   "t-ultraviolet",
+   "t-isotope"
+  ],
+  "confusables": [
+   {
+    "term": "spectrum",
+    "zh": "光譜",
+    "note": "spectrum 是被量測的結果，spectrometer 是儀器"
+   }
+  ],
+  "illus": "spectrometer",
+  "tf": {
+   "statement_zh": "質譜儀是依照離子的質荷比把它們分開的。",
+   "answer": true,
+   "explain": "正確。質譜儀依 m/z 區分離子，可測同位素與分子量。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-spectrum",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈspɛktrəm/",
+  "ipa_uk": "/ˈspektrəm/",
+  "syllables": "spec·trum",
+  "def_en": "The range of wavelengths of light or radiation, or the pattern of lines a substance emits.",
+  "def_zh": "光譜。光或電磁輻射依波長排列的分布；原子受激發後放出的特定波長形成亮線光譜，可用來辨識元素。複數 spectra。",
+  "example_en": "The hydrogen spectrum shows only a few bright colored lines.",
+  "example_zh": "氫光譜只顯示少數幾條明亮的彩色譜線。",
+  "morph": [
+   {
+    "part": "spectr-",
+    "meaning": "看見、影像"
+   }
+  ],
+  "related": [
+   "t-spectrometer",
+   "t-bohr",
+   "t-ultraviolet",
+   "t-atom"
+  ],
+  "confusables": [],
+  "illus": "line-spectrum",
+  "tf": {
+   "statement_zh": "氫原子的發射光譜是連續光譜。",
+   "answer": false,
+   "explain": "錯誤。氫原子發射光譜是不連續的亮線光譜。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-starch",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/stɑrtʃ/",
+  "ipa_uk": "/stɑːtʃ/",
+  "syllables": "starch",
+  "def_en": "A plant polysaccharide made of glucose units, stored in rice, potatoes, and wheat.",
+  "def_zh": "澱粉。植物儲存能量的多醣，由葡萄糖以 α-鍵結連成，包括直鏈澱粉與支鏈澱粉；遇碘液呈藍黑色。",
+  "example_en": "Iodine solution turns blue-black when it touches starch.",
+  "example_zh": "碘液接觸澱粉時會變成藍黑色。",
+  "morph": [],
+  "related": [
+   "t-amylose",
+   "t-amylopectin",
+   "t-glucose",
+   "t-cellulose"
+  ],
+  "confusables": [
+   {
+    "term": "cellulose",
+    "zh": "纖維素",
+    "note": "纖維素同由葡萄糖組成，但以 β-鍵結相連，人體無法消化"
+   }
+  ],
+  "illus": "carbohydrates",
+  "tf": {
+   "statement_zh": "澱粉遇碘液會呈現藍黑色。",
+   "answer": true,
+   "explain": "正確。碘分子進入直鏈澱粉螺旋中而呈色。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-stratosphere",
+  "unit": "u16",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈstrætəˌsfɪr/",
+  "ipa_uk": "/ˈstrætəsfɪə/",
+  "syllables": "strat·o·sphere",
+  "def_en": "The atmospheric layer above the troposphere, about 10–50 km high, containing the ozone layer.",
+  "def_zh": "平流層。位於對流層之上、約 10–50 km 的大氣層，氣流以水平為主，溫度隨高度上升而升高；臭氧層位於其中，吸收紫外線。",
+  "example_en": "The ozone layer in the stratosphere absorbs harmful ultraviolet light.",
+  "example_zh": "平流層中的臭氧層會吸收有害的紫外光。",
+  "morph": [
+   {
+    "part": "strato-",
+    "meaning": "層（拉丁 stratum）"
+   },
+   {
+    "part": "-sphere",
+    "meaning": "圈、層"
+   }
+  ],
+  "related": [
+   "t-troposphere",
+   "t-ozone",
+   "t-mesosphere",
+   "t-freon"
+  ],
+  "confusables": [],
+  "illus": "atmosphere-layers",
+  "tf": {
+   "statement_zh": "平流層的溫度隨高度增加而升高。",
+   "answer": true,
+   "explain": "正確。臭氧吸收紫外線放熱，使平流層上部較暖。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-substitution",
+  "unit": "u12",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌsʌbstəˈtuʃən/",
+  "ipa_uk": "/ˌsʌbstɪˈtjuːʃn/",
+  "syllables": "sub·sti·tu·tion",
+  "def_en": "A reaction in which one atom or group in a molecule is replaced by another.",
+  "def_zh": "取代；取代作用。分子中的原子或原子團被另一原子或原子團取代的反應，如甲烷的氯化、苯的硝化與磺化。",
+  "example_en": "Under light, methane undergoes substitution with chlorine to form chloromethane.",
+  "example_zh": "在光照下，甲烷與氯進行取代反應生成氯甲烷。",
+  "morph": [
+   {
+    "part": "sub-",
+    "meaning": "在下、替代"
+   },
+   {
+    "part": "stit-",
+    "meaning": "放置"
+   },
+   {
+    "part": "-ution",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-halogenation",
+   "t-nitration",
+   "t-sulfonation",
+   "t-benzene"
+  ],
+  "confusables": [
+   {
+    "term": "addition",
+    "zh": "加成",
+    "note": "加成是打開雙鍵加入原子，無原子被取代"
+   }
+  ],
+  "illus": "organic-reactions",
+  "tf": {
+   "statement_zh": "苯容易進行取代反應，而不易進行加成反應。",
+   "answer": true,
+   "explain": "正確。苯的非定域 π 電子使其環很穩定，傾向取代。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-substrate",
+  "unit": "u15",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsʌbˌstreɪt/",
+  "ipa_uk": "/ˈsʌbstreɪt/",
+  "syllables": "sub·strate",
+  "def_en": "The molecule that an enzyme acts on; also a base material on which a layer is built.",
+  "def_zh": "受質。酵素作用的反應物分子，會結合到酵素活性位置；材料科學中 substrate 亦指基板（如晶圓）。",
+  "example_en": "Maltose is the substrate of the enzyme maltase.",
+  "example_zh": "麥芽糖是麥芽糖酶的受質。",
+  "morph": [
+   {
+    "part": "sub-",
+    "meaning": "在下"
+   },
+   {
+    "part": "strat-",
+    "meaning": "鋪、層"
+   }
+  ],
+  "related": [
+   "t-enzyme",
+   "t-specificity",
+   "t-maltase",
+   "t-wafer"
+  ],
+  "confusables": [],
+  "illus": "enzyme",
+  "tf": {
+   "statement_zh": "酵素反應後，受質會原封不動地被釋放回來。",
+   "answer": false,
+   "explain": "錯誤。受質被轉變成產物；是酵素本身反應後不變。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-sucrose",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈsuˌkroʊs/",
+  "ipa_uk": "/ˈsuːkrəʊs/",
+  "syllables": "su·crose",
+  "def_en": "Table sugar, a disaccharide C₁₂H₂₂O₁₁ made of one glucose and one fructose.",
+  "def_zh": "蔗糖。食用砂糖，分子式 C₁₂H₂₂O₁₁，由一分子葡萄糖與一分子果糖脫水縮合的雙醣；非還原糖。",
+  "example_en": "Hydrolysis of sucrose gives glucose and fructose.",
+  "example_zh": "蔗糖水解會生成葡萄糖與果糖。",
+  "morph": [
+   {
+    "part": "sucr-",
+    "meaning": "糖（法語 sucre）"
+   },
+   {
+    "part": "-ose",
+    "meaning": "醣類字尾"
+   }
+  ],
+  "related": [
+   "t-glucose",
+   "t-fructose",
+   "t-disaccharide",
+   "t-lactose"
+  ],
+  "confusables": [
+   {
+    "term": "maltose",
+    "zh": "麥芽糖",
+    "note": "麥芽糖由兩分子葡萄糖組成"
+   }
+  ],
+  "illus": "carbohydrates",
+  "tf": {
+   "statement_zh": "蔗糖由兩分子葡萄糖組成。",
+   "answer": false,
+   "explain": "錯誤。蔗糖由葡萄糖與果糖組成；兩分子葡萄糖是麥芽糖。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-superacid",
+  "unit": "u10",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈsupɚˌæsɪd/",
+  "ipa_uk": "/ˈsuːpərˌæsɪd/",
+  "syllables": "su·per·ac·id",
+  "def_en": "An acid stronger than 100% sulfuric acid, such as fluoroantimonic acid.",
+  "def_zh": "超強酸。酸性比 100% 純硫酸更強的酸，如氟銻酸（HF–SbF₅）、魔酸（HSO₃F–SbF₅），能使烴類質子化產生碳陽離子。",
+  "example_en": "A superacid can protonate hydrocarbons to form carbocations.",
+  "example_zh": "超強酸能使烴類質子化而形成碳陽離子。",
+  "morph": [
+   {
+    "part": "super-",
+    "meaning": "超"
+   },
+   {
+    "part": "acid",
+    "meaning": "酸"
+   }
+  ],
+  "related": [
+   "t-acid",
+   "t-carbocation",
+   "t-acidity",
+   "t-oxyacid"
+  ],
+  "confusables": [],
+  "illus": "ph-scale",
+  "tf": {
+   "statement_zh": "超強酸的酸性比純硫酸更強。",
+   "answer": true,
+   "explain": "正確。這正是超強酸的定義。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-superconductor",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsupɚkənˌdʌktɚ/",
+  "ipa_uk": "/ˈsuːpəkənˌdʌktə/",
+  "syllables": "su·per·con·duc·tor",
+  "def_en": "A material with zero electrical resistance below a critical temperature, which expels magnetic fields.",
+  "def_zh": "超導體。溫度低於臨界溫度時電阻變為零的材料，並具完全抗磁性（邁斯納效應），可使磁鐵懸浮；應用於磁浮列車、MRI。",
+  "example_en": "A magnet floats above a cooled superconductor.",
+  "example_zh": "磁鐵會懸浮在冷卻後的超導體上方。",
+  "morph": [
+   {
+    "part": "super-",
+    "meaning": "超"
+   },
+   {
+    "part": "conduct",
+    "meaning": "導"
+   },
+   {
+    "part": "-or",
+    "meaning": "…物"
+   }
+  ],
+  "related": [
+   "t-semiconductor",
+   "t-critical",
+   "t-diamagnetism",
+   "t-nitinol"
+  ],
+  "confusables": [
+   {
+    "term": "semiconductor",
+    "zh": "半導體",
+    "note": "半導體導電性介於導體與絕緣體之間"
+   }
+  ],
+  "illus": "smart-materials",
+  "tf": {
+   "statement_zh": "超導體在任何溫度下電阻都是零。",
+   "answer": false,
+   "explain": "錯誤。只有在臨界溫度以下電阻才為零。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-synthesis",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈsɪnθəsɪs/",
+  "ipa_uk": "/ˈsɪnθəsɪs/",
+  "syllables": "syn·the·sis",
+  "def_en": "The making of a compound from simpler substances by chemical reactions.",
+  "def_zh": "合成。由較簡單的物質經化學反應製造化合物的過程，如哈柏法合成氨（N₂ + 3H₂ → 2NH₃）、尼龍的合成。",
+  "example_en": "The Haber process is used for the synthesis of ammonia.",
+  "example_zh": "哈柏法用於合成氨。",
+  "morph": [
+   {
+    "part": "syn-",
+    "meaning": "共同"
+   },
+   {
+    "part": "thesis",
+    "meaning": "放置"
+   }
+  ],
+  "related": [
+   "t-decomposition",
+   "t-reaction",
+   "t-catalyst",
+   "t-ammonia"
+  ],
+  "confusables": [
+   {
+    "term": "decomposition",
+    "zh": "分解",
+    "note": "分解是由一物變成多種較簡單物質"
+   }
+  ],
+  "illus": "reaction-equation",
+  "tf": {
+   "statement_zh": "化合物 A + B → AB 屬於合成反應。",
+   "answer": true,
+   "explain": "正確。兩物結合成一化合物即為合成（化合）反應。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-teflon",
+  "unit": "u14",
+  "level": 2,
+  "pos": "proper n.",
+  "ipa_us": "/ˈtɛflɑn/",
+  "ipa_uk": "/ˈteflɒn/",
+  "syllables": "Tef·lon",
+  "def_en": "Trade name for PTFE, a slippery, heat-resistant polymer used for nonstick coatings.",
+  "def_zh": "鐵氟龍（原文「特夫綸」）。聚四氟乙烯（PTFE，–(CF₂–CF₂)ₙ–）的商品名，耐熱、耐化學腐蝕、摩擦係數極低，用於不沾鍋塗層。",
+  "example_en": "Teflon is made by addition polymerization of tetrafluoroethylene.",
+  "example_zh": "鐵氟龍由四氟乙烯進行加成聚合製成。",
+  "morph": [],
+  "related": [
+   "t-polymer",
+   "t-coating",
+   "t-polyethylene",
+   "t-kevlar"
+  ],
+  "confusables": [],
+  "illus": "plastics",
+  "tf": {
+   "statement_zh": "鐵氟龍的化學成分是聚四氟乙烯。",
+   "answer": true,
+   "explain": "正確。PTFE 由 C 與 F 組成，C–F 鍵非常穩定。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-temperature",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈtɛmpərətʃɚ/",
+  "ipa_uk": "/ˈtemprətʃə/",
+  "syllables": "tem·per·a·ture",
+  "def_en": "A measure of how hot something is, related to the average kinetic energy of its particles.",
+  "def_zh": "溫度。表示冷熱程度的物理量，與粒子平均動能成正比；常用攝氏（°C）與克氏（K），K = °C + 273.15。",
+  "example_en": "Raising the temperature usually increases the rate of a reaction.",
+  "example_zh": "提高溫度通常會加快反應速率。",
+  "morph": [
+   {
+    "part": "temper-",
+    "meaning": "調和、適度"
+   },
+   {
+    "part": "-ature",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-thermometer",
+   "t-boiling",
+   "t-collision",
+   "t-scale"
+  ],
+  "confusables": [
+   {
+    "term": "heat",
+    "zh": "熱",
+    "note": "熱是傳遞的能量；溫度是冷熱程度"
+   }
+  ],
+  "illus": "collision-theory",
+  "tf": {
+   "statement_zh": "溫度與熱量是相同的物理量。",
+   "answer": false,
+   "explain": "錯誤。溫度是粒子平均動能的指標，熱是因溫差而轉移的能量。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-tempering",
+  "unit": "u06",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈtɛmpərɪŋ/",
+  "ipa_uk": "/ˈtempərɪŋ/",
+  "syllables": "tem·per·ing",
+  "def_en": "Reheating hardened steel or glass to a moderate temperature to reduce brittleness and increase toughness.",
+  "def_zh": "回火。將淬火後的鋼（或玻璃）再加熱到適當溫度後冷卻，以消除內應力、降低脆性、增加韌性的熱處理。",
+  "example_en": "Tempering makes hardened steel tougher and less brittle.",
+  "example_zh": "回火使硬化的鋼更有韌性、較不易脆裂。",
+  "morph": [
+   {
+    "part": "temper-",
+    "meaning": "調和"
+   }
+  ],
+  "related": [
+   "t-alloy",
+   "t-eutectic",
+   "t-sorbite",
+   "t-glass"
+  ],
+  "confusables": [
+   {
+    "term": "quenching",
+    "zh": "淬火",
+    "note": "淬火是急速冷卻使鋼變硬；回火在其後進行"
+   }
+  ],
+  "illus": "alloy",
+  "tf": {
+   "statement_zh": "回火是在淬火之後進行，用來降低鋼的脆性。",
+   "answer": true,
+   "explain": "正確。淬火使鋼硬而脆，回火可改善韌性。"
+  },
+  "confidence": "medium"
+ },
+ {
+  "id": "t-theaflavin",
+  "unit": "u15",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˌθiəˈfleɪvɪn/",
+  "ipa_uk": "/ˌθiːəˈfleɪvɪn/",
+  "syllables": "the·a·fla·vin",
+  "def_en": "An orange-yellow polyphenol formed when tea catechins oxidize during black tea processing.",
+  "def_zh": "茶黃素。紅茶發酵（酵素氧化）時，兒茶素氧化聚合生成的橙黃色多酚類化合物，影響茶湯的明亮度與澀味。",
+  "example_en": "Theaflavin gives black tea its bright orange color.",
+  "example_zh": "茶黃素賦予紅茶明亮的橙色。",
+  "morph": [
+   {
+    "part": "thea-",
+    "meaning": "茶（Thea 茶屬）"
+   },
+   {
+    "part": "flav-",
+    "meaning": "黃色"
+   },
+   {
+    "part": "-in",
+    "meaning": "化合物字尾"
+   }
+  ],
+  "related": [
+   "t-thearubigin",
+   "t-catechin",
+   "t-polyphenols",
+   "t-tannin"
+  ],
+  "confusables": [
+   {
+    "term": "thearubigin",
+    "zh": "茶紅素",
+    "note": "茶紅素顏色較深紅、分子較大"
+   }
+  ],
+  "illus": "tea-coffee",
+  "tf": {
+   "statement_zh": "茶黃素在紅茶中的含量比在綠茶中多。",
+   "answer": true,
+   "explain": "正確。茶黃素是發酵時兒茶素氧化生成的，綠茶未發酵含量很少。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-thearubigin",
+  "unit": "u15",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˌθiəˈrubɪdʒɪn/",
+  "ipa_uk": "/ˌθiːəˈruːbɪdʒɪn/",
+  "syllables": "the·a·ru·bi·gin",
+  "def_en": "A reddish-brown mixture of large polyphenols formed by catechin oxidation in black tea.",
+  "def_zh": "茶紅素。紅茶發酵時兒茶素進一步氧化聚合形成的紅褐色多酚混合物，是紅茶湯色與濃度的主要來源。",
+  "example_en": "Thearubigin makes black tea appear reddish-brown.",
+  "example_zh": "茶紅素使紅茶呈現紅褐色。",
+  "morph": [
+   {
+    "part": "thea-",
+    "meaning": "茶"
+   },
+   {
+    "part": "rub-",
+    "meaning": "紅色（拉丁 ruber）"
+   },
+   {
+    "part": "-in",
+    "meaning": "化合物字尾"
+   }
+  ],
+  "related": [
+   "t-theaflavin",
+   "t-catechin",
+   "t-polyphenols",
+   "t-tannin"
+  ],
+  "confusables": [],
+  "illus": "tea-coffee",
+  "tf": {
+   "statement_zh": "茶紅素是在綠茶殺青過程中大量生成的。",
+   "answer": false,
+   "explain": "錯誤。茶紅素是紅茶發酵（氧化）時生成；綠茶殺青是為了停止氧化。"
+  },
+  "confidence": "medium"
+ },
+ {
+  "id": "t-thermochemistry",
+  "unit": "u09",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌθɝmoʊˈkɛmɪstri/",
+  "ipa_uk": "/ˌθɜːməʊˈkemɪstri/",
+  "syllables": "ther·mo·chem·is·try",
+  "def_en": "The study of heat energy released or absorbed in chemical reactions and phase changes.",
+  "def_zh": "熱化學。研究化學反應與相變中吸收或放出熱量的學科，涉及反應熱（ΔH）、熱化學反應式與赫斯定律。",
+  "example_en": "Thermochemistry tells us that burning methane releases about 890 kJ per mole.",
+  "example_zh": "熱化學告訴我們，燃燒一莫耳甲烷約放出 890 kJ。",
+  "morph": [
+   {
+    "part": "thermo-",
+    "meaning": "熱"
+   },
+   {
+    "part": "chemistry",
+    "meaning": "化學"
+   }
+  ],
+  "related": [
+   "t-enthalpy",
+   "t-exothermic",
+   "t-endothermic",
+   "t-calorie"
+  ],
+  "confusables": [],
+  "illus": "enthalpy-diagram",
+  "tf": {
+   "statement_zh": "熱化學反應式中的 ΔH 為負值，表示該反應為吸熱反應。",
+   "answer": false,
+   "explain": "錯誤。ΔH < 0 為放熱反應；ΔH > 0 才是吸熱。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-thermometer",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/θɚˈmɑmɪtɚ/",
+  "ipa_uk": "/θəˈmɒmɪtə/",
+  "syllables": "ther·mom·e·ter",
+  "def_en": "An instrument used to measure temperature.",
+  "def_zh": "溫度計。測量溫度的器材；蒸餾時溫度計的液球應置於蒸餾瓶支管口處，以量測蒸氣溫度。",
+  "example_en": "During distillation, place the thermometer bulb at the side arm of the flask.",
+  "example_zh": "蒸餾時，要把溫度計的液球放在蒸餾瓶的支管口處。",
+  "morph": [
+   {
+    "part": "thermo-",
+    "meaning": "熱"
+   },
+   {
+    "part": "-meter",
+    "meaning": "測量儀"
+   }
+  ],
+  "related": [
+   "t-temperature",
+   "t-distillation",
+   "t-meter",
+   "t-boiling"
+  ],
+  "confusables": [],
+  "illus": "lab-equipment",
+  "tf": {
+   "statement_zh": "蒸餾時，溫度計的液球應浸入沸騰的液體中。",
+   "answer": false,
+   "explain": "錯誤。液球應位於支管口，以測量離開的蒸氣溫度。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-thermosphere",
+  "unit": "u16",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈθɝməˌsfɪr/",
+  "ipa_uk": "/ˈθɜːməsfɪə/",
+  "syllables": "ther·mo·sphere",
+  "def_en": "The atmospheric layer above the mesosphere, about 85–600 km, where temperature rises with height.",
+  "def_zh": "增溫層（熱氣層）。位於中氣層之上、約 85 km 以上的大氣層，稀薄氣體吸收高能太陽輻射，溫度隨高度劇烈上升；極光出現於此。",
+  "example_en": "Auroras occur in the thermosphere.",
+  "example_zh": "極光出現在增溫層中。",
+  "morph": [
+   {
+    "part": "thermo-",
+    "meaning": "熱"
+   },
+   {
+    "part": "-sphere",
+    "meaning": "圈、層"
+   }
+  ],
+  "related": [
+   "t-mesosphere",
+   "t-ionosphere",
+   "t-stratosphere",
+   "t-atmosphere"
+  ],
+  "confusables": [],
+  "illus": "atmosphere-layers",
+  "tf": {
+   "statement_zh": "增溫層的溫度隨高度增加而上升。",
+   "answer": true,
+   "explain": "正確。氣體吸收高能輻射，溫度可達上千度。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-transition",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/trænˈzɪʃən/",
+  "ipa_uk": "/trænˈzɪʃn/",
+  "syllables": "tran·si·tion",
+  "def_en": "A change from one state to another; also refers to transition metals and electron transitions.",
+  "def_zh": "過渡；躍遷；轉移。過渡元素（transition metals，第 3–12 族）；電子在能階間的躍遷（放出或吸收光）；相轉移（phase transition）。",
+  "example_en": "Iron and copper are transition metals that form colored compounds.",
+  "example_zh": "鐵和銅是能形成有色化合物的過渡金屬。",
+  "morph": [
+   {
+    "part": "trans-",
+    "meaning": "越過"
+   },
+   {
+    "part": "-it-",
+    "meaning": "走"
+   },
+   {
+    "part": "-ion",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-metal",
+   "t-spectrum",
+   "t-complex",
+   "t-phase"
+  ],
+  "confusables": [],
+  "illus": "periodic-table",
+  "tf": {
+   "statement_zh": "電子從高能階躍遷到低能階時會吸收光。",
+   "answer": false,
+   "explain": "錯誤。從高能階躍遷到低能階會放出光；吸收光才會躍遷到高能階。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-troposphere",
+  "unit": "u16",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈtroʊpəˌsfɪr/",
+  "ipa_uk": "/ˈtrɒpəsfɪə/",
+  "syllables": "trop·o·sphere",
+  "def_en": "The lowest layer of the atmosphere, where weather occurs and temperature drops with height.",
+  "def_zh": "對流層。最接近地面的大氣層（約 0–10 多公里），含大部分空氣與水氣，天氣現象發生於此，溫度隨高度上升而下降。",
+  "example_en": "Clouds and rain form in the troposphere.",
+  "example_zh": "雲和雨在對流層中形成。",
+  "morph": [
+   {
+    "part": "tropo-",
+    "meaning": "轉動、變化"
+   },
+   {
+    "part": "-sphere",
+    "meaning": "圈、層"
+   }
+  ],
+  "related": [
+   "t-stratosphere",
+   "t-atmosphere",
+   "t-mesosphere",
+   "t-acid-rain"
+  ],
+  "confusables": [],
+  "illus": "atmosphere-layers",
+  "tf": {
+   "statement_zh": "對流層的溫度隨高度上升而降低。",
+   "answer": true,
+   "explain": "正確。約每上升 1 km 降低約 6.5 °C。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-ultraviolet",
+  "unit": "u16",
+  "level": 1,
+  "pos": "adj. / n.",
+  "ipa_us": "/ˌʌltrəˈvaɪələt/",
+  "ipa_uk": "/ˌʌltrəˈvaɪələt/",
+  "syllables": "ul·tra·vi·o·let",
+  "def_en": "Electromagnetic radiation with wavelengths shorter than violet light, about 10–400 nm.",
+  "def_zh": "紫外光（紫外線，UV）。波長比紫光短（約 10–400 nm）、能量較高的電磁輻射；可殺菌，過量會傷害皮膚，大部分被平流層臭氧吸收。",
+  "example_en": "Ultraviolet light from the sun can break C–Cl bonds in CFCs.",
+  "example_zh": "太陽的紫外光能打斷氟氯烷中的 C–Cl 鍵。",
+  "morph": [
+   {
+    "part": "ultra-",
+    "meaning": "超越"
+   },
+   {
+    "part": "violet",
+    "meaning": "紫色"
+   }
+  ],
+  "related": [
+   "t-ozone",
+   "t-stratosphere",
+   "t-spectrum",
+   "t-photocatalyst"
+  ],
+  "confusables": [
+   {
+    "term": "infrared",
+    "zh": "紅外線",
+    "note": "紅外線波長比紅光長、能量較低"
+   }
+  ],
+  "illus": "ozone",
+  "tf": {
+   "statement_zh": "紫外光的能量比可見光低。",
+   "answer": false,
+   "explain": "錯誤。紫外光波長較短，能量比可見光高。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-urea",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/jʊˈriə/",
+  "ipa_uk": "/jʊˈriːə/",
+  "syllables": "u·re·a",
+  "def_en": "An organic compound CO(NH₂)₂ found in urine and used widely as a nitrogen fertilizer.",
+  "def_zh": "尿素。化學式 CO(NH₂)₂ 的有機化合物，哺乳動物排出含氮廢物的形式，也是重要氮肥及製造尿素樹脂的原料；1828 年烏勒首次由無機物合成。",
+  "example_en": "Wöhler's synthesis of urea showed that organic compounds can be made in the lab.",
+  "example_zh": "烏勒合成尿素，顯示有機化合物可以在實驗室中製造。",
+  "morph": [],
+  "related": [
+   "t-amide",
+   "t-ammonia",
+   "t-melamine",
+   "t-synthesis"
+  ],
+  "confusables": [],
+  "illus": "functional-groups",
+  "tf": {
+   "statement_zh": "尿素是第一個由無機物在實驗室合成的有機化合物之一。",
+   "answer": true,
+   "explain": "正確。1828 年烏勒由氰酸銨製得尿素，打破生命力論。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-voltage",
+  "unit": "u11",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈvoʊltɪdʒ/",
+  "ipa_uk": "/ˈvəʊltɪdʒ/",
+  "syllables": "volt·age",
+  "def_en": "The electric potential difference between two points, measured in volts.",
+  "def_zh": "電壓。兩點間的電位差，單位為伏特（V）；電池的電壓由兩電極的標準還原電位差決定，如鋅銅電池約 1.10 V。",
+  "example_en": "A zinc–copper cell produces a voltage of about 1.10 V.",
+  "example_zh": "鋅銅電池可產生約 1.10 V 的電壓。",
+  "morph": [
+   {
+    "part": "volt",
+    "meaning": "伏特（紀念 Volta）"
+   },
+   {
+    "part": "-age",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-potential",
+   "t-battery",
+   "t-galvanic",
+   "t-electrode"
+  ],
+  "confusables": [
+   {
+    "term": "current",
+    "zh": "電流",
+    "note": "電流是電荷流動的速率，單位安培"
+   }
+  ],
+  "illus": "galvanic-cell",
+  "tf": {
+   "statement_zh": "電池的電壓會因電極面積變大而加倍。",
+   "answer": false,
+   "explain": "錯誤。電壓取決於電極物質與濃度，與電極面積無關。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-wafer",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈweɪfɚ/",
+  "ipa_uk": "/ˈweɪfə/",
+  "syllables": "wa·fer",
+  "def_en": "A thin slice of pure crystalline silicon on which integrated circuits are built.",
+  "def_zh": "晶圓；晶片。由高純度單晶矽棒切成的薄圓片，是製作積體電路的基板，經光阻、曝光、蝕刻、摻雜等製程。",
+  "example_en": "Each silicon wafer can hold hundreds of computer chips.",
+  "example_zh": "每片矽晶圓可容納數百個電腦晶片。",
+  "morph": [],
+  "related": [
+   "t-semiconductor",
+   "t-photoresist",
+   "t-doping",
+   "t-substrate"
+  ],
+  "confusables": [
+   {
+    "term": "chip",
+    "zh": "晶片",
+    "note": "chip 是晶圓切割後的單一晶粒"
+   }
+  ],
+  "illus": "chip-making",
+  "tf": {
+   "statement_zh": "晶圓通常由高純度的單晶矽製成。",
+   "answer": true,
+   "explain": "正確。矽晶圓須純度極高（約 99.9999999%）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-xenon",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈzinɑn/",
+  "ipa_uk": "/ˈzenɒn/",
+  "syllables": "xe·non",
+  "def_en": "A heavy noble gas, Xe, element 54, used in bright lamps and able to form some compounds.",
+  "def_zh": "氙。原子序 54 的鈍氣（Xe），用於高亮度氙氣燈與閃光燈；1962 年首次合成鈍氣化合物 XePtF₆，後有 XeF₂、XeF₄ 等。",
+  "example_en": "Xenon was the first noble gas found to form chemical compounds.",
+  "example_zh": "氙是第一個被發現能形成化合物的鈍氣。",
+  "morph": [
+   {
+    "part": "xen-",
+    "meaning": "陌生的（希臘 xenos）"
+   },
+   {
+    "part": "-on",
+    "meaning": "鈍氣字尾"
+   }
+  ],
+  "related": [
+   "t-noble-gas",
+   "t-krypton",
+   "t-argon",
+   "t-radon"
+  ],
+  "confusables": [],
+  "illus": "element-families",
+  "tf": {
+   "statement_zh": "鈍氣完全無法形成任何化合物。",
+   "answer": false,
+   "explain": "錯誤。氙可與氟形成 XeF₂、XeF₄ 等化合物。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-yield",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n. / v.",
+  "ipa_us": "/jild/",
+  "ipa_uk": "/jiːld/",
+  "syllables": "yield",
+  "def_en": "The amount of product made in a reaction; percent yield compares actual to theoretical amount.",
+  "def_zh": "產率；產量。反應所得產物的量；百分產率 = 實際產量 ÷ 理論產量 × 100%。動詞指「產生」。（PDF p.12 作「產率」；p.24 列一般字典義「生產量；投資收益；給予；同意」，化學上取產率。）",
+  "example_en": "The percent yield was 85% because some product was lost during filtration.",
+  "example_zh": "因為過濾時損失了部分產物，所以百分產率為 85%。",
+  "morph": [],
+  "related": [
+   "t-product",
+   "t-actual",
+   "t-reactant",
+   "t-mole"
+  ],
+  "confusables": [],
+  "illus": "reaction-equation",
+  "tf": {
+   "statement_zh": "實際產率通常小於 100%。",
+   "answer": true,
+   "explain": "正確。副反應、反應不完全或操作損失都會使實際產量低於理論值。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-absolute",
+  "unit": "u06",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ˈæbsəˌlut/",
+  "ipa_uk": "/ˈæbsəluːt/",
+  "syllables": "ab·so·lute",
+  "def_en": "Complete or pure; in science, measured from true zero, as in absolute temperature.",
+  "def_zh": "絕對的；完全的；純粹的。化學中如 absolute zero（絕對零度，0 K = −273.15 °C）、absolute temperature（絕對溫度）、absolute alcohol（無水酒精）。",
+  "example_en": "Absolute zero is the lowest possible temperature, 0 K.",
+  "example_zh": "絕對零度是可能的最低溫度，即 0 K。",
+  "morph": [
+   {
+    "part": "ab-",
+    "meaning": "離開"
+   },
+   {
+    "part": "solut-",
+    "meaning": "鬆開、解除"
+   }
+  ],
+  "related": [
+   "t-temperature",
+   "t-alcohol",
+   "t-thermometer",
+   "t-scale"
+  ],
+  "confusables": [],
+  "illus": "energy-units",
+  "tf": {
+   "statement_zh": "絕對零度等於 0 °C。",
+   "answer": false,
+   "explain": "錯誤。絕對零度為 0 K，約 −273.15 °C。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acetamide",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/əˈsitəˌmaɪd/",
+  "ipa_uk": "/əˈsiːtəmaɪd/",
+  "syllables": "a·cet·a·mide",
+  "def_en": "The simplest amide of acetic acid, CH₃CONH₂, containing the –CONH₂ group.",
+  "def_zh": "乙醯胺。分子式 CH₃CONH₂，由乙酸衍生的醯胺，含醯胺基（–CONH₂）。",
+  "example_en": "Acetamide contains an amide group bonded to a methyl group.",
+  "example_zh": "乙醯胺含有與甲基相連的醯胺基。",
+  "morph": [
+   {
+    "part": "acet-",
+    "meaning": "醋、乙醯"
+   },
+   {
+    "part": "amide",
+    "meaning": "醯胺"
+   }
+  ],
+  "related": [
+   "t-amide",
+   "t-acetyl",
+   "t-acetic-acid",
+   "t-acetanilide"
+  ],
+  "confusables": [
+   {
+    "term": "amine",
+    "zh": "胺",
+    "note": "胺含 –NH₂ 但沒有羰基"
+   }
+  ],
+  "illus": "functional-groups",
+  "tf": {
+   "statement_zh": "乙醯胺分子中含有醯胺基。",
+   "answer": true,
+   "explain": "正確。CH₃CONH₂ 的 –CONH₂ 即醯胺基。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acetanilide",
+  "unit": "u15",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˌæsəˈtænəˌlaɪd/",
+  "ipa_uk": "/ˌæsɪˈtænɪlaɪd/",
+  "syllables": "ac·et·an·i·lide",
+  "def_en": "N-phenylacetamide, C₆H₅NHCOCH₃, made from aniline and once used as a pain reliever.",
+  "def_zh": "乙醯苯胺（原文「乙醯胺苯」詞序有誤）。N-苯基乙醯胺 C₆H₅NHCOCH₃，由苯胺乙醯化製得，早期作為退燒止痛藥，為乙醯胺酚的前身。",
+  "example_en": "Acetanilide can be prepared by reacting aniline with acetic anhydride.",
+  "example_zh": "乙醯苯胺可由苯胺與乙酸酐反應製備。",
+  "morph": [
+   {
+    "part": "acet-",
+    "meaning": "乙醯"
+   },
+   {
+    "part": "anil-",
+    "meaning": "苯胺 aniline"
+   },
+   {
+    "part": "-ide",
+    "meaning": "化合物字尾"
+   }
+  ],
+  "related": [
+   "t-aniline",
+   "t-acetaminophen",
+   "t-amide",
+   "t-acetyl"
+  ],
+  "confusables": [
+   {
+    "term": "acetaminophen",
+    "zh": "乙醯胺酚",
+    "note": "乙醯胺酚多一個酚基 –OH，是目前常用止痛藥"
+   }
+  ],
+  "illus": "drugs",
+  "tf": {
+   "statement_zh": "乙醯苯胺分子中含有醯胺鍵。",
+   "answer": true,
+   "explain": "正確。苯胺的 –NH₂ 與乙醯基形成 –NHCO–。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acetone",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈæsəˌtoʊn/",
+  "ipa_uk": "/ˈæsɪtəʊn/",
+  "syllables": "ac·e·tone",
+  "def_en": "The simplest ketone, CH₃COCH₃, a volatile solvent used in nail polish remover.",
+  "def_zh": "丙酮。最簡單的酮，CH₃COCH₃，含羰基 C=O；揮發性溶劑，可溶於水，用於去光水。",
+  "example_en": "Acetone dissolves nail polish quickly and evaporates fast.",
+  "example_zh": "丙酮能快速溶解指甲油，且揮發很快。",
+  "morph": [
+   {
+    "part": "acet-",
+    "meaning": "醋"
+   },
+   {
+    "part": "-one",
+    "meaning": "酮"
+   }
+  ],
+  "related": [
+   "t-ketones",
+   "t-propanal",
+   "t-pentanone",
+   "t-ether"
+  ],
+  "confusables": [
+   {
+    "term": "propanal",
+    "zh": "丙醛",
+    "note": "丙醛與丙酮互為同分異構物，但官能基為 –CHO"
+   }
+  ],
+  "illus": "functional-groups",
+  "tf": {
+   "statement_zh": "丙酮和丙醛的分子式相同。",
+   "answer": true,
+   "explain": "正確。兩者皆為 C₃H₆O，為官能基異構物。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acid",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n. / adj.",
+  "ipa_us": "/ˈæsɪd/",
+  "ipa_uk": "/ˈæsɪd/",
+  "syllables": "ac·id",
+  "def_en": "A substance that releases H⁺ in water or donates protons; it has pH below 7 and tastes sour.",
+  "def_zh": "酸；酸性的。在水中解離產生 H⁺（阿瑞尼斯），或能提供質子（布–洛）的物質；水溶液 pH < 7、具酸味、使藍色石蕊試紙變紅。",
+  "example_en": "Hydrochloric acid turns blue litmus paper red.",
+  "example_zh": "鹽酸會使藍色石蕊試紙變紅。",
+  "morph": [
+   {
+    "part": "acid-",
+    "meaning": "酸（拉丁 acidus）"
+   }
+  ],
+  "related": [
+   "t-base",
+   "t-acidity",
+   "t-salt",
+   "t-oxyacid"
+  ],
+  "confusables": [],
+  "illus": "ph-scale",
+  "tf": {
+   "statement_zh": "酸的水溶液在 25 °C 時 pH 大於 7。",
+   "answer": false,
+   "explain": "錯誤。酸性溶液 pH < 7。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acid-salt",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈæsɪd sɔlt/",
+  "ipa_uk": "/ˈæsɪd sɔːlt/",
+  "syllables": "ac·id salt",
+  "def_en": "A salt that still contains replaceable hydrogen from the acid, such as NaHCO₃ or NaHSO₄.",
+  "def_zh": "酸式鹽。多質子酸部分中和後、仍含可解離氫的鹽，如 NaHSO₄、NaHCO₃；其水溶液不一定呈酸性（NaHCO₃ 呈弱鹼性）。",
+  "example_en": "Sodium hydrogen sulfate is an acid salt whose solution is acidic.",
+  "example_zh": "硫酸氫鈉是一種水溶液呈酸性的酸式鹽。",
+  "morph": [],
+  "related": [
+   "t-salt",
+   "t-acid",
+   "t-soda",
+   "t-antacid"
+  ],
+  "confusables": [
+   {
+    "term": "acidic salt",
+    "zh": "酸性鹽",
+    "note": "酸性鹽依水溶液酸鹼性分類；酸式鹽依組成是否含可解離 H"
+   }
+  ],
+  "illus": "neutralization",
+  "tf": {
+   "statement_zh": "所有酸式鹽的水溶液都呈酸性。",
+   "answer": false,
+   "explain": "錯誤。如 NaHCO₃ 是酸式鹽，但水溶液呈弱鹼性。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-actinides",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈæktəˌnaɪdz/",
+  "ipa_uk": "/ˈæktɪnaɪdz/",
+  "syllables": "ac·ti·nides",
+  "def_en": "The 15 elements from actinium (89) to lawrencium (103), all radioactive, including uranium.",
+  "def_zh": "錒系（元素）。原子序 89（錒）至 103（鐒）的 15 個元素，皆具放射性，包括鈾、鈽，在週期表下方獨立一列。",
+  "example_en": "Uranium and plutonium belong to the actinides.",
+  "example_zh": "鈾和鈽屬於錒系元素。",
+  "morph": [
+   {
+    "part": "actin-",
+    "meaning": "錒 actinium"
+   },
+   {
+    "part": "-ide",
+    "meaning": "…類"
+   }
+  ],
+  "related": [
+   "t-lanthanides",
+   "t-radioactivity",
+   "t-curium",
+   "t-fission"
+  ],
+  "confusables": [
+   {
+    "term": "lanthanides",
+    "zh": "鑭系元素",
+    "note": "鑭系為原子序 57–71"
+   }
+  ],
+  "illus": "element-families",
+  "tf": {
+   "statement_zh": "錒系元素都具有放射性。",
+   "answer": true,
+   "explain": "正確。錒系全部元素都沒有穩定同位素。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-actomyosin",
+  "unit": "u15",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˌæktəˈmaɪəsɪn/",
+  "ipa_uk": "/ˌæktəʊˈmaɪəsɪn/",
+  "syllables": "ac·to·my·o·sin",
+  "def_en": "A protein complex of actin and myosin in muscle that causes contraction using ATP.",
+  "def_zh": "肌動凝蛋白（肌動球蛋白）。肌肉中肌動蛋白（actin）與肌凝蛋白（myosin）結合成的蛋白質複合體，利用 ATP 的能量產生肌肉收縮。",
+  "example_en": "Muscle contraction depends on actomyosin using energy from ATP.",
+  "example_zh": "肌肉收縮依賴肌動凝蛋白利用 ATP 的能量。",
+  "morph": [
+   {
+    "part": "acto-",
+    "meaning": "肌動蛋白 actin"
+   },
+   {
+    "part": "myo-",
+    "meaning": "肌肉"
+   },
+   {
+    "part": "-sin",
+    "meaning": "蛋白名稱字尾"
+   }
+  ],
+  "related": [
+   "t-protein",
+   "t-adenosine",
+   "t-enzyme",
+   "t-keratin"
+  ],
+  "confusables": [],
+  "illus": "proteins",
+  "tf": {
+   "statement_zh": "肌動凝蛋白是由肌動蛋白與肌凝蛋白組成的蛋白質複合體。",
+   "answer": true,
+   "explain": "正確。actin + myosin = actomyosin。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acyclic",
+  "unit": "u12",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/eɪˈsaɪklɪk/",
+  "ipa_uk": "/eɪˈsaɪklɪk/",
+  "syllables": "a·cy·clic",
+  "def_en": "Having an open chain of atoms with no ring in the molecule.",
+  "def_zh": "非環式的（開鏈的）；非週期的。有機化合物中指碳原子連成直鏈或支鏈、不含環，如己烷；與環己烷等環狀化合物相對。",
+  "example_en": "Hexane is acyclic, while cyclohexane has a ring.",
+  "example_zh": "己烷是非環式的，而環己烷具有環。",
+  "morph": [
+   {
+    "part": "a-",
+    "meaning": "非、無"
+   },
+   {
+    "part": "cycl-",
+    "meaning": "環"
+   },
+   {
+    "part": "-ic",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-alicyclic",
+   "t-aliphatic",
+   "t-alkane",
+   "t-cyclopropane"
+  ],
+  "confusables": [
+   {
+    "term": "alicyclic",
+    "zh": "脂環的",
+    "note": "alicyclic 指含非芳香環的脂肪族化合物"
+   }
+  ],
+  "illus": "alkane-series",
+  "tf": {
+   "statement_zh": "環丙烷屬於非環式化合物。",
+   "answer": false,
+   "explain": "錯誤。環丙烷含三碳環，是脂環化合物。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acyl",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n. / adj.",
+  "ipa_us": "/ˈæsəl/",
+  "ipa_uk": "/ˈeɪsaɪl/",
+  "syllables": "ac·yl",
+  "def_en": "A functional group R–C=O derived from a carboxylic acid by removing the –OH.",
+  "def_zh": "醯（基）。羧酸去掉 –OH 後剩下的 R–CO– 原子團；乙醯基 CH₃CO– 是最常見的醯基。",
+  "example_en": "An acyl group is present in every ester and amide.",
+  "example_zh": "每一個酯和醯胺中都含有醯基。",
+  "morph": [
+   {
+    "part": "acyl",
+    "meaning": "由 acid 衍生，表醯"
+   },
+   {
+    "part": "-yl",
+    "meaning": "基"
+   }
+  ],
+  "related": [
+   "t-acetyl",
+   "t-amide",
+   "t-ester",
+   "t-acetamide"
+  ],
+  "confusables": [
+   {
+    "term": "alkyl",
+    "zh": "烷基",
+    "note": "烷基 R– 不含羰基"
+   }
+  ],
+  "illus": "functional-groups",
+  "tf": {
+   "statement_zh": "醯基是由羧酸去掉 –OH 後得到的原子團。",
+   "answer": true,
+   "explain": "正確。R–COOH 去 –OH 得 R–CO–。"
+  },
+  "confidence": "medium"
+ },
+ {
+  "id": "t-adenine",
+  "unit": "u15",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈædəˌnin/",
+  "ipa_uk": "/ˈædəniːn/",
+  "syllables": "ad·e·nine",
+  "def_en": "A purine base, A, found in DNA and RNA; it pairs with thymine or uracil.",
+  "def_zh": "腺嘌呤（DNA／RNA 的鹼基之一，原文括號說明過時）。以 A 表示的嘌呤鹼基，在 DNA 中與胸腺嘧啶（T）配對，在 RNA 中與尿嘧啶（U）配對；也是 ATP 的組成部分。",
+  "example_en": "In DNA, adenine always pairs with thymine.",
+  "example_zh": "在 DNA 中，腺嘌呤總是與胸腺嘧啶配對。",
+  "morph": [
+   {
+    "part": "aden-",
+    "meaning": "腺體（希臘 aden，最初得自胰腺）"
+   },
+   {
+    "part": "-ine",
+    "meaning": "含氮鹼字尾"
+   }
+  ],
+  "related": [
+   "t-thymine",
+   "t-guanine",
+   "t-uracil",
+   "t-adenosine"
+  ],
+  "confusables": [
+   {
+    "term": "adenosine",
+    "zh": "腺苷",
+    "note": "腺苷是腺嘌呤＋核糖"
+   }
+  ],
+  "illus": "nucleobases",
+  "tf": {
+   "statement_zh": "在 DNA 中，腺嘌呤與鳥嘌呤配對。",
+   "answer": false,
+   "explain": "錯誤。A 與 T 配對；G 與 C 配對。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-adenosine",
+  "unit": "u15",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/əˈdɛnəˌsin/",
+  "ipa_uk": "/əˈdenəsiːn/",
+  "syllables": "a·den·o·sine",
+  "def_en": "A nucleoside made of adenine joined to ribose; it is part of ATP.",
+  "def_zh": "腺苷（腺嘌呤核苷）。由腺嘌呤與核糖結合的核苷；加上磷酸基可成 AMP（腺苷酸）、ATP（三磷酸腺苷）。（原文「腺甘酸」有誤，腺苷酸是 AMP。）",
+  "example_en": "ATP stands for adenosine triphosphate, the energy carrier of cells.",
+  "example_zh": "ATP 代表三磷酸腺苷，是細胞的能量攜帶者。",
+  "morph": [
+   {
+    "part": "adeno-",
+    "meaning": "腺"
+   },
+   {
+    "part": "-osine",
+    "meaning": "核苷字尾"
+   }
+  ],
+  "related": [
+   "t-adenine",
+   "t-ribose",
+   "t-phosphate",
+   "t-caffeine"
+  ],
+  "confusables": [
+   {
+    "term": "adenine",
+    "zh": "腺嘌呤",
+    "note": "腺嘌呤只是鹼基，不含糖"
+   }
+  ],
+  "illus": "nucleobases",
+  "tf": {
+   "statement_zh": "腺苷是由腺嘌呤與核糖組成的。",
+   "answer": true,
+   "explain": "正確。鹼基＋五碳糖＝核苷。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-aeration",
+  "unit": "u16",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ɛˈreɪʃən/",
+  "ipa_uk": "/eəˈreɪʃn/",
+  "syllables": "aer·a·tion",
+  "def_en": "Exposing water or soil to air so oxygen dissolves and unwanted gases escape.",
+  "def_zh": "曝氣。在水處理中將空氣打入或使水與空氣充分接觸，增加溶氧、去除異味氣體（如 H₂S）並氧化鐵錳，以利好氧微生物分解有機物。",
+  "example_en": "Aeration adds oxygen to wastewater so bacteria can break down organic matter.",
+  "example_zh": "曝氣為廢水增加氧氣，使細菌能分解有機物。",
+  "morph": [
+   {
+    "part": "aer-",
+    "meaning": "空氣"
+   },
+   {
+    "part": "-ation",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-disinfection",
+   "t-coagulation",
+   "t-eutrophication",
+   "t-oxygen"
+  ],
+  "confusables": [],
+  "illus": "water-treatment",
+  "tf": {
+   "statement_zh": "曝氣會降低水中的溶氧量。",
+   "answer": false,
+   "explain": "錯誤。曝氣的目的是增加溶氧。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-affinity",
+  "unit": "u03",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/əˈfɪnəti/",
+  "ipa_uk": "/əˈfɪnəti/",
+  "syllables": "af·fin·i·ty",
+  "def_en": "In chemistry, the tendency of an atom or molecule to attract or combine with another.",
+  "def_zh": "親和力。化學中指粒子相互吸引或結合的傾向，如電子親和力（electron affinity，原子獲得電子時放出的能量）；原文所列「喜好、姻親關係」等為一般字典義。",
+  "example_en": "Chlorine has a high electron affinity, so it readily gains an electron.",
+  "example_zh": "氯的電子親和力高，因此容易獲得電子。",
+  "morph": [
+   {
+    "part": "af-",
+    "meaning": "朝向"
+   },
+   {
+    "part": "fin-",
+    "meaning": "邊界"
+   },
+   {
+    "part": "-ity",
+    "meaning": "性質"
+   }
+  ],
+  "related": [
+   "t-electronegativity",
+   "t-halogen",
+   "t-enzyme",
+   "t-atom"
+  ],
+  "confusables": [
+   {
+    "term": "electronegativity",
+    "zh": "電負度",
+    "note": "電負度是鍵結原子吸引共用電子的能力"
+   }
+  ],
+  "illus": "electronegativity",
+  "tf": {
+   "statement_zh": "鹵素一般具有較大的電子親和力，容易得到電子。",
+   "answer": true,
+   "explain": "正確。鹵素得一個電子即達鈍氣組態。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-alanine",
+  "unit": "u15",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈæləˌnin/",
+  "ipa_uk": "/ˈæləniːn/",
+  "syllables": "al·a·nine",
+  "def_en": "A simple amino acid, CH₃CH(NH₂)COOH, with a methyl side chain.",
+  "def_zh": "丙胺酸。結構最簡單的胺基酸之一，CH₃CH(NH₂)COOH，側鏈為甲基；具有掌性（甘胺酸則無）。",
+  "example_en": "Alanine has a methyl group as its side chain.",
+  "example_zh": "丙胺酸的側鏈是一個甲基。",
+  "morph": [
+   {
+    "part": "al-",
+    "meaning": "源自醛 aldehyde"
+   },
+   {
+    "part": "-an-",
+    "meaning": "烷"
+   },
+   {
+    "part": "-ine",
+    "meaning": "胺基酸字尾"
+   }
+  ],
+  "related": [
+   "t-glycine",
+   "t-valine",
+   "t-zwitterion",
+   "t-protein"
+  ],
+  "confusables": [],
+  "illus": "zwitterion",
+  "tf": {
+   "statement_zh": "丙胺酸沒有掌性中心。",
+   "answer": false,
+   "explain": "錯誤。丙胺酸的 α 碳接四個不同基團，具有掌性；甘胺酸才沒有。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-alchemy",
+  "unit": "u01",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈælkəmi/",
+  "ipa_uk": "/ˈælkəmi/",
+  "syllables": "al·che·my",
+  "def_en": "An ancient practice that tried to change base metals into gold; it led to early chemistry.",
+  "def_zh": "煉金術；煉丹術。古代試圖把賤金屬變成黃金或煉製長生藥的技藝；雖然目標失敗，但發展出蒸餾等實驗技術，是化學的前身。",
+  "example_en": "Alchemy developed lab techniques such as distillation.",
+  "example_zh": "煉金術發展出蒸餾等實驗技術。",
+  "morph": [
+   {
+    "part": "al-",
+    "meaning": "阿拉伯語定冠詞"
+   },
+   {
+    "part": "chem-",
+    "meaning": "化學（khemia）"
+   }
+  ],
+  "related": [
+   "t-chemistry",
+   "t-atomism",
+   "t-distillation",
+   "t-element"
+  ],
+  "confusables": [],
+  "illus": "scientists",
+  "tf": {
+   "statement_zh": "煉金術士成功地用化學方法把鉛變成黃金。",
+   "answer": false,
+   "explain": "錯誤。化學反應不能改變元素種類，煉金術士的目標未曾實現。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-aldehydes",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈældəˌhaɪdz/",
+  "ipa_uk": "/ˈældɪhaɪdz/",
+  "syllables": "al·de·hydes",
+  "def_en": "Organic compounds containing the –CHO group, such as formaldehyde and acetaldehyde.",
+  "def_zh": "醛類。含醛基（–CHO）的有機化合物，如甲醛 HCHO、乙醛 CH₃CHO；可被氧化成羧酸，能使多侖試劑產生銀鏡。",
+  "example_en": "Aldehydes give a positive silver mirror test with Tollens' reagent.",
+  "example_zh": "醛類在多侖試劑測試中會產生銀鏡反應。",
+  "morph": [
+   {
+    "part": "al-",
+    "meaning": "alcohol 醇"
+   },
+   {
+    "part": "dehyd-",
+    "meaning": "去氫 dehydrogenated"
+   }
+  ],
+  "related": [
+   "t-formaldehyde",
+   "t-ethanal",
+   "t-ketones",
+   "t-propanal"
+  ],
+  "confusables": [
+   {
+    "term": "ketones",
+    "zh": "酮類",
+    "note": "酮的羰基位於碳鏈中間，不易被氧化"
+   }
+  ],
+  "illus": "functional-groups",
+  "tf": {
+   "statement_zh": "醛類可以被氧化成羧酸。",
+   "answer": true,
+   "explain": "正確。–CHO 被氧化成 –COOH。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-algae",
+  "unit": "u16",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈældʒi/",
+  "ipa_uk": "/ˈældʒiː/",
+  "syllables": "al·gae",
+  "def_en": "Simple plant-like organisms that photosynthesize, from tiny single cells to seaweeds; plural of alga.",
+  "def_zh": "藻類。能行光合作用的簡單生物，從單細胞的小球藻到大型海藻皆屬之；水中氮、磷過多時會大量繁殖造成優養化。複數形（單數 alga）。",
+  "example_en": "Excess phosphate in lakes causes algae to grow rapidly.",
+  "example_zh": "湖泊中過量的磷酸鹽會使藻類迅速生長。",
+  "morph": [],
+  "related": [
+   "t-eutrophication",
+   "t-chlorella",
+   "t-photosynthesis",
+   "t-biofuel"
+  ],
+  "confusables": [],
+  "illus": "water-treatment",
+  "tf": {
+   "statement_zh": "藻類大量繁殖死亡後被分解，會降低水中溶氧。",
+   "answer": true,
+   "explain": "正確。這是優養化造成魚類死亡的原因。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-algal",
+  "unit": "u16",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˈælɡəl/",
+  "ipa_uk": "/ˈælɡl/",
+  "syllables": "al·gal",
+  "def_en": "Relating to or produced by algae.",
+  "def_zh": "藻類的；（像）海藻的。描述與藻類相關的事物，如 algal bloom（藻華）、algal biofuel（藻類生質燃料）。",
+  "example_en": "An algal bloom can turn a lake green and lower its oxygen level.",
+  "example_zh": "藻華會使湖水變綠並降低其含氧量。",
+  "morph": [
+   {
+    "part": "alg-",
+    "meaning": "藻"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-algae",
+   "t-eutrophication",
+   "t-biofuel",
+   "t-chlorella"
+  ],
+  "confusables": [],
+  "illus": "water-treatment",
+  "tf": {
+   "statement_zh": "algal bloom（藻華）常與水中營養鹽過多有關。",
+   "answer": true,
+   "explain": "正確。氮、磷過多促進藻類爆發性生長。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-alicyclic",
+  "unit": "u12",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˌælɪˈsaɪklɪk/",
+  "ipa_uk": "/ˌælɪˈsaɪklɪk/",
+  "syllables": "al·i·cy·clic",
+  "def_en": "Describing organic compounds with carbon rings that are not aromatic, like cyclohexane.",
+  "def_zh": "脂環的；脂環族的（原文冒號應為分號）。指含有非芳香性碳環、性質類似脂肪族的化合物，如環丙烷、環己烷。",
+  "example_en": "Cyclohexane is an alicyclic hydrocarbon, not an aromatic one.",
+  "example_zh": "環己烷是脂環烴，而非芳香烴。",
+  "morph": [
+   {
+    "part": "ali-",
+    "meaning": "脂肪 aliphatic"
+   },
+   {
+    "part": "cycl-",
+    "meaning": "環"
+   },
+   {
+    "part": "-ic",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-aliphatic",
+   "t-acyclic",
+   "t-cyclopropane",
+   "t-arene"
+  ],
+  "confusables": [
+   {
+    "term": "aromatic",
+    "zh": "芳香族的",
+    "note": "芳香族含苯環等共振穩定的環"
+   }
+  ],
+  "illus": "alkane-series",
+  "tf": {
+   "statement_zh": "苯屬於脂環化合物。",
+   "answer": false,
+   "explain": "錯誤。苯是芳香族化合物；環己烷才是脂環族。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-aliphatic",
+  "unit": "u12",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ˌæləˈfætɪk/",
+  "ipa_uk": "/ˌælɪˈfætɪk/",
+  "syllables": "al·i·phat·ic",
+  "def_en": "Describing organic compounds that are not aromatic, with open chains or non-aromatic rings.",
+  "def_zh": "脂肪族的。指不含芳香環的有機化合物，包括開鏈（烷、烯、炔）與脂環化合物；名稱源於最早由脂肪得到。",
+  "example_en": "Hexane and ethene are aliphatic compounds.",
+  "example_zh": "己烷和乙烯都是脂肪族化合物。",
+  "morph": [
+   {
+    "part": "aliphat-",
+    "meaning": "脂肪（希臘 aleiphar）"
+   },
+   {
+    "part": "-ic",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-alicyclic",
+   "t-acyclic",
+   "t-alkane",
+   "t-arene"
+  ],
+  "confusables": [],
+  "illus": "alkane-series",
+  "tf": {
+   "statement_zh": "脂肪族化合物都不含苯環。",
+   "answer": true,
+   "explain": "正確。脂肪族即非芳香族。"
+  },
+  "confidence": "high"
+ }
+]

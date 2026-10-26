@@ -1,0 +1,4725 @@
+{
+ "schema": 1,
+ "material": {
+  "title": "科學專業英文(地球科學)",
+  "file": "科學專業英文(地球科學).pdf",
+  "pages": 7,
+  "type": "vocabulary",
+  "detectedMode": "vocabulary",
+  "detectReason": "每頁皆為英文詞條＋繁體中文對照的兩欄表格，判定為詞彙型教材，採單字學習模式。",
+  "termCount": 471,
+  "rowCount": 471
+ },
+ "terms": [
+  {
+   "id": "t-windward",
+   "en": "windward",
+   "zh": "迎風",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 1
+   }
+  },
+  {
+   "id": "t-weather",
+   "en": "weather",
+   "zh": "天氣",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 2
+   }
+  },
+  {
+   "id": "t-wavelength",
+   "en": "wavelength",
+   "zh": "波長",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 3
+   }
+  },
+  {
+   "id": "t-wave-length",
+   "en": "wave length",
+   "zh": "波長",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 4
+   }
+  },
+  {
+   "id": "t-volcano",
+   "en": "volcano",
+   "zh": "火山",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 5
+   }
+  },
+  {
+   "id": "t-visibility",
+   "en": "visibility",
+   "zh": "能見度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 6
+   }
+  },
+  {
+   "id": "t-velocity",
+   "en": "velocity",
+   "zh": "速度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 7
+   }
+  },
+  {
+   "id": "t-ultraviolet",
+   "en": "ultraviolet",
+   "zh": "紫外線；紫外",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 8
+   }
+  },
+  {
+   "id": "t-typhoon",
+   "en": "typhoon",
+   "zh": "颱風",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 9
+   }
+  },
+  {
+   "id": "t-turbulence",
+   "en": "turbulence",
+   "zh": "亂流；渦動；擾動；紊流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 10
+   }
+  },
+  {
+   "id": "t-trench",
+   "en": "trench",
+   "zh": "試槽；深地槽；海溝",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 11
+   }
+  },
+  {
+   "id": "t-transportation",
+   "en": "transportation",
+   "zh": "運輸；搬運；搬運作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 12
+   }
+  },
+  {
+   "id": "t-transparency",
+   "en": "transparency",
+   "zh": "透明度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 13
+   }
+  },
+  {
+   "id": "t-transducer",
+   "en": "transducer",
+   "zh": "轉換器",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 14
+   }
+  },
+  {
+   "id": "t-tornado",
+   "en": "tornado",
+   "zh": "龍捲風",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 15
+   }
+  },
+  {
+   "id": "t-tide",
+   "en": "tide",
+   "zh": "潮；潮汐",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 16
+   }
+  },
+  {
+   "id": "t-tidal",
+   "en": "tidal",
+   "zh": "潮的；潮汐的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 17
+   }
+  },
+  {
+   "id": "t-telescope",
+   "en": "telescope",
+   "zh": "望遠鏡",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 18
+   }
+  },
+  {
+   "id": "t-synodic",
+   "en": "synodic",
+   "zh": "朔望的；相合的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 19
+   }
+  },
+  {
+   "id": "t-swell",
+   "en": "swell",
+   "zh": "湧浪",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 20
+   }
+  },
+  {
+   "id": "t-sustainability",
+   "en": "sustainability",
+   "zh": "永續性",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 21
+   }
+  },
+  {
+   "id": "t-solstice",
+   "en": "solstice",
+   "zh": "至；至點",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 22
+   }
+  },
+  {
+   "id": "t-slide",
+   "en": "slide",
+   "zh": "滑動；崩落；滑行；下落；下降",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 23
+   }
+  },
+  {
+   "id": "t-sirius",
+   "en": "Sirius",
+   "zh": "天狼星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 24
+   }
+  },
+  {
+   "id": "t-sidereal",
+   "en": "sidereal",
+   "zh": "恆星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 25
+   }
+  },
+  {
+   "id": "t-seismic",
+   "en": "seismic",
+   "zh": "地震的；因地震而引起的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 26
+   }
+  },
+  {
+   "id": "t-saturn",
+   "en": "Saturn",
+   "zh": "土星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 27
+   }
+  },
+  {
+   "id": "t-satellite",
+   "en": "satellite",
+   "zh": "衛星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 28
+   }
+  },
+  {
+   "id": "t-rock",
+   "en": "rock",
+   "zh": "岩；岩石",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 29
+   }
+  },
+  {
+   "id": "t-resources",
+   "en": "resources",
+   "zh": "資源",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 30
+   }
+  },
+  {
+   "id": "t-regression",
+   "en": "regression",
+   "zh": "海退；退化",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 31
+   }
+  },
+  {
+   "id": "t-reflection",
+   "en": "reflection",
+   "zh": "反射",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 32
+   }
+  },
+  {
+   "id": "t-redshift",
+   "en": "redshift",
+   "zh": "紅移",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 33
+   }
+  },
+  {
+   "id": "t-recombination",
+   "en": "recombination",
+   "zh": "復合",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 34
+   }
+  },
+  {
+   "id": "t-rainfall",
+   "en": "rainfall",
+   "zh": "雨量；降雨",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 35
+   }
+  },
+  {
+   "id": "t-radio",
+   "en": "radio",
+   "zh": "無線電",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 36
+   }
+  },
+  {
+   "id": "t-radiation",
+   "en": "radiation",
+   "zh": "輻射",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 37
+   }
+  },
+  {
+   "id": "t-quartz",
+   "en": "quartz",
+   "zh": "石英",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 38
+   }
+  },
+  {
+   "id": "t-pressure",
+   "en": "pressure",
+   "zh": "氣壓；壓力",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 39
+   }
+  },
+  {
+   "id": "t-pollution",
+   "en": "pollution",
+   "zh": "污染",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 40
+   }
+  },
+  {
+   "id": "t-polarity",
+   "en": "polarity",
+   "zh": "磁極；兩極；極性；磁性引力",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 41
+   }
+  },
+  {
+   "id": "t-planet",
+   "en": "planet",
+   "zh": "行星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 42
+   }
+  },
+  {
+   "id": "t-photon",
+   "en": "photon",
+   "zh": "光子",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 43
+   }
+  },
+  {
+   "id": "t-period",
+   "en": "period",
+   "zh": "紀；期；周期",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 44
+   }
+  },
+  {
+   "id": "t-penetration",
+   "en": "penetration",
+   "zh": "穿透",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 45
+   }
+  },
+  {
+   "id": "t-ozone",
+   "en": "ozone",
+   "zh": "臭氧",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 46
+   }
+  },
+  {
+   "id": "t-oxygen",
+   "en": "oxygen",
+   "zh": "氧",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 47
+   }
+  },
+  {
+   "id": "t-orogeny",
+   "en": "orogeny",
+   "zh": "造山運動",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 48
+   }
+  },
+  {
+   "id": "t-orogenic",
+   "en": "orogenic",
+   "zh": "造山作用(運動)的；造山的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 49
+   }
+  },
+  {
+   "id": "t-original",
+   "en": "original",
+   "zh": "原始的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 50
+   }
+  },
+  {
+   "id": "t-oceanography",
+   "en": "oceanography",
+   "zh": "海洋學",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 51
+   }
+  },
+  {
+   "id": "t-ocean",
+   "en": "ocean",
+   "zh": "海洋；海",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 52
+   }
+  },
+  {
+   "id": "t-observatory",
+   "en": "observatory",
+   "zh": "天文台；氣象台；觀測台；瞭望臺；觀測所",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 53
+   }
+  },
+  {
+   "id": "t-nutrient",
+   "en": "nutrient",
+   "zh": "營養物；滋養物；營養的；滋養的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 54
+   }
+  },
+  {
+   "id": "t-north-pole",
+   "en": "north pole",
+   "zh": "北極",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 55
+   }
+  },
+  {
+   "id": "t-normal",
+   "en": "normal",
+   "zh": "正向的；正常的；正規的；標準的；標準；常態；法線",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 56
+   }
+  },
+  {
+   "id": "t-neptune",
+   "en": "Neptune",
+   "zh": "海王星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 57
+   }
+  },
+  {
+   "id": "t-moon",
+   "en": "moon",
+   "zh": "月；太陰",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 58
+   }
+  },
+  {
+   "id": "t-mineral",
+   "en": "mineral",
+   "zh": "礦物",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 59
+   }
+  },
+  {
+   "id": "t-meteorite",
+   "en": "meteorite",
+   "zh": "隕石",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 60
+   }
+  },
+  {
+   "id": "t-meteor",
+   "en": "meteor",
+   "zh": "流星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 61
+   }
+  },
+  {
+   "id": "t-mesosphere",
+   "en": "mesosphere",
+   "zh": "中氣層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 62
+   }
+  },
+  {
+   "id": "t-mercury",
+   "en": "Mercury",
+   "zh": "水星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 63
+   }
+  },
+  {
+   "id": "t-matter",
+   "en": "matter",
+   "zh": "物質",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 64
+   }
+  },
+  {
+   "id": "t-mass",
+   "en": "mass",
+   "zh": "質量；塊體",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 1,
+    "order": 65
+   }
+  },
+  {
+   "id": "t-mars",
+   "en": "Mars",
+   "zh": "火星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 66
+   }
+  },
+  {
+   "id": "t-magnitude",
+   "en": "magnitude",
+   "zh": "量數值；星等；規模",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 67
+   }
+  },
+  {
+   "id": "t-luminosity",
+   "en": "luminosity",
+   "zh": "光度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 68
+   }
+  },
+  {
+   "id": "t-limestone",
+   "en": "limestone",
+   "zh": "石灰岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 69
+   }
+  },
+  {
+   "id": "t-leap-year",
+   "en": "leap year",
+   "zh": "閏年",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 70
+   }
+  },
+  {
+   "id": "t-leap-month",
+   "en": "leap month",
+   "zh": "閏月",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 71
+   }
+  },
+  {
+   "id": "t-kuroshio",
+   "en": "Kuroshio",
+   "zh": "黑潮",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 72
+   }
+  },
+  {
+   "id": "t-jurassic",
+   "en": "Jurassic",
+   "zh": "侏羅紀；侏羅系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 73
+   }
+  },
+  {
+   "id": "t-jupiter",
+   "en": "Jupiter",
+   "zh": "木星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 74
+   }
+  },
+  {
+   "id": "t-infrared",
+   "en": "infrared",
+   "zh": "紅外線；紅外線的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 75
+   }
+  },
+  {
+   "id": "t-hydrogen",
+   "en": "hydrogen",
+   "zh": "氫",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 76
+   }
+  },
+  {
+   "id": "t-humidity",
+   "en": "humidity",
+   "zh": "溼度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 77
+   }
+  },
+  {
+   "id": "t-hot-spring",
+   "en": "hot spring",
+   "zh": "溫泉；熱泉",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 78
+   }
+  },
+  {
+   "id": "t-hot-spot",
+   "en": "hot spot",
+   "zh": "熱點",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 79
+   }
+  },
+  {
+   "id": "t-helium",
+   "en": "helium",
+   "zh": "氦",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 80
+   }
+  },
+  {
+   "id": "t-hail",
+   "en": "hail",
+   "zh": "雹；冰雹",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 81
+   }
+  },
+  {
+   "id": "t-gulf",
+   "en": "gulf",
+   "zh": "海灣",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 82
+   }
+  },
+  {
+   "id": "t-gravity",
+   "en": "gravity",
+   "zh": "重力；萬有引力",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 83
+   }
+  },
+  {
+   "id": "t-geophysics",
+   "en": "geophysics",
+   "zh": "地球物理；地球物理學",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 84
+   }
+  },
+  {
+   "id": "t-geology",
+   "en": "geology",
+   "zh": "地質學",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 85
+   }
+  },
+  {
+   "id": "t-geoid",
+   "en": "geoid",
+   "zh": "大地水準面",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 86
+   }
+  },
+  {
+   "id": "t-gauge",
+   "en": "gauge",
+   "zh": "量；測；估計；測量儀器；規；表；計；標準尺寸；標準規格",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 87
+   }
+  },
+  {
+   "id": "t-galaxy",
+   "en": "galaxy",
+   "zh": "銀河系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 88
+   }
+  },
+  {
+   "id": "t-galactic",
+   "en": "galactic",
+   "zh": "銀河的；極大的；乳汁的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 89
+   }
+  },
+  {
+   "id": "t-frost",
+   "en": "frost",
+   "zh": "霜；凍",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 90
+   }
+  },
+  {
+   "id": "t-frictional",
+   "en": "frictional",
+   "zh": "摩擦的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 91
+   }
+  },
+  {
+   "id": "t-frequency",
+   "en": "frequency",
+   "zh": "頻率",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 92
+   }
+  },
+  {
+   "id": "t-fracture",
+   "en": "fracture",
+   "zh": "斷裂；破裂",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 93
+   }
+  },
+  {
+   "id": "t-fossil",
+   "en": "fossil",
+   "zh": "化石",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 94
+   }
+  },
+  {
+   "id": "t-fog",
+   "en": "fog",
+   "zh": "霧",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 95
+   }
+  },
+  {
+   "id": "t-flow",
+   "en": "flow",
+   "zh": "水流；漲潮；流動",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 96
+   }
+  },
+  {
+   "id": "t-flood",
+   "en": "flood",
+   "zh": "洪水",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 97
+   }
+  },
+  {
+   "id": "t-fault",
+   "en": "fault",
+   "zh": "斷層；缺點；缺陷；錯誤；弄錯；產生斷層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 98
+   }
+  },
+  {
+   "id": "t-evolution",
+   "en": "evolution",
+   "zh": "演化",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 99
+   }
+  },
+  {
+   "id": "t-evaporation",
+   "en": "evaporation",
+   "zh": "蒸發；蒸發作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 100
+   }
+  },
+  {
+   "id": "t-erosion",
+   "en": "erosion",
+   "zh": "侵蝕",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 101
+   }
+  },
+  {
+   "id": "t-era",
+   "en": "era",
+   "zh": "代",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 102
+   }
+  },
+  {
+   "id": "t-equator",
+   "en": "equator",
+   "zh": "赤道",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 103
+   }
+  },
+  {
+   "id": "t-eon",
+   "en": "eon",
+   "zh": "元；宙",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 104
+   }
+  },
+  {
+   "id": "t-energy",
+   "en": "energy",
+   "zh": "能量",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 105
+   }
+  },
+  {
+   "id": "t-electron",
+   "en": "electron",
+   "zh": "電子",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 106
+   }
+  },
+  {
+   "id": "t-earthquake",
+   "en": "earthquake",
+   "zh": "地震",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 107
+   }
+  },
+  {
+   "id": "t-earth-proper",
+   "en": "Earth",
+   "zh": "地球",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 108
+   }
+  },
+  {
+   "id": "t-earth",
+   "en": "earth",
+   "zh": "泥土；土地；世界",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 109
+   }
+  },
+  {
+   "id": "t-diffusion",
+   "en": "diffusion",
+   "zh": "擴散；擴散作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 110
+   }
+  },
+  {
+   "id": "t-dew",
+   "en": "dew",
+   "zh": "露",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 111
+   }
+  },
+  {
+   "id": "t-deposit",
+   "en": "deposit",
+   "zh": "堆積；礦床",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 112
+   }
+  },
+  {
+   "id": "t-density",
+   "en": "density",
+   "zh": "密度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 113
+   }
+  },
+  {
+   "id": "t-degree",
+   "en": "degree",
+   "zh": "度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 114
+   }
+  },
+  {
+   "id": "t-current",
+   "en": "current",
+   "zh": "流；海流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 115
+   }
+  },
+  {
+   "id": "t-cumulus",
+   "en": "cumulus",
+   "zh": "積雲",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 116
+   }
+  },
+  {
+   "id": "t-core",
+   "en": "core",
+   "zh": "中心；地核；岩心；岩芯；核部",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 117
+   }
+  },
+  {
+   "id": "t-coral",
+   "en": "coral",
+   "zh": "珊瑚",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 118
+   }
+  },
+  {
+   "id": "t-coordinate",
+   "en": "coordinate",
+   "zh": "坐標",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 119
+   }
+  },
+  {
+   "id": "t-cooling",
+   "en": "cooling",
+   "zh": "冷卻",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 120
+   }
+  },
+  {
+   "id": "t-convection",
+   "en": "convection",
+   "zh": "對流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 121
+   }
+  },
+  {
+   "id": "t-continental",
+   "en": "continental",
+   "zh": "大陸的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 122
+   }
+  },
+  {
+   "id": "t-constellation",
+   "en": "constellation",
+   "zh": "星座",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 123
+   }
+  },
+  {
+   "id": "t-conduction",
+   "en": "conduction",
+   "zh": "傳導",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 124
+   }
+  },
+  {
+   "id": "t-condensation",
+   "en": "condensation",
+   "zh": "凝結",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 125
+   }
+  },
+  {
+   "id": "t-comet",
+   "en": "comet",
+   "zh": "彗星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 126
+   }
+  },
+  {
+   "id": "t-coma",
+   "en": "coma",
+   "zh": "慧髮",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 127
+   }
+  },
+  {
+   "id": "t-color",
+   "en": "color",
+   "zh": "顏色",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 128
+   }
+  },
+  {
+   "id": "t-collision",
+   "en": "collision",
+   "zh": "碰撞",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 129
+   }
+  },
+  {
+   "id": "t-coal",
+   "en": "coal",
+   "zh": "煤",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 130
+   }
+  },
+  {
+   "id": "t-cluster",
+   "en": "cluster",
+   "zh": "簇；群落；星團",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 131
+   }
+  },
+  {
+   "id": "t-cloud",
+   "en": "cloud",
+   "zh": "雲",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 132
+   }
+  },
+  {
+   "id": "t-clockwise",
+   "en": "clockwise",
+   "zh": "順鐘向；順時鐘方向",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 133
+   }
+  },
+  {
+   "id": "t-climate",
+   "en": "climate",
+   "zh": "氣候",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 134
+   }
+  },
+  {
+   "id": "t-celestial",
+   "en": "celestial",
+   "zh": "天球的；天的；天空的；天國的；神聖的；神仙；天堂裡的居民",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 135
+   }
+  },
+  {
+   "id": "t-carbon",
+   "en": "carbon",
+   "zh": "碳",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 136
+   }
+  },
+  {
+   "id": "t-brightness",
+   "en": "brightness",
+   "zh": "亮度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 137
+   }
+  },
+  {
+   "id": "t-black-hole",
+   "en": "black hole",
+   "zh": "黑洞",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 2,
+    "order": 138
+   }
+  },
+  {
+   "id": "t-biosphere",
+   "en": "biosphere",
+   "zh": "生物圈",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 139
+   }
+  },
+  {
+   "id": "t-binary",
+   "en": "binary",
+   "zh": "二進制",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 140
+   }
+  },
+  {
+   "id": "t-aurora",
+   "en": "aurora",
+   "zh": "極光",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 141
+   }
+  },
+  {
+   "id": "t-atom",
+   "en": "atom",
+   "zh": "原子",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 142
+   }
+  },
+  {
+   "id": "t-asthenosphere",
+   "en": "asthenosphere",
+   "zh": "軟流圈",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 143
+   }
+  },
+  {
+   "id": "t-aerosol",
+   "en": "aerosol",
+   "zh": "氣膠；氣溶膠；氣懸膠 ；浮質",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 144
+   }
+  },
+  {
+   "id": "t-accelerometer",
+   "en": "accelerometer",
+   "zh": "加速計；加速度計",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 145
+   }
+  },
+  {
+   "id": "t-abyssal",
+   "en": "abyssal",
+   "zh": "深海的；深淵的；深不可測的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 146
+   }
+  },
+  {
+   "id": "t-absolute",
+   "en": "absolute",
+   "zh": "絕對的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 147
+   }
+  },
+  {
+   "id": "t-above-normal",
+   "en": "above normal",
+   "zh": "高於正常值",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 148
+   }
+  },
+  {
+   "id": "t-zodiac",
+   "en": "zodiac",
+   "zh": "黃道；黃道帶",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 149
+   }
+  },
+  {
+   "id": "t-zircon",
+   "en": "zircon",
+   "zh": "鋯石",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 150
+   }
+  },
+  {
+   "id": "t-zenith",
+   "en": "zenith",
+   "zh": "天頂",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 151
+   }
+  },
+  {
+   "id": "t-xenolith",
+   "en": "xenolith",
+   "zh": "捕獲岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 152
+   }
+  },
+  {
+   "id": "t-wind",
+   "en": "wind",
+   "zh": "風",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 153
+   }
+  },
+  {
+   "id": "t-weathering",
+   "en": "weathering",
+   "zh": "風化；風化作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 154
+   }
+  },
+  {
+   "id": "t-waveband",
+   "en": "waveband",
+   "zh": "波帶；波段",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 155
+   }
+  },
+  {
+   "id": "t-wave",
+   "en": "wave",
+   "zh": "波；浪",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 156
+   }
+  },
+  {
+   "id": "t-watershed",
+   "en": "watershed",
+   "zh": "分水界；集水區",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 157
+   }
+  },
+  {
+   "id": "t-water",
+   "en": "water",
+   "zh": "水",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 158
+   }
+  },
+  {
+   "id": "t-volcanism",
+   "en": "volcanism",
+   "zh": "火山作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 159
+   }
+  },
+  {
+   "id": "t-venus",
+   "en": "Venus",
+   "zh": "金星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 160
+   }
+  },
+  {
+   "id": "t-vega",
+   "en": "Vega",
+   "zh": "織女星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 161
+   }
+  },
+  {
+   "id": "t-urbanization",
+   "en": "urbanization",
+   "zh": "都市化",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 162
+   }
+  },
+  {
+   "id": "t-uranus",
+   "en": "Uranus",
+   "zh": "天王星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 163
+   }
+  },
+  {
+   "id": "t-upwelling",
+   "en": "upwelling",
+   "zh": "湧升流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 164
+   }
+  },
+  {
+   "id": "t-universe",
+   "en": "universe",
+   "zh": "宇宙；全體",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 165
+   }
+  },
+  {
+   "id": "t-uniformitarianism",
+   "en": "uniformitarianism",
+   "zh": "均變說；天律不變說",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 166
+   }
+  },
+  {
+   "id": "t-undulation",
+   "en": "undulation",
+   "zh": "(土地等的)起伏；(水面等的)波動；小浪",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 167
+   }
+  },
+  {
+   "id": "t-tsunami",
+   "en": "tsunami",
+   "zh": "海嘯",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 168
+   }
+  },
+  {
+   "id": "t-tropopause",
+   "en": "tropopause",
+   "zh": "對流層頂",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 169
+   }
+  },
+  {
+   "id": "t-tropical",
+   "en": "tropical",
+   "zh": "熱帶的；位於熱帶的；酷熱的；薄型織物；男子夏裝；熱帶魚",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 170
+   }
+  },
+  {
+   "id": "t-trilobite",
+   "en": "trilobite",
+   "zh": "三葉蟲",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 171
+   }
+  },
+  {
+   "id": "t-triassic",
+   "en": "Triassic",
+   "zh": "三疊紀；三疊系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 172
+   }
+  },
+  {
+   "id": "t-transgression",
+   "en": "transgression",
+   "zh": "海進；違反；違法；罪過",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 173
+   }
+  },
+  {
+   "id": "t-titan",
+   "en": "Titan",
+   "zh": "土衛六；泰坦",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 174
+   }
+  },
+  {
+   "id": "t-thunderstorm",
+   "en": "thunderstorm",
+   "zh": "雷暴；雷雨",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 175
+   }
+  },
+  {
+   "id": "t-thermosphere",
+   "en": "thermosphere",
+   "zh": "熱氣層；增溫層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 176
+   }
+  },
+  {
+   "id": "t-thermocline",
+   "en": "thermocline",
+   "zh": "斜温層；斜温",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 177
+   }
+  },
+  {
+   "id": "t-tertiary",
+   "en": "Tertiary",
+   "zh": "第三紀；第三系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 178
+   }
+  },
+  {
+   "id": "t-syncline",
+   "en": "syncline",
+   "zh": "向斜；向斜層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 179
+   }
+  },
+  {
+   "id": "t-superposition",
+   "en": "superposition",
+   "zh": "疊積 ; 疊置",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 180
+   }
+  },
+  {
+   "id": "t-succession",
+   "en": "succession",
+   "zh": "層序",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 181
+   }
+  },
+  {
+   "id": "t-spirifers",
+   "en": "spirifers",
+   "zh": "石燕；石燕貝屬",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 182
+   }
+  },
+  {
+   "id": "t-spectrum",
+   "en": "spectrum",
+   "zh": "譜；光譜；波譜",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 183
+   }
+  },
+  {
+   "id": "t-spectrometer",
+   "en": "spectrometer",
+   "zh": "光譜計",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 184
+   }
+  },
+  {
+   "id": "t-sinking",
+   "en": "sinking",
+   "zh": "下沉；沉降流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 185
+   }
+  },
+  {
+   "id": "t-silurian",
+   "en": "Silurian",
+   "zh": "志留紀；志留系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 186
+   }
+  },
+  {
+   "id": "t-shoreline",
+   "en": "shoreline",
+   "zh": "海岸線；濱線",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 187
+   }
+  },
+  {
+   "id": "t-shale",
+   "en": "shale",
+   "zh": "頁岩 ；泥板岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 188
+   }
+  },
+  {
+   "id": "t-self-purification",
+   "en": "self-purification",
+   "zh": "自淨；自淨作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 189
+   }
+  },
+  {
+   "id": "t-sedimentation",
+   "en": "sedimentation",
+   "zh": "沉積作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 190
+   }
+  },
+  {
+   "id": "t-sediment",
+   "en": "sediment",
+   "zh": "沉積；沉澱；沉積物",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 191
+   }
+  },
+  {
+   "id": "t-saturation",
+   "en": "saturation",
+   "zh": "飽和",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 192
+   }
+  },
+  {
+   "id": "t-saturated",
+   "en": "saturated",
+   "zh": "飽和的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 193
+   }
+  },
+  {
+   "id": "t-salinity",
+   "en": "salinity",
+   "zh": "鹽度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 194
+   }
+  },
+  {
+   "id": "t-runoff",
+   "en": "runoff",
+   "zh": "逕流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 195
+   }
+  },
+  {
+   "id": "t-radiolaria",
+   "en": "radiolaria",
+   "zh": "放射蟲",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 196
+   }
+  },
+  {
+   "id": "t-quaternary",
+   "en": "Quaternary",
+   "zh": "第四紀；第四系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 197
+   }
+  },
+  {
+   "id": "t-precession",
+   "en": "precession",
+   "zh": "歲差；旋進；進動",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 198
+   }
+  },
+  {
+   "id": "t-precambrian",
+   "en": "Precambrian",
+   "zh": "前寒武紀；前寒武系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 199
+   }
+  },
+  {
+   "id": "t-pollen",
+   "en": "pollen",
+   "zh": "花粉",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 200
+   }
+  },
+  {
+   "id": "t-pole-star",
+   "en": "pole star",
+   "zh": "北極星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 201
+   }
+  },
+  {
+   "id": "t-polaris",
+   "en": "Polaris",
+   "zh": "北極星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 202
+   }
+  },
+  {
+   "id": "t-plum-rain",
+   "en": "plum rain",
+   "zh": "梅雨",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 203
+   }
+  },
+  {
+   "id": "t-pliocene",
+   "en": "Pliocene",
+   "zh": "上新世；上新統",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 204
+   }
+  },
+  {
+   "id": "t-pleistocene",
+   "en": "Pleistocene",
+   "zh": "更新世；更新統",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 205
+   }
+  },
+  {
+   "id": "t-planetesimal",
+   "en": "planetesimal",
+   "zh": "微行星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 206
+   }
+  },
+  {
+   "id": "t-planation",
+   "en": "planation",
+   "zh": "平夷作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 207
+   }
+  },
+  {
+   "id": "t-photometry",
+   "en": "photometry",
+   "zh": "測光術",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 3,
+    "order": 208
+   }
+  },
+  {
+   "id": "t-petroleum",
+   "en": "petroleum",
+   "zh": "石油",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 209
+   }
+  },
+  {
+   "id": "t-permian",
+   "en": "Permian",
+   "zh": "二疊紀；二疊系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 210
+   }
+  },
+  {
+   "id": "t-peridotite",
+   "en": "peridotite",
+   "zh": "橄欖岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 211
+   }
+  },
+  {
+   "id": "t-parsec",
+   "en": "parsec",
+   "zh": "秒差距",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 212
+   }
+  },
+  {
+   "id": "t-parallax-arcsecond",
+   "en": "parallax arcsecond",
+   "zh": "秒差距",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 213
+   }
+  },
+  {
+   "id": "t-pangea",
+   "en": "Pangea",
+   "zh": "盤古大陸；聯合古陸；泛大陸",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 214
+   }
+  },
+  {
+   "id": "t-paleogene",
+   "en": "Paleogene",
+   "zh": "古第三紀；古第三系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 215
+   }
+  },
+  {
+   "id": "t-paleoclimate",
+   "en": "paleoclimate",
+   "zh": "古氣候",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 216
+   }
+  },
+  {
+   "id": "t-paleocene",
+   "en": "Paleocene",
+   "zh": "古新世；古新統",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 217
+   }
+  },
+  {
+   "id": "t-orion",
+   "en": "Orion",
+   "zh": "獵戶座",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 218
+   }
+  },
+  {
+   "id": "t-ordovician",
+   "en": "Ordovician",
+   "zh": "奥陶紀；奥陶系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 219
+   }
+  },
+  {
+   "id": "t-oligocene",
+   "en": "Oligocene",
+   "zh": "漸新世；漸新統",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 220
+   }
+  },
+  {
+   "id": "t-occlude",
+   "en": "occlude",
+   "zh": "封閉；堵塞；阻擋；吸收；(牙齒)咬合",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 221
+   }
+  },
+  {
+   "id": "t-neogene",
+   "en": "Neogene",
+   "zh": "新第三紀；新第三系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 222
+   }
+  },
+  {
+   "id": "t-nebula",
+   "en": "nebula",
+   "zh": "星雲",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 223
+   }
+  },
+  {
+   "id": "t-mullet",
+   "en": "mullet",
+   "zh": "烏魚",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 224
+   }
+  },
+  {
+   "id": "t-monsoon",
+   "en": "monsoon",
+   "zh": "（印度的）季風；雨季",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 225
+   }
+  },
+  {
+   "id": "t-moisture",
+   "en": "moisture",
+   "zh": "水氣；水分；潮溼",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 226
+   }
+  },
+  {
+   "id": "t-mixing",
+   "en": "mixing",
+   "zh": "混合",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 227
+   }
+  },
+  {
+   "id": "t-miocene",
+   "en": "Miocene",
+   "zh": "中新統；中新世",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 228
+   }
+  },
+  {
+   "id": "t-minerals",
+   "en": "minerals",
+   "zh": "礦產",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 229
+   }
+  },
+  {
+   "id": "t-microwave",
+   "en": "microwave",
+   "zh": "微波",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 230
+   }
+  },
+  {
+   "id": "t-microfossils",
+   "en": "microfossils",
+   "zh": "微體化石",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 231
+   }
+  },
+  {
+   "id": "t-mica",
+   "en": "mica",
+   "zh": "雲母",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 232
+   }
+  },
+  {
+   "id": "t-mesozoic",
+   "en": "Mesozoic",
+   "zh": "中生代；中生界",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 233
+   }
+  },
+  {
+   "id": "t-mesopause",
+   "en": "mesopause",
+   "zh": "中氣層頂",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 234
+   }
+  },
+  {
+   "id": "t-mantle",
+   "en": "mantle",
+   "zh": "地函；地幔",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 235
+   }
+  },
+  {
+   "id": "t-magnification",
+   "en": "magnification",
+   "zh": "放大；放大率",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 236
+   }
+  },
+  {
+   "id": "t-magnetosphere",
+   "en": "magnetosphere",
+   "zh": "磁層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 237
+   }
+  },
+  {
+   "id": "t-lystrosaurus",
+   "en": "lystrosaurus",
+   "zh": "水龍",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 238
+   }
+  },
+  {
+   "id": "t-lyra",
+   "en": "Lyra",
+   "zh": "天琴座",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 239
+   }
+  },
+  {
+   "id": "t-liquefaction",
+   "en": "liquefaction",
+   "zh": "液化",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 240
+   }
+  },
+  {
+   "id": "t-lightning",
+   "en": "lightning",
+   "zh": "閃電",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 241
+   }
+  },
+  {
+   "id": "t-lifting",
+   "en": "lifting",
+   "zh": "擧升",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 242
+   }
+  },
+  {
+   "id": "t-leveling",
+   "en": "leveling",
+   "zh": "水準測量",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 243
+   }
+  },
+  {
+   "id": "t-leeward",
+   "en": "leeward",
+   "zh": "背風面",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 244
+   }
+  },
+  {
+   "id": "t-latitude",
+   "en": "latitude",
+   "zh": "緯度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 245
+   }
+  },
+  {
+   "id": "t-landslip",
+   "en": "landslip",
+   "zh": "坍崩；地滑",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 246
+   }
+  },
+  {
+   "id": "t-landslide",
+   "en": "landslide",
+   "zh": "山崩；滑坡；(選舉的)壓倒性勝利",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 247
+   }
+  },
+  {
+   "id": "t-joint",
+   "en": "joint",
+   "zh": "節理；接頭；接合點；關節；連接；.連接的；聯合的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 248
+   }
+  },
+  {
+   "id": "t-isostasy",
+   "en": "isostasy",
+   "zh": "地殼均衡",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 249
+   }
+  },
+  {
+   "id": "t-isobar",
+   "en": "isobar",
+   "zh": "等壓線",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 250
+   }
+  },
+  {
+   "id": "t-ionosphere",
+   "en": "ionosphere",
+   "zh": "電離層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 251
+   }
+  },
+  {
+   "id": "t-ionization",
+   "en": "ionization",
+   "zh": "電離；電離作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 252
+   }
+  },
+  {
+   "id": "t-interglacial",
+   "en": "interglacial",
+   "zh": "間冰期的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 253
+   }
+  },
+  {
+   "id": "t-interferometer",
+   "en": "interferometer",
+   "zh": "干涉儀",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 254
+   }
+  },
+  {
+   "id": "t-hydrosphere",
+   "en": "hydrosphere",
+   "zh": "水界；水圈",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 255
+   }
+  },
+  {
+   "id": "t-hurricane",
+   "en": "hurricane",
+   "zh": "颶風",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 256
+   }
+  },
+  {
+   "id": "t-host",
+   "en": "host",
+   "zh": "主體；寄主；地壘",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 257
+   }
+  },
+  {
+   "id": "t-horizontality",
+   "en": "horizontality",
+   "zh": "水平；水平線",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 258
+   }
+  },
+  {
+   "id": "t-horizon",
+   "en": "horizon",
+   "zh": "地平；水平；層位",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 259
+   }
+  },
+  {
+   "id": "t-homosphere",
+   "en": "homosphere",
+   "zh": "均勻層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 260
+   }
+  },
+  {
+   "id": "t-holocene",
+   "en": "Holocene",
+   "zh": "全新世；全新統",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 261
+   }
+  },
+  {
+   "id": "t-hipparchus",
+   "en": "Hipparchus",
+   "zh": "依巴谷星座",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 262
+   }
+  },
+  {
+   "id": "t-heterosphere",
+   "en": "heterosphere",
+   "zh": "不勻層；不均勻層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 263
+   }
+  },
+  {
+   "id": "t-hetero",
+   "en": "hetero-",
+   "zh": "異",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 264
+   }
+  },
+  {
+   "id": "t-headland",
+   "en": "headland",
+   "zh": "海岬",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 265
+   }
+  },
+  {
+   "id": "t-granite",
+   "en": "granite",
+   "zh": "花岡岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 266
+   }
+  },
+  {
+   "id": "t-gneiss",
+   "en": "gneiss",
+   "zh": "片麻岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 267
+   }
+  },
+  {
+   "id": "t-glossopteris",
+   "en": "glossopteris",
+   "zh": "舌羊齒",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 268
+   }
+  },
+  {
+   "id": "t-glacial",
+   "en": "glacial",
+   "zh": "冰期；冰川期",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 269
+   }
+  },
+  {
+   "id": "t-geosphere",
+   "en": "geosphere",
+   "zh": "地圈",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 270
+   }
+  },
+  {
+   "id": "t-gabbro",
+   "en": "gabbro",
+   "zh": "輝長岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 271
+   }
+  },
+  {
+   "id": "t-fumarole",
+   "en": "fumarole",
+   "zh": "噴氣孔",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 272
+   }
+  },
+  {
+   "id": "t-front",
+   "en": "front",
+   "zh": "鋒；鋒面",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 273
+   }
+  },
+  {
+   "id": "t-foraminifera",
+   "en": "foraminifera",
+   "zh": "有孔蟲",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 274
+   }
+  },
+  {
+   "id": "t-foliation",
+   "en": "foliation",
+   "zh": "葉理；剝理",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 275
+   }
+  },
+  {
+   "id": "t-fold",
+   "en": "fold",
+   "zh": "褶皺；褶曲",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 276
+   }
+  },
+  {
+   "id": "t-feldspar",
+   "en": "feldspar",
+   "zh": "長石",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 277
+   }
+  },
+  {
+   "id": "t-faunal",
+   "en": "faunal",
+   "zh": "化石",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 278
+   }
+  },
+  {
+   "id": "t-eye-wall",
+   "en": "eye wall",
+   "zh": "眼牆",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 279
+   }
+  },
+  {
+   "id": "t-expansion",
+   "en": "expansion",
+   "zh": "膨脹",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 4,
+    "order": 280
+   }
+  },
+  {
+   "id": "t-eocene",
+   "en": "Eocene",
+   "zh": "始新世；始新統",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 281
+   }
+  },
+  {
+   "id": "t-emission",
+   "en": "emission",
+   "zh": "發射",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 282
+   }
+  },
+  {
+   "id": "t-elevation",
+   "en": "elevation",
+   "zh": "標高；仰角",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 283
+   }
+  },
+  {
+   "id": "t-element",
+   "en": "element",
+   "zh": "元素",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 284
+   }
+  },
+  {
+   "id": "t-ecliptic",
+   "en": "ecliptic",
+   "zh": "黃道",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 285
+   }
+  },
+  {
+   "id": "t-eccentricity",
+   "en": "eccentricity",
+   "zh": "偏心率；離心率",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 286
+   }
+  },
+  {
+   "id": "t-drought",
+   "en": "drought",
+   "zh": "乾旱",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 287
+   }
+  },
+  {
+   "id": "t-divergence",
+   "en": "divergence",
+   "zh": "輻散",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 288
+   }
+  },
+  {
+   "id": "t-diurnal",
+   "en": "diurnal",
+   "zh": "周日的；每日的；一日間的；白天的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 289
+   }
+  },
+  {
+   "id": "t-distance",
+   "en": "distance",
+   "zh": "距離",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 290
+   }
+  },
+  {
+   "id": "t-devonian",
+   "en": "Devonian",
+   "zh": "泥盆紀；泥盆系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 291
+   }
+  },
+  {
+   "id": "t-deposition",
+   "en": "deposition",
+   "zh": "澱積；沈降；昇華；沉積作用；堆積作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 292
+   }
+  },
+  {
+   "id": "t-degassing",
+   "en": "degassing",
+   "zh": "除氣作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 293
+   }
+  },
+  {
+   "id": "t-deep-layer",
+   "en": "deep layer",
+   "zh": "深水層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 294
+   }
+  },
+  {
+   "id": "t-declination",
+   "en": "declination",
+   "zh": "偏角；磁偏角；赤緯",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 295
+   }
+  },
+  {
+   "id": "t-debris",
+   "en": "debris",
+   "zh": "殘骸；破瓦殘礫；垃圾；碎片",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 296
+   }
+  },
+  {
+   "id": "t-cynognathus",
+   "en": "cynognathus",
+   "zh": "犬頭龍",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 297
+   }
+  },
+  {
+   "id": "t-cyclone",
+   "en": "cyclone",
+   "zh": "旋風；氣旋",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 298
+   }
+  },
+  {
+   "id": "t-crust",
+   "en": "crust",
+   "zh": "地殼；殼",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 299
+   }
+  },
+  {
+   "id": "t-cretaceous",
+   "en": "Cretaceous",
+   "zh": "白堊紀；白堊系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 300
+   }
+  },
+  {
+   "id": "t-crater",
+   "en": "crater",
+   "zh": "火山口；隕石坑",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 301
+   }
+  },
+  {
+   "id": "t-counterclockwise",
+   "en": "counterclockwise",
+   "zh": "反鐘向；反時鐘方向",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 302
+   }
+  },
+  {
+   "id": "t-corona",
+   "en": "corona",
+   "zh": "華；日冕；電暈",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 303
+   }
+  },
+  {
+   "id": "t-convergence",
+   "en": "convergence",
+   "zh": "輻合；聚合",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 304
+   }
+  },
+  {
+   "id": "t-conglomerate",
+   "en": "conglomerate",
+   "zh": "礫岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 305
+   }
+  },
+  {
+   "id": "t-chikyu",
+   "en": "Chikyu",
+   "zh": "地球號(日本科學探測用鑽井船)",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 306
+   }
+  },
+  {
+   "id": "t-ceres",
+   "en": "Ceres",
+   "zh": "1 號小行星；穀神星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 307
+   }
+  },
+  {
+   "id": "t-catalogue",
+   "en": "catalogue",
+   "zh": "星表；目錄",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 308
+   }
+  },
+  {
+   "id": "t-carboniferous",
+   "en": "Carboniferous",
+   "zh": "石炭紀；石炭系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 309
+   }
+  },
+  {
+   "id": "t-cape",
+   "en": "cape",
+   "zh": "岬；岬角",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 310
+   }
+  },
+  {
+   "id": "t-cambrian",
+   "en": "Cambrian",
+   "zh": "寒武紀；寒武系；威爾斯人；寒武紀；寒武系的；威爾斯的；威爾斯人的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 311
+   }
+  },
+  {
+   "id": "t-cambium",
+   "en": "cambium",
+   "zh": "形成層 ；新生組織",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 312
+   }
+  },
+  {
+   "id": "t-bulge",
+   "en": "bulge",
+   "zh": "核球(星系)",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 313
+   }
+  },
+  {
+   "id": "t-breaker",
+   "en": "breaker",
+   "zh": "碎波",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 314
+   }
+  },
+  {
+   "id": "t-beach",
+   "en": "beach",
+   "zh": "灘；海灘",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 315
+   }
+  },
+  {
+   "id": "t-basalt",
+   "en": "basalt",
+   "zh": "玄武岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 316
+   }
+  },
+  {
+   "id": "t-barb",
+   "en": "barb",
+   "zh": "風羽",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 317
+   }
+  },
+  {
+   "id": "t-azimuth",
+   "en": "azimuth",
+   "zh": "方位；方位角；地平經度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 318
+   }
+  },
+  {
+   "id": "t-atmospheric",
+   "en": "atmospheric",
+   "zh": "大氣的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 319
+   }
+  },
+  {
+   "id": "t-atmosphere",
+   "en": "atmosphere",
+   "zh": "大氣；大氣圈；氣圈",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 320
+   }
+  },
+  {
+   "id": "t-astronomy",
+   "en": "astronomy",
+   "zh": "天文學",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 321
+   }
+  },
+  {
+   "id": "t-asteroid",
+   "en": "asteroid",
+   "zh": "星狀的；小行星；海星；小游星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 322
+   }
+  },
+  {
+   "id": "t-apparent",
+   "en": "apparent",
+   "zh": "表面的；外觀的；顯而易見的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 323
+   }
+  },
+  {
+   "id": "t-aphelion",
+   "en": "aphelion",
+   "zh": "遠日點",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 324
+   }
+  },
+  {
+   "id": "t-anticyclone",
+   "en": "anticyclone",
+   "zh": "反氣旋",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 325
+   }
+  },
+  {
+   "id": "t-anticline",
+   "en": "anticline",
+   "zh": "背斜",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 326
+   }
+  },
+  {
+   "id": "t-anomaly",
+   "en": "anomaly",
+   "zh": "異常；距平；偏差",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 327
+   }
+  },
+  {
+   "id": "t-andesite",
+   "en": "andesite",
+   "zh": "安山岩",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 328
+   }
+  },
+  {
+   "id": "t-ammonite",
+   "en": "ammonite",
+   "zh": "菊石",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 329
+   }
+  },
+  {
+   "id": "t-altazimuth",
+   "en": "altazimuth",
+   "zh": "經緯儀",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 330
+   }
+  },
+  {
+   "id": "t-algae",
+   "en": "algae",
+   "zh": "藻；（常用複數）水藻；海藻",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 331
+   }
+  },
+  {
+   "id": "t-albedo",
+   "en": "albedo",
+   "zh": "反照率",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 332
+   }
+  },
+  {
+   "id": "t-airflow",
+   "en": "airflow",
+   "zh": "氣流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 333
+   }
+  },
+  {
+   "id": "t-airborne",
+   "en": "airborne",
+   "zh": "機載；空運的；空中傳播的；飛機載的；風媒的",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 334
+   }
+  },
+  {
+   "id": "t-aerobe",
+   "en": "aerobe",
+   "zh": "好氧生物；以空中氧氣維生的細菌",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 335
+   }
+  },
+  {
+   "id": "t-accretion",
+   "en": "accretion",
+   "zh": "吸積；沖積層 ；增加物；連生；合生",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 336
+   }
+  },
+  {
+   "id": "t-absorption",
+   "en": "absorption",
+   "zh": "吸收；吸附作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 337
+   }
+  },
+  {
+   "id": "t-cyanobacteria",
+   "en": "cyanobacteria",
+   "zh": "藍菌；藍綠菌；藍綠藻",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 338
+   }
+  },
+  {
+   "id": "t-winter-solstice",
+   "en": "winter solstice",
+   "zh": "冬至",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 339
+   }
+  },
+  {
+   "id": "t-windward-side",
+   "en": "windward side",
+   "zh": "迎風面",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 340
+   }
+  },
+  {
+   "id": "t-wind-wave",
+   "en": "wind wave",
+   "zh": "風浪",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 341
+   }
+  },
+  {
+   "id": "t-wind-speed",
+   "en": "wind speed",
+   "zh": "風速",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 342
+   }
+  },
+  {
+   "id": "t-wind-energy",
+   "en": "wind energy",
+   "zh": "風能",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 5,
+    "order": 343
+   }
+  },
+  {
+   "id": "t-wind-direction",
+   "en": "wind direction",
+   "zh": "風向",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 344
+   }
+  },
+  {
+   "id": "t-weather-system",
+   "en": "weather system",
+   "zh": "天氣系統",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 345
+   }
+  },
+  {
+   "id": "t-wave-period",
+   "en": "wave period",
+   "zh": "波週期",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 346
+   }
+  },
+  {
+   "id": "t-ultraviolet-ray",
+   "en": "ultraviolet ray",
+   "zh": "紫外線",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 347
+   }
+  },
+  {
+   "id": "t-typhoon-eye",
+   "en": "typhoon eye",
+   "zh": "颱風眼",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 348
+   }
+  },
+  {
+   "id": "t-synodic-month",
+   "en": "synodic month",
+   "zh": "朔望月",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 349
+   }
+  },
+  {
+   "id": "t-summer-solstice",
+   "en": "summer solstice",
+   "zh": "夏至",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 350
+   }
+  },
+  {
+   "id": "t-spiral-rain-belt",
+   "en": "spiral rain belt",
+   "zh": "螺旋狀雨帶",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 351
+   }
+  },
+  {
+   "id": "t-space-weather",
+   "en": "space weather",
+   "zh": "太空天氣",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 352
+   }
+  },
+  {
+   "id": "t-space-telescope",
+   "en": "space telescope",
+   "zh": "太空望遠鏡",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 353
+   }
+  },
+  {
+   "id": "t-solar-wind",
+   "en": "solar wind",
+   "zh": "太陽風",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 354
+   }
+  },
+  {
+   "id": "t-solar-system",
+   "en": "solar system",
+   "zh": "太陽系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 355
+   }
+  },
+  {
+   "id": "t-solar-mass",
+   "en": "solar mass",
+   "zh": "太陽質量",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 356
+   }
+  },
+  {
+   "id": "t-solar-energy",
+   "en": "solar energy",
+   "zh": "太陽能",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 357
+   }
+  },
+  {
+   "id": "t-solar-disk",
+   "en": "solar disk",
+   "zh": "太陽圓面；日面；日輪",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 358
+   }
+  },
+  {
+   "id": "t-solar-day",
+   "en": "solar day",
+   "zh": "太陽日",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 359
+   }
+  },
+  {
+   "id": "t-soil-liquefaction",
+   "en": "soil liquefaction",
+   "zh": "土壤液化",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 360
+   }
+  },
+  {
+   "id": "t-reverse-polarity",
+   "en": "reverse polarity",
+   "zh": "負向磁極",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 361
+   }
+  },
+  {
+   "id": "t-red-tide",
+   "en": "red tide",
+   "zh": "赤潮；紅潮",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 362
+   }
+  },
+  {
+   "id": "t-red-giant",
+   "en": "red giant",
+   "zh": "紅巨星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 363
+   }
+  },
+  {
+   "id": "t-radiation-curve",
+   "en": "radiation curve",
+   "zh": "輻射曲線",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 364
+   }
+  },
+  {
+   "id": "t-radar-echo",
+   "en": "radar echo",
+   "zh": "雷達回波",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 365
+   }
+  },
+  {
+   "id": "t-pacific-plate",
+   "en": "Pacific plate",
+   "zh": "太平洋板塊",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 366
+   }
+  },
+  {
+   "id": "t-ozone-layer",
+   "en": "ozone layer",
+   "zh": "臭氧層",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 367
+   }
+  },
+  {
+   "id": "t-ozone-hole",
+   "en": "ozone hole",
+   "zh": "臭氧洞",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 368
+   }
+  },
+  {
+   "id": "t-optical-telescope",
+   "en": "optical telescope",
+   "zh": "光學望遠鏡",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 369
+   }
+  },
+  {
+   "id": "t-ocean-energy",
+   "en": "ocean energy",
+   "zh": "海洋能",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 370
+   }
+  },
+  {
+   "id": "t-ocean-circulation",
+   "en": "ocean circulation",
+   "zh": "海洋環流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 371
+   }
+  },
+  {
+   "id": "t-nuclear-energy",
+   "en": "nuclear energy",
+   "zh": "核能",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 372
+   }
+  },
+  {
+   "id": "t-nowcasting",
+   "en": "nowcasting",
+   "zh": "即時預報",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 373
+   }
+  },
+  {
+   "id": "t-non-renewable-energy",
+   "en": "non-renewable energy",
+   "zh": "非再生能源",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 374
+   }
+  },
+  {
+   "id": "t-mineral-deposits",
+   "en": "mineral deposits",
+   "zh": "礦床",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 375
+   }
+  },
+  {
+   "id": "t-meteorological-satellite",
+   "en": "meteorological satellite",
+   "zh": "氣象衛星",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 376
+   }
+  },
+  {
+   "id": "t-meteor-shower",
+   "en": "meteor shower",
+   "zh": "流星雨",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 377
+   }
+  },
+  {
+   "id": "t-low-tide",
+   "en": "low tide",
+   "zh": "低潮；乾潮",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 378
+   }
+  },
+  {
+   "id": "t-low-pressure-center",
+   "en": "low pressure center",
+   "zh": "低壓中心",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 379
+   }
+  },
+  {
+   "id": "t-low-pressure",
+   "en": "low pressure",
+   "zh": "低氣壓；低壓",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 380
+   }
+  },
+  {
+   "id": "t-low-air-pressure",
+   "en": "low air pressure",
+   "zh": "低氣壓",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 381
+   }
+  },
+  {
+   "id": "t-light-year",
+   "en": "light year",
+   "zh": "光年",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 382
+   }
+  },
+  {
+   "id": "t-light-pollution",
+   "en": "light pollution",
+   "zh": "光害",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 383
+   }
+  },
+  {
+   "id": "t-lag-time",
+   "en": "lag time",
+   "zh": "落後時間",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 384
+   }
+  },
+  {
+   "id": "t-la-nina",
+   "en": "La Nina",
+   "zh": "反聖嬰",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 385
+   }
+  },
+  {
+   "id": "t-kyoto-protocol",
+   "en": "Kyoto protocol",
+   "zh": "京都議定書",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 386
+   }
+  },
+  {
+   "id": "t-interstellar-dust",
+   "en": "interstellar dust",
+   "zh": "星際塵埃",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 387
+   }
+  },
+  {
+   "id": "t-international-astronomical-union",
+   "en": "International Astronomical Union",
+   "zh": "國際天文學協會",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 388
+   }
+  },
+  {
+   "id": "t-ice-age",
+   "en": "ice age",
+   "zh": "冰河期；冰期",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 389
+   }
+  },
+  {
+   "id": "t-hubble-space-telescope",
+   "en": "Hubble space telescope",
+   "zh": "哈伯太空望遠鏡",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 390
+   }
+  },
+  {
+   "id": "t-high-air-pressure",
+   "en": "high air pressure",
+   "zh": "高氣壓",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 391
+   }
+  },
+  {
+   "id": "t-heat-energy",
+   "en": "heat energy",
+   "zh": "熱能",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 392
+   }
+  },
+  {
+   "id": "t-half-life",
+   "en": "half life",
+   "zh": "半衰期",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 393
+   }
+  },
+  {
+   "id": "t-ground-water",
+   "en": "ground water",
+   "zh": "地下水",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 394
+   }
+  },
+  {
+   "id": "t-greenhouse-gas",
+   "en": "greenhouse gas",
+   "zh": "溫室氣體",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 395
+   }
+  },
+  {
+   "id": "t-greenhouse-effect",
+   "en": "greenhouse effect",
+   "zh": "溫室效應",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 396
+   }
+  },
+  {
+   "id": "t-global-warming",
+   "en": "global warming",
+   "zh": "全球暖化",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 397
+   }
+  },
+  {
+   "id": "t-global-positioning-system",
+   "en": "global positioning system",
+   "zh": "全球定位系統",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 398
+   }
+  },
+  {
+   "id": "t-global-change",
+   "en": "global change",
+   "zh": "全球變遷",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 399
+   }
+  },
+  {
+   "id": "t-geothermal-energy",
+   "en": "geothermal energy",
+   "zh": "地熱能",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 400
+   }
+  },
+  {
+   "id": "t-galaxy-cluster",
+   "en": "galaxy cluster",
+   "zh": "星系團",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 401
+   }
+  },
+  {
+   "id": "t-galactic-halo",
+   "en": "galactic halo",
+   "zh": "銀暈",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 402
+   }
+  },
+  {
+   "id": "t-galactic-disk",
+   "en": "galactic disk",
+   "zh": "銀盤；銀河盤面",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 403
+   }
+  },
+  {
+   "id": "t-frontal-surface",
+   "en": "frontal surface",
+   "zh": "鋒面",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 404
+   }
+  },
+  {
+   "id": "t-fractured-zone",
+   "en": "fractured zone",
+   "zh": "破裂帶",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 405
+   }
+  },
+  {
+   "id": "t-fracture-belt",
+   "en": "fracture belt",
+   "zh": "斷裂帶；破裂帶",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 406
+   }
+  },
+  {
+   "id": "t-flood-tide",
+   "en": "flood tide",
+   "zh": "漲潮",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 407
+   }
+  },
+  {
+   "id": "t-flood-plain",
+   "en": "flood plain",
+   "zh": "氾濫平原",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 408
+   }
+  },
+  {
+   "id": "t-flood-peak",
+   "en": "flood peak",
+   "zh": "洪峰",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 409
+   }
+  },
+  {
+   "id": "t-extremely-heavy-rain",
+   "en": "extremely heavy rain",
+   "zh": "豪雨",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 410
+   }
+  },
+  {
+   "id": "t-epoch",
+   "en": "epoch",
+   "zh": "世；曆元",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 411
+   }
+  },
+  {
+   "id": "t-energy-source",
+   "en": "energy source",
+   "zh": "能源",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 412
+   }
+  },
+  {
+   "id": "t-energy-efficiency",
+   "en": "energy efficiency",
+   "zh": "能量效率",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 413
+   }
+  },
+  {
+   "id": "t-emission-line",
+   "en": "emission line",
+   "zh": "發射線；發射譜線",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 414
+   }
+  },
+  {
+   "id": "t-electromagnetic-em-waves",
+   "en": "electromagnetic (EM) waves",
+   "zh": "電磁波",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 415
+   }
+  },
+  {
+   "id": "t-el-nino",
+   "en": "EL Nino",
+   "zh": "聖嬰現象；聖嬰；艾尼紐",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 6,
+    "order": 416
+   }
+  },
+  {
+   "id": "t-ebb-tide",
+   "en": "ebb tide",
+   "zh": "退潮；落潮",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 417
+   }
+  },
+  {
+   "id": "t-earthquake-zone",
+   "en": "earthquake zone",
+   "zh": "地震帶",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 418
+   }
+  },
+  {
+   "id": "t-earth-system",
+   "en": "Earth system",
+   "zh": "地球系統",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 419
+   }
+  },
+  {
+   "id": "t-dry-ice",
+   "en": "dry ice",
+   "zh": "乾冰",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 420
+   }
+  },
+  {
+   "id": "t-debris-flow",
+   "en": "debris flow",
+   "zh": "土石流；岩屑流；碎屑流；泥石流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 421
+   }
+  },
+  {
+   "id": "t-cold-surge",
+   "en": "cold surge",
+   "zh": "寒潮",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 422
+   }
+  },
+  {
+   "id": "t-cold-high",
+   "en": "cold high",
+   "zh": "冷高壓",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 423
+   }
+  },
+  {
+   "id": "t-cold-front",
+   "en": "cold front",
+   "zh": "冷鋒",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 424
+   }
+  },
+  {
+   "id": "t-cold-current",
+   "en": "cold current",
+   "zh": "冷流",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 425
+   }
+  },
+  {
+   "id": "t-cold-cloud",
+   "en": "cold cloud",
+   "zh": "冷雲",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 426
+   }
+  },
+  {
+   "id": "t-cold-air-mass",
+   "en": "cold air mass",
+   "zh": "冷氣團",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 427
+   }
+  },
+  {
+   "id": "t-cluster-of-galaxies",
+   "en": "cluster of galaxies",
+   "zh": "星系團",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 428
+   }
+  },
+  {
+   "id": "t-climate-change",
+   "en": "climate change",
+   "zh": "氣候變遷",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 429
+   }
+  },
+  {
+   "id": "t-breaking-waves",
+   "en": "breaking waves",
+   "zh": "碎浪",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 430
+   }
+  },
+  {
+   "id": "t-blackbody-radiation",
+   "en": "blackbody radiation",
+   "zh": "黑體輻射",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 431
+   }
+  },
+  {
+   "id": "t-atomic-nucleus",
+   "en": "atomic nucleus",
+   "zh": "原子核",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 432
+   }
+  },
+  {
+   "id": "t-atmospheric-pressure",
+   "en": "atmospheric pressure",
+   "zh": "氣壓；大氣壓力",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 433
+   }
+  },
+  {
+   "id": "t-asteroid-belt",
+   "en": "asteroid belt",
+   "zh": "小行星帶",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 434
+   }
+  },
+  {
+   "id": "t-antarctic-plate",
+   "en": "Antarctic Plate",
+   "zh": "南極板塊",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 435
+   }
+  },
+  {
+   "id": "t-annual-motion",
+   "en": "annual motion",
+   "zh": "周年運動",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 436
+   }
+  },
+  {
+   "id": "t-air-pressure",
+   "en": "air pressure",
+   "zh": "氣壓",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 437
+   }
+  },
+  {
+   "id": "t-air-pollution",
+   "en": "air pollution",
+   "zh": "空氣污染",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 438
+   }
+  },
+  {
+   "id": "t-abyssal-plain",
+   "en": "abyssal plain",
+   "zh": "深海平原；深海盆地",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 439
+   }
+  },
+  {
+   "id": "t-zodiacal-signs",
+   "en": "zodiacal signs",
+   "zh": "黃道十二宮",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 440
+   }
+  },
+  {
+   "id": "t-younger-dryas",
+   "en": "Younger Dryas",
+   "zh": "新仙女木期",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 441
+   }
+  },
+  {
+   "id": "t-x-ray",
+   "en": "X-ray",
+   "zh": "X 射線",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 442
+   }
+  },
+  {
+   "id": "t-weather-radar",
+   "en": "weather radar",
+   "zh": "氣象雷達",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 443
+   }
+  },
+  {
+   "id": "t-weather-pattern",
+   "en": "weather pattern",
+   "zh": "天氣型態",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 444
+   }
+  },
+  {
+   "id": "t-wave-cut-platform",
+   "en": "wave-cut platform",
+   "zh": "海蝕平台",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 445
+   }
+  },
+  {
+   "id": "t-wave-trough",
+   "en": "wave trough",
+   "zh": "波谷",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 446
+   }
+  },
+  {
+   "id": "t-wave-motion",
+   "en": "wave motion",
+   "zh": "波動",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 447
+   }
+  },
+  {
+   "id": "t-wave-height",
+   "en": "wave height",
+   "zh": "波高",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 448
+   }
+  },
+  {
+   "id": "t-wave-crest",
+   "en": "wave crest",
+   "zh": "波峰",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 449
+   }
+  },
+  {
+   "id": "t-water-vapor",
+   "en": "water vapor",
+   "zh": "水氣",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 450
+   }
+  },
+  {
+   "id": "t-water-resource",
+   "en": "water resource",
+   "zh": "水資源",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 451
+   }
+  },
+  {
+   "id": "t-water-power",
+   "en": "water power",
+   "zh": "水力",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 452
+   }
+  },
+  {
+   "id": "t-water-pollution",
+   "en": "water pollution",
+   "zh": "水污染",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 453
+   }
+  },
+  {
+   "id": "t-water-mass",
+   "en": "water mass",
+   "zh": "水團",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 454
+   }
+  },
+  {
+   "id": "t-water-cycle",
+   "en": "water cycle",
+   "zh": "水文循環",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 455
+   }
+  },
+  {
+   "id": "t-water-circulation",
+   "en": "water circulation",
+   "zh": "水循環",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 456
+   }
+  },
+  {
+   "id": "t-waste-pollution",
+   "en": "waste pollution",
+   "zh": "廢棄物汙染",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 457
+   }
+  },
+  {
+   "id": "t-warm-core",
+   "en": "warm-core",
+   "zh": "暖心",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 458
+   }
+  },
+  {
+   "id": "t-angular-frequency",
+   "en": "angular frequency",
+   "zh": "角頻；角頻率",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 459
+   }
+  },
+  {
+   "id": "t-angular-displacement",
+   "en": "angular displacement",
+   "zh": "角移",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 460
+   }
+  },
+  {
+   "id": "t-angular-acceleration",
+   "en": "angular acceleration",
+   "zh": "角加速度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 461
+   }
+  },
+  {
+   "id": "t-andromeda-galaxy",
+   "en": "Andromeda galaxy",
+   "zh": "仙女座星系",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 462
+   }
+  },
+  {
+   "id": "t-alpha-decay",
+   "en": "alpha decay",
+   "zh": "α衰變；阿爾發衰變",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 463
+   }
+  },
+  {
+   "id": "t-adiabatic-process",
+   "en": "adiabatic process",
+   "zh": "絕熱過程；緩漸過程",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 464
+   }
+  },
+  {
+   "id": "t-adhesive-force",
+   "en": "adhesive force",
+   "zh": "附著力",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 465
+   }
+  },
+  {
+   "id": "t-action-at-a-distance",
+   "en": "action at a distance",
+   "zh": "超距力 ； 超距作用",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 466
+   }
+  },
+  {
+   "id": "t-acoustics",
+   "en": "acoustics",
+   "zh": "聲學",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 467
+   }
+  },
+  {
+   "id": "t-accelerated-motion",
+   "en": "accelerated motion",
+   "zh": "加速運動；加速度運動",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 468
+   }
+  },
+  {
+   "id": "t-absorption-spectrum",
+   "en": "absorption spectrum",
+   "zh": "吸收譜",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 469
+   }
+  },
+  {
+   "id": "t-absolute-zero",
+   "en": "absolute zero",
+   "zh": "絕對零度",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 470
+   }
+  },
+  {
+   "id": "t-weak-force",
+   "en": "weak force",
+   "zh": "弱核力",
+   "source": {
+    "file": "科學專業英文(地球科學).pdf",
+    "page": 7,
+    "order": 471
+   }
+  }
+ ]
+}

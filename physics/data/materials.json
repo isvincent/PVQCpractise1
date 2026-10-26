@@ -1,0 +1,14 @@
+{
+ "schema": 1,
+ "materials": [
+  {
+   "id": "phy-sci-en",
+   "title": "科學專業英文(物理)",
+   "file": "data/course-phy.json",
+   "pdf": "materials/科學專業英文(物理).pdf",
+   "terms": 325,
+   "mode": "vocabulary",
+   "version": "2026.10.26"
+  }
+ ]
+}

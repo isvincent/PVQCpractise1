@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>科學專業英文 AI 自主學習｜五科總覽</title>
+<meta name="description" content="生物科學、物理、化學、地球科學、腦科學五科專業英文自主學習 App 的總覽首頁：跨科搜尋、每日一字、學習進度與小遊戲，可安裝、可離線使用。">
+<meta name="theme-color" content="#312e81">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="css/hub.css">
+</head>
+<body>
+<a class="skip" href="#main" data-i18n="skip">跳到主要內容</a>
+<header class="top" id="top">
+  <a class="brand" href="#hero" aria-label="科學專業英文 AI 自主學習">
+    <img src="icons/icon-192.png" alt="" width="36" height="36">
+    <span class="brand-text"><b data-i18n="brand">科學專業英文</b><small data-i18n="brandSub">AI 自主學習・五科總覽</small></span>
+  </a>
+  <nav class="quick" aria-label="頁內導覽" id="quick-nav">
+    <a href="#subjects" data-i18n="navSubjects">科目</a>
+    <a href="#progress" data-i18n="navProgress">進度</a>
+    <a href="#word" data-i18n="navWord">每日一字</a>
+    <a href="#search" data-i18n="navSearch">搜尋</a>
+    <a href="#game" data-i18n="navGame">小遊戲</a>
+  </nav>
+  <span class="net" id="net" role="status" aria-live="polite">線上</span>
+  <button class="tbtn" id="btn-install" type="button" hidden>📲 <span data-i18n="install">安裝</span></button>
+  <button class="tbtn" id="btn-settings" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="settings">⚙️<span class="sr-only" data-i18n="settings">設定</span></button>
+  <div class="settings" id="settings" hidden>
+    <div class="set-row"><b data-i18n="setLang">語言</b><span class="seg" data-set="lang"><button data-v="zh">中文</button><button data-v="en">English</button></span></div>
+    <div class="set-row"><b data-i18n="setTheme">色系</b><span class="seg" data-set="theme"><button data-v="system" data-i18n="system">系統</button><button data-v="light" data-i18n="light">亮色</button><button data-v="dark" data-i18n="dark">暗色</button></span></div>
+    <div class="set-row"><b data-i18n="setFont">字體</b><span class="seg" data-set="font"><button data-v="s">A−</button><button data-v="m">A</button><button data-v="l">A+</button></span></div>
+    <div class="set-row"><b data-i18n="setSound">音效</b><span class="seg" data-set="sound"><button data-v="on" data-i18n="on">開</button><button data-v="off" data-i18n="off">關</button></span></div>
+    <div class="set-row"><b data-i18n="setMotion">動畫</b><span class="seg" data-set="motion"><button data-v="on" data-i18n="on">開</button><button data-v="off" data-i18n="off">關</button></span></div>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <section class="hero" id="hero" aria-labelledby="hero-title">
+    <canvas id="net-canvas" aria-hidden="true"></canvas>
+    <div class="hero-inner">
+      <p class="eyebrow" data-i18n="eyebrow">PVQC 科學專業英文 × AI 自主學習</p>
+      <h1 id="hero-title"><span data-i18n="heroA">五個科學領域</span><br><span class="grad" data-i18n="heroB">一個入口，隨時開始學</span></h1>
+      <p class="lead" data-i18n="lead">把五份 PDF 詞彙表變成可離線使用的學習 App：圖解單字、發音、練習、測驗、遊戲、智慧複習與學習儀表板。</p>
+      <div class="stats" id="stats" aria-live="polite"></div>
+      <div class="cta">
+        <a class="btn big" href="#subjects" data-i18n="ctaStart">選擇科目開始 ↓</a>
+        <a class="btn big ghost" href="#search" data-i18n="ctaSearch">🔍 跨科搜尋單字</a>
+      </div>
+    </div>
+    <div class="orbit" aria-hidden="true" id="orbit"></div>
+  </section>
+
+  <section class="sec" id="subjects" aria-labelledby="sub-title">
+    <h2 id="sub-title"><span class="ico">📚</span><span data-i18n="subTitle">五個科目</span></h2>
+    <p class="sec-lead" data-i18n="subLead">每個科目都是獨立的 App，有自己的學習紀錄，也可以分別安裝到手機桌面。</p>
+    <div class="filter" role="group" aria-label="篩選" id="filter"></div>
+    <div class="cards" id="cards"></div>
+  </section>
+
+  <section class="sec" id="progress" aria-labelledby="prog-title">
+    <h2 id="prog-title"><span class="ico">📈</span><span data-i18n="progTitle">我的五科學習進度</span></h2>
+    <p class="sec-lead" data-i18n="progLead">讀取這台裝置瀏覽器中各科的學習紀錄（不會上傳，也不會修改任何資料）。</p>
+    <div class="panel" id="prog-panel"></div>
+  </section>
+
+  <section class="sec two" aria-label="每日一字與跨科搜尋">
+    <div id="word" class="panel word-card" aria-labelledby="word-title">
+      <h2 id="word-title"><span class="ico">🌟</span><span data-i18n="wordTitle">每日一字</span></h2>
+      <div id="word-body"></div>
+    </div>
+    <div id="search" class="panel" aria-labelledby="search-title">
+      <h2 id="search-title"><span class="ico">🔍</span><span data-i18n="searchTitle">跨科搜尋</span></h2>
+      <form id="search-form" role="search" class="search-form">
+        <label class="sr-only" for="q" data-i18n="searchLabel">搜尋英文或中文</label>
+        <input id="q" type="search" autocomplete="off" placeholder="例如 cell、wave、acid、typhoon、海馬迴">
+        <button class="btn" type="submit" data-i18n="go">搜尋</button>
+      </form>
+      <div class="chips" id="search-hints"></div>
+      <div id="results" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <section class="sec" id="game" aria-labelledby="game-title">
+    <h2 id="game-title"><span class="ico">🎯</span><span data-i18n="gameTitle">小遊戲：這個字屬於哪一科？</span></h2>
+    <p class="sec-lead" data-i18n="gameLead">看單字猜科目，一回合 10 題。有些詞同時出現在好幾科，選任何一個包含它的科目都算對。</p>
+    <div class="panel" id="game-panel"></div>
+  </section>
+
+  <section class="sec" id="flow" aria-labelledby="flow-title">
+    <h2 id="flow-title"><span class="ico">🔄</span><span data-i18n="flowTitle">每個單元的五階段自主學習</span></h2>
+    <ol class="flow" id="flow-list"></ol>
+  </section>
+
+  <section class="sec" id="install" aria-labelledby="inst-title">
+    <h2 id="inst-title"><span class="ico">📲</span><span data-i18n="instTitle">安裝與離線使用</span></h2>
+    <div class="grid3" id="inst-grid"></div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p data-i18n="foot1">學習紀錄只存在你自己的瀏覽器（每科分開保存），不會上傳；清除網站資料或更換裝置前，請到各科「資料備份」頁下載備份。</p>
+  <p class="small" data-i18n="foot2">教材來源：PVQC 科學專業英文詞彙表（生物科學、物理、化學、地球科學、腦科學）。音標、定義、例句與示意圖為 AI 補充內容。</p>
+</footer>
+<div class="toast-box" id="toasts" aria-live="polite"></div>
+<script type="module" src="js/hub.js"></script>
+</body>
+</html>

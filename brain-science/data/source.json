@@ -1,0 +1,4614 @@
+{
+ "schema": 1,
+ "material": {
+  "title": "科學專業英文(腦科學)",
+  "file": "科學專業英文(腦科學).pdf",
+  "pages": 15,
+  "type": "vocabulary",
+  "detectedMode": "vocabulary",
+  "detectReason": "每頁皆為英文詞條＋繁體中文對照的兩欄表格，判定為詞彙型教材，採單字學習模式。",
+  "termCount": 448,
+  "rowCount": 465
+ },
+ "terms": [
+  {
+   "id": "t-face-validity",
+   "en": "face validity",
+   "zh": "表面效度",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 1,
+    "also": [
+     {
+      "page": 15,
+      "order": 458,
+      "zh": "表面效度"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-social-graph-technique",
+   "en": "social graph technique",
+   "zh": "社會計量技術",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 2
+   }
+  },
+  {
+   "id": "t-social-graph",
+   "en": "social graph",
+   "zh": "社交圖",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 3,
+    "also": [
+     {
+      "page": 15,
+      "order": 457,
+      "zh": "社交圖"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-knowledge-economy-era",
+   "en": "knowledge economy era",
+   "zh": "知識經濟時代",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 4,
+    "also": [
+     {
+      "page": 15,
+      "order": 456,
+      "zh": "知識經濟時代"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-knowledge-based-economy",
+   "en": "knowledge-based economy",
+   "zh": "知識經濟",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 5
+   }
+  },
+  {
+   "id": "t-direct-assessment",
+   "en": "direct assessment",
+   "zh": "直接評量",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 6,
+    "also": [
+     {
+      "page": 15,
+      "order": 455,
+      "zh": "直接評量"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-blind-sight",
+   "en": "blind sight",
+   "zh": "盲視",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 7,
+    "also": [
+     {
+      "page": 14,
+      "order": 454,
+      "zh": "盲視"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-reptilian-brain",
+   "en": "reptilian brain",
+   "zh": "爬蟲類的腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 8,
+    "also": [
+     {
+      "page": 14,
+      "order": 453,
+      "zh": "爬蟲類的腦"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-attention-deficit-hyperactivity-disorder",
+   "en": "attention deficit hyperactivity disorder",
+   "zh": "注意力不足過動症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 9
+   }
+  },
+  {
+   "id": "t-attention",
+   "en": "attention",
+   "zh": "注意；注意力；專心；照料；立正",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 10,
+    "also": [
+     {
+      "page": 5,
+      "order": 126,
+      "zh": "注意；注意力；專心；照料；立正"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-smug",
+   "en": "smug",
+   "zh": "沾沾自喜的；整潔的；體面的；沾沾自喜的人；自鳴得意的人",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 11,
+    "also": [
+     {
+      "page": 5,
+      "order": 125,
+      "zh": "沾沾自喜的；整潔的；體面的；沾沾自喜的人；自鳴得意的人"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-depression",
+   "en": "depression",
+   "zh": "沮喪；意氣消沉；憂鬱",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 12,
+    "also": [
+     {
+      "page": 4,
+      "order": 124,
+      "zh": "沮喪；意氣消沉；憂鬱"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-occipital-lobe",
+   "en": "occipital lobe",
+   "zh": "枕葉",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 13,
+    "also": [
+     {
+      "page": 14,
+      "order": 452,
+      "zh": "枕葉"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-occipital",
+   "en": "occipital",
+   "zh": "枕骨的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 14,
+    "also": [
+     {
+      "page": 4,
+      "order": 123,
+      "zh": "枕骨的"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-pineal-gland",
+   "en": "pineal gland",
+   "zh": "松果體；松果腺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 15,
+    "also": [
+     {
+      "page": 14,
+      "order": 451,
+      "zh": "松果體；松果腺"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-grumpy",
+   "en": "grumpy",
+   "zh": "性情乖戾的；脾氣暴躁的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 16,
+    "also": [
+     {
+      "page": 4,
+      "order": 122,
+      "zh": "性情乖戾的；脾氣暴躁的"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-sex-reversal",
+   "en": "sex reversal",
+   "zh": "性逆轉",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 17,
+    "also": [
+     {
+      "page": 14,
+      "order": 450,
+      "zh": "性逆轉"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-aptitude-test",
+   "en": "aptitude test",
+   "zh": "性向測驗",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 18,
+    "also": [
+     {
+      "page": 14,
+      "order": 449,
+      "zh": "性向測驗"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-medulla",
+   "en": "medulla",
+   "zh": "延髓；骨髓；延腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 19,
+    "also": [
+     {
+      "page": 4,
+      "order": 121,
+      "zh": "延髓；骨髓；延腦"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-parkinsons-disease",
+   "en": "Parkinson's disease",
+   "zh": "帕金森氏症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 20,
+    "also": [
+     {
+      "page": 14,
+      "order": 448,
+      "zh": "帕金森氏症"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-hemisphere",
+   "en": "hemisphere",
+   "zh": "(大腦)半球",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 21
+   }
+  },
+  {
+   "id": "t-plasticity",
+   "en": "plasticity",
+   "zh": "(大腦)適應性；柔軟性；可塑性",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 22
+   }
+  },
+  {
+   "id": "t-oscillation",
+   "en": "oscillation",
+   "zh": "(神經)震盪",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 23
+   }
+  },
+  {
+   "id": "t-decussation",
+   "en": "decussation",
+   "zh": "神經交叉；X 形交叉；中央神經系統的交叉神經纖維",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 24
+   }
+  },
+  {
+   "id": "t-unilateral",
+   "en": "unilateral",
+   "zh": "一方的；單邊的；單方面的；單側",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 25
+   }
+  },
+  {
+   "id": "t-arduino",
+   "en": "Arduino",
+   "zh": "一種開源嵌入式軟硬體平台",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 26
+   }
+  },
+  {
+   "id": "t-cholinergic",
+   "en": "cholinergic",
+   "zh": "膽鹼能的；與乙醯膽鹼作用有關的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 27
+   }
+  },
+  {
+   "id": "t-acetylcholine",
+   "en": "acetylcholine",
+   "zh": "乙醯膽鹼",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 28
+   }
+  },
+  {
+   "id": "t-epithelium",
+   "en": "epithelium",
+   "zh": "上皮；上皮細胞",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 29
+   }
+  },
+  {
+   "id": "t-ascending",
+   "en": "ascending",
+   "zh": "上行的；上升的；向上傾斜的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 1,
+    "order": 30
+   }
+  },
+  {
+   "id": "t-hypothalamus",
+   "en": "hypothalamus",
+   "zh": "下丘腦(下視丘)",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 31
+   }
+  },
+  {
+   "id": "t-mass",
+   "en": "mass",
+   "zh": "大量的；大規模的；大批",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 32
+   }
+  },
+  {
+   "id": "t-cerebrum",
+   "en": "cerebrum",
+   "zh": "大腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 33
+   }
+  },
+  {
+   "id": "t-cerebral",
+   "en": "cerebral",
+   "zh": "大腦的；理智的；有智力的；用腦筋的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 34
+   }
+  },
+  {
+   "id": "t-parvocellular",
+   "en": "parvocellular",
+   "zh": "細小細胞的；小細胞路徑的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 35
+   }
+  },
+  {
+   "id": "t-parvocellular-system",
+   "en": "parvocellular system",
+   "zh": "細小細胞系統；小細胞路徑系統",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 36
+   }
+  },
+  {
+   "id": "t-cerebellum",
+   "en": "cerebellum",
+   "zh": "小腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 37
+   }
+  },
+  {
+   "id": "t-arcuate",
+   "en": "arcuate",
+   "zh": "弓形的；拱形的；拱式的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 38
+   }
+  },
+  {
+   "id": "t-deficit",
+   "en": "deficit",
+   "zh": "不足額；赤字",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 39
+   }
+  },
+  {
+   "id": "t-interneuron",
+   "en": "interneuron",
+   "zh": "中間神經元",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 40
+   }
+  },
+  {
+   "id": "t-mesencephalon",
+   "en": "mesencephalon",
+   "zh": "中腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 41
+   }
+  },
+  {
+   "id": "t-medial",
+   "en": "medial",
+   "zh": "內側",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 42
+   }
+  },
+  {
+   "id": "t-entorhinal",
+   "en": "entorhinal",
+   "zh": "內嗅",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 43
+   }
+  },
+  {
+   "id": "t-implicit",
+   "en": "implicit",
+   "zh": "內隱的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 44
+   }
+  },
+  {
+   "id": "t-distribution",
+   "en": "distribution",
+   "zh": "分配；分布；分發",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 45
+   }
+  },
+  {
+   "id": "t-resection",
+   "en": "resection",
+   "zh": "切除",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 46
+   }
+  },
+  {
+   "id": "t-reflex",
+   "en": "reflex",
+   "zh": "反映；反射",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 47
+   }
+  },
+  {
+   "id": "t-temporal",
+   "en": "temporal",
+   "zh": "太陽穴的；顳的；時間的；短暫的；非永恆的；暫存的事物；世間的事物",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 48
+   }
+  },
+  {
+   "id": "t-illusion",
+   "en": "illusion",
+   "zh": "幻覺；假象；錯覺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 49
+   }
+  },
+  {
+   "id": "t-minded",
+   "en": "minded",
+   "zh": "有意的；有心的；具有意志的 有意的；有心的；具有意志的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 50
+   }
+  },
+  {
+   "id": "t-mindedness",
+   "en": "mindedness",
+   "zh": "有意；有心；具有意志",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 51
+   }
+  },
+  {
+   "id": "t-absent-mindedness",
+   "en": "absent-mindedness",
+   "zh": "心不在焉",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 52
+   }
+  },
+  {
+   "id": "t-single-mindedness",
+   "en": "single-mindedness",
+   "zh": "忠貞；專心；純真；真誠",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 53
+   }
+  },
+  {
+   "id": "t-propranolol",
+   "en": "propranolol",
+   "zh": "心得安",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 54
+   }
+  },
+  {
+   "id": "t-heartbeat",
+   "en": "heartbeat",
+   "zh": "心跳",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 55
+   }
+  },
+  {
+   "id": "t-portfolios",
+   "en": "portfolios",
+   "zh": "文件夾；卷宗夾；公事包；檔案",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 56
+   }
+  },
+  {
+   "id": "t-tagalog",
+   "en": "Tagalog",
+   "zh": "他加祿語；塔加拉族人；塔加拉族語",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 57
+   }
+  },
+  {
+   "id": "t-hibernate",
+   "en": "hibernate",
+   "zh": "冬眠；過冬",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 58
+   }
+  },
+  {
+   "id": "t-polaris",
+   "en": "Polaris",
+   "zh": "北極星",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 2,
+    "order": 59
+   }
+  },
+  {
+   "id": "t-hemiplegia",
+   "en": "hemiplegia",
+   "zh": "半身麻痺；半身不遂；半癱",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 60
+   }
+  },
+  {
+   "id": "t-usability",
+   "en": "usability",
+   "zh": "可用；合用；可用性",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 61
+   }
+  },
+  {
+   "id": "t-authentic",
+   "en": "authentic",
+   "zh": "可信的；真實的；可靠的；真正的；非假冒的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 62
+   }
+  },
+  {
+   "id": "t-qualia",
+   "en": "qualia",
+   "zh": "可感受的特質；特性；感質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 63
+   }
+  },
+  {
+   "id": "t-reliability",
+   "en": "reliability",
+   "zh": "可靠；可信賴性；可靠程度；信度",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 64
+   }
+  },
+  {
+   "id": "t-explicit",
+   "en": "explicit",
+   "zh": "外顯的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 65
+   }
+  },
+  {
+   "id": "t-apraxia",
+   "en": "apraxia",
+   "zh": "失用症；肌肉運動失調症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 66
+   }
+  },
+  {
+   "id": "t-insomnia",
+   "en": "insomnia",
+   "zh": "失眠；不眠症；失眠症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 67
+   }
+  },
+  {
+   "id": "t-delusion",
+   "en": "delusion",
+   "zh": "失能；混亂；無秩序；騷亂；動亂",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 68
+   }
+  },
+  {
+   "id": "t-agraphia",
+   "en": "agraphia",
+   "zh": "失寫症；書寫缺陷症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 69
+   }
+  },
+  {
+   "id": "t-alexia",
+   "en": "alexia",
+   "zh": "失讀症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 70
+   }
+  },
+  {
+   "id": "t-magnocellular",
+   "en": "magnocellular",
+   "zh": "巨細胞路徑",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 71
+   }
+  },
+  {
+   "id": "t-mean",
+   "en": "mean",
+   "zh": "平均數",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 72
+   }
+  },
+  {
+   "id": "t-proprioception",
+   "en": "proprioception",
+   "zh": "本體感覺；固有感受；本體覺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 73
+   }
+  },
+  {
+   "id": "t-positron",
+   "en": "positron",
+   "zh": "正子",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 74
+   }
+  },
+  {
+   "id": "t-noradrenaline",
+   "en": "noradrenaline",
+   "zh": "正腎上腺素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 75
+   }
+  },
+  {
+   "id": "t-norepinephrine",
+   "en": "norepinephrine",
+   "zh": "正腎上腺素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 76
+   }
+  },
+  {
+   "id": "t-circadian",
+   "en": "circadian",
+   "zh": "生物",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 77
+   }
+  },
+  {
+   "id": "t-bioinformatics",
+   "en": "bioinformatics",
+   "zh": "生物資訊學",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 78
+   }
+  },
+  {
+   "id": "t-pallidus",
+   "en": "pallidus",
+   "zh": "白球",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 79
+   }
+  },
+  {
+   "id": "t-cortisol",
+   "en": "cortisol",
+   "zh": "皮質醇；可體松",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 80
+   }
+  },
+  {
+   "id": "t-sagittal",
+   "en": "sagittal",
+   "zh": "矢狀切面；矢狀",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 81
+   }
+  },
+  {
+   "id": "t-sympathetic",
+   "en": "sympathetic",
+   "zh": "交感的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 82
+   }
+  },
+  {
+   "id": "t-reconsolidation",
+   "en": "reconsolidation",
+   "zh": "再鞏固",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 83
+   }
+  },
+  {
+   "id": "t-reuptake",
+   "en": "reuptake",
+   "zh": "再攝取；回收",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 84
+   }
+  },
+  {
+   "id": "t-stencil",
+   "en": "stencil",
+   "zh": "印刷模板；油印蠟紙；(用模板或蠟紙印刷的)圖案；文字 ；用模板印刷；用蠟紙印",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 85
+   }
+  },
+  {
+   "id": "t-consolidation",
+   "en": "consolidation",
+   "zh": "合併；鞏固；加強；強化；聯合；統一",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 86
+   }
+  },
+  {
+   "id": "t-ipsilateral",
+   "en": "ipsilateral",
+   "zh": "同一側的；同側的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 87
+   }
+  },
+  {
+   "id": "t-dopamine",
+   "en": "dopamine",
+   "zh": "多巴胺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 88
+   }
+  },
+  {
+   "id": "t-hallucination",
+   "en": "hallucination",
+   "zh": "妄想；錯覺；幻覺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 89
+   }
+  },
+  {
+   "id": "t-cingulate",
+   "en": "cingulate",
+   "zh": "有色帶環繞的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 90
+   }
+  },
+  {
+   "id": "t-bilateral",
+   "en": "bilateral",
+   "zh": "有兩邊的；左右對稱的；雙方的；雙邊的；雙側",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 3,
+    "order": 91
+   }
+  },
+  {
+   "id": "t-validity",
+   "en": "validity",
+   "zh": "有效性；效力；合法性；效度",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 92
+   }
+  },
+  {
+   "id": "t-rostral",
+   "en": "rostral",
+   "zh": "有嘴的；有喙的；吻端",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 93
+   }
+  },
+  {
+   "id": "t-percent",
+   "en": "percent",
+   "zh": "百分之一；百分率；部分；百分比",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 94
+   }
+  },
+  {
+   "id": "t-epilepsy",
+   "en": "epilepsy",
+   "zh": "羊癲瘋；癲癇",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 95
+   }
+  },
+  {
+   "id": "t-auditory",
+   "en": "auditory",
+   "zh": "耳朵的；聽覺的；聽到的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 96
+   }
+  },
+  {
+   "id": "t-cochlea",
+   "en": "cochlea",
+   "zh": "耳蝸",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 97
+   }
+  },
+  {
+   "id": "t-autonomic",
+   "en": "autonomic",
+   "zh": "自主的；自治的；自律的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 98
+   }
+  },
+  {
+   "id": "t-self-report",
+   "en": "self-report",
+   "zh": "自我報告",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 99
+   }
+  },
+  {
+   "id": "t-autonomous",
+   "en": "autonomous",
+   "zh": "自治的；自治權的；自主的；獨立存在的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 100
+   }
+  },
+  {
+   "id": "t-ventromedial",
+   "en": "ventromedial",
+   "zh": "位於腹側中間",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 101
+   }
+  },
+  {
+   "id": "t-inferior",
+   "en": "inferior",
+   "zh": "低等的；下級的；低於……的；次的；較差的；次於……的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 102
+   }
+  },
+  {
+   "id": "t-caudal",
+   "en": "caudal",
+   "zh": "尾部的；像尾部的；尾側",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 103
+   }
+  },
+  {
+   "id": "t-formative",
+   "en": "formative",
+   "zh": "形成的；造形的；構成的形成性",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 104
+   }
+  },
+  {
+   "id": "t-anomia",
+   "en": "anomia",
+   "zh": "忘名症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 105
+   }
+  },
+  {
+   "id": "t-critiques",
+   "en": "critiques",
+   "zh": "批評；評論；評論文章",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 106
+   }
+  },
+  {
+   "id": "t-amygdala",
+   "en": "amygdala",
+   "zh": "杏仁體；杏仁核",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 107
+   }
+  },
+  {
+   "id": "t-fasciculus",
+   "en": "fasciculus",
+   "zh": "束；小束；纖維束",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 108
+   }
+  },
+  {
+   "id": "t-bondage",
+   "en": "bondage",
+   "zh": "束縛；奴隸身分；奴役",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 109
+   }
+  },
+  {
+   "id": "t-precipitation",
+   "en": "precipitation",
+   "zh": "沉澱",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 110
+   }
+  },
+  {
+   "id": "t-masculinity",
+   "en": "masculinity",
+   "zh": "男子氣概；剛毅",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 111
+   }
+  },
+  {
+   "id": "t-androgens",
+   "en": "androgens",
+   "zh": "男性荷爾蒙；雄性激素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 112
+   }
+  },
+  {
+   "id": "t-breast",
+   "en": "breast",
+   "zh": "乳房；胸部；胸膛；胸脯",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 113
+   }
+  },
+  {
+   "id": "t-syndrome",
+   "en": "syndrome",
+   "zh": "併發症狀；綜合症狀",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 114
+   }
+  },
+  {
+   "id": "t-visualize",
+   "en": "visualize",
+   "zh": "使看得見；使顯現；使形象化；想像；設想",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 115
+   }
+  },
+  {
+   "id": "t-stimulus",
+   "en": "stimulus",
+   "zh": "刺激；刺激品；興奮劑",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 116
+   }
+  },
+  {
+   "id": "t-gustatory",
+   "en": "gustatory",
+   "zh": "味覺的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 117
+   }
+  },
+  {
+   "id": "t-breathing",
+   "en": "breathing",
+   "zh": "呼吸",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 118
+   }
+  },
+  {
+   "id": "t-owl",
+   "en": "owl",
+   "zh": "夜貓子；貓頭鷹；鴞裊；常熬夜的人；慣於夜間活動者",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 119
+   }
+  },
+  {
+   "id": "t-stereotyping",
+   "en": "stereotyping",
+   "zh": "定型；成見；刻板化",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 4,
+    "order": 120
+   }
+  },
+  {
+   "id": "t-agonist",
+   "en": "agonist",
+   "zh": "促效劑；增效劑；活化劑",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 127
+   }
+  },
+  {
+   "id": "t-coronal",
+   "en": "coronal",
+   "zh": "冠狀切",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 128
+   }
+  },
+  {
+   "id": "t-superior",
+   "en": "superior",
+   "zh": "前；上",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 129
+   }
+  },
+  {
+   "id": "t-anterior",
+   "en": "anterior",
+   "zh": "前面的；前方",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 130
+   }
+  },
+  {
+   "id": "t-forebrain",
+   "en": "forebrain",
+   "zh": "前腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 131
+   }
+  },
+  {
+   "id": "t-premotor",
+   "en": "premotor",
+   "zh": "前運動",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 132
+   }
+  },
+  {
+   "id": "t-prefrontal",
+   "en": "prefrontal",
+   "zh": "前額葉的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 133
+   }
+  },
+  {
+   "id": "t-objectivity",
+   "en": "objectivity",
+   "zh": "客觀；客觀性",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 134
+   }
+  },
+  {
+   "id": "t-ventricle",
+   "en": "ventricle",
+   "zh": "室；腦室；心室；腦室",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 135
+   }
+  },
+  {
+   "id": "t-posterior",
+   "en": "posterior",
+   "zh": "後部；臀部；後方",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 136
+   }
+  },
+  {
+   "id": "t-hindbrain",
+   "en": "hindbrain",
+   "zh": "後腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 137
+   }
+  },
+  {
+   "id": "t-schizophrenia",
+   "en": "schizophrenia",
+   "zh": "思覺失調症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 138
+   }
+  },
+  {
+   "id": "t-antagonist",
+   "en": "antagonist",
+   "zh": "拮抗劑",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 139
+   }
+  },
+  {
+   "id": "t-fornix",
+   "en": "fornix",
+   "zh": "拱形空間；穹窿",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 140
+   }
+  },
+  {
+   "id": "t-astrocyte",
+   "en": "astrocyte",
+   "zh": "星細胞；星狀神經膠細胞",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 141
+   }
+  },
+  {
+   "id": "t-transcranial",
+   "en": "transcranial",
+   "zh": "穿顱",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 142
+   }
+  },
+  {
+   "id": "t-synapse",
+   "en": "synapse",
+   "zh": "突觸",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 143
+   }
+  },
+  {
+   "id": "t-presynaptic",
+   "en": "presynaptic",
+   "zh": "突觸前的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 144
+   }
+  },
+  {
+   "id": "t-dementia",
+   "en": "dementia",
+   "zh": "失智症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 145
+   }
+  },
+  {
+   "id": "t-dorsal",
+   "en": "dorsal",
+   "zh": "背部的；背側的；背部",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 146
+   }
+  },
+  {
+   "id": "t-peptides",
+   "en": "peptides",
+   "zh": "胜肽",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 147
+   }
+  },
+  {
+   "id": "t-tracks",
+   "en": "tracks",
+   "zh": "軌道；小徑；小道",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 148
+   }
+  },
+  {
+   "id": "t-recycle",
+   "en": "recycle",
+   "zh": "重新回收；使再循環；再利用",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 149
+   }
+  },
+  {
+   "id": "t-prosopagnosia",
+   "en": "prosopagnosia",
+   "zh": "面貌認識不能；失認症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 150
+   }
+  },
+  {
+   "id": "t-flight",
+   "en": "flight",
+   "zh": "飛行；飛翔",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 151
+   }
+  },
+  {
+   "id": "t-revised",
+   "en": "revised",
+   "zh": "修訂的；修訂版；經過修訂的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 152
+   }
+  },
+  {
+   "id": "t-mammalian",
+   "en": "mammalian",
+   "zh": "哺乳動物；哺乳動物的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 153
+   }
+  },
+  {
+   "id": "t-ganglia",
+   "en": "ganglia",
+   "zh": "核",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 154
+   }
+  },
+  {
+   "id": "t-checklist",
+   "en": "checklist",
+   "zh": "核對用的清單；投票人名冊；檢核表",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 155
+   }
+  },
+  {
+   "id": "t-hippocampus",
+   "en": "hippocampus",
+   "zh": "海馬迴",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 156
+   }
+  },
+  {
+   "id": "t-feature",
+   "en": "feature",
+   "zh": "特徵；特色",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 5,
+    "order": 157
+   }
+  },
+  {
+   "id": "t-germ",
+   "en": "germ",
+   "zh": "病菌；微生物；細菌；胚；胚芽；種子；芽；萌芽；發生",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 158
+   }
+  },
+  {
+   "id": "t-empathy",
+   "en": "empathy",
+   "zh": "神入；移情；同理心",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 159
+   }
+  },
+  {
+   "id": "t-neurons",
+   "en": "neurons",
+   "zh": "神經元；神經單位",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 160
+   }
+  },
+  {
+   "id": "t-neurosurgeon",
+   "en": "neurosurgeon",
+   "zh": "神經外科醫生",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 161
+   }
+  },
+  {
+   "id": "t-neuroscience",
+   "en": "neuroscience",
+   "zh": "神經科學",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 162
+   }
+  },
+  {
+   "id": "t-nucleus",
+   "en": "nucleus",
+   "zh": "神經核",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 163
+   }
+  },
+  {
+   "id": "t-neuron",
+   "en": "neuron",
+   "zh": "神經單位；神經元",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 164
+   }
+  },
+  {
+   "id": "t-neurogenesis",
+   "en": "neurogenesis",
+   "zh": "神經新生",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 165
+   }
+  },
+  {
+   "id": "t-ganglion",
+   "en": "ganglion",
+   "zh": "神經節",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 166
+   }
+  },
+  {
+   "id": "t-striatum",
+   "en": "striatum",
+   "zh": "紋狀",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 167
+   }
+  },
+  {
+   "id": "t-striate",
+   "en": "striate",
+   "zh": "紋狀的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 168
+   }
+  },
+  {
+   "id": "t-callosum",
+   "en": "callosum",
+   "zh": "胼胝體",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 169
+   }
+  },
+  {
+   "id": "t-corpus",
+   "en": "corpus",
+   "zh": "胼胝體；文集；全集；主體；軀體",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 170
+   }
+  },
+  {
+   "id": "t-remembrance",
+   "en": "remembrance",
+   "zh": "記憶；記憶力；回想起的往事",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 171
+   }
+  },
+  {
+   "id": "t-amnesia",
+   "en": "amnesia",
+   "zh": "記憶缺失；健忘；失憶症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 172
+   }
+  },
+  {
+   "id": "t-psychedelic",
+   "en": "psychedelic",
+   "zh": "迷幻藥",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 173
+   }
+  },
+  {
+   "id": "t-hypothesis",
+   "en": "hypothesis",
+   "zh": "假說；前提",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 174
+   }
+  },
+  {
+   "id": "t-tendency",
+   "en": "tendency",
+   "zh": "偏",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 175
+   }
+  },
+  {
+   "id": "t-bias",
+   "en": "bias",
+   "zh": "偏見；成見；偏心；傾向；趨勢；偏愛",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 176
+   }
+  },
+  {
+   "id": "t-profile",
+   "en": "profile",
+   "zh": "側面；側面圖",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 177
+   }
+  },
+  {
+   "id": "t-lateral",
+   "en": "lateral",
+   "zh": "側面；側邊",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 178
+   }
+  },
+  {
+   "id": "t-parasympathetic",
+   "en": "parasympathetic",
+   "zh": "副交感",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 179
+   }
+  },
+  {
+   "id": "t-arteriosclerosis",
+   "en": "arteriosclerosis",
+   "zh": "動脈硬化；動脈硬化症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 180
+   }
+  },
+  {
+   "id": "t-questionnaire",
+   "en": "questionnaire",
+   "zh": "問卷；調查表",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 181
+   }
+  },
+  {
+   "id": "t-genentech",
+   "en": "Genentech",
+   "zh": "基因泰克",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 182
+   }
+  },
+  {
+   "id": "t-schema",
+   "en": "schema",
+   "zh": "基模：輪廓；概要；略圖",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 183
+   }
+  },
+  {
+   "id": "t-basal",
+   "en": "basal",
+   "zh": "基礎的；基本的；根本的；基部的；基座的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 184
+   }
+  },
+  {
+   "id": "t-columnist",
+   "en": "columnist",
+   "zh": "專欄作家",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 185
+   }
+  },
+  {
+   "id": "t-emotion",
+   "en": "emotion",
+   "zh": "情緒",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 186
+   }
+  },
+  {
+   "id": "t-inhibitory",
+   "en": "inhibitory",
+   "zh": "控制性",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 187
+   }
+  },
+  {
+   "id": "t-narrative",
+   "en": "narrative",
+   "zh": "敘說文；記敘文；故事；敘述；講述",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 188
+   }
+  },
+  {
+   "id": "t-rod",
+   "en": "rod",
+   "zh": "桿狀細胞",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 189
+   }
+  },
+  {
+   "id": "t-fusiform",
+   "en": "fusiform",
+   "zh": "梭狀；紡綻狀的；流線型的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 6,
+    "order": 190
+   }
+  },
+  {
+   "id": "t-narcolepsy",
+   "en": "narcolepsy",
+   "zh": "猝睡症；秒睡；嗜睡症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 191
+   }
+  },
+  {
+   "id": "t-product",
+   "en": "product",
+   "zh": "產物；產量；出產；結果；成果；產品；作品",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 192
+   }
+  },
+  {
+   "id": "t-cytosol",
+   "en": "cytosol",
+   "zh": "細胞液",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 193
+   }
+  },
+  {
+   "id": "t-cytoplasm",
+   "en": "cytoplasm",
+   "zh": "細胞質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 194
+   }
+  },
+  {
+   "id": "t-cytokine",
+   "en": "cytokine",
+   "zh": "細胞激素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 195
+   }
+  },
+  {
+   "id": "t-protein",
+   "en": "protein",
+   "zh": "蛋白質；朊",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 196
+   }
+  },
+  {
+   "id": "t-tegmentum",
+   "en": "tegmentum",
+   "zh": "被蓋；腦橋背側部；大腦腳蓋",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 197
+   }
+  },
+  {
+   "id": "t-rubrics",
+   "en": "rubrics",
+   "zh": "規準；標題；註釋；按語",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 198
+   }
+  },
+  {
+   "id": "t-hare",
+   "en": "hare",
+   "zh": "野兔",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 199
+   }
+  },
+  {
+   "id": "t-bait",
+   "en": "bait",
+   "zh": "釣餌；餌；引誘物；誘餌；圈套",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 200
+   }
+  },
+  {
+   "id": "t-foils",
+   "en": "foils",
+   "zh": "陪襯",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 201
+   }
+  },
+  {
+   "id": "t-pessimism",
+   "en": "pessimism",
+   "zh": "悲觀；悲觀情緒；悲觀主義；厭世主義",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 202
+   }
+  },
+  {
+   "id": "t-extract",
+   "en": "extract",
+   "zh": "提取；用力取出；使勁拔出；抽出；採掘；提煉",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 203
+   }
+  },
+  {
+   "id": "t-mind",
+   "en": "mind",
+   "zh": "智力；心智",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 204
+   }
+  },
+  {
+   "id": "t-intellect",
+   "en": "intellect",
+   "zh": "智力；理解力；思維能力；非凡的才智；出眾的才華",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 205
+   }
+  },
+  {
+   "id": "t-intelligence",
+   "en": "intelligence",
+   "zh": "智能；智慧；理解力；情報；情報工作；情報機關；智力",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 206
+   }
+  },
+  {
+   "id": "t-measurement",
+   "en": "measurement",
+   "zh": "測定；測量法；測量",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 207
+   }
+  },
+  {
+   "id": "t-anxiety",
+   "en": "anxiety",
+   "zh": "焦慮；掛念；焦慮症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 208
+   }
+  },
+  {
+   "id": "t-login",
+   "en": "login",
+   "zh": "登陸；登入；進入系統",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 209
+   }
+  },
+  {
+   "id": "t-putamen",
+   "en": "putamen",
+   "zh": "硬殼；殼核",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 210
+   }
+  },
+  {
+   "id": "t-structure",
+   "en": "structure",
+   "zh": "結構；構造；組織；構造體；建築物",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 211
+   }
+  },
+  {
+   "id": "t-adrenaline",
+   "en": "adrenaline",
+   "zh": "腎上腺素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 212
+   }
+  },
+  {
+   "id": "t-epinephrine",
+   "en": "epinephrine",
+   "zh": "腎上腺素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 213
+   }
+  },
+  {
+   "id": "t-parietal",
+   "en": "parietal",
+   "zh": "腔壁的；顱頂骨的；子房壁的；有關在學院內住宿事項的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 214
+   }
+  },
+  {
+   "id": "t-fissure",
+   "en": "fissure",
+   "zh": "裂；溝",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 215
+   }
+  },
+  {
+   "id": "t-thalamus",
+   "en": "thalamus",
+   "zh": "視神經床；丘腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 216
+   }
+  },
+  {
+   "id": "t-retina",
+   "en": "retina",
+   "zh": "視網膜",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 217
+   }
+  },
+  {
+   "id": "t-assessment",
+   "en": "assessment",
+   "zh": "評量",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 218
+   }
+  },
+  {
+   "id": "t-labels",
+   "en": "labels",
+   "zh": "貼紙；商標；標記；符號；標籤",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 219
+   }
+  },
+  {
+   "id": "t-hormones",
+   "en": "hormones",
+   "zh": "賀爾蒙",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 220
+   }
+  },
+  {
+   "id": "t-axon",
+   "en": "axon",
+   "zh": "軸索；軸突",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 221
+   }
+  },
+  {
+   "id": "t-anecdotal",
+   "en": "anecdotal",
+   "zh": "軼事的軼事的；趣聞的；多軼事的；含軼事的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 222
+   }
+  },
+  {
+   "id": "t-pretest",
+   "en": "pretest",
+   "zh": "進行預備考試；前測",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 7,
+    "order": 223
+   }
+  },
+  {
+   "id": "t-process",
+   "en": "process",
+   "zh": "進程；步驟；程序；工序；製作法；過程",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 224
+   }
+  },
+  {
+   "id": "t-jumping",
+   "en": "jumping",
+   "zh": "開合跳",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 225
+   }
+  },
+  {
+   "id": "t-diencephalon",
+   "en": "diencephalon",
+   "zh": "間腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 226
+   }
+  },
+  {
+   "id": "t-anterograde",
+   "en": "anterograde",
+   "zh": "階段前；順向",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 227
+   }
+  },
+  {
+   "id": "t-lark",
+   "en": "lark",
+   "zh": "雲雀",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 228
+   }
+  },
+  {
+   "id": "t-hackathons",
+   "en": "hackathons",
+   "zh": "黑客馬拉松",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 229
+   }
+  },
+  {
+   "id": "t-oxytocin",
+   "en": "oxytocin",
+   "zh": "催產素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 230
+   }
+  },
+  {
+   "id": "t-afferent",
+   "en": "afferent",
+   "zh": "傳入的；傳入",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 231
+   }
+  },
+  {
+   "id": "t-nociceptive",
+   "en": "nociceptive",
+   "zh": "傷害性的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 232
+   }
+  },
+  {
+   "id": "t-aptitude",
+   "en": "aptitude",
+   "zh": "傾向；習性；天資；才能；穎悟；性向",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 233
+   }
+  },
+  {
+   "id": "t-olfactory",
+   "en": "olfactory",
+   "zh": "嗅覺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 234
+   }
+  },
+  {
+   "id": "t-anosmia",
+   "en": "anosmia",
+   "zh": "嗅覺喪失症；無嗅症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 235
+   }
+  },
+  {
+   "id": "t-lesion",
+   "en": "lesion",
+   "zh": "損害；機能障礙；器官損害；傷",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 236
+   }
+  },
+  {
+   "id": "t-neocortex",
+   "en": "neocortex",
+   "zh": "新皮質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 237
+   }
+  },
+  {
+   "id": "t-suggestibility",
+   "en": "suggestibility",
+   "zh": "暗示感受性；易受暗示",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 238
+   }
+  },
+  {
+   "id": "t-aurora",
+   "en": "aurora",
+   "zh": "極光；曙光",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 239
+   }
+  },
+  {
+   "id": "t-readiness",
+   "en": "readiness",
+   "zh": "準備就緒；準備度",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 240
+   }
+  },
+  {
+   "id": "t-inhibition",
+   "en": "inhibition",
+   "zh": "禁止；抑制",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 241
+   }
+  },
+  {
+   "id": "t-experience",
+   "en": "experience",
+   "zh": "經驗；體驗；經歷；閱歷",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 242
+   }
+  },
+  {
+   "id": "t-serotonin",
+   "en": "serotonin",
+   "zh": "羥色胺；血清素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 243
+   }
+  },
+  {
+   "id": "t-pituitary",
+   "en": "pituitary",
+   "zh": "腦下腺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 244
+   }
+  },
+  {
+   "id": "t-endorphins",
+   "en": "endorphins",
+   "zh": "腦內啡",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 245
+   }
+  },
+  {
+   "id": "t-cortices",
+   "en": "cortices",
+   "zh": "腦皮層(複數)；皮層；皮質；厚皮；樹皮",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 246
+   }
+  },
+  {
+   "id": "t-cortex",
+   "en": "cortex",
+   "zh": "腦皮層；皮層；皮質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 247
+   }
+  },
+  {
+   "id": "t-brain-waves",
+   "en": "brain waves",
+   "zh": "腦波",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 248
+   }
+  },
+  {
+   "id": "t-encephalitis",
+   "en": "encephalitis",
+   "zh": "腦炎",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 249
+   }
+  },
+  {
+   "id": "t-insula",
+   "en": "insula",
+   "zh": "腦島",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 250
+   }
+  },
+  {
+   "id": "t-gyrus",
+   "en": "gyrus",
+   "zh": "腦迴",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 251
+   }
+  },
+  {
+   "id": "t-encephalin",
+   "en": "encephalin",
+   "zh": "腦啡肽",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 252
+   }
+  },
+  {
+   "id": "t-brainstem",
+   "en": "brainstem",
+   "zh": "腦幹",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 253
+   }
+  },
+  {
+   "id": "t-sulcus",
+   "en": "sulcus",
+   "zh": "腦溝",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 254
+   }
+  },
+  {
+   "id": "t-electroencephalograph",
+   "en": "electroencephalograph",
+   "zh": "腦電描記器；腦電波圖",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 255
+   }
+  },
+  {
+   "id": "t-meninges",
+   "en": "meninges",
+   "zh": "腦膜",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 8,
+    "order": 256
+   }
+  },
+  {
+   "id": "t-concussion",
+   "en": "concussion",
+   "zh": "腦震盪",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 257
+   }
+  },
+  {
+   "id": "t-ventral",
+   "en": "ventral",
+   "zh": "腹部的；腹側的；腹面的；內面的；腹側",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 258
+   }
+  },
+  {
+   "id": "t-lobe",
+   "en": "lobe",
+   "zh": "葉",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 259
+   }
+  },
+  {
+   "id": "t-hummingbird",
+   "en": "hummingbird",
+   "zh": "蜂鳥",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 260
+   }
+  },
+  {
+   "id": "t-interpretive",
+   "en": "interpretive",
+   "zh": "解釋的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 261
+   }
+  },
+  {
+   "id": "t-test",
+   "en": "test",
+   "zh": "試驗；檢驗；測驗",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 262
+   }
+  },
+  {
+   "id": "t-ataxia",
+   "en": "ataxia",
+   "zh": "運動失調",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 263
+   }
+  },
+  {
+   "id": "t-acalculia",
+   "en": "acalculia",
+   "zh": "運算不能；失算症；算術缺陷症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 264
+   }
+  },
+  {
+   "id": "t-hyperactivity",
+   "en": "hyperactivity",
+   "zh": "過動；活動過度；極度活躍",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 265
+   }
+  },
+  {
+   "id": "t-achievement",
+   "en": "achievement",
+   "zh": "達成；完成；成績；成就",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 266
+   }
+  },
+  {
+   "id": "t-potentials",
+   "en": "potentials",
+   "zh": "電位；潛力",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 267
+   }
+  },
+  {
+   "id": "t-prophecy",
+   "en": "prophecy",
+   "zh": "預言；預言能力；預言書",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 268
+   }
+  },
+  {
+   "id": "t-expectancy",
+   "en": "expectancy",
+   "zh": "預期",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 269
+   }
+  },
+  {
+   "id": "t-anorexia",
+   "en": "anorexia",
+   "zh": "厭食；神經性厭食症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 270
+   }
+  },
+  {
+   "id": "t-diagram",
+   "en": "diagram",
+   "zh": "圖表；圖解；線圖；示圖",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 271
+   }
+  },
+  {
+   "id": "t-psychoactive",
+   "en": "psychoactive",
+   "zh": "對心理或精神有顯著影響的；影響精神行為的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 272
+   }
+  },
+  {
+   "id": "t-contralateral",
+   "en": "contralateral",
+   "zh": "對側",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 273
+   }
+  },
+  {
+   "id": "t-construct",
+   "en": "construct",
+   "zh": "構念",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 274
+   }
+  },
+  {
+   "id": "t-sleep",
+   "en": "sleep",
+   "zh": "睡眠；睡覺；睡",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 275
+   }
+  },
+  {
+   "id": "t-fossa",
+   "en": "fossa",
+   "zh": "窩",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 276
+   }
+  },
+  {
+   "id": "t-fovea",
+   "en": "fovea",
+   "zh": "窩；小窩；中央窩",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 277
+   }
+  },
+  {
+   "id": "t-telencephalon",
+   "en": "telencephalon",
+   "zh": "端腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 278
+   }
+  },
+  {
+   "id": "t-dyscalculia",
+   "en": "dyscalculia",
+   "zh": "算術障礙",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 279
+   }
+  },
+  {
+   "id": "t-psychotherapy",
+   "en": "psychotherapy",
+   "zh": "精神療法；心理治療",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 280
+   }
+  },
+  {
+   "id": "t-psychosis",
+   "en": "psychosis",
+   "zh": "精神變態；精神病",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 281
+   }
+  },
+  {
+   "id": "t-proficiency",
+   "en": "proficiency",
+   "zh": "精通；熟練；精熟程度",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 282
+   }
+  },
+  {
+   "id": "t-reticular",
+   "en": "reticular",
+   "zh": "網狀的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 283
+   }
+  },
+  {
+   "id": "t-globus",
+   "en": "globus",
+   "zh": "蒼",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 284
+   }
+  },
+  {
+   "id": "t-tegmental",
+   "en": "tegmental",
+   "zh": "蓋的；被蓋的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 285
+   }
+  },
+  {
+   "id": "t-arachnoid",
+   "en": "arachnoid",
+   "zh": "蜘蛛網",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 286
+   }
+  },
+  {
+   "id": "t-recognition",
+   "en": "recognition",
+   "zh": "認出",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 287
+   }
+  },
+  {
+   "id": "t-cognition",
+   "en": "cognition",
+   "zh": "認知；知識；認知功能",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 288
+   }
+  },
+  {
+   "id": "t-agnosia",
+   "en": "agnosia",
+   "zh": "認識不能；部分或全部喪失感官之辨別力；病覺缺失症",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 9,
+    "order": 289
+   }
+  },
+  {
+   "id": "t-decoys",
+   "en": "decoys",
+   "zh": "誘答題",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 290
+   }
+  },
+  {
+   "id": "t-voice",
+   "en": "voice",
+   "zh": "語音；聲音；嗓子；表達的意見；願望",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 291
+   }
+  },
+  {
+   "id": "t-tone",
+   "en": "tone",
+   "zh": "語氣；腔調；音；音色；音調",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 292
+   }
+  },
+  {
+   "id": "t-thematic",
+   "en": "thematic",
+   "zh": "語幹的；構幹的；主題的；主旋律的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 293
+   }
+  },
+  {
+   "id": "t-semantics",
+   "en": "semantics",
+   "zh": "語意；語義學；語義論",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 294
+   }
+  },
+  {
+   "id": "t-reinforcement",
+   "en": "reinforcement",
+   "zh": "增援；加強；加固；強化；加固物；增強材料",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 295
+   }
+  },
+  {
+   "id": "t-supplementary",
+   "en": "supplementary",
+   "zh": "增補的；補充的；追加的；補角的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 296
+   }
+  },
+  {
+   "id": "t-criterion",
+   "en": "criterion",
+   "zh": "標準；準則；效標",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 297
+   }
+  },
+  {
+   "id": "t-stanine",
+   "en": "stanine",
+   "zh": "標準九",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 298
+   }
+  },
+  {
+   "id": "t-hot-spot",
+   "en": "hot spot",
+   "zh": "熱點",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 299
+   }
+  },
+  {
+   "id": "t-membrane",
+   "en": "membrane",
+   "zh": "膜；薄膜；膜狀物",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 300
+   }
+  },
+  {
+   "id": "t-adequacy",
+   "en": "adequacy",
+   "zh": "適當；恰當；足夠；適切性",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 301
+   }
+  },
+  {
+   "id": "t-opium",
+   "en": "opium",
+   "zh": "鴉片；麻醉劑",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 302
+   }
+  },
+  {
+   "id": "t-glutamate",
+   "en": "glutamate",
+   "zh": "麩胺酸鹽",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 303
+   }
+  },
+  {
+   "id": "t-dentate",
+   "en": "dentate",
+   "zh": "齒狀",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 304
+   }
+  },
+  {
+   "id": "t-holistic",
+   "en": "holistic",
+   "zh": "整體式；全部的；功能完整的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 305
+   }
+  },
+  {
+   "id": "t-dendrites",
+   "en": "dendrites",
+   "zh": "樹狀突；樹模石",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 306
+   }
+  },
+  {
+   "id": "t-dendrite",
+   "en": "dendrite",
+   "zh": "樹突",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 307
+   }
+  },
+  {
+   "id": "t-pons",
+   "en": "pons",
+   "zh": "橋腦",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 308
+   }
+  },
+  {
+   "id": "t-excitatory",
+   "en": "excitatory",
+   "zh": "興奮性",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 309
+   }
+  },
+  {
+   "id": "t-melatonin",
+   "en": "melatonin",
+   "zh": "褪黑激素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 310
+   }
+  },
+  {
+   "id": "t-prosocial",
+   "en": "prosocial",
+   "zh": "親社會",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 311
+   }
+  },
+  {
+   "id": "t-efferent",
+   "en": "efferent",
+   "zh": "輸出的；傳出",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 312
+   }
+  },
+  {
+   "id": "t-alternatives",
+   "en": "alternatives",
+   "zh": "選項",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 313
+   }
+  },
+  {
+   "id": "t-forget",
+   "en": "forget",
+   "zh": "遺忘；忘記",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 314
+   }
+  },
+  {
+   "id": "t-pyramidal",
+   "en": "pyramidal",
+   "zh": "錐；角錐",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 315
+   }
+  },
+  {
+   "id": "t-cone",
+   "en": "cone",
+   "zh": "錐狀(細胞)；圓錐體；圓錐形；圓錐形物",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 316
+   }
+  },
+  {
+   "id": "t-misattribution",
+   "en": "misattribution",
+   "zh": "錯誤歸因",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 317
+   }
+  },
+  {
+   "id": "t-statuesque",
+   "en": "statuesque",
+   "zh": "雕像般的；莊嚴而優雅的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 318
+   }
+  },
+  {
+   "id": "t-cranial",
+   "en": "cranial",
+   "zh": "頭蓋（骨）的；顱的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 319
+   }
+  },
+  {
+   "id": "t-superiority",
+   "en": "superiority",
+   "zh": "優越；優勢；上等；優等",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 320
+   }
+  },
+  {
+   "id": "t-store",
+   "en": "store",
+   "zh": "儲存；保管；收存；倉庫；貨棧",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 321
+   }
+  },
+  {
+   "id": "t-demon",
+   "en": "Demon",
+   "zh": "戴蒙",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 10,
+    "order": 322
+   }
+  },
+  {
+   "id": "t-therapy",
+   "en": "therapy",
+   "zh": "療法；治療",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 323
+   }
+  },
+  {
+   "id": "t-summative",
+   "en": "summative",
+   "zh": "總結的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 324
+   }
+  },
+  {
+   "id": "t-synesthesia",
+   "en": "synesthesia",
+   "zh": "聯覺；共感覺；副感覺；伴生感覺；連帶感覺；共同感覺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 325
+   }
+  },
+  {
+   "id": "t-glucocorticoids",
+   "en": "Glucocorticoids",
+   "zh": "醣皮質素",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 326
+   }
+  },
+  {
+   "id": "t-tomography",
+   "en": "tomography",
+   "zh": "斷層",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 327
+   }
+  },
+  {
+   "id": "t-bluetooth",
+   "en": "Bluetooth",
+   "zh": "藍牙",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 328
+   }
+  },
+  {
+   "id": "t-stem",
+   "en": "stem",
+   "zh": "題幹",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 329
+   }
+  },
+  {
+   "id": "t-frontal",
+   "en": "frontal",
+   "zh": "額",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 330
+   }
+  },
+  {
+   "id": "t-dyslexia",
+   "en": "dyslexia",
+   "zh": "識字困難；誦讀困難；讀寫障礙",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 331
+   }
+  },
+  {
+   "id": "t-spectrum",
+   "en": "spectrum",
+   "zh": "譜；光譜",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 332
+   }
+  },
+  {
+   "id": "t-rhythm",
+   "en": "rhythm",
+   "zh": "韻律；節奏；節拍",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 333
+   }
+  },
+  {
+   "id": "t-rhythmic",
+   "en": "rhythmic",
+   "zh": "韻律的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 334
+   }
+  },
+  {
+   "id": "t-severity",
+   "en": "severity",
+   "zh": "嚴苛；嚴格；嚴厲；嚴肅",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 335
+   }
+  },
+  {
+   "id": "t-frisson",
+   "en": "frisson",
+   "zh": "顫栗； 震顫；戰慄",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 336
+   }
+  },
+  {
+   "id": "t-myelin",
+   "en": "myelin",
+   "zh": "髓素；髓磷脂",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 337
+   }
+  },
+  {
+   "id": "t-somatosensory",
+   "en": "somatosensory",
+   "zh": "體覺的；(軀)體(感)覺的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 338
+   }
+  },
+  {
+   "id": "t-seizure",
+   "en": "seizure",
+   "zh": "癲癇發作",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 339
+   }
+  },
+  {
+   "id": "t-cranium",
+   "en": "cranium",
+   "zh": "顱；頭蓋；頭蓋骨",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 340
+   }
+  },
+  {
+   "id": "t-to-carry-germs",
+   "en": "to carry germs",
+   "zh": "攜帶病菌",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 341
+   }
+  },
+  {
+   "id": "t-association-areas",
+   "en": "association areas",
+   "zh": "(大腦皮質)聯合區",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 342
+   }
+  },
+  {
+   "id": "t-coefficient-alpha",
+   "en": "coefficient alpha",
+   "zh": "a 係數",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 343
+   }
+  },
+  {
+   "id": "t-dna-mutation",
+   "en": "DNA mutation",
+   "zh": "DNA 的突變",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 344
+   }
+  },
+  {
+   "id": "t-t-score",
+   "en": "t-score",
+   "zh": "T 分數",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 345
+   }
+  },
+  {
+   "id": "t-x-inactivation",
+   "en": "X inactivation",
+   "zh": "X 失活",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 346
+   }
+  },
+  {
+   "id": "t-z-score",
+   "en": "z-score",
+   "zh": "Z 分數",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 347
+   }
+  },
+  {
+   "id": "t-as-fierce-as",
+   "en": "as fierce as",
+   "zh": "一樣激烈的",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 348
+   }
+  },
+  {
+   "id": "t-cholinergic-system",
+   "en": "cholinergic system",
+   "zh": "乙醯膽鹼系統",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 349
+   }
+  },
+  {
+   "id": "t-human-bondage",
+   "en": "human bondage",
+   "zh": "人的束縛",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 350
+   }
+  },
+  {
+   "id": "t-personality-inventory",
+   "en": "personality inventory",
+   "zh": "人格量表",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 351
+   }
+  },
+  {
+   "id": "t-human-memory",
+   "en": "human memory",
+   "zh": "人類的記憶有關。",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 352
+   }
+  },
+  {
+   "id": "t-superior-colliculi",
+   "en": "superior colliculi",
+   "zh": "上丘",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 353
+   }
+  },
+  {
+   "id": "t-inferior-colliculi",
+   "en": "inferior colliculi",
+   "zh": "下丘",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 354
+   }
+  },
+  {
+   "id": "t-metropolitan-achievement",
+   "en": "metropolitan achievement",
+   "zh": "大都會成就測驗",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 11,
+    "order": 355
+   }
+  },
+  {
+   "id": "t-grand-mal",
+   "en": "grand mal",
+   "zh": "大發作",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 356
+   }
+  },
+  {
+   "id": "t-in-the-brain",
+   "en": "in the brain",
+   "zh": "大腦中",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 357
+   }
+  },
+  {
+   "id": "t-cerebral-hemispheres",
+   "en": "cerebral hemispheres",
+   "zh": "大腦半球",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 358
+   }
+  },
+  {
+   "id": "t-cerebral-cortex",
+   "en": "cerebral cortex",
+   "zh": "大腦皮質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 359
+   }
+  },
+  {
+   "id": "t-brain-code",
+   "en": "brain code",
+   "zh": "大腦守則",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 360
+   }
+  },
+  {
+   "id": "t-cerebral-palsy",
+   "en": "cerebral palsy",
+   "zh": "大腦性麻痺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 361
+   }
+  },
+  {
+   "id": "t-blood-of-the-brain",
+   "en": "blood of the brain",
+   "zh": "大腦的血液",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 362
+   }
+  },
+  {
+   "id": "t-longitudinal-fissure",
+   "en": "longitudinal fissure",
+   "zh": "大腦縱裂",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 363
+   }
+  },
+  {
+   "id": "t-valley-girl",
+   "en": "valley girl",
+   "zh": "山谷女孩",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 364
+   }
+  },
+  {
+   "id": "t-working-memory",
+   "en": "working memory",
+   "zh": "工作記憶",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 365
+   }
+  },
+  {
+   "id": "t-working-portfolio",
+   "en": "working portfolio",
+   "zh": "工作檔案",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 366
+   }
+  },
+  {
+   "id": "t-arcuate-fasciculus",
+   "en": "arcuate fasciculus",
+   "zh": "弓狀束",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 367
+   }
+  },
+  {
+   "id": "t-central-executive",
+   "en": "central executive",
+   "zh": "中央執行官",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 368
+   }
+  },
+  {
+   "id": "t-central-fissure",
+   "en": "central fissure",
+   "zh": "中央溝",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 369
+   }
+  },
+  {
+   "id": "t-dan-schacter",
+   "en": "Dan Schacter",
+   "zh": "丹·沙克特",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 370
+   }
+  },
+  {
+   "id": "t-daniel-offer",
+   "en": "Daniel Offer",
+   "zh": "丹尼爾報價",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 371
+   }
+  },
+  {
+   "id": "t-content-standards",
+   "en": "content standards",
+   "zh": "內容標準",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 372
+   }
+  },
+  {
+   "id": "t-entorhinal-cortex",
+   "en": "entorhinal cortex",
+   "zh": "內嗅皮質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 373
+   }
+  },
+  {
+   "id": "t-implicit-memory",
+   "en": "implicit memory",
+   "zh": "內隱記憶",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 374
+   }
+  },
+  {
+   "id": "t-molecular-biology",
+   "en": "molecular biology",
+   "zh": "分子生物",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 375
+   }
+  },
+  {
+   "id": "t-molecular-geneticist",
+   "en": "molecular geneticist",
+   "zh": "分子遺傳學家",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 376
+   }
+  },
+  {
+   "id": "t-phantom-limb",
+   "en": "phantom limb",
+   "zh": "幻肢",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 377
+   }
+  },
+  {
+   "id": "t-leading-question",
+   "en": "leading question",
+   "zh": "引導問題",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 378
+   }
+  },
+  {
+   "id": "t-mental-health",
+   "en": "mental health",
+   "zh": "心理健康",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 379
+   }
+  },
+  {
+   "id": "t-theory-of-mind",
+   "en": "theory of mind",
+   "zh": "心智理論",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 380
+   }
+  },
+  {
+   "id": "t-documentation-portfolio",
+   "en": "documentation portfolio",
+   "zh": "文件檔案",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 381
+   }
+  },
+  {
+   "id": "t-halo-effect",
+   "en": "halo effect",
+   "zh": "月暈效應",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 382
+   }
+  },
+  {
+   "id": "t-subjective-tests",
+   "en": "subjective tests",
+   "zh": "主觀測驗",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 383
+   }
+  },
+  {
+   "id": "t-underrepresentation",
+   "en": "underrepresentation",
+   "zh": "代表性不足",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 384
+   }
+  },
+  {
+   "id": "t-representative-sample",
+   "en": "representative sample",
+   "zh": "代表性樣本",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 385
+   }
+  },
+  {
+   "id": "t-cab-calloway",
+   "en": "cab Calloway",
+   "zh": "出租車卡洛威",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 386
+   }
+  },
+  {
+   "id": "t-functional-imaging",
+   "en": "functional imaging",
+   "zh": "功能性影像",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 387
+   }
+  },
+  {
+   "id": "t-aurora-polaris",
+   "en": "aurora polaris",
+   "zh": "北極光",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 12,
+    "order": 388
+   }
+  },
+  {
+   "id": "t-guggenheim-museum",
+   "en": "Guggenheim museum",
+   "zh": "古根漢博物館",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 389
+   }
+  },
+  {
+   "id": "t-alternative-assessment",
+   "en": "alternative assessment",
+   "zh": "另類評量",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 390
+   }
+  },
+  {
+   "id": "t-explicit-memory",
+   "en": "explicit memory",
+   "zh": "外顯記憶",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 391
+   }
+  },
+  {
+   "id": "t-buenos-aires",
+   "en": "Buenos Aires",
+   "zh": "布宜諾斯艾利斯",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 392
+   }
+  },
+  {
+   "id": "t-survival-value",
+   "en": "survival value",
+   "zh": "生存價值",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 393
+   }
+  },
+  {
+   "id": "t-circadian-rhythm",
+   "en": "circadian rhythm",
+   "zh": "生物鐘",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 394
+   }
+  },
+  {
+   "id": "t-top-down",
+   "en": "top-down",
+   "zh": "由上往下",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 395
+   }
+  },
+  {
+   "id": "t-bottom-up",
+   "en": "bottom-up",
+   "zh": "由下而上",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 396
+   }
+  },
+  {
+   "id": "t-essay-question",
+   "en": "essay question",
+   "zh": "申論題",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 397
+   }
+  },
+  {
+   "id": "t-white-matter",
+   "en": "white matter",
+   "zh": "白質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 398
+   }
+  },
+  {
+   "id": "t-cortisol-receptor",
+   "en": "cortisol receptor",
+   "zh": "皮質醇受體",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 399
+   }
+  },
+  {
+   "id": "t-objective-referenced",
+   "en": "objective referenced",
+   "zh": "目標參照",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 400
+   }
+  },
+  {
+   "id": "t-cross-validation",
+   "en": "cross-validation",
+   "zh": "交叉驗證",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 401
+   }
+  },
+  {
+   "id": "t-congenital-amusia",
+   "en": "congenital amusia",
+   "zh": "先天性失樂",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 402
+   }
+  },
+  {
+   "id": "t-optic-disk",
+   "en": "optic disk",
+   "zh": "光盤",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 403
+   }
+  },
+  {
+   "id": "t-concurrent-validation",
+   "en": "concurrent validation",
+   "zh": "同時效度",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 404
+   }
+  },
+  {
+   "id": "t-peer-appraisal",
+   "en": "peer appraisal",
+   "zh": "同儕評量",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 405
+   }
+  },
+  {
+   "id": "t-regression-equation",
+   "en": "regression equation",
+   "zh": "回歸方程式",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 406
+   }
+  },
+  {
+   "id": "t-local-norms",
+   "en": "local norms",
+   "zh": "地區性常模",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 407
+   }
+  },
+  {
+   "id": "t-multimedia-learning",
+   "en": "multimedia learning",
+   "zh": "多媒體學習",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 408
+   }
+  },
+  {
+   "id": "t-multimodal-reinforcement",
+   "en": "multimodal reinforcement",
+   "zh": "多模態加固",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 409
+   }
+  },
+  {
+   "id": "t-anthony-wagner",
+   "en": "Anthony Wagner",
+   "zh": "安東尼·瓦格納",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 410
+   }
+  },
+  {
+   "id": "t-placement-assessment",
+   "en": "placement assessment",
+   "zh": "安置評量",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 411
+   }
+  },
+  {
+   "id": "t-grade-norms",
+   "en": "grade norms",
+   "zh": "年級常模",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 412
+   }
+  },
+  {
+   "id": "t-grade-equivalents",
+   "en": "grade equivalents",
+   "zh": "年級當量",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 413
+   }
+  },
+  {
+   "id": "t-achievement-tests",
+   "en": "achievement tests",
+   "zh": "成就測驗",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 414
+   }
+  },
+  {
+   "id": "t-thomas-inset",
+   "en": "Thomas Inset",
+   "zh": "托馬斯插圖",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 415
+   }
+  },
+  {
+   "id": "t-cingulate-cortex",
+   "en": "cingulate cortex",
+   "zh": "扣帶迴",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 416
+   }
+  },
+  {
+   "id": "t-aerobic-exercise",
+   "en": "aerobic exercise",
+   "zh": "有氧運動",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 417
+   }
+  },
+  {
+   "id": "t-corpus-callosum",
+   "en": "corpus callosum",
+   "zh": "有胼胝體",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 418
+   }
+  },
+  {
+   "id": "t-consciously-remind",
+   "en": "consciously remind",
+   "zh": "有意識地提醒",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 419
+   }
+  },
+  {
+   "id": "t-grey-matter",
+   "en": "grey matter",
+   "zh": "灰質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 420
+   }
+  },
+  {
+   "id": "t-percentile-ranks",
+   "en": "percentile ranks",
+   "zh": "百分等級",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 13,
+    "order": 421
+   }
+  },
+  {
+   "id": "t-miguel-najdorf",
+   "en": "Miguel Najdorf",
+   "zh": "米格爾·奈多夫",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 422
+   }
+  },
+  {
+   "id": "t-free-radicals",
+   "en": "free radicals",
+   "zh": "自由基",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 423
+   }
+  },
+  {
+   "id": "t-inferiority-complex",
+   "en": "inferiority complex",
+   "zh": "自卑情結",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 424
+   }
+  },
+  {
+   "id": "t-automated-processing",
+   "en": "automated processing",
+   "zh": "自動化處理",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 425
+   }
+  },
+  {
+   "id": "t-henry-dryer",
+   "en": "Henry dryer",
+   "zh": "亨利烘乾機",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 426
+   }
+  },
+  {
+   "id": "t-faking-it",
+   "en": "faking it",
+   "zh": "作假",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 427
+   }
+  },
+  {
+   "id": "t-have-you-heard",
+   "en": "Have you heard?",
+   "zh": "你有沒有聽見過？",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 428
+   }
+  },
+  {
+   "id": "t-attracting-interest",
+   "en": "attracting interest",
+   "zh": "吸引興趣",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 429
+   }
+  },
+  {
+   "id": "t-finished-portfolio",
+   "en": "finished portfolio",
+   "zh": "完成檔案",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 430
+   }
+  },
+  {
+   "id": "t-caudate-nucleus",
+   "en": "caudate nucleus",
+   "zh": "尾核",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 431
+   }
+  },
+  {
+   "id": "t-situational-awareness",
+   "en": "situational awareness",
+   "zh": "局面的警覺",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 432
+   }
+  },
+  {
+   "id": "t-formative-assessment",
+   "en": "formative assessment",
+   "zh": "形成性評量",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 433
+   }
+  },
+  {
+   "id": "t-fast-company",
+   "en": "fast company",
+   "zh": "快速公司",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 434
+   }
+  },
+  {
+   "id": "t-fast-consolidation",
+   "en": "fast consolidation",
+   "zh": "快速整合",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 435
+   }
+  },
+  {
+   "id": "t-grabbing-attention",
+   "en": "grabbing attention",
+   "zh": "抓住注意力",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 436
+   }
+  },
+  {
+   "id": "t-projective-technique",
+   "en": "projective technique",
+   "zh": "投射技術",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 437
+   }
+  },
+  {
+   "id": "t-cutoff-score",
+   "en": "cutoff score",
+   "zh": "決斷分數",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 438
+   }
+  },
+  {
+   "id": "t-moutan-cortex",
+   "en": "Moutan cortex",
+   "zh": "牡丹皮(中藥用語)",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 439
+   }
+  },
+  {
+   "id": "t-angular-gyrus",
+   "en": "angular gyrus",
+   "zh": "角迴",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 440
+   }
+  },
+  {
+   "id": "t-as-a-senior-executive",
+   "en": "as a senior executive",
+   "zh": "身為高階主管。",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 441
+   }
+  },
+  {
+   "id": "t-mammillary-bodies",
+   "en": "mammillary bodies",
+   "zh": "乳狀體",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 442
+   }
+  },
+  {
+   "id": "t-evoked-potentials",
+   "en": "evoked potentials",
+   "zh": "事件相關電位；誘發電位",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 443
+   }
+  },
+  {
+   "id": "t-supply-test",
+   "en": "supply test",
+   "zh": "供給測驗",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 444
+   }
+  },
+  {
+   "id": "t-typical-performance",
+   "en": "typical performance",
+   "zh": "典型表現",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 445
+   }
+  },
+  {
+   "id": "t-primary-cortex",
+   "en": "primary cortex",
+   "zh": "初級皮質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 446
+   }
+  },
+  {
+   "id": "t-gustatory-cortex",
+   "en": "gustatory cortex",
+   "zh": "味覺皮質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 14,
+    "order": 447
+   }
+  },
+  {
+   "id": "t-blocking-habits",
+   "en": "blocking habits",
+   "zh": "阻止習慣",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 15,
+    "order": 459
+   }
+  },
+  {
+   "id": "t-confidence-band",
+   "en": "confidence band",
+   "zh": "信賴分散帶",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 15,
+    "order": 460
+   }
+  },
+  {
+   "id": "t-premotor-cortex",
+   "en": "premotor cortex",
+   "zh": "前運動皮質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 15,
+    "order": 461
+   }
+  },
+  {
+   "id": "t-orbitofrontal-cortex",
+   "en": "orbitofrontal cortex",
+   "zh": "前額腦區底部",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 15,
+    "order": 462
+   }
+  },
+  {
+   "id": "t-prefrontal-cortex",
+   "en": "prefrontal cortex",
+   "zh": "前額葉皮質",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 15,
+    "order": 463
+   }
+  },
+  {
+   "id": "t-rebellious-behavior",
+   "en": "rebellious behavior",
+   "zh": "叛逆行為",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 15,
+    "order": 464
+   }
+  },
+  {
+   "id": "t-pattern-matching",
+   "en": "pattern matching",
+   "zh": "型態配對",
+   "source": {
+    "file": "科學專業英文(腦科學).pdf",
+    "page": 15,
+    "order": 465
+   }
+  }
+ ]
+}

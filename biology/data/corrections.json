@@ -1,0 +1,431 @@
+{
+ "schema": 1,
+ "corrections": [
+  {
+   "id": "t-transport-protein",
+   "en": "transport protein",
+   "field": "zh",
+   "original": "運輸單不",
+   "suggestion": "運輸蛋白",
+   "reason": "「單不」為明顯錯字，transport protein 為膜上的運輸蛋白。",
+   "severity": "high"
+  },
+  {
+   "id": "t-law-of-segregation",
+   "en": "law of segregation",
+   "field": "zh",
+   "original": "分離率",
+   "suggestion": "分離律",
+   "reason": "孟德爾的「分離律」，「率」為同音錯字（同 PDF 另有「獨立分配律」）。",
+   "severity": "high"
+  },
+  {
+   "id": "t-gametogenesis",
+   "en": "gametogenesis",
+   "field": "zh",
+   "original": "配子行成",
+   "suggestion": "配子形成",
+   "reason": "「行」為同音錯字。",
+   "severity": "high"
+  },
+  {
+   "id": "t-canine-hip-dysphasia",
+   "en": "canine hip dysphasia",
+   "field": "en",
+   "original": "canine hip dysphasia",
+   "suggestion": "canine hip dysplasia",
+   "reason": "dysphasia 是語言障礙；髖關節發育不良應為 dysplasia。",
+   "severity": "high"
+  },
+  {
+   "id": "t-canine-hip-dysphasia",
+   "en": "canine hip dysphasia",
+   "field": "zh",
+   "original": "髖關節退化症",
+   "suggestion": "犬髖關節發育不良",
+   "reason": "dysplasia 指發育不良，canine 指犬隻。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-myeloid",
+   "en": "myeloid",
+   "field": "zh",
+   "original": "骨髓的；脊椎的",
+   "suggestion": "骨髓的；脊髓的",
+   "reason": "myeloid 字根 myel- 指骨髓或脊髓，不是脊椎。",
+   "severity": "high"
+  },
+  {
+   "id": "t-myelin",
+   "en": "myelin",
+   "field": "zh",
+   "original": "髓素；神經髓；髓燐脂",
+   "suggestion": "髓鞘質；髓磷脂",
+   "reason": "「燐」為舊字，現行用「磷」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-myoblast",
+   "en": "myoblast",
+   "field": "zh",
+   "original": "肌細胞",
+   "suggestion": "肌母細胞（成肌細胞）",
+   "reason": "myoblast 是尚未融合的肌肉前驅細胞，肌細胞為 muscle cell。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-inheritance",
+   "en": "inheritance",
+   "field": "zh",
+   "original": "傳遞",
+   "suggestion": "遺傳",
+   "reason": "生物學上 inheritance 一般譯為遺傳。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-evolution",
+   "en": "evolution",
+   "field": "zh",
+   "original": "演化學",
+   "suggestion": "演化",
+   "reason": "evolution 指演化現象；演化學為 evolutionary biology。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-selection",
+   "en": "selection",
+   "field": "zh",
+   "original": "自然篩選",
+   "suggestion": "選擇；天擇（natural selection）",
+   "reason": "selection 單獨使用時為「選擇」，天擇對應 natural selection。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-bioinformation",
+   "en": "Bioinformation",
+   "field": "en",
+   "original": "Bioinformation",
+   "suggestion": "bioinformatics",
+   "reason": "「生物資訊學」英文為 bioinformatics；bioinformation 指生物資訊本身。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-boyles-law",
+   "en": "Boyles law",
+   "field": "en",
+   "original": "Boyles law",
+   "suggestion": "Boyle's law",
+   "reason": "缺少所有格撇號。",
+   "severity": "low"
+  },
+  {
+   "id": "t-adaption",
+   "en": "adaption",
+   "field": "en",
+   "original": "adaption",
+   "suggestion": "adaptation",
+   "reason": "生物學標準用語為 adaptation；adaption 為少用變體。",
+   "severity": "low"
+  },
+  {
+   "id": "t-antibiotic-genes",
+   "en": "antibiotic genes",
+   "field": "en",
+   "original": "antibiotic genes",
+   "suggestion": "antibiotic resistance genes",
+   "reason": "中文「抗抗生素基因」對應的英文應含 resistance。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-selective-marker-genes",
+   "en": "selective marker genes",
+   "field": "en",
+   "original": "selective marker genes",
+   "suggestion": "selectable marker genes",
+   "reason": "基因轉殖常用 selectable marker；中文可作「選擇性標記基因」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-confocal-microscopy",
+   "en": "confocal microscopy",
+   "field": "zh",
+   "original": "共軛顯微鏡",
+   "suggestion": "共軛焦顯微鏡",
+   "reason": "confocal 意為共焦點，臺灣慣用「共軛焦顯微鏡」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-phase-contrast-microscope",
+   "en": "phase contrast microscope",
+   "field": "zh",
+   "original": "位相差顯微鏡",
+   "suggestion": "相位差顯微鏡",
+   "reason": "臺灣高中課本慣用「相位差顯微鏡」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-scanning-probe-microscope",
+   "en": "scanning probe microscope",
+   "field": "zh",
+   "original": "掃描式原子探測顯微鏡",
+   "suggestion": "掃描探針顯微鏡",
+   "reason": "scanning probe microscope 一般譯為掃描探針顯微鏡。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-blastocyst",
+   "en": "blastocyst",
+   "field": "zh",
+   "original": "早期囊胚",
+   "suggestion": "囊胚（胚泡）",
+   "reason": "blastocyst 即囊胚，不限「早期」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-sister-chromatids",
+   "en": "sister chromatids",
+   "field": "zh",
+   "original": "姐妹染色分體",
+   "suggestion": "姊妹染色分體",
+   "reason": "臺灣課本用字為「姊妹」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-cell-cycle",
+   "en": "cell cycle",
+   "field": "zh",
+   "original": "細胞周期",
+   "suggestion": "細胞週期",
+   "reason": "臺灣慣用「週期」（同 PDF 的 cyclin 也作「週期素」）。",
+   "severity": "low"
+  },
+  {
+   "id": "t-carotenoid-pigment",
+   "en": "carotenoid pigment",
+   "field": "zh",
+   "original": "類胡蘿卜色素; 類葉紅素色素",
+   "suggestion": "類胡蘿蔔素色素",
+   "reason": "「卜」與「蔔」混用；同 PDF 的 carotenoid 作「類胡蘿蔔素」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-carotenoid-pathway",
+   "en": "carotenoid pathway",
+   "field": "zh",
+   "original": "類胡蘿卜素途徑",
+   "suggestion": "類胡蘿蔔素途徑",
+   "reason": "「卜」與「蔔」混用。",
+   "severity": "low"
+  },
+  {
+   "id": "t-bacterial-carotenoid",
+   "en": "bacterial carotenoid",
+   "field": "zh",
+   "original": "細菌類胡蘿卜素",
+   "suggestion": "細菌類胡蘿蔔素",
+   "reason": "「卜」與「蔔」混用。",
+   "severity": "low"
+  },
+  {
+   "id": "t-ribulose-1-5-bisphosphate",
+   "en": "ribulose-1,5-bisphosphate",
+   "field": "zh",
+   "original": "五碳化合物雙磷酸核酮糖",
+   "suggestion": "1,5-雙磷酸核酮糖（RuBP，五碳化合物）",
+   "reason": "原譯把說明與名稱接在一起，易誤讀。",
+   "severity": "low"
+  },
+  {
+   "id": "t-3-phosphoglycerate",
+   "en": "3-phosphoglycerate",
+   "field": "zh",
+   "original": "三碳的磷酸甘油酸",
+   "suggestion": "3-磷酸甘油酸（PGA）",
+   "reason": "3- 代表磷酸接在第 3 號碳，不是「三碳的」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-glyceraldehyde-3-phosphate",
+   "en": "glyceraldehyde-3-phosphate",
+   "field": "zh",
+   "original": "磷酸甘油醛",
+   "suggestion": "3-磷酸甘油醛（G3P / PGAL）",
+   "reason": "補上位置編號，與英文對應。",
+   "severity": "low"
+  },
+  {
+   "id": "t-material-and-method",
+   "en": "material and method",
+   "field": "zh",
+   "original": "設計實驗",
+   "suggestion": "材料與方法",
+   "reason": "material(s) and method(s) 是科學論文章節名稱。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-result",
+   "en": "result",
+   "field": "zh",
+   "original": "分析結果",
+   "suggestion": "結果",
+   "reason": "論文章節 Results 一般譯「結果」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-cyclic-flow",
+   "en": "cyclic flow",
+   "field": "zh",
+   "original": "循環式",
+   "suggestion": "循環式電子流",
+   "reason": "原譯缺少中心名詞（光反應的電子流）。",
+   "severity": "low"
+  },
+  {
+   "id": "t-noncyclic-flow",
+   "en": "noncyclic flow",
+   "field": "zh",
+   "original": "非循環式",
+   "suggestion": "非循環式電子流",
+   "reason": "原譯缺少中心名詞（光反應的電子流）。",
+   "severity": "low"
+  },
+  {
+   "id": "t-emergence",
+   "en": "emergence",
+   "field": "zh",
+   "original": "突顯",
+   "suggestion": "突現；湧現",
+   "reason": "系統生物學中 emergence 多譯為突現或湧現。",
+   "severity": "low"
+  },
+  {
+   "id": "t-lymphoid",
+   "en": "lymphoid",
+   "field": "zh",
+   "original": "淋巴",
+   "suggestion": "淋巴的；類淋巴的",
+   "reason": "lymphoid 為形容詞。",
+   "severity": "low"
+  },
+  {
+   "id": "t-drosophila-melanogaster",
+   "en": "Drosophila melanogaster",
+   "field": "zh",
+   "original": "果蠅",
+   "suggestion": "黑腹果蠅",
+   "reason": "melanogaster 為種小名，完整中文為黑腹果蠅。",
+   "severity": "low"
+  },
+  {
+   "id": "t-micrographia",
+   "en": "micrographia",
+   "field": "en",
+   "original": "micrographia",
+   "suggestion": "Micrographia（虎克著作名）/ micrographia（醫學：寫字過小症）",
+   "reason": "兩個意義大小寫不同，建議分開。",
+   "severity": "low"
+  },
+  {
+   "id": "t-acid",
+   "en": "acid",
+   "field": "zh",
+   "original": "酸的；有酸味的；酸性的 n.酸；有酸味的東西",
+   "suggestion": "adj. 酸的；酸性的　n. 酸",
+   "reason": "原文詞性標記格式不一致（缺少 adj.）。",
+   "severity": "low"
+  },
+  {
+   "id": "t-invadosome",
+   "en": "invadosome",
+   "field": "zh",
+   "original": "侵襲體；(在癌細胞中)侵襲性偽足；侵犯僞足",
+   "suggestion": "侵襲體；侵襲性偽足",
+   "reason": "「偽」「僞」異體字混用，且有重複義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-camptothecin",
+   "en": "camptothecin",
+   "field": "zh",
+   "original": "喜樹鹼；喜樹堿",
+   "suggestion": "喜樹鹼",
+   "reason": "「鹼」「堿」為異體字重複。",
+   "severity": "low"
+  },
+  {
+   "id": "t-camptothecin-alkaloids",
+   "en": "camptothecin alkaloids",
+   "field": "zh",
+   "original": "喜樹生物鹼；喜樹生物堿",
+   "suggestion": "喜樹生物鹼",
+   "reason": "「鹼」「堿」為異體字重複。",
+   "severity": "low"
+  },
+  {
+   "id": "t-multipotent",
+   "en": "multipotent",
+   "field": "zh",
+   "original": "多分化(幹細胞)",
+   "suggestion": "多潛能（幹細胞）",
+   "reason": "與 pluripotent「多能性」區分，臺灣常用「多潛能」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-agrobacteria-infection-method",
+   "en": "Agrobacteria infection method",
+   "field": "en",
+   "original": "Agrobacteria infection method",
+   "suggestion": "Agrobacterium-mediated transformation",
+   "reason": "學術常用寫法；屬名單數為 Agrobacterium。",
+   "severity": "low"
+  },
+  {
+   "id": "t-the-origin-of-species",
+   "en": "the origin of species",
+   "field": "en",
+   "original": "the origin of species",
+   "suggestion": "On the Origin of Species",
+   "reason": "達爾文著作書名，應大寫並含 On。",
+   "severity": "low"
+  },
+  {
+   "id": "t-sorting-center",
+   "en": "sorting center",
+   "field": "zh",
+   "original": "配送中心",
+   "suggestion": "分選中心（如高基氏體的分選功能）",
+   "reason": "原文無上下文，生物學中多指蛋白質分選。",
+   "severity": "low"
+  }
+ ],
+ "layoutIssues": [
+  {
+   "page": 8,
+   "note": "law of independent assortment／lactic acid fermentation／lactate fermentation 三列表格錯位，英文被斷到下一列，已依版面拆回三個詞條。"
+  },
+  {
+   "page": 9,
+   "note": "genotyping 與 genotype 擠在同一列，已拆成兩個詞條。"
+  },
+  {
+   "page": 13,
+   "note": "Agrobacteria infection method、aerobic respiration、adult stem cells、adaptive radiation 四列文字層錯位，已依版面拆開。"
+  },
+  {
+   "page": 14,
+   "note": "acid cycle 與 acid 擠在同一列，已拆成兩個詞條。"
+  },
+  {
+   "page": 1,
+   "note": "第 1 頁頁首「BIOLOGY SPECIALIST TERMS / CHINESE TRADITIONAL」為表頭，不列入詞條。"
+  },
+  {
+   "page": 0,
+   "note": "全份 PDF 為英中對照詞彙表，沒有定義、例句、音標或圖片；App 中這些欄位皆為 AI 補充內容並標示來源。"
+  },
+  {
+   "page": 0,
+   "note": "詞條在 PDF 中依字母反序（Z→A）排列；同義詞重複出現（如 Krebs cycle／citric acid cycle／tricarboxylic acid cycle、lactic／lactate fermentation），App 以「相關詞」連結。"
+  }
+ ]
+}

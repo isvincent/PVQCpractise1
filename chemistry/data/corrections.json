@@ -1,0 +1,440 @@
+{
+ "schema": 1,
+ "corrections": [
+  {
+   "id": "t-dimethyl",
+   "en": "dimethyl",
+   "field": "zh",
+   "original": "乙烷; 二甲基的",
+   "suggestion": "二甲基（的）",
+   "reason": "dimethyl 是「二甲基」，不是乙烷（ethane）；同 PDF 另有 ethane 乙烷。",
+   "severity": "high"
+  },
+  {
+   "id": "t-adenosine",
+   "en": "adenosine",
+   "field": "zh",
+   "original": "(得自於酵母核酸的)腺甘酸",
+   "suggestion": "腺苷（腺嘌呤核苷）",
+   "reason": "adenosine 是核苷「腺苷」；「腺苷酸」是 AMP（adenosine monophosphate），且原文「甘」為錯字。",
+   "severity": "high"
+  },
+  {
+   "id": "t-olestra",
+   "en": "olestra",
+   "field": "zh",
+   "original": "脂防酸蔗糖酯",
+   "suggestion": "脂肪酸蔗糖聚酯（蔗糖聚酯）",
+   "reason": "「防」為錯字，應為「脂肪酸」。",
+   "severity": "high"
+  },
+  {
+   "id": "t-acetanilide",
+   "en": "acetanilide",
+   "field": "zh",
+   "original": "乙醯胺苯",
+   "suggestion": "乙醯苯胺",
+   "reason": "acetanilide 為 N-苯基乙醯胺，中文名「乙醯苯胺」，原文詞序錯誤。",
+   "severity": "high"
+  },
+  {
+   "id": "t-acetaminophen",
+   "en": "acetaminophen",
+   "field": "zh",
+   "original": "乙醯胺酚藥名)",
+   "suggestion": "乙醯胺酚（藥名，普拿疼的成分）",
+   "reason": "缺少左括號。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-tribromophenol",
+   "en": "tribromophenol",
+   "field": "zh",
+   "original": "三溴苯酚; 三溴酚; 三溴萘酚",
+   "suggestion": "三溴苯酚；三溴酚",
+   "reason": "「萘酚」是 naphthol，與苯酚不同，不應列為同義。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-methyl",
+   "en": "methyl",
+   "field": "zh",
+   "original": "甲基；木精",
+   "suggestion": "甲基",
+   "reason": "「木精」是甲醇（methanol）的俗名，不是甲基。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-hybrid",
+   "en": "hybrid",
+   "field": "zh",
+   "original": "混合物",
+   "suggestion": "混成（如混成軌域 hybrid orbital）；雜交",
+   "reason": "化學中 hybrid 多指混成；混合物是 mixture。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-acetyl",
+   "en": "acetyl",
+   "field": "zh",
+   "original": "乙酰(基)",
+   "suggestion": "乙醯（基）",
+   "reason": "「酰」為簡體字，臺灣用「醯」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-rayon",
+   "en": "rayon",
+   "field": "zh",
+   "original": "嫘縈；人造丝",
+   "suggestion": "嫘縈；人造絲",
+   "reason": "「丝」為簡體字。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-dioxane",
+   "en": "dioxane",
+   "field": "zh",
+   "original": "二(口咢)烷；二惡烷；二氧六環；二氧雜環己烷；二氧陸圜",
+   "suggestion": "二噁烷（1,4-二氧六環）",
+   "reason": "「(口咢)」為造字缺字的替代寫法；臺灣常用「二噁烷」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-coagulant",
+   "en": "coagulant",
+   "field": "zh",
+   "original": "促凝劑；凝血劑；凝結劑凝；血的",
+   "suggestion": "凝聚劑；促凝劑；凝血劑",
+   "reason": "標點錯置，「凝；血的」為斷錯的殘字。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-guanine",
+   "en": "guanine",
+   "field": "zh",
+   "original": "鳥嘌呤；鳥糞嘌呤；鳥糞鹹",
+   "suggestion": "鳥嘌呤",
+   "reason": "「鹹」應為「鹼」；臺灣課本用「鳥嘌呤」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-carvone",
+   "en": "carvone",
+   "field": "zh",
+   "original": "香旱芹酮",
+   "suggestion": "香芹酮",
+   "reason": "carvone 一般譯為「香芹酮」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-sorbite",
+   "en": "sorbite",
+   "field": "zh",
+   "original": "山梨醇",
+   "suggestion": "（疑似 sorbitol 山梨醇的變體；冶金學中 sorbite 為「索氏體」）",
+   "reason": "與下一詞 sorbitol 重複，可能誤植。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-mole",
+   "en": "mole",
+   "field": "zh",
+   "original": "摩爾；克分子（量）；痣；錢鼠(鼴鼠)",
+   "suggestion": "莫耳（物質的量單位，符號 mol）",
+   "reason": "臺灣課本用「莫耳」；痣、鼴鼠為非化學義項。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-teflon",
+   "en": "Teflon",
+   "field": "zh",
+   "original": "特夫綸",
+   "suggestion": "鐵氟龍（聚四氟乙烯 PTFE）",
+   "reason": "臺灣通用「鐵氟龍」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-deposition",
+   "en": "deposition",
+   "field": "zh",
+   "original": "沈積；凝華(昇華的逆過程)}",
+   "suggestion": "沉積；凝華（昇華的逆過程）",
+   "reason": "多一個右大括號；「沈」宜作「沉」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-precipitation",
+   "en": "precipitation",
+   "field": "zh",
+   "original": "沈澱：沈澱作用",
+   "suggestion": "沉澱；沉澱作用",
+   "reason": "冒號應為分號；「沈」宜作「沉」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-calorie",
+   "en": "calorie",
+   "field": "zh",
+   "original": "卡：卡路里",
+   "suggestion": "卡；卡路里",
+   "reason": "冒號應為分號。",
+   "severity": "low"
+  },
+  {
+   "id": "t-alicyclic",
+   "en": "alicyclic",
+   "field": "zh",
+   "original": "脂環的：脂環(族)的",
+   "suggestion": "脂環的；脂環族的",
+   "reason": "冒號應為分號。",
+   "severity": "low"
+  },
+  {
+   "id": "t-formic",
+   "en": "formic",
+   "field": "zh",
+   "original": "螞蟻的；蟻酸的甲酸",
+   "suggestion": "蟻酸的；甲酸的",
+   "reason": "「蟻酸的甲酸」缺少分隔。",
+   "severity": "low"
+  },
+  {
+   "id": "t-battery",
+   "en": "battery",
+   "field": "zh",
+   "original": "電池；組電池組",
+   "suggestion": "電池；電池組",
+   "reason": "「組電池組」重複。",
+   "severity": "low"
+  },
+  {
+   "id": "t-material",
+   "en": "material",
+   "field": "zh",
+   "original": "材料；原料織物；物質的；有形的；肉體的",
+   "suggestion": "材料；原料；物質的",
+   "reason": "「原料織物」缺少分隔，且含非化學義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-specificity",
+   "en": "specificity",
+   "field": "zh",
+   "original": "專一性 {生化}",
+   "suggestion": "專一性（生化）",
+   "reason": "大括號格式。",
+   "severity": "low"
+  },
+  {
+   "id": "t-reuse",
+   "en": "reuse",
+   "field": "zh",
+   "original": "重覆使用",
+   "suggestion": "重複使用",
+   "reason": "「重覆」宜作「重複」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-kirchhoff",
+   "en": "Kirchhoff",
+   "field": "zh",
+   "original": "克希何夫(人名)",
+   "suggestion": "克希荷夫（人名）",
+   "reason": "通用譯名為「克希荷夫」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-nano",
+   "en": "nano",
+   "field": "zh",
+   "original": "毫微；十億分之一",
+   "suggestion": "奈（10⁻⁹）",
+   "reason": "「毫微」為舊稱，臺灣用「奈」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-mol",
+   "en": "mol",
+   "field": "zh",
+   "original": "莫耳；莫耳單位；克分子",
+   "suggestion": "莫耳（mol）",
+   "reason": "「克分子」為舊稱。",
+   "severity": "low"
+  },
+  {
+   "id": "t-butanol",
+   "en": "butanol",
+   "field": "zh",
+   "original": "丁醇；同分異構酒精",
+   "suggestion": "丁醇",
+   "reason": "「同分異構酒精」不是 butanol 的譯名。",
+   "severity": "low"
+  },
+  {
+   "id": "t-chlorellales",
+   "en": "chlorellales",
+   "field": "zh",
+   "original": "小球藻",
+   "suggestion": "小球藻目",
+   "reason": "-ales 為「目」的分類階層字尾。",
+   "severity": "low"
+  },
+  {
+   "id": "t-meter",
+   "en": "meter",
+   "field": "zh",
+   "original": "pH 計",
+   "suggestion": "計；儀表（如 pH meter 酸鹼度計）",
+   "reason": "meter 單獨使用為「計、儀表」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-karat",
+   "en": "karat",
+   "field": "zh",
+   "original": "開；克拉",
+   "suggestion": "開（K，金的純度）",
+   "reason": "karat 指金的純度；寶石重量的克拉是 carat。",
+   "severity": "low"
+  },
+  {
+   "id": "t-adenine",
+   "en": "adenine",
+   "field": "zh",
+   "original": "腺嘌呤(存在於膵臟等動物組織中的鹽基)",
+   "suggestion": "腺嘌呤（DNA／RNA 的鹼基之一）",
+   "reason": "括號說明過時（鹽基＝鹼基），且「膵」為舊字。",
+   "severity": "low"
+  },
+  {
+   "id": "t-clostridium",
+   "en": "clostridium",
+   "field": "zh",
+   "original": "梭狀芽孢桿菌；桿菌",
+   "suggestion": "梭狀芽孢桿菌（屬）",
+   "reason": "「桿菌」範圍過大。",
+   "severity": "low"
+  },
+  {
+   "id": "t-oxalis",
+   "en": "oxalis",
+   "field": "zh",
+   "original": "酢漿草屬",
+   "suggestion": "酢漿草屬（植物名，含草酸）",
+   "reason": "屬植物學名，化學相關為其所含草酸 oxalic acid。",
+   "severity": "low"
+  },
+  {
+   "id": "t-yield",
+   "en": "yield",
+   "field": "zh",
+   "original": "生產量；投資收益生產；給予；同意",
+   "suggestion": "產率；產量",
+   "reason": "化學用法為產率；其餘為一般字典義項（p.24）。",
+   "severity": "low"
+  },
+  {
+   "id": "t-crude",
+   "en": "crude",
+   "field": "zh",
+   "original": "天然的；生的；未經加工的；粗野的；沒教養的",
+   "suggestion": "粗製的；未經加工的（如 crude oil 原油）",
+   "reason": "後段為非化學義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-conjugate",
+   "en": "conjugate",
+   "field": "zh",
+   "original": "共軛的；結合的；同字根的；同源字 ；使結合；使成對",
+   "suggestion": "共軛的（如 conjugate acid 共軛酸）",
+   "reason": "化學用法為共軛。",
+   "severity": "low"
+  },
+  {
+   "id": "t-bond",
+   "en": "bond",
+   "field": "zh",
+   "original": "(原子的)結合；(人際間)結成特別關係",
+   "suggestion": "鍵；鍵結",
+   "reason": "化學用法為「鍵」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-affinity",
+   "en": "affinity",
+   "field": "zh",
+   "original": "喜好；本性；傾向(+for/to)；姻親關係；密切關係(+with/between)",
+   "suggestion": "親和力（如 electron affinity 電子親和力）",
+   "reason": "化學用法為親和力；原文中文跨兩行。",
+   "severity": "low"
+  },
+  {
+   "id": "t-hydrocarbon",
+   "en": "hydrocarbon",
+   "field": "dup",
+   "original": "p.19「碳化氫；碳氫化合物」與 p.19「烴；碳氫化合物」",
+   "suggestion": "合併為一個詞條：碳化氫；碳氫化合物；烴；碳氫化合物",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文不同，App 合併並列出兩處原文。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-polymer",
+   "en": "polymer",
+   "field": "dup",
+   "original": "p.9「聚合物」與 p.22「聚合物」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-polymerization",
+   "en": "polymerization",
+   "field": "dup",
+   "original": "p.9「聚合；聚合作用」與 p.22「聚合；聚合作用」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-yield",
+   "en": "yield",
+   "field": "dup",
+   "original": "p.12「產率」與 p.24「生產量；投資收益生產；給予；同意」",
+   "suggestion": "合併為一個詞條：產率；生產量；投資收益生產；給予；同意",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文不同，App 合併並列出兩處原文。",
+   "severity": "medium"
+  }
+ ],
+ "layoutIssues": [
+  {
+   "page": 1,
+   "note": "第 1 頁頁首「PVQC for Chemistry Specialist／Terms／Chinese Traditional」與日期為表頭；各頁右上頁碼與「Chemistry SP n」頁尾不列入詞條。"
+  },
+  {
+   "page": 12,
+   "note": "affinity 的中文解釋跨兩行，第二行「(+with/between)」已併回同一詞條。"
+  },
+  {
+   "page": 0,
+   "note": "PDF 共 545 列，其中 polymer、polymerization（p.9、p.22）、yield（p.12、p.24）、hydrocarbon（p.19 連續兩列）重複出現；App 合併為 541 個學習詞條，並在詞條頁列出所有出現的頁碼與原文。"
+  },
+  {
+   "page": 0,
+   "note": "全份 PDF 為英中對照詞彙表（PVQC 化學專業級），沒有定義、例句、音標或圖片；App 中這些欄位皆為 AI 補充並標示來源。"
+  },
+  {
+   "page": 0,
+   "note": "前 11 頁大致依字母排序（A→Y），第 12 頁起另一段由 A 重新開始，最後三個詞（methanol、nitration、acetic acid）未依序；App 依概念重新分單元，並保留原始順序檢視。"
+  },
+  {
+   "page": 0,
+   "note": "部分詞條附有非化學的一般字典義項（如 mole「痣、鼴鼠」、crude「粗野的」、affinity「姻親關係」），以及單複數或拼法變體重複（ester／esters、arene／arenes、phenol／phenols、chlordan／chlordane、isomer／isomeride），App 以更正建議與同義詞組標示。"
+  },
+  {
+   "page": 0,
+   "note": "多處使用簡體字或舊譯名（乙酰、人造丝、摩爾、克分子、毫微），已列入更正建議。"
+  }
+ ]
+}

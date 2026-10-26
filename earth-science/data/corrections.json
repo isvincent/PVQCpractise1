@@ -1,0 +1,367 @@
+{
+ "schema": 1,
+ "corrections": [
+  {
+   "id": "t-granite",
+   "en": "granite",
+   "field": "zh",
+   "original": "花岡岩",
+   "suggestion": "花崗岩",
+   "reason": "「岡」為錯字，應為「崗」。",
+   "severity": "high"
+  },
+  {
+   "id": "t-coma",
+   "en": "coma",
+   "field": "zh",
+   "original": "慧髮",
+   "suggestion": "彗髮",
+   "reason": "彗星的彗髮，「慧」為錯字。",
+   "severity": "high"
+  },
+  {
+   "id": "t-host",
+   "en": "host",
+   "field": "en",
+   "original": "host",
+   "suggestion": "horst",
+   "reason": "「地壘」的英文是 horst；host 意為主體、寄主，疑似拼字錯誤。",
+   "severity": "high"
+  },
+  {
+   "id": "t-hipparchus",
+   "en": "Hipparchus",
+   "field": "zh",
+   "original": "依巴谷星座",
+   "suggestion": "喜帕恰斯（依巴谷，古希臘天文學家）",
+   "reason": "Hipparchus 是人名，不是星座。",
+   "severity": "high"
+  },
+  {
+   "id": "t-cynognathus",
+   "en": "cynognathus",
+   "field": "zh",
+   "original": "犬頭龍",
+   "suggestion": "犬頜獸",
+   "reason": "Cynognathus 是三疊紀的獸孔類（似哺乳爬行動物），通用譯名為「犬頜獸」，不是恐龍。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-faunal",
+   "en": "faunal",
+   "field": "zh",
+   "original": "化石",
+   "suggestion": "動物群的（如 faunal succession 動物群演替）",
+   "reason": "faunal 意為「動物群的」，不是化石（fossil）。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-galaxy",
+   "en": "galaxy",
+   "field": "zh",
+   "original": "銀河系",
+   "suggestion": "星系（大寫 the Galaxy 才專指銀河系）",
+   "reason": "galaxy 泛指星系；同 PDF 的 galaxy cluster 譯為星系團。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-binary",
+   "en": "binary",
+   "field": "zh",
+   "original": "二進制",
+   "suggestion": "雙星（binary star）；二元的",
+   "reason": "天文學中 binary 多指雙星。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-sidereal",
+   "en": "sidereal",
+   "field": "zh",
+   "original": "恆星",
+   "suggestion": "恆星的（如 sidereal day 恆星日）",
+   "reason": "sidereal 為形容詞。",
+   "severity": "low"
+  },
+  {
+   "id": "t-magnitude",
+   "en": "magnitude",
+   "field": "zh",
+   "original": "量數值；星等；規模",
+   "suggestion": "星等；規模（地震）；量值",
+   "reason": "「量數值」不通順。",
+   "severity": "low"
+  },
+  {
+   "id": "t-reverse-polarity",
+   "en": "reverse polarity",
+   "field": "zh",
+   "original": "負向磁極",
+   "suggestion": "反向磁極（逆磁極期）",
+   "reason": "古地磁學中 reverse polarity 為「反向」，與 normal polarity「正向」相對。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-thermocline",
+   "en": "thermocline",
+   "field": "zh",
+   "original": "斜温層；斜温",
+   "suggestion": "斜溫層",
+   "reason": "「温」為異體字，臺灣用「溫」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-ordovician",
+   "en": "Ordovician",
+   "field": "zh",
+   "original": "奥陶紀；奥陶系",
+   "suggestion": "奧陶紀；奧陶系",
+   "reason": "「奥」為簡體字形，臺灣用「奧」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-lifting",
+   "en": "lifting",
+   "field": "zh",
+   "original": "擧升",
+   "suggestion": "舉升",
+   "reason": "「擧」為異體字。",
+   "severity": "low"
+  },
+  {
+   "id": "t-period",
+   "en": "period",
+   "field": "zh",
+   "original": "紀；期；周期",
+   "suggestion": "紀；期；週期",
+   "reason": "臺灣慣用「週期」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-coordinate",
+   "en": "coordinate",
+   "field": "zh",
+   "original": "坐標",
+   "suggestion": "座標",
+   "reason": "臺灣課本慣用「座標」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-el-nino",
+   "en": "EL Nino",
+   "field": "en",
+   "original": "EL Nino",
+   "suggestion": "El Niño",
+   "reason": "大小寫與西班牙文字母 ñ。",
+   "severity": "low"
+  },
+  {
+   "id": "t-la-nina",
+   "en": "La Nina",
+   "field": "en",
+   "original": "La Nina",
+   "suggestion": "La Niña",
+   "reason": "西班牙文字母 ñ。",
+   "severity": "low"
+  },
+  {
+   "id": "t-occlude",
+   "en": "occlude",
+   "field": "zh",
+   "original": "封閉；堵塞；阻擋；吸收；(牙齒)咬合",
+   "suggestion": "封閉；囚錮（occluded front 囚錮鋒）",
+   "reason": "氣象學中 occlusion 為「囚錮」；「(牙齒)咬合」非地科義項，且原文跨行。",
+   "severity": "low"
+  },
+  {
+   "id": "t-cambrian",
+   "en": "Cambrian",
+   "field": "zh",
+   "original": "寒武紀；寒武系；威爾斯人；寒武紀；寒武系的；威爾斯的；威爾斯人的",
+   "suggestion": "寒武紀；寒武系",
+   "reason": "「寒武紀」重複出現，且含與地科無關的義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-asteroid",
+   "en": "asteroid",
+   "field": "zh",
+   "original": "星狀的；小行星；海星；小游星",
+   "suggestion": "小行星",
+   "reason": "「海星」等為非天文義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-celestial",
+   "en": "celestial",
+   "field": "zh",
+   "original": "天球的；天的；天空的；天國的；神聖的；神仙；天堂裡的居民",
+   "suggestion": "天球的；天體的",
+   "reason": "後段為非地科義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-tropical",
+   "en": "tropical",
+   "field": "zh",
+   "original": "熱帶的；位於熱帶的；酷熱的；薄型織物；男子夏裝；熱帶魚",
+   "suggestion": "熱帶的",
+   "reason": "後段為非地科義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-transgression",
+   "en": "transgression",
+   "field": "zh",
+   "original": "海進；違反；違法；罪過",
+   "suggestion": "海進",
+   "reason": "後段為非地科義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-landslide",
+   "en": "landslide",
+   "field": "zh",
+   "original": "山崩；滑坡；(選舉的)壓倒性勝利",
+   "suggestion": "山崩；滑坡",
+   "reason": "「壓倒性勝利」為非地科義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-joint",
+   "en": "joint",
+   "field": "zh",
+   "original": "節理；接頭；接合點；關節；連接；.連接的；聯合的",
+   "suggestion": "節理",
+   "reason": "多一個句點，且後段為非地科義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-fault",
+   "en": "fault",
+   "field": "zh",
+   "original": "斷層；缺點；缺陷；錯誤；弄錯；產生斷層",
+   "suggestion": "斷層",
+   "reason": "後段為非地科義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-gauge",
+   "en": "gauge",
+   "field": "zh",
+   "original": "量；測；估計；測量儀器；規；表；計；標準尺寸；標準規格",
+   "suggestion": "計；測量儀器（如 rain gauge 雨量計）",
+   "reason": "地科常見用法為各種測量儀器。",
+   "severity": "low"
+  },
+  {
+   "id": "t-normal",
+   "en": "normal",
+   "field": "zh",
+   "original": "正向的；正常的；正規的；標準的；標準；常態；法線",
+   "suggestion": "正常的；正斷層（normal fault）；正向（磁極）",
+   "reason": "地科常見用法：normal fault、normal polarity。",
+   "severity": "low"
+  },
+  {
+   "id": "t-cambium",
+   "en": "cambium",
+   "field": "zh",
+   "original": "形成層 ；新生組織",
+   "suggestion": "形成層（植物學用語）",
+   "reason": "屬植物學詞彙；多一個空白。",
+   "severity": "low"
+  },
+  {
+   "id": "t-aerobe",
+   "en": "aerobe",
+   "field": "zh",
+   "original": "好氧生物；以空中氧氣維生的細菌",
+   "suggestion": "好氧生物",
+   "reason": "說明冗長。",
+   "severity": "low"
+  },
+  {
+   "id": "t-ceres",
+   "en": "Ceres",
+   "field": "zh",
+   "original": "1 號小行星；穀神星",
+   "suggestion": "穀神星（1 號小行星，現歸類為矮行星）",
+   "reason": "2006 年起穀神星歸類為矮行星（dwarf planet）。",
+   "severity": "low"
+  },
+  {
+   "id": "t-parallax-arcsecond",
+   "en": "parallax arcsecond",
+   "field": "zh",
+   "original": "秒差距",
+   "suggestion": "秒差距（parsec 的由來：視差 1 角秒）",
+   "reason": "parsec 即 parallax arcsecond 的縮寫，與 parsec 同義。",
+   "severity": "low"
+  },
+  {
+   "id": "t-superposition",
+   "en": "superposition",
+   "field": "zh",
+   "original": "疊積 ; 疊置",
+   "suggestion": "疊置（疊置定律 law of superposition）",
+   "reason": "半形分號格式。",
+   "severity": "low"
+  },
+  {
+   "id": "t-action-at-a-distance",
+   "en": "action at a distance",
+   "field": "zh",
+   "original": "超距力 ； 超距作用",
+   "suggestion": "超距作用；超距力",
+   "reason": "空白格式。",
+   "severity": "low"
+  },
+  {
+   "id": "t-angular-displacement",
+   "en": "angular displacement",
+   "field": "zh",
+   "original": "角移",
+   "suggestion": "角位移",
+   "reason": "課本用「角位移」。",
+   "severity": "low"
+  }
+ ],
+ "layoutIssues": [
+  {
+   "page": 1,
+   "note": "第 1 頁頁首「PVQC for Earth Sciences Specialist (Sample for Beta V 1.3)／地球科學 專業級」與日期為表頭；各頁右上頁碼與「Earth Sciences SP n」頁尾不列入詞條。"
+  },
+  {
+   "page": 0,
+   "note": "此 PDF 每頁為左右兩欄，英文與中文緊接在同一行、沒有固定欄位，長的中文解釋會換到下一行（如 turbulence、polarity、observatory、debris flow 等十餘處），擷取時已合併。"
+  },
+  {
+   "page": 3,
+   "note": "undulation 的中文以「(土地等的)」開頭，括號被排到英文那一側，已修正。"
+  },
+  {
+   "page": 4,
+   "note": "occlude 的中文跨行，第二行以「(牙齒)咬合」開頭，已合併。"
+  },
+  {
+   "page": 5,
+   "note": "Ceres 的中文「1 號小行星」中的數字緊接英文，已修正為 Ceres／1 號小行星；穀神星。"
+  },
+  {
+   "page": 7,
+   "note": "warm-core（暖心）與 angular frequency（角頻；角頻率）在原 PDF 擠在同一列，已拆成兩個詞條；alpha decay 的「α」緊接英文，已歸回中文。"
+  },
+  {
+   "page": 7,
+   "note": "第 7 頁最後 13 個詞（angular frequency、angular displacement、angular acceleration、Andromeda galaxy、alpha decay、adiabatic process、adhesive force、action at a distance、acoustics、accelerated motion、absorption spectrum、absolute zero、weak force）與 PVQC 物理專業級詞彙表的結尾完全相同，疑似由物理詞彙表誤植；App 仍保留並標示來源頁碼。"
+  },
+  {
+   "page": 0,
+   "note": "同義或重複詞條：wavelength／wave length、pole star／Polaris、parsec／parallax arcsecond、galaxy cluster／cluster of galaxies、low pressure／low air pressure、landslide／landslip、fracture belt／fractured zone 等，App 以同義詞組標示，出題時不互為干擾選項。"
+  },
+  {
+   "page": 0,
+   "note": "全份 PDF 為英中對照詞彙表（PVQC 地球科學專業級 Beta），沒有定義、例句、音標或圖片；App 中這些欄位皆為 AI 補充並標示來源。"
+  }
+ ]
+}

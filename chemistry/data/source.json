@@ -1,0 +1,5453 @@
+{
+ "schema": 1,
+ "material": {
+  "title": "科學專業英文(化學)",
+  "file": "科學專業英文(化學).pdf",
+  "pages": 24,
+  "type": "vocabulary",
+  "detectedMode": "vocabulary",
+  "detectReason": "每頁皆為英文詞條＋繁體中文對照的兩欄表格，判定為詞彙型教材，採單字學習模式。",
+  "termCount": 541,
+  "rowCount": 545
+ },
+ "terms": [
+  {
+   "id": "t-acetaminophen",
+   "en": "acetaminophen",
+   "zh": "乙醯胺酚藥名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 1
+   }
+  },
+  {
+   "id": "t-acetyl",
+   "en": "acetyl",
+   "zh": "乙酰(基)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 2
+   }
+  },
+  {
+   "id": "t-acid-rain",
+   "en": "acid rain",
+   "zh": "酸雨",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 3
+   }
+  },
+  {
+   "id": "t-acid-soil",
+   "en": "acid soil",
+   "zh": "酸性土[壤]",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 4
+   }
+  },
+  {
+   "id": "t-acidity",
+   "en": "acidity",
+   "zh": "酸度",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 5
+   }
+  },
+  {
+   "id": "t-activation",
+   "en": "activation",
+   "zh": "活化；(化學反應的)活性化；激活；啟動； 觸發",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 6
+   }
+  },
+  {
+   "id": "t-activity",
+   "en": "activity",
+   "zh": "活度",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 7
+   }
+  },
+  {
+   "id": "t-actual",
+   "en": "actual",
+   "zh": "實際",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 8
+   }
+  },
+  {
+   "id": "t-addition",
+   "en": "addition",
+   "zh": "加；附加(+to)；加法；加成",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 9
+   }
+  },
+  {
+   "id": "t-adhesive",
+   "en": "adhesive",
+   "zh": "黏合劑；黏著劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 10
+   }
+  },
+  {
+   "id": "t-alcohol",
+   "en": "alcohol",
+   "zh": "醇類；酒精；醇；含酒精飲料；酒",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 11
+   }
+  },
+  {
+   "id": "t-allotrope",
+   "en": "allotrope",
+   "zh": "同素異形體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 12
+   }
+  },
+  {
+   "id": "t-antibiotic",
+   "en": "antibiotic",
+   "zh": "抗生素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 13
+   }
+  },
+  {
+   "id": "t-antioxidant",
+   "en": "antioxidant",
+   "zh": "抗氧化劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 14
+   }
+  },
+  {
+   "id": "t-aspirin",
+   "en": "aspirin",
+   "zh": "阿司匹靈",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 15
+   }
+  },
+  {
+   "id": "t-atmosphere",
+   "en": "atmosphere",
+   "zh": "大氣；大氣壓(壓力單位)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 16
+   }
+  },
+  {
+   "id": "t-atom",
+   "en": "atom",
+   "zh": "原子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 17
+   }
+  },
+  {
+   "id": "t-atomic",
+   "en": "atomic",
+   "zh": "原子的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 18
+   }
+  },
+  {
+   "id": "t-balance",
+   "en": "balance",
+   "zh": "天平；秤；平衡；均衡",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 1,
+    "order": 19
+   }
+  },
+  {
+   "id": "t-base",
+   "en": "base",
+   "zh": "鹼；鹽基；基部；基礎；基料",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 20
+   }
+  },
+  {
+   "id": "t-battery",
+   "en": "battery",
+   "zh": "電池；組電池組",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 21
+   }
+  },
+  {
+   "id": "t-calorie",
+   "en": "calorie",
+   "zh": "卡：卡路里",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 22
+   }
+  },
+  {
+   "id": "t-carbon",
+   "en": "carbon",
+   "zh": "碳",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 23
+   }
+  },
+  {
+   "id": "t-cathode",
+   "en": "cathode",
+   "zh": "陰極",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 24
+   }
+  },
+  {
+   "id": "t-cation",
+   "en": "cation",
+   "zh": "陽離子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 25
+   }
+  },
+  {
+   "id": "t-ccfl",
+   "en": "CCFL",
+   "zh": "冷陰極螢光燈(簡稱)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 26
+   }
+  },
+  {
+   "id": "t-cell",
+   "en": "cell",
+   "zh": "細胞；槽；電池",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 27
+   }
+  },
+  {
+   "id": "t-cellulose",
+   "en": "cellulose",
+   "zh": "纖維素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 28
+   }
+  },
+  {
+   "id": "t-ceramic",
+   "en": "ceramic",
+   "zh": "陶瓷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 29
+   }
+  },
+  {
+   "id": "t-chemical-bond",
+   "en": "chemical bond",
+   "zh": "化學鍵",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 30
+   }
+  },
+  {
+   "id": "t-chlorophyll",
+   "en": "chlorophyll",
+   "zh": "葉綠素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 31
+   }
+  },
+  {
+   "id": "t-cholesteric",
+   "en": "cholesteric",
+   "zh": "膽固醇狀",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 32
+   }
+  },
+  {
+   "id": "t-chromatography",
+   "en": "chromatography",
+   "zh": "層析術；色層分析法",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 33
+   }
+  },
+  {
+   "id": "t-coal",
+   "en": "coal",
+   "zh": "煤",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 34
+   }
+  },
+  {
+   "id": "t-coating",
+   "en": "coating",
+   "zh": "塗料；塗布",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 35
+   }
+  },
+  {
+   "id": "t-cobalt",
+   "en": "cobalt",
+   "zh": "鈷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 36
+   }
+  },
+  {
+   "id": "t-cocaine",
+   "en": "cocaine",
+   "zh": "古柯鹼",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 37
+   }
+  },
+  {
+   "id": "t-collagen",
+   "en": "collagen",
+   "zh": "膠原蛋白",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 38
+   }
+  },
+  {
+   "id": "t-collision",
+   "en": "collision",
+   "zh": "碰撞",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 39
+   }
+  },
+  {
+   "id": "t-colloid",
+   "en": "colloid",
+   "zh": "膠體；膠狀體；膠狀的；膠質的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 40
+   }
+  },
+  {
+   "id": "t-combustion",
+   "en": "combustion",
+   "zh": "燃燒；氧化",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 41
+   }
+  },
+  {
+   "id": "t-complex",
+   "en": "complex",
+   "zh": "錯合物；複合物；綜合體；複雜的；錯綜複雜的；複合的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 2,
+    "order": 42
+   }
+  },
+  {
+   "id": "t-compound",
+   "en": "compound",
+   "zh": "化合物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 43
+   }
+  },
+  {
+   "id": "t-concentration",
+   "en": "concentration",
+   "zh": "濃度；濃縮",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 44
+   }
+  },
+  {
+   "id": "t-condensation",
+   "en": "condensation",
+   "zh": "縮合；冷凝；縮合作用；冷凝作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 45
+   }
+  },
+  {
+   "id": "t-conjugate",
+   "en": "conjugate",
+   "zh": "共軛的；結合的；同字根的；同源字 ；使結合；使成對",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 46
+   }
+  },
+  {
+   "id": "t-copolymer",
+   "en": "copolymer",
+   "zh": "共聚物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 47
+   }
+  },
+  {
+   "id": "t-cosmetic",
+   "en": "cosmetic",
+   "zh": "化妝品",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 48
+   }
+  },
+  {
+   "id": "t-covalent",
+   "en": "covalent",
+   "zh": "共有原子價的；共價的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 49
+   }
+  },
+  {
+   "id": "t-crown",
+   "en": "crown",
+   "zh": "冠",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 50
+   }
+  },
+  {
+   "id": "t-crude",
+   "en": "crude",
+   "zh": "天然的；生的；未經加工的；粗野的；沒教養的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 51
+   }
+  },
+  {
+   "id": "t-crystal",
+   "en": "crystal",
+   "zh": "晶體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 52
+   }
+  },
+  {
+   "id": "t-dehydration",
+   "en": "dehydration",
+   "zh": "脫水；脫水[作用]",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 53
+   }
+  },
+  {
+   "id": "t-deposition",
+   "en": "deposition",
+   "zh": "沈積；凝華(昇華的逆過程)}",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 54
+   }
+  },
+  {
+   "id": "t-detergent",
+   "en": "detergent",
+   "zh": "清潔劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 55
+   }
+  },
+  {
+   "id": "t-diamond",
+   "en": "diamond",
+   "zh": "鑽石；金剛石",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 56
+   }
+  },
+  {
+   "id": "t-diffusion",
+   "en": "diffusion",
+   "zh": "擴散；擴散作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 57
+   }
+  },
+  {
+   "id": "t-digestion",
+   "en": "digestion",
+   "zh": "消化；浸提；蒸煮",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 58
+   }
+  },
+  {
+   "id": "t-dimethyl",
+   "en": "dimethyl",
+   "zh": "乙烷; 二甲基的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 59
+   }
+  },
+  {
+   "id": "t-dimethyl-mercury",
+   "en": "dimethyl mercury",
+   "zh": "二甲汞",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 60
+   }
+  },
+  {
+   "id": "t-dioxins",
+   "en": "dioxins",
+   "zh": "戴奧辛；二氧（雜）芑；二噁英",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 61
+   }
+  },
+  {
+   "id": "t-disinfection",
+   "en": "disinfection",
+   "zh": "消毒",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 62
+   }
+  },
+  {
+   "id": "t-dissolution",
+   "en": "dissolution",
+   "zh": "溶解",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 63
+   }
+  },
+  {
+   "id": "t-distillation",
+   "en": "distillation",
+   "zh": "蒸餾",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 64
+   }
+  },
+  {
+   "id": "t-dopamine",
+   "en": "dopamine",
+   "zh": "多巴胺",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 3,
+    "order": 65
+   }
+  },
+  {
+   "id": "t-doping",
+   "en": "doping",
+   "zh": "摻雜",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 66
+   }
+  },
+  {
+   "id": "t-dose",
+   "en": "dose",
+   "zh": "劑量",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 67
+   }
+  },
+  {
+   "id": "t-dropper",
+   "en": "dropper",
+   "zh": "滴管",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 68
+   }
+  },
+  {
+   "id": "t-drug",
+   "en": "drug",
+   "zh": "藥物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 69
+   }
+  },
+  {
+   "id": "t-einstein",
+   "en": "Einstein",
+   "zh": "愛因斯坦(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 70
+   }
+  },
+  {
+   "id": "t-electric",
+   "en": "electric",
+   "zh": "電",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 71
+   }
+  },
+  {
+   "id": "t-element",
+   "en": "element",
+   "zh": "元素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 72
+   }
+  },
+  {
+   "id": "t-endothermic",
+   "en": "endothermic",
+   "zh": "吸熱的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 73
+   }
+  },
+  {
+   "id": "t-enthalpy",
+   "en": "enthalpy",
+   "zh": "焓；熱含量；熱函",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 74
+   }
+  },
+  {
+   "id": "t-enzyme",
+   "en": "enzyme",
+   "zh": "酶；酵；酵素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 75
+   }
+  },
+  {
+   "id": "t-ether",
+   "en": "ether",
+   "zh": "乙醚；醚；以太",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 76
+   }
+  },
+  {
+   "id": "t-evaporation",
+   "en": "evaporation",
+   "zh": "蒸發",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 77
+   }
+  },
+  {
+   "id": "t-extraction",
+   "en": "extraction",
+   "zh": "萃取",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 78
+   }
+  },
+  {
+   "id": "t-family",
+   "en": "family",
+   "zh": "族",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 79
+   }
+  },
+  {
+   "id": "t-fat",
+   "en": "fat",
+   "zh": "脂肪",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 80
+   }
+  },
+  {
+   "id": "t-fiber",
+   "en": "fiber",
+   "zh": "纖維",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 81
+   }
+  },
+  {
+   "id": "t-fission",
+   "en": "fission",
+   "zh": "分裂",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 82
+   }
+  },
+  {
+   "id": "t-fluid",
+   "en": "fluid",
+   "zh": "流體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 83
+   }
+  },
+  {
+   "id": "t-foam",
+   "en": "foam",
+   "zh": "泡沫",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 84
+   }
+  },
+  {
+   "id": "t-formalin",
+   "en": "formalin",
+   "zh": "福馬林",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 85
+   }
+  },
+  {
+   "id": "t-formic",
+   "en": "formic",
+   "zh": "螞蟻的；蟻酸的甲酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 86
+   }
+  },
+  {
+   "id": "t-freezing",
+   "en": "freezing",
+   "zh": "凝固",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 87
+   }
+  },
+  {
+   "id": "t-fructose",
+   "en": "fructose",
+   "zh": "果糖",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 4,
+    "order": 88
+   }
+  },
+  {
+   "id": "t-fusion",
+   "en": "fusion",
+   "zh": "融合；核融合；熔化",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 89
+   }
+  },
+  {
+   "id": "t-gas",
+   "en": "gas",
+   "zh": "氣體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 90
+   }
+  },
+  {
+   "id": "t-gel",
+   "en": "gel",
+   "zh": "凝膠",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 91
+   }
+  },
+  {
+   "id": "t-glucose",
+   "en": "glucose",
+   "zh": "葡萄糖",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 92
+   }
+  },
+  {
+   "id": "t-glue",
+   "en": "glue",
+   "zh": "膠",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 93
+   }
+  },
+  {
+   "id": "t-gluelike",
+   "en": "gluelike",
+   "zh": "似膠",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 94
+   }
+  },
+  {
+   "id": "t-glycogen",
+   "en": "glycogen",
+   "zh": "肝醣",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 95
+   }
+  },
+  {
+   "id": "t-graphite",
+   "en": "graphite",
+   "zh": "石墨",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 96
+   }
+  },
+  {
+   "id": "t-halogen",
+   "en": "halogen",
+   "zh": "鹵素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 97
+   }
+  },
+  {
+   "id": "t-halogenation",
+   "en": "halogenation",
+   "zh": "鹵化",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 98
+   }
+  },
+  {
+   "id": "t-helium",
+   "en": "helium",
+   "zh": "氦",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 99
+   }
+  },
+  {
+   "id": "t-helix",
+   "en": "helix",
+   "zh": "螺旋形",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 100
+   }
+  },
+  {
+   "id": "t-heme",
+   "en": "heme",
+   "zh": "血基質；原血紅素；亞鐵血紅素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 101
+   }
+  },
+  {
+   "id": "t-heroin",
+   "en": "heroin",
+   "zh": "海洛因",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 102
+   }
+  },
+  {
+   "id": "t-heterogeneous",
+   "en": "heterogeneous",
+   "zh": "不勻相的；不均勻的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 103
+   }
+  },
+  {
+   "id": "t-hexagonal",
+   "en": "hexagonal",
+   "zh": "六方的；六角形的；六邊形的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 104
+   }
+  },
+  {
+   "id": "t-homogeneous",
+   "en": "homogeneous",
+   "zh": "勻相的；同質性的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 105
+   }
+  },
+  {
+   "id": "t-hormone",
+   "en": "hormone",
+   "zh": "荷爾蒙",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 106
+   }
+  },
+  {
+   "id": "t-hybrid",
+   "en": "hybrid",
+   "zh": "混合物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 107
+   }
+  },
+  {
+   "id": "t-hydrogen",
+   "en": "hydrogen",
+   "zh": "氫",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 108
+   }
+  },
+  {
+   "id": "t-insulin",
+   "en": "insulin",
+   "zh": "胰島素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 109
+   }
+  },
+  {
+   "id": "t-inversion",
+   "en": "inversion",
+   "zh": "轉化",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 110
+   }
+  },
+  {
+   "id": "t-iodine",
+   "en": "iodine",
+   "zh": "碘",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 5,
+    "order": 111
+   }
+  },
+  {
+   "id": "t-ionosphere",
+   "en": "ionosphere",
+   "zh": "游離層",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 112
+   }
+  },
+  {
+   "id": "t-isobar",
+   "en": "isobar",
+   "zh": "同重素；等壓線",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 113
+   }
+  },
+  {
+   "id": "t-isomer",
+   "en": "isomer",
+   "zh": "異構物；同分異構物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 114
+   }
+  },
+  {
+   "id": "t-isotope",
+   "en": "isotope",
+   "zh": "同位素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 115
+   }
+  },
+  {
+   "id": "t-joule",
+   "en": "joule",
+   "zh": "焦耳 (單位)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 116
+   }
+  },
+  {
+   "id": "t-kilojoule",
+   "en": "kilojoule",
+   "zh": "千焦；kJ",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 117
+   }
+  },
+  {
+   "id": "t-krypton",
+   "en": "krypton",
+   "zh": "氪",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 118
+   }
+  },
+  {
+   "id": "t-lactose",
+   "en": "lactose",
+   "zh": "乳糖",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 119
+   }
+  },
+  {
+   "id": "t-lattice",
+   "en": "lattice",
+   "zh": "晶格",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 120
+   }
+  },
+  {
+   "id": "t-liquid",
+   "en": "liquid",
+   "zh": "液體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 121
+   }
+  },
+  {
+   "id": "t-malleability",
+   "en": "malleability",
+   "zh": "展性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 122
+   }
+  },
+  {
+   "id": "t-margarine",
+   "en": "margarine",
+   "zh": "人造奶油",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 123
+   }
+  },
+  {
+   "id": "t-marijuana",
+   "en": "marijuana",
+   "zh": "大麻",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 124
+   }
+  },
+  {
+   "id": "t-mask",
+   "en": "mask",
+   "zh": "罩；光罩",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 125
+   }
+  },
+  {
+   "id": "t-mass",
+   "en": "mass",
+   "zh": "質量",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 126
+   }
+  },
+  {
+   "id": "t-material",
+   "en": "material",
+   "zh": "材料；原料織物；物質的；有形的；肉體的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 127
+   }
+  },
+  {
+   "id": "t-matter",
+   "en": "matter",
+   "zh": "物質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 128
+   }
+  },
+  {
+   "id": "t-mesosphere",
+   "en": "mesosphere",
+   "zh": "中氣層",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 129
+   }
+  },
+  {
+   "id": "t-meta",
+   "en": "meta",
+   "zh": "間；在…其中",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 130
+   }
+  },
+  {
+   "id": "t-metal",
+   "en": "metal",
+   "zh": "金屬",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 131
+   }
+  },
+  {
+   "id": "t-metalloid",
+   "en": "metalloid",
+   "zh": "類金屬",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 132
+   }
+  },
+  {
+   "id": "t-meter",
+   "en": "meter",
+   "zh": "pH 計",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 133
+   }
+  },
+  {
+   "id": "t-methanal",
+   "en": "methanal",
+   "zh": "甲醛",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 6,
+    "order": 134
+   }
+  },
+  {
+   "id": "t-methane",
+   "en": "methane",
+   "zh": "甲烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 135
+   }
+  },
+  {
+   "id": "t-methyl",
+   "en": "methyl",
+   "zh": "甲基；木精",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 136
+   }
+  },
+  {
+   "id": "t-mineral",
+   "en": "mineral",
+   "zh": "礦物；礦物質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 137
+   }
+  },
+  {
+   "id": "t-miscible",
+   "en": "miscible",
+   "zh": "互溶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 138
+   }
+  },
+  {
+   "id": "t-mixture",
+   "en": "mixture",
+   "zh": "混合物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 139
+   }
+  },
+  {
+   "id": "t-mol",
+   "en": "mol",
+   "zh": "莫耳；莫耳單位；克分子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 140
+   }
+  },
+  {
+   "id": "t-molality",
+   "en": "molality",
+   "zh": "重量莫耳濃度；質量莫耳濃度",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 141
+   }
+  },
+  {
+   "id": "t-molarity",
+   "en": "molarity",
+   "zh": "體積莫耳濃度；每升液體的濃度",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 142
+   }
+  },
+  {
+   "id": "t-mole",
+   "en": "mole",
+   "zh": "摩爾；克分子（量）；痣；錢鼠(鼴鼠)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 143
+   }
+  },
+  {
+   "id": "t-molecular",
+   "en": "molecular",
+   "zh": "分子的；由分子組成的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 144
+   }
+  },
+  {
+   "id": "t-monoclinic",
+   "en": "monoclinic",
+   "zh": "單斜的；結晶單斜的；單斜晶體的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 145
+   }
+  },
+  {
+   "id": "t-monomer",
+   "en": "monomer",
+   "zh": "單體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 146
+   }
+  },
+  {
+   "id": "t-monomeric",
+   "en": "monomeric",
+   "zh": "單體的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 147
+   }
+  },
+  {
+   "id": "t-morphine",
+   "en": "morphine",
+   "zh": "嗎啡",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 148
+   }
+  },
+  {
+   "id": "t-nano",
+   "en": "nano",
+   "zh": "毫微；十億分之一",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 149
+   }
+  },
+  {
+   "id": "t-nanomaterials",
+   "en": "nanomaterials",
+   "zh": "奈米材料",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 150
+   }
+  },
+  {
+   "id": "t-nanometer",
+   "en": "nanometer",
+   "zh": "奈米",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 151
+   }
+  },
+  {
+   "id": "t-nanoparticle",
+   "en": "nanoparticle",
+   "zh": "奈米粒子；奈米微粒",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 152
+   }
+  },
+  {
+   "id": "t-nanotube",
+   "en": "nanotube",
+   "zh": "奈米管",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 153
+   }
+  },
+  {
+   "id": "t-neon",
+   "en": "neon",
+   "zh": "氖",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 154
+   }
+  },
+  {
+   "id": "t-neutron",
+   "en": "neutron",
+   "zh": "中子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 155
+   }
+  },
+  {
+   "id": "t-newton",
+   "en": "Newton",
+   "zh": "牛頓(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 156
+   }
+  },
+  {
+   "id": "t-nitrogen",
+   "en": "nitrogen",
+   "zh": "氮",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 7,
+    "order": 157
+   }
+  },
+  {
+   "id": "t-noble-gas",
+   "en": "noble gas",
+   "zh": "鈍氣",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 158
+   }
+  },
+  {
+   "id": "t-nonelectrolyte",
+   "en": "nonelectrolyte",
+   "zh": "非電解質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 159
+   }
+  },
+  {
+   "id": "t-nonmetal",
+   "en": "nonmetal",
+   "zh": "非金屬",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 160
+   }
+  },
+  {
+   "id": "t-nonspontaneous",
+   "en": "nonspontaneous",
+   "zh": "非自發性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 161
+   }
+  },
+  {
+   "id": "t-nucleus",
+   "en": "nucleus",
+   "zh": "原子核；細胞核",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 162
+   }
+  },
+  {
+   "id": "t-nylon",
+   "en": "nylon",
+   "zh": "耐綸；尼龍",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 163
+   }
+  },
+  {
+   "id": "t-oil",
+   "en": "oil",
+   "zh": "油",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 164
+   }
+  },
+  {
+   "id": "t-orbit",
+   "en": "orbit",
+   "zh": "軌道",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 165
+   }
+  },
+  {
+   "id": "t-orbital",
+   "en": "orbital",
+   "zh": "軌域",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 166
+   }
+  },
+  {
+   "id": "t-osmosis",
+   "en": "osmosis",
+   "zh": "滲透；滲透作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 167
+   }
+  },
+  {
+   "id": "t-oxidant",
+   "en": "oxidant",
+   "zh": "氧化劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 168
+   }
+  },
+  {
+   "id": "t-oxyacid",
+   "en": "oxyacid",
+   "zh": "含氧酸；含氧之酸類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 169
+   }
+  },
+  {
+   "id": "t-oxygen",
+   "en": "oxygen",
+   "zh": "氧；氧氣",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 170
+   }
+  },
+  {
+   "id": "t-ozone",
+   "en": "ozone",
+   "zh": "臭氧",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 171
+   }
+  },
+  {
+   "id": "t-packing",
+   "en": "packing",
+   "zh": "填料；填充料；墊料；緊束",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 172
+   }
+  },
+  {
+   "id": "t-paint",
+   "en": "paint",
+   "zh": "油漆；塗料",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 173
+   }
+  },
+  {
+   "id": "t-particle",
+   "en": "particle",
+   "zh": "微粒；顆粒；粒子；質點；極小量(物)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 174
+   }
+  },
+  {
+   "id": "t-pentanol",
+   "en": "pentanol",
+   "zh": "戊醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 175
+   }
+  },
+  {
+   "id": "t-period",
+   "en": "period",
+   "zh": "週期",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 176
+   }
+  },
+  {
+   "id": "t-petroleum",
+   "en": "petroleum",
+   "zh": "石油",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 177
+   }
+  },
+  {
+   "id": "t-phase",
+   "en": "phase",
+   "zh": "相",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 178
+   }
+  },
+  {
+   "id": "t-phosphorus",
+   "en": "phosphorus",
+   "zh": "磷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 179
+   }
+  },
+  {
+   "id": "t-photocatalyst",
+   "en": "photocatalyst",
+   "zh": "光觸媒",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 8,
+    "order": 180
+   }
+  },
+  {
+   "id": "t-photoresist",
+   "en": "photoresist",
+   "zh": "光阻劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 181
+   }
+  },
+  {
+   "id": "t-photosynthesis",
+   "en": "photosynthesis",
+   "zh": "光合作用；光合成",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 182
+   }
+  },
+  {
+   "id": "t-pigment",
+   "en": "pigment",
+   "zh": "顏料",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 183
+   }
+  },
+  {
+   "id": "t-pixel",
+   "en": "pixel",
+   "zh": "畫素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 184
+   }
+  },
+  {
+   "id": "t-plasma",
+   "en": "plasma",
+   "zh": "電漿",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 185
+   }
+  },
+  {
+   "id": "t-plastic",
+   "en": "plastic",
+   "zh": "塑膠；塑膠製品 ；可塑的；塑性的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 186
+   }
+  },
+  {
+   "id": "t-polyester",
+   "en": "polyester",
+   "zh": "聚酯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 187
+   }
+  },
+  {
+   "id": "t-polymer",
+   "en": "polymer",
+   "zh": "聚合物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 188,
+    "also": [
+     {
+      "page": 22,
+      "order": 489,
+      "zh": "聚合物"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-polymerization",
+   "en": "polymerization",
+   "zh": "聚合；聚合作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 189,
+    "also": [
+     {
+      "page": 22,
+      "order": 490,
+      "zh": "聚合；聚合作用"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-potential",
+   "en": "potential",
+   "zh": "勢；位",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 190
+   }
+  },
+  {
+   "id": "t-precipitation",
+   "en": "precipitation",
+   "zh": "沈澱：沈澱作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 191
+   }
+  },
+  {
+   "id": "t-preservative",
+   "en": "preservative",
+   "zh": "防腐劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 192
+   }
+  },
+  {
+   "id": "t-probability",
+   "en": "probability",
+   "zh": "機率",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 193
+   }
+  },
+  {
+   "id": "t-product",
+   "en": "product",
+   "zh": "產物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 194
+   }
+  },
+  {
+   "id": "t-propanol",
+   "en": "propanol",
+   "zh": "丙醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 195
+   }
+  },
+  {
+   "id": "t-protein",
+   "en": "protein",
+   "zh": "蛋白質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 196
+   }
+  },
+  {
+   "id": "t-proton",
+   "en": "proton",
+   "zh": "質子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 197
+   }
+  },
+  {
+   "id": "t-pyrite",
+   "en": "pyrite",
+   "zh": "黃鐵礦",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 198
+   }
+  },
+  {
+   "id": "t-quartz",
+   "en": "quartz",
+   "zh": "石英",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 199
+   }
+  },
+  {
+   "id": "t-radioactivity",
+   "en": "radioactivity",
+   "zh": "放射性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 200
+   }
+  },
+  {
+   "id": "t-radon",
+   "en": "radon",
+   "zh": "氡",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 201
+   }
+  },
+  {
+   "id": "t-rayon",
+   "en": "rayon",
+   "zh": "嫘縈；人造丝",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 202
+   }
+  },
+  {
+   "id": "t-reactant",
+   "en": "reactant",
+   "zh": "反應物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 9,
+    "order": 203
+   }
+  },
+  {
+   "id": "t-reaction",
+   "en": "reaction",
+   "zh": "反應；感應(+to)；反作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 204
+   }
+  },
+  {
+   "id": "t-recovery",
+   "en": "recovery",
+   "zh": "回收[再用]",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 205
+   }
+  },
+  {
+   "id": "t-recycle",
+   "en": "recycle",
+   "zh": "循環使用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 206
+   }
+  },
+  {
+   "id": "t-reduce",
+   "en": "reduce",
+   "zh": "減量使用；還原",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 207
+   }
+  },
+  {
+   "id": "t-reductant",
+   "en": "reductant",
+   "zh": "還原劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 208
+   }
+  },
+  {
+   "id": "t-regeneration",
+   "en": "regeneration",
+   "zh": "再生",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 209
+   }
+  },
+  {
+   "id": "t-saccharide",
+   "en": "saccharide",
+   "zh": "醣",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 210
+   }
+  },
+  {
+   "id": "t-salt",
+   "en": "salt",
+   "zh": "鹽",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 211
+   }
+  },
+  {
+   "id": "t-saponification",
+   "en": "saponification",
+   "zh": "皂化[作用]",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 212
+   }
+  },
+  {
+   "id": "t-scale",
+   "en": "scale",
+   "zh": "標；標度；規；鍋垢；鍋爐水垢",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 213
+   }
+  },
+  {
+   "id": "t-semiconductor",
+   "en": "semiconductor",
+   "zh": "半導體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 214
+   }
+  },
+  {
+   "id": "t-separation",
+   "en": "separation",
+   "zh": "分離",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 215
+   }
+  },
+  {
+   "id": "t-shell",
+   "en": "shell",
+   "zh": "殼；層；殼層",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 216
+   }
+  },
+  {
+   "id": "t-silver",
+   "en": "silver",
+   "zh": "銀",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 217
+   }
+  },
+  {
+   "id": "t-single",
+   "en": "single",
+   "zh": "單一的；單個的；單個；單身者",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 218
+   }
+  },
+  {
+   "id": "t-soap",
+   "en": "soap",
+   "zh": "肥皂",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 219
+   }
+  },
+  {
+   "id": "t-soda",
+   "en": "soda",
+   "zh": "鈉鹼；蘇打",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 220
+   }
+  },
+  {
+   "id": "t-sol",
+   "en": "sol",
+   "zh": "溶膠",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 221
+   }
+  },
+  {
+   "id": "t-solid",
+   "en": "solid",
+   "zh": "固體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 222
+   }
+  },
+  {
+   "id": "t-solubility",
+   "en": "solubility",
+   "zh": "溶度；溶解度",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 223
+   }
+  },
+  {
+   "id": "t-solute",
+   "en": "solute",
+   "zh": "溶質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 224
+   }
+  },
+  {
+   "id": "t-solution",
+   "en": "solution",
+   "zh": "溶液",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 225
+   }
+  },
+  {
+   "id": "t-specificity",
+   "en": "specificity",
+   "zh": "專一性 {生化}",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 10,
+    "order": 226
+   }
+  },
+  {
+   "id": "t-spectrometer",
+   "en": "spectrometer",
+   "zh": "質譜儀；分光計；光譜儀",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 227
+   }
+  },
+  {
+   "id": "t-spectrum",
+   "en": "spectrum",
+   "zh": "光譜",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 228
+   }
+  },
+  {
+   "id": "t-starch",
+   "en": "starch",
+   "zh": "澱粉",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 229
+   }
+  },
+  {
+   "id": "t-stratosphere",
+   "en": "stratosphere",
+   "zh": "平流層",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 230
+   }
+  },
+  {
+   "id": "t-substitution",
+   "en": "substitution",
+   "zh": "取代；取代作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 231
+   }
+  },
+  {
+   "id": "t-substrate",
+   "en": "substrate",
+   "zh": "受質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 232
+   }
+  },
+  {
+   "id": "t-sucrose",
+   "en": "sucrose",
+   "zh": "蔗糖",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 233
+   }
+  },
+  {
+   "id": "t-superacid",
+   "en": "superacid",
+   "zh": "超強酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 234
+   }
+  },
+  {
+   "id": "t-superconductor",
+   "en": "superconductor",
+   "zh": "超導體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 235
+   }
+  },
+  {
+   "id": "t-synthesis",
+   "en": "synthesis",
+   "zh": "合成",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 236
+   }
+  },
+  {
+   "id": "t-teflon",
+   "en": "Teflon",
+   "zh": "特夫綸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 237
+   }
+  },
+  {
+   "id": "t-temperature",
+   "en": "temperature",
+   "zh": "溫度",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 238
+   }
+  },
+  {
+   "id": "t-tempering",
+   "en": "tempering",
+   "zh": "回火；回浸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 239
+   }
+  },
+  {
+   "id": "t-theaflavin",
+   "en": "theaflavin",
+   "zh": "茶黃素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 240
+   }
+  },
+  {
+   "id": "t-thearubigin",
+   "en": "thearubigin",
+   "zh": "茶紅素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 241
+   }
+  },
+  {
+   "id": "t-thermochemistry",
+   "en": "thermochemistry",
+   "zh": "熱化學",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 242
+   }
+  },
+  {
+   "id": "t-thermometer",
+   "en": "thermometer",
+   "zh": "溫度計",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 243
+   }
+  },
+  {
+   "id": "t-thermosphere",
+   "en": "thermosphere",
+   "zh": "增溫層",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 244
+   }
+  },
+  {
+   "id": "t-transition",
+   "en": "transition",
+   "zh": "過渡；躍遷；轉移",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 245
+   }
+  },
+  {
+   "id": "t-troposphere",
+   "en": "troposphere",
+   "zh": "對流層",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 246
+   }
+  },
+  {
+   "id": "t-ultraviolet",
+   "en": "ultraviolet",
+   "zh": "紫外光",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 247
+   }
+  },
+  {
+   "id": "t-urea",
+   "en": "urea",
+   "zh": "尿素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 248
+   }
+  },
+  {
+   "id": "t-voltage",
+   "en": "voltage",
+   "zh": "電壓",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 11,
+    "order": 249
+   }
+  },
+  {
+   "id": "t-wafer",
+   "en": "wafer",
+   "zh": "晶片；晶圓",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 250
+   }
+  },
+  {
+   "id": "t-xenon",
+   "en": "xenon",
+   "zh": "氙",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 251
+   }
+  },
+  {
+   "id": "t-yield",
+   "en": "yield",
+   "zh": "產率",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 252,
+    "also": [
+     {
+      "page": 24,
+      "order": 540,
+      "zh": "生產量；投資收益生產；給予；同意"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-absolute",
+   "en": "absolute",
+   "zh": "絕對的；完全的；純粹的；絕對事物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 253
+   }
+  },
+  {
+   "id": "t-acetamide",
+   "en": "acetamide",
+   "zh": "乙醯胺",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 254
+   }
+  },
+  {
+   "id": "t-acetanilide",
+   "en": "acetanilide",
+   "zh": "乙醯胺苯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 255
+   }
+  },
+  {
+   "id": "t-acetone",
+   "en": "acetone",
+   "zh": "丙酮",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 256
+   }
+  },
+  {
+   "id": "t-acid",
+   "en": "acid",
+   "zh": "酸的；有酸味的；酸性的；酸；有酸味的東西",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 257
+   }
+  },
+  {
+   "id": "t-acid-salt",
+   "en": "acid salt",
+   "zh": "酸式鹽",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 258
+   }
+  },
+  {
+   "id": "t-actinides",
+   "en": "actinides",
+   "zh": "錒系[元素]",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 259
+   }
+  },
+  {
+   "id": "t-actomyosin",
+   "en": "actomyosin",
+   "zh": "肌動凝蛋白",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 260
+   }
+  },
+  {
+   "id": "t-acyclic",
+   "en": "acyclic",
+   "zh": "非環式的；非週期的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 261
+   }
+  },
+  {
+   "id": "t-acyl",
+   "en": "acyl",
+   "zh": "醯（基）",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 262
+   }
+  },
+  {
+   "id": "t-adenine",
+   "en": "adenine",
+   "zh": "腺嘌呤(存在於膵臟等動物組織中的鹽基)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 263
+   }
+  },
+  {
+   "id": "t-adenosine",
+   "en": "adenosine",
+   "zh": "(得自於酵母核酸的)腺甘酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 264
+   }
+  },
+  {
+   "id": "t-aeration",
+   "en": "aeration",
+   "zh": "曝氣",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 265
+   }
+  },
+  {
+   "id": "t-affinity",
+   "en": "affinity",
+   "zh": "喜好；本性；傾向(+for/to)；姻親關係；密切關係(+with/between)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 266
+   }
+  },
+  {
+   "id": "t-alanine",
+   "en": "alanine",
+   "zh": "丙胺酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 267
+   }
+  },
+  {
+   "id": "t-alchemy",
+   "en": "alchemy",
+   "zh": "煉金術；煉丹術",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 268
+   }
+  },
+  {
+   "id": "t-aldehydes",
+   "en": "aldehydes",
+   "zh": "醛類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 269
+   }
+  },
+  {
+   "id": "t-algae",
+   "en": "algae",
+   "zh": "藻類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 270
+   }
+  },
+  {
+   "id": "t-algal",
+   "en": "algal",
+   "zh": "(像)海藻的；水藻的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 12,
+    "order": 271
+   }
+  },
+  {
+   "id": "t-alicyclic",
+   "en": "alicyclic",
+   "zh": "脂環的：脂環(族)的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 272
+   }
+  },
+  {
+   "id": "t-aliphatic",
+   "en": "aliphatic",
+   "zh": "脂肪族的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 273
+   }
+  },
+  {
+   "id": "t-alkali",
+   "en": "alkali",
+   "zh": "鹼；強鹼；可溶性無機鹽",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 274
+   }
+  },
+  {
+   "id": "t-alkaline",
+   "en": "alkaline",
+   "zh": "鹼的；含鹼的；鹼性的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 275
+   }
+  },
+  {
+   "id": "t-alkane",
+   "en": "alkane",
+   "zh": "烷烴",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 276
+   }
+  },
+  {
+   "id": "t-alkylation",
+   "en": "alkylation",
+   "zh": "烷基化",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 277
+   }
+  },
+  {
+   "id": "t-alkyne",
+   "en": "alkyne",
+   "zh": "炔烴；炔屬烴",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 278
+   }
+  },
+  {
+   "id": "t-alloy",
+   "en": "alloy",
+   "zh": "合金",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 279
+   }
+  },
+  {
+   "id": "t-alum",
+   "en": "alum",
+   "zh": "明礬",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 280
+   }
+  },
+  {
+   "id": "t-amalgam",
+   "en": "amalgam",
+   "zh": "汞齊",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 281
+   }
+  },
+  {
+   "id": "t-amide",
+   "en": "amide",
+   "zh": "醯胺類；氨基化合物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 282
+   }
+  },
+  {
+   "id": "t-amine",
+   "en": "amine",
+   "zh": "胺；胺類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 283
+   }
+  },
+  {
+   "id": "t-ammonia",
+   "en": "ammonia",
+   "zh": "氨",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 284
+   }
+  },
+  {
+   "id": "t-amorphous",
+   "en": "amorphous",
+   "zh": "非晶質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 285
+   }
+  },
+  {
+   "id": "t-amphoteric",
+   "en": "amphoteric",
+   "zh": "兩性的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 286
+   }
+  },
+  {
+   "id": "t-amylase",
+   "en": "amylase",
+   "zh": "澱粉酶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 287
+   }
+  },
+  {
+   "id": "t-amylopectin",
+   "en": "amylopectin",
+   "zh": "分枝澱粉",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 288
+   }
+  },
+  {
+   "id": "t-amylose",
+   "en": "amylose",
+   "zh": "直鏈澱粉",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 289
+   }
+  },
+  {
+   "id": "t-analgesic",
+   "en": "analgesic",
+   "zh": "止痛劑；鎮痛劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 290
+   }
+  },
+  {
+   "id": "t-aniline",
+   "en": "aniline",
+   "zh": "苯胺",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 291
+   }
+  },
+  {
+   "id": "t-anion",
+   "en": "anion",
+   "zh": "陰離子；負離子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 292
+   }
+  },
+  {
+   "id": "t-anode",
+   "en": "anode",
+   "zh": "陽極",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 293
+   }
+  },
+  {
+   "id": "t-antacid",
+   "en": "antacid",
+   "zh": "制酸劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 13,
+    "order": 294
+   }
+  },
+  {
+   "id": "t-anthracene",
+   "en": "anthracene",
+   "zh": "蒽",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 295
+   }
+  },
+  {
+   "id": "t-antiknocking",
+   "en": "antiknocking",
+   "zh": "抗震爆",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 296
+   }
+  },
+  {
+   "id": "t-antiphlogistic",
+   "en": "antiphlogistic",
+   "zh": "消炎劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 297
+   }
+  },
+  {
+   "id": "t-aqua",
+   "en": "aqua",
+   "zh": "水",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 298
+   }
+  },
+  {
+   "id": "t-aqueous",
+   "en": "aqueous",
+   "zh": "水的；水般的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 299
+   }
+  },
+  {
+   "id": "t-arene",
+   "en": "arene",
+   "zh": "芳烴；芳族烴",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 300
+   }
+  },
+  {
+   "id": "t-arenes",
+   "en": "arenes",
+   "zh": "芳烴類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 301
+   }
+  },
+  {
+   "id": "t-argentite",
+   "en": "argentite",
+   "zh": "輝銀礦",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 302
+   }
+  },
+  {
+   "id": "t-argon",
+   "en": "argon",
+   "zh": "氬",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 303
+   }
+  },
+  {
+   "id": "t-atomism",
+   "en": "atomism",
+   "zh": "原子學說；原子觀",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 304
+   }
+  },
+  {
+   "id": "t-avogadro",
+   "en": "Avogadro",
+   "zh": "亞佛加厥",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 305
+   }
+  },
+  {
+   "id": "t-bakelite",
+   "en": "bakelite",
+   "zh": "電木；膠木",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 306
+   }
+  },
+  {
+   "id": "t-bases",
+   "en": "bases",
+   "zh": "鹼類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 307
+   }
+  },
+  {
+   "id": "t-bauxite",
+   "en": "bauxite",
+   "zh": "鋁礬土",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 308
+   }
+  },
+  {
+   "id": "t-benzaldehyde",
+   "en": "benzaldehyde",
+   "zh": "苯甲醛",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 309
+   }
+  },
+  {
+   "id": "t-benzamide",
+   "en": "benzamide",
+   "zh": "苯甲醯胺",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 310
+   }
+  },
+  {
+   "id": "t-benzene",
+   "en": "benzene",
+   "zh": "苯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 311
+   }
+  },
+  {
+   "id": "t-bidentate",
+   "en": "bidentate",
+   "zh": "雙牙團",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 312
+   }
+  },
+  {
+   "id": "t-biofuel",
+   "en": "biofuel",
+   "zh": "生物燃料",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 313
+   }
+  },
+  {
+   "id": "t-bohr",
+   "en": "Bohr",
+   "zh": "波耳",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 314
+   }
+  },
+  {
+   "id": "t-boiling",
+   "en": "boiling",
+   "zh": "沸騰",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 315
+   }
+  },
+  {
+   "id": "t-bond",
+   "en": "bond",
+   "zh": "(原子的)結合；(人際間)結成特別關係",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 316
+   }
+  },
+  {
+   "id": "t-bonding",
+   "en": "bonding",
+   "zh": "鍵結；黏合； (原子的)結合；(人際間)結成特別關係",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 14,
+    "order": 317
+   }
+  },
+  {
+   "id": "t-boyle",
+   "en": "Boyle",
+   "zh": "波以耳",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 318
+   }
+  },
+  {
+   "id": "t-bromopropane",
+   "en": "bromopropane",
+   "zh": "溴丙烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 319
+   }
+  },
+  {
+   "id": "t-butanol",
+   "en": "butanol",
+   "zh": "丁醇；同分異構酒精",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 320
+   }
+  },
+  {
+   "id": "t-caffeine",
+   "en": "caffeine",
+   "zh": "咖啡鹼；咖啡因",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 321
+   }
+  },
+  {
+   "id": "t-calcium",
+   "en": "calcium",
+   "zh": "鈣",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 322
+   }
+  },
+  {
+   "id": "t-caprolactam",
+   "en": "caprolactam",
+   "zh": "己內醯胺",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 323
+   }
+  },
+  {
+   "id": "t-carbocation",
+   "en": "carbocation",
+   "zh": "碳陽離子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 324
+   }
+  },
+  {
+   "id": "t-carbohydrate",
+   "en": "carbohydrate",
+   "zh": "醣；碳水化合物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 325
+   }
+  },
+  {
+   "id": "t-carotene",
+   "en": "carotene",
+   "zh": "胡蘿蔔素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 326
+   }
+  },
+  {
+   "id": "t-carvone",
+   "en": "carvone",
+   "zh": "香旱芹酮",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 327
+   }
+  },
+  {
+   "id": "t-cassiterite",
+   "en": "cassiterite",
+   "zh": "錫石；錫石[礦]",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 328
+   }
+  },
+  {
+   "id": "t-catalyst",
+   "en": "catalyst",
+   "zh": "觸媒；催化劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 329
+   }
+  },
+  {
+   "id": "t-catechin",
+   "en": "catechin",
+   "zh": "兒茶素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 330
+   }
+  },
+  {
+   "id": "t-celluloid",
+   "en": "celluloid",
+   "zh": "賽璐珞",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 331
+   }
+  },
+  {
+   "id": "t-cerargyrite",
+   "en": "cerargyrite",
+   "zh": "角銀礦",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 332
+   }
+  },
+  {
+   "id": "t-chelate",
+   "en": "chelate",
+   "zh": "鉗合物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 333
+   }
+  },
+  {
+   "id": "t-chemical",
+   "en": "chemical",
+   "zh": "化學的；化學上的；化學製品；化學藥品",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 334
+   }
+  },
+  {
+   "id": "t-chemistry",
+   "en": "chemistry",
+   "zh": "化學",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 335
+   }
+  },
+  {
+   "id": "t-chemosphere",
+   "en": "chemosphere",
+   "zh": "光化層",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 336
+   }
+  },
+  {
+   "id": "t-chitin",
+   "en": "chitin",
+   "zh": "幾丁質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 337
+   }
+  },
+  {
+   "id": "t-chlordan",
+   "en": "chlordan",
+   "zh": "氯丹",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 338
+   }
+  },
+  {
+   "id": "t-chlordane",
+   "en": "chlordane",
+   "zh": "氯丹",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 339
+   }
+  },
+  {
+   "id": "t-chlorella",
+   "en": "chlorella",
+   "zh": "小球藻； 綠藻",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 15,
+    "order": 340
+   }
+  },
+  {
+   "id": "t-chlorellales",
+   "en": "chlorellales",
+   "zh": "小球藻",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 341
+   }
+  },
+  {
+   "id": "t-chlorobenzene",
+   "en": "chlorobenzene",
+   "zh": "氯苯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 342
+   }
+  },
+  {
+   "id": "t-chlorobutane",
+   "en": "chlorobutane",
+   "zh": "氯丁烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 343
+   }
+  },
+  {
+   "id": "t-chloroethene",
+   "en": "chloroethene",
+   "zh": "氯乙烯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 344
+   }
+  },
+  {
+   "id": "t-chloroform",
+   "en": "chloroform",
+   "zh": "氯仿",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 345
+   }
+  },
+  {
+   "id": "t-chloromethane",
+   "en": "chloromethane",
+   "zh": "氯甲烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 346
+   }
+  },
+  {
+   "id": "t-cis-fat",
+   "en": "cis fat",
+   "zh": "順式脂肪",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 347
+   }
+  },
+  {
+   "id": "t-clay",
+   "en": "clay",
+   "zh": "黏土",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 348
+   }
+  },
+  {
+   "id": "t-clostridium",
+   "en": "clostridium",
+   "zh": "梭狀芽孢桿菌；桿菌",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 349
+   }
+  },
+  {
+   "id": "t-coagulant",
+   "en": "coagulant",
+   "zh": "促凝劑；凝血劑；凝結劑凝；血的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 350
+   }
+  },
+  {
+   "id": "t-coagulation",
+   "en": "coagulation",
+   "zh": "凝聚；凝聚作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 351
+   }
+  },
+  {
+   "id": "t-coenzyme",
+   "en": "coenzyme",
+   "zh": "輔酶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 352
+   }
+  },
+  {
+   "id": "t-cofactor",
+   "en": "cofactor",
+   "zh": "輔因子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 353
+   }
+  },
+  {
+   "id": "t-coke",
+   "en": "coke",
+   "zh": "煤焦",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 354
+   }
+  },
+  {
+   "id": "t-conformation",
+   "en": "conformation",
+   "zh": "構造；形態；一致；符合",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 355
+   }
+  },
+  {
+   "id": "t-cracking",
+   "en": "cracking",
+   "zh": "裂煉；裂解",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 356
+   }
+  },
+  {
+   "id": "t-critical",
+   "en": "critical",
+   "zh": "臨界的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 357
+   }
+  },
+  {
+   "id": "t-cryolite",
+   "en": "cryolite",
+   "zh": "冰晶石",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 358
+   }
+  },
+  {
+   "id": "t-crystalloid",
+   "en": "crystalloid",
+   "zh": "類晶體；似晶體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 359
+   }
+  },
+  {
+   "id": "t-curium",
+   "en": "curium",
+   "zh": "鋦",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 360
+   }
+  },
+  {
+   "id": "t-cyclopropane",
+   "en": "cyclopropane",
+   "zh": "環丙烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 361
+   }
+  },
+  {
+   "id": "t-cysteine",
+   "en": "cysteine",
+   "zh": "半胱胺酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 362
+   }
+  },
+  {
+   "id": "t-cystine",
+   "en": "cystine",
+   "zh": "胱胺酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 16,
+    "order": 363
+   }
+  },
+  {
+   "id": "t-cytosine",
+   "en": "cytosine",
+   "zh": "胞嘧啶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 364
+   }
+  },
+  {
+   "id": "t-decalcifier",
+   "en": "decalcifier",
+   "zh": "脫鈣液",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 365
+   }
+  },
+  {
+   "id": "t-decantation",
+   "en": "decantation",
+   "zh": "傾析",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 366
+   }
+  },
+  {
+   "id": "t-decomposition",
+   "en": "decomposition",
+   "zh": "分解",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 367
+   }
+  },
+  {
+   "id": "t-delocalization",
+   "en": "delocalization",
+   "zh": "非定域化",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 368
+   }
+  },
+  {
+   "id": "t-delocalized",
+   "en": "delocalized",
+   "zh": "非定域",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 369
+   }
+  },
+  {
+   "id": "t-denaturation",
+   "en": "denaturation",
+   "zh": "變性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 370
+   }
+  },
+  {
+   "id": "t-deodorization",
+   "en": "deodorization",
+   "zh": "去臭",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 371
+   }
+  },
+  {
+   "id": "t-derivative",
+   "en": "derivative",
+   "zh": "衍生物；派生物；派生詞；引出的；派生的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 372
+   }
+  },
+  {
+   "id": "t-diamagnetism",
+   "en": "diamagnetism",
+   "zh": "反磁性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 373
+   }
+  },
+  {
+   "id": "t-dimerization",
+   "en": "dimerization",
+   "zh": "二聚合；二聚合作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 374
+   }
+  },
+  {
+   "id": "t-dioxane",
+   "en": "dioxane",
+   "zh": "二(口咢)烷；二惡烷；二氧六環；二氧雜環己烷；二氧陸圜",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 375
+   }
+  },
+  {
+   "id": "t-direct-method",
+   "en": "direct method",
+   "zh": "直接法",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 376
+   }
+  },
+  {
+   "id": "t-disaccharide",
+   "en": "disaccharide",
+   "zh": "雙醣",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 377
+   }
+  },
+  {
+   "id": "t-disproportionation",
+   "en": "disproportionation",
+   "zh": "自身氧化還原",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 378
+   }
+  },
+  {
+   "id": "t-disulfide",
+   "en": "disulfide",
+   "zh": "二硫化物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 379
+   }
+  },
+  {
+   "id": "t-ductility",
+   "en": "ductility",
+   "zh": "延性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 380
+   }
+  },
+  {
+   "id": "t-dyestuff",
+   "en": "dyestuff",
+   "zh": "染料",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 381
+   }
+  },
+  {
+   "id": "t-effusion",
+   "en": "effusion",
+   "zh": "逸散",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 382
+   }
+  },
+  {
+   "id": "t-electrode",
+   "en": "electrode",
+   "zh": "電極",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 383
+   }
+  },
+  {
+   "id": "t-electronegativity",
+   "en": "electronegativity",
+   "zh": "電負度",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 384
+   }
+  },
+  {
+   "id": "t-electrophoresis",
+   "en": "electrophoresis",
+   "zh": "電泳",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 385
+   }
+  },
+  {
+   "id": "t-emulsion",
+   "en": "emulsion",
+   "zh": "乳液",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 17,
+    "order": 386
+   }
+  },
+  {
+   "id": "t-end-point",
+   "en": "end point",
+   "zh": "終點",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 387
+   }
+  },
+  {
+   "id": "t-enol",
+   "en": "enol",
+   "zh": "烯醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 388
+   }
+  },
+  {
+   "id": "t-ester",
+   "en": "ester",
+   "zh": "酯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 389
+   }
+  },
+  {
+   "id": "t-esters",
+   "en": "esters",
+   "zh": "酯類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 390
+   }
+  },
+  {
+   "id": "t-ethanal",
+   "en": "ethanal",
+   "zh": "乙醛",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 391
+   }
+  },
+  {
+   "id": "t-ethane",
+   "en": "ethane",
+   "zh": "乙烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 392
+   }
+  },
+  {
+   "id": "t-ethylamine",
+   "en": "ethylamine",
+   "zh": "乙胺",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 393
+   }
+  },
+  {
+   "id": "t-ethylbenzene",
+   "en": "ethylbenzene",
+   "zh": "乙苯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 394
+   }
+  },
+  {
+   "id": "t-ethyne",
+   "en": "ethyne",
+   "zh": "乙炔",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 395
+   }
+  },
+  {
+   "id": "t-eukaryote",
+   "en": "eukaryote",
+   "zh": "真核生物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 396
+   }
+  },
+  {
+   "id": "t-eutectic",
+   "en": "eutectic",
+   "zh": "共熔體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 397
+   }
+  },
+  {
+   "id": "t-eutrophication",
+   "en": "eutrophication",
+   "zh": "優養化",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 398
+   }
+  },
+  {
+   "id": "t-exothermic",
+   "en": "exothermic",
+   "zh": "放熱",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 399
+   }
+  },
+  {
+   "id": "t-faraday",
+   "en": "Faraday",
+   "zh": "法拉第(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 400
+   }
+  },
+  {
+   "id": "t-femtochemistry",
+   "en": "femtochemistry",
+   "zh": "飛秒化學",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 401
+   }
+  },
+  {
+   "id": "t-femtosecond",
+   "en": "femtosecond",
+   "zh": "飛秒",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 402
+   }
+  },
+  {
+   "id": "t-filtration",
+   "en": "filtration",
+   "zh": "過濾",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 403
+   }
+  },
+  {
+   "id": "t-fischer",
+   "en": "Fischer",
+   "zh": "費雪(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 404
+   }
+  },
+  {
+   "id": "t-flavanol",
+   "en": "flavanol",
+   "zh": "黃烷醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 405
+   }
+  },
+  {
+   "id": "t-formaldehyde",
+   "en": "formaldehyde",
+   "zh": "甲醛",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 406
+   }
+  },
+  {
+   "id": "t-franklin",
+   "en": "Franklin",
+   "zh": "富蘭克林(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 407
+   }
+  },
+  {
+   "id": "t-freon",
+   "en": "freon",
+   "zh": "氟氯烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 408
+   }
+  },
+  {
+   "id": "t-fullerenes",
+   "en": "fullerenes",
+   "zh": "富勒烯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 18,
+    "order": 409
+   }
+  },
+  {
+   "id": "t-galactose",
+   "en": "galactose",
+   "zh": "半乳糖",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 410
+   }
+  },
+  {
+   "id": "t-galena",
+   "en": "galena",
+   "zh": "方鉛礦",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 411
+   }
+  },
+  {
+   "id": "t-galvani",
+   "en": "Galvani",
+   "zh": "賈法尼(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 412
+   }
+  },
+  {
+   "id": "t-galvanic",
+   "en": "galvanic",
+   "zh": "直流電的；觸電似的；令人震驚的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 413
+   }
+  },
+  {
+   "id": "t-glass",
+   "en": "glass",
+   "zh": "玻璃",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 414
+   }
+  },
+  {
+   "id": "t-glycerol",
+   "en": "glycerol",
+   "zh": "甘油；丙三醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 415
+   }
+  },
+  {
+   "id": "t-glycine",
+   "en": "glycine",
+   "zh": "甘胺酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 416
+   }
+  },
+  {
+   "id": "t-group",
+   "en": "group",
+   "zh": "族；基；團；群",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 417
+   }
+  },
+  {
+   "id": "t-guanine",
+   "en": "guanine",
+   "zh": "鳥嘌呤；鳥糞嘌呤；鳥糞鹹",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 418
+   }
+  },
+  {
+   "id": "t-halide",
+   "en": "halide",
+   "zh": "鹵化物；鹵化物的",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 419
+   }
+  },
+  {
+   "id": "t-hall",
+   "en": "Hall",
+   "zh": "霍爾",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 420
+   }
+  },
+  {
+   "id": "t-halon",
+   "en": "halon",
+   "zh": "海龍",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 421
+   }
+  },
+  {
+   "id": "t-henry",
+   "en": "Henry",
+   "zh": "亨利(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 422
+   }
+  },
+  {
+   "id": "t-histone",
+   "en": "histone",
+   "zh": "組蛋白",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 423
+   }
+  },
+  {
+   "id": "t-homopolymer",
+   "en": "homopolymer",
+   "zh": "均聚物；同元聚合物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 424
+   }
+  },
+  {
+   "id": "t-hybridization",
+   "en": "hybridization",
+   "zh": "混成",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 425
+   }
+  },
+  {
+   "id": "t-hydracid",
+   "en": "hydracid",
+   "zh": "氫酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 426
+   }
+  },
+  {
+   "id": "t-hydrocarbon",
+   "en": "hydrocarbon",
+   "zh": "碳化氫；碳氫化合物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 427,
+    "also": [
+     {
+      "page": 19,
+      "order": 428,
+      "zh": "烴；碳氫化合物"
+     }
+    ]
+   }
+  },
+  {
+   "id": "t-hydrogenation",
+   "en": "hydrogenation",
+   "zh": "氫化",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 429
+   }
+  },
+  {
+   "id": "t-hydrolysis",
+   "en": "hydrolysis",
+   "zh": "水解",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 430
+   }
+  },
+  {
+   "id": "t-hydrophilic",
+   "en": "hydrophilic",
+   "zh": "親水性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 431
+   }
+  },
+  {
+   "id": "t-hydrophobic",
+   "en": "hydrophobic",
+   "zh": "疏水性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 19,
+    "order": 432
+   }
+  },
+  {
+   "id": "t-hydroquinone",
+   "en": "hydroquinone",
+   "zh": "氫醌；對苯二酚",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 433
+   }
+  },
+  {
+   "id": "t-inhibitor",
+   "en": "inhibitor",
+   "zh": "抑制劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 434
+   }
+  },
+  {
+   "id": "t-iodoethane",
+   "en": "iodoethane",
+   "zh": "碘乙烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 435
+   }
+  },
+  {
+   "id": "t-iodomethane",
+   "en": "iodomethane",
+   "zh": "碘甲烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 436
+   }
+  },
+  {
+   "id": "t-isobutane",
+   "en": "isobutane",
+   "zh": "異丁烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 437
+   }
+  },
+  {
+   "id": "t-isomeride",
+   "en": "isomeride",
+   "zh": "異構物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 438
+   }
+  },
+  {
+   "id": "t-isomerization",
+   "en": "isomerization",
+   "zh": "異構化；異構作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 439
+   }
+  },
+  {
+   "id": "t-isomorph",
+   "en": "isomorph",
+   "zh": "類質同形體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 440
+   }
+  },
+  {
+   "id": "t-isopentane",
+   "en": "isopentane",
+   "zh": "異戊烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 441
+   }
+  },
+  {
+   "id": "t-karat",
+   "en": "karat",
+   "zh": "開；克拉",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 442
+   }
+  },
+  {
+   "id": "t-keratin",
+   "en": "keratin",
+   "zh": "角蛋白",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 443
+   }
+  },
+  {
+   "id": "t-ketones",
+   "en": "ketones",
+   "zh": "酮類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 444
+   }
+  },
+  {
+   "id": "t-kevlar",
+   "en": "Kevlar",
+   "zh": "克維拉；克維拉纖維",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 445
+   }
+  },
+  {
+   "id": "t-kirchhoff",
+   "en": "Kirchhoff",
+   "zh": "克希何夫(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 446
+   }
+  },
+  {
+   "id": "t-knocking",
+   "en": "knocking",
+   "zh": "震爆",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 447
+   }
+  },
+  {
+   "id": "t-lanthanides",
+   "en": "lanthanides",
+   "zh": "鑭系；鑭系元素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 448
+   }
+  },
+  {
+   "id": "t-laplace",
+   "en": "Laplace",
+   "zh": "拉普拉斯(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 449
+   }
+  },
+  {
+   "id": "t-ligand",
+   "en": "ligand",
+   "zh": "配位基；配位子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 450
+   }
+  },
+  {
+   "id": "t-lipophilic",
+   "en": "lipophilic",
+   "zh": "親脂性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 451
+   }
+  },
+  {
+   "id": "t-luciferase",
+   "en": "luciferase",
+   "zh": "螢光素酶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 452
+   }
+  },
+  {
+   "id": "t-maltase",
+   "en": "maltase",
+   "zh": "麥芽糖酶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 453
+   }
+  },
+  {
+   "id": "t-maltose",
+   "en": "maltose",
+   "zh": "麥芽糖",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 454
+   }
+  },
+  {
+   "id": "t-melamine",
+   "en": "melamine",
+   "zh": "三聚氰胺",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 20,
+    "order": 455
+   }
+  },
+  {
+   "id": "t-mendelevium",
+   "en": "mendelevium",
+   "zh": "鍆",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 456
+   }
+  },
+  {
+   "id": "t-methylamine",
+   "en": "methylamine",
+   "zh": "甲胺",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 457
+   }
+  },
+  {
+   "id": "t-micelle",
+   "en": "micelle",
+   "zh": "微胞",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 458
+   }
+  },
+  {
+   "id": "t-myoglobin",
+   "en": "myoglobin",
+   "zh": "肌紅蛋白",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 459
+   }
+  },
+  {
+   "id": "t-nafion",
+   "en": "Nafion",
+   "zh": "納菲薄膜",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 460
+   }
+  },
+  {
+   "id": "t-naphthol",
+   "en": "naphthol",
+   "zh": "奈酚(用作染料、防腐劑)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 461
+   }
+  },
+  {
+   "id": "t-nematic",
+   "en": "nematic",
+   "zh": "向列型",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 462
+   }
+  },
+  {
+   "id": "t-neoprene",
+   "en": "neoprene",
+   "zh": "新平；新平橡膠；紐普韌",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 463
+   }
+  },
+  {
+   "id": "t-nicotine",
+   "en": "nicotine",
+   "zh": "菸鹼；尼古丁",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 464
+   }
+  },
+  {
+   "id": "t-nitinol",
+   "en": "nitinol",
+   "zh": "鎳鈦諾；鎳鈦諾合金；鎳鈦合金；鎳鈦諾(商標名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 465
+   }
+  },
+  {
+   "id": "t-nitroglycerin",
+   "en": "nitroglycerin",
+   "zh": "硝化甘油",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 466
+   }
+  },
+  {
+   "id": "t-nonanal",
+   "en": "nonanal",
+   "zh": "壬醛",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 467
+   }
+  },
+  {
+   "id": "t-nonanol",
+   "en": "nonanol",
+   "zh": "壬醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 468
+   }
+  },
+  {
+   "id": "t-nonmetallic-element",
+   "en": "nonmetallic element",
+   "zh": "非金屬元素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 469
+   }
+  },
+  {
+   "id": "t-normality",
+   "en": "normality",
+   "zh": "當量濃度",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 470
+   }
+  },
+  {
+   "id": "t-olestra",
+   "en": "olestra",
+   "zh": "脂防酸蔗糖酯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 471
+   }
+  },
+  {
+   "id": "t-overlap",
+   "en": "overlap",
+   "zh": "重疊",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 472
+   }
+  },
+  {
+   "id": "t-oxalis",
+   "en": "oxalis",
+   "zh": "酢漿草屬",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 473
+   }
+  },
+  {
+   "id": "t-o-xylene",
+   "en": "o-xylene",
+   "zh": "鄰二甲苯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 474
+   }
+  },
+  {
+   "id": "t-panadol",
+   "en": "Panadol",
+   "zh": "普拿疼",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 475
+   }
+  },
+  {
+   "id": "t-paraffin",
+   "en": "paraffin",
+   "zh": "石蠟",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 476
+   }
+  },
+  {
+   "id": "t-penicillin",
+   "en": "penicillin",
+   "zh": "青黴素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 477
+   }
+  },
+  {
+   "id": "t-pentane",
+   "en": "pentane",
+   "zh": "戊烷",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 21,
+    "order": 478
+   }
+  },
+  {
+   "id": "t-pentanone",
+   "en": "pentanone",
+   "zh": "戊酮",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 479
+   }
+  },
+  {
+   "id": "t-pentose",
+   "en": "pentose",
+   "zh": "戊醣",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 480
+   }
+  },
+  {
+   "id": "t-pepsin",
+   "en": "pepsin",
+   "zh": "胃蛋白酶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 481
+   }
+  },
+  {
+   "id": "t-peptization",
+   "en": "peptization",
+   "zh": "解膠；膠溶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 482
+   }
+  },
+  {
+   "id": "t-phenol",
+   "en": "phenol",
+   "zh": "酚；苯酚；石炭酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 483
+   }
+  },
+  {
+   "id": "t-phenols",
+   "en": "phenols",
+   "zh": "酚類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 484
+   }
+  },
+  {
+   "id": "t-phosphate",
+   "en": "phosphate",
+   "zh": "磷酸鹽；磷酸酯；磷肥",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 485
+   }
+  },
+  {
+   "id": "t-polyamide",
+   "en": "polyamide",
+   "zh": "聚醯胺",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 486
+   }
+  },
+  {
+   "id": "t-polyelectrolyte",
+   "en": "polyelectrolyte",
+   "zh": "高分子電解質；多元電解質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 487
+   }
+  },
+  {
+   "id": "t-polyethylene",
+   "en": "polyethylene",
+   "zh": "聚乙烯；簡稱PE",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 488
+   }
+  },
+  {
+   "id": "t-polypeptide",
+   "en": "polypeptide",
+   "zh": "多肽",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 491
+   }
+  },
+  {
+   "id": "t-polyphenols",
+   "en": "polyphenols",
+   "zh": "多酚類",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 492
+   }
+  },
+  {
+   "id": "t-polypropylene",
+   "en": "polypropylene",
+   "zh": "聚丙烯；PP",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 493
+   }
+  },
+  {
+   "id": "t-polyurethane",
+   "en": "polyurethane",
+   "zh": "聚胺甲酸酯；PU",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 494
+   }
+  },
+  {
+   "id": "t-propanal",
+   "en": "propanal",
+   "zh": "丙醛",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 495
+   }
+  },
+  {
+   "id": "t-propene",
+   "en": "propene",
+   "zh": "丙烯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 496
+   }
+  },
+  {
+   "id": "t-propyne",
+   "en": "propyne",
+   "zh": "丙炔",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 497
+   }
+  },
+  {
+   "id": "t-purification",
+   "en": "purification",
+   "zh": "純化；淨化作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 498
+   }
+  },
+  {
+   "id": "t-quasicrystal",
+   "en": "quasicrystal",
+   "zh": "準晶；準晶體",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 499
+   }
+  },
+  {
+   "id": "t-quinone",
+   "en": "quinone",
+   "zh": "醌；苯醌",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 500
+   }
+  },
+  {
+   "id": "t-rancidity",
+   "en": "rancidity",
+   "zh": "酸敗",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 22,
+    "order": 501
+   }
+  },
+  {
+   "id": "t-recrystallization",
+   "en": "recrystallization",
+   "zh": "再結晶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 502
+   }
+  },
+  {
+   "id": "t-reduction",
+   "en": "reduction",
+   "zh": "還原[作用]",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 503
+   }
+  },
+  {
+   "id": "t-reforming",
+   "en": "reforming",
+   "zh": "重組",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 504
+   }
+  },
+  {
+   "id": "t-reuse",
+   "en": "reuse",
+   "zh": "重覆使用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 505
+   }
+  },
+  {
+   "id": "t-ribose",
+   "en": "ribose",
+   "zh": "核糖",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 506
+   }
+  },
+  {
+   "id": "t-rotor",
+   "en": "rotor",
+   "zh": "轉子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 507
+   }
+  },
+  {
+   "id": "t-rubber",
+   "en": "rubber",
+   "zh": "橡膠",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 508
+   }
+  },
+  {
+   "id": "t-salicylate",
+   "en": "salicylate",
+   "zh": "柳酸鹽",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 509
+   }
+  },
+  {
+   "id": "t-smectic",
+   "en": "smectic",
+   "zh": "層列狀",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 510
+   }
+  },
+  {
+   "id": "t-sorbite",
+   "en": "sorbite",
+   "zh": "山梨醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 511
+   }
+  },
+  {
+   "id": "t-sorbitol",
+   "en": "sorbitol",
+   "zh": "山梨醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 512
+   }
+  },
+  {
+   "id": "t-standardization",
+   "en": "standardization",
+   "zh": "標定",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 513
+   }
+  },
+  {
+   "id": "t-stereoisomer",
+   "en": "stereoisomer",
+   "zh": "立體異構物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 514
+   }
+  },
+  {
+   "id": "t-strontium",
+   "en": "strontium",
+   "zh": "鍶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 515
+   }
+  },
+  {
+   "id": "t-styrene",
+   "en": "styrene",
+   "zh": "苯乙烯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 516
+   }
+  },
+  {
+   "id": "t-sublimation",
+   "en": "sublimation",
+   "zh": "昇華；昇華作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 517
+   }
+  },
+  {
+   "id": "t-subshell",
+   "en": "subshell",
+   "zh": "副殼層；次殼層",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 518
+   }
+  },
+  {
+   "id": "t-subsoil",
+   "en": "subsoil",
+   "zh": "心土",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 519
+   }
+  },
+  {
+   "id": "t-sulfonation",
+   "en": "sulfonation",
+   "zh": "磺酸化；磺化；磺酸化作用；磺化作用",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 520
+   }
+  },
+  {
+   "id": "t-superoxide",
+   "en": "superoxide",
+   "zh": "超氧化物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 521
+   }
+  },
+  {
+   "id": "t-surfactant",
+   "en": "surfactant",
+   "zh": "界面活性劑",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 522
+   }
+  },
+  {
+   "id": "t-syneresis",
+   "en": "syneresis",
+   "zh": "膠體脫水",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 523
+   }
+  },
+  {
+   "id": "t-tannin",
+   "en": "tannin",
+   "zh": "單寧；鞣質",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 23,
+    "order": 524
+   }
+  },
+  {
+   "id": "t-theophylline",
+   "en": "theophylline",
+   "zh": "茶鹼",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 525
+   }
+  },
+  {
+   "id": "t-thermoplastic",
+   "en": "thermoplastic",
+   "zh": "熱塑；熱塑性；熱塑性塑膠",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 526
+   }
+  },
+  {
+   "id": "t-thermosetting",
+   "en": "thermosetting",
+   "zh": "熱固性",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 527
+   }
+  },
+  {
+   "id": "t-thomson",
+   "en": "Thomson",
+   "zh": "湯姆森(人名)",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 528
+   }
+  },
+  {
+   "id": "t-thymine",
+   "en": "thymine",
+   "zh": "胸嘧啶；胸腺嘧啶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 529
+   }
+  },
+  {
+   "id": "t-thyroxine",
+   "en": "thyroxine",
+   "zh": "甲狀腺素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 530
+   }
+  },
+  {
+   "id": "t-toluene",
+   "en": "toluene",
+   "zh": "甲苯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 531
+   }
+  },
+  {
+   "id": "t-topsoil",
+   "en": "topsoil",
+   "zh": "表土",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 532
+   }
+  },
+  {
+   "id": "t-tracer",
+   "en": "tracer",
+   "zh": "示蹤物",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 533
+   }
+  },
+  {
+   "id": "t-tribromophenol",
+   "en": "tribromophenol",
+   "zh": "三溴苯酚; 三溴酚; 三溴萘酚",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 534
+   }
+  },
+  {
+   "id": "t-ubiquitin",
+   "en": "ubiquitin",
+   "zh": "泛素",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 535
+   }
+  },
+  {
+   "id": "t-uracil",
+   "en": "uracil",
+   "zh": "尿嘧啶",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 536
+   }
+  },
+  {
+   "id": "t-valine",
+   "en": "valine",
+   "zh": "纈胺酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 537
+   }
+  },
+  {
+   "id": "t-xylene",
+   "en": "xylene",
+   "zh": "二甲苯",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 538
+   }
+  },
+  {
+   "id": "t-xylitol",
+   "en": "xylitol",
+   "zh": "木糖醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 539
+   }
+  },
+  {
+   "id": "t-ziegler",
+   "en": "Ziegler",
+   "zh": "戚格勒",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 541
+   }
+  },
+  {
+   "id": "t-zwitterion",
+   "en": "zwitterion",
+   "zh": "[正負]兩性離子",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 542
+   }
+  },
+  {
+   "id": "t-methanol",
+   "en": "methanol",
+   "zh": "甲醇",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 543
+   }
+  },
+  {
+   "id": "t-nitration",
+   "en": "nitration",
+   "zh": "硝化；硝化[作用]",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 544
+   }
+  },
+  {
+   "id": "t-acetic-acid",
+   "en": "acetic acid",
+   "zh": "醋酸",
+   "source": {
+    "file": "科學專業英文(化學).pdf",
+    "page": 24,
+    "order": 545
+   }
+  }
+ ]
+}

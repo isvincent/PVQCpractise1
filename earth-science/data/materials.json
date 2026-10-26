@@ -1,0 +1,14 @@
+{
+ "schema": 1,
+ "materials": [
+  {
+   "id": "earth-sci-en",
+   "title": "科學專業英文(地球科學)",
+   "file": "data/course-earth.json",
+   "pdf": "materials/科學專業英文(地球科學).pdf",
+   "terms": 471,
+   "mode": "vocabulary",
+   "version": "2026.10.26"
+  }
+ ]
+}

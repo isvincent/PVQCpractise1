@@ -1,0 +1,3455 @@
+[
+ {
+  "id": "t-bilateral",
+  "unit": "u03",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/baɪˈlætərəl/",
+  "ipa_uk": "/baɪˈlætərəl/",
+  "syllables": "bi·lat·er·al",
+  "def_en": "Involving or affecting both the left and right sides of the body or brain.",
+  "def_zh": "雙側的：同時涉及身體或大腦左右兩側的。",
+  "example_en": "Bilateral damage to the hippocampus can cause severe memory loss.",
+  "example_zh": "雙側海馬迴受損可能造成嚴重的記憶喪失。",
+  "morph": [
+   {
+    "part": "bi-",
+    "meaning": "二、雙"
+   },
+   {
+    "part": "later-",
+    "meaning": "側邊"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-unilateral",
+   "t-ipsilateral",
+   "t-contralateral",
+   "t-lateral"
+  ],
+  "confusables": [
+   {
+    "term": "unilateral",
+    "zh": "單側的",
+    "note": "unilateral 只涉及一側；bilateral 涉及左右兩側"
+   }
+  ],
+  "illus": "laterality",
+  "tf": {
+   "statement_zh": "bilateral 指只影響身體的一側。",
+   "answer": false,
+   "explain": "錯。bilateral 是雙側；只影響一側是 unilateral（單側）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-validity",
+  "unit": "u12",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/vəˈlɪdəti/",
+  "ipa_uk": "/vəˈlɪdəti/",
+  "syllables": "va·lid·i·ty",
+  "def_en": "How well a test actually measures what it claims to measure.",
+  "def_zh": "效度：測驗能真正測到它所要測量之特質或能力的程度。",
+  "example_en": "The teacher checked the validity of the new reading test.",
+  "example_zh": "老師檢查這份新閱讀測驗的效度。",
+  "morph": [
+   {
+    "part": "valid",
+    "meaning": "有效的"
+   },
+   {
+    "part": "-ity",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-reliability",
+   "t-face-validity",
+   "t-cross-validation",
+   "t-construct"
+  ],
+  "confusables": [
+   {
+    "term": "reliability",
+    "zh": "信度",
+    "note": "信度指測驗結果穩定一致；效度指是否測到想測的東西"
+   }
+  ],
+  "illus": "validity-reliability",
+  "tf": {
+   "statement_zh": "一份測驗只要信度高，效度就一定高。",
+   "answer": false,
+   "explain": "錯。信度是效度的必要條件但非充分條件；結果很穩定，仍可能一直測錯東西。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-rostral",
+  "unit": "u03",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˈrɑːstrəl/",
+  "ipa_uk": "/ˈrɒstrəl/",
+  "syllables": "ros·tral",
+  "def_en": "Toward the front or nose end of the brain or body; the opposite of caudal.",
+  "def_zh": "吻側的（吻端的）：朝向鼻、口（頭部前端）的方向，與尾側 caudal 相對。",
+  "example_en": "The frontal lobe lies rostral to the parietal lobe.",
+  "example_zh": "額葉位於頂葉的吻側（前方）。",
+  "morph": [
+   {
+    "part": "rostr-",
+    "meaning": "喙、嘴（拉丁文 rostrum）"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-caudal",
+   "t-anterior",
+   "t-dorsal",
+   "t-ventral"
+  ],
+  "confusables": [
+   {
+    "term": "caudal",
+    "zh": "尾側的",
+    "note": "rostral 朝鼻端；caudal 朝尾端，兩者相反"
+   }
+  ],
+  "illus": "directions",
+  "tf": {
+   "statement_zh": "在大腦中，rostral 指朝向鼻子（前端）的方向。",
+   "answer": true,
+   "explain": "對。rostral 源自拉丁文「喙」，指朝向頭部前端（鼻、口）的方向。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-percent",
+  "unit": "u12",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/pərˈsent/",
+  "ipa_uk": "/pəˈsent/",
+  "syllables": "per·cent",
+  "def_en": "A number out of every hundred, shown with the sign %.",
+  "def_zh": "百分比：每一百之中所占的份數，以 % 表示。",
+  "example_en": "The brain is only about 2 percent of body weight but uses about 20 percent of the body's energy.",
+  "example_zh": "大腦只占體重約百分之二，卻消耗身體約百分之二十的能量。",
+  "morph": [
+   {
+    "part": "per-",
+    "meaning": "每"
+   },
+   {
+    "part": "cent",
+    "meaning": "一百"
+   }
+  ],
+  "related": [
+   "t-percentile-ranks",
+   "t-mean",
+   "t-distribution"
+  ],
+  "confusables": [
+   {
+    "term": "percentile",
+    "zh": "百分等級",
+    "note": "百分比是答對比例；百分等級是分數贏過多少百分比的人"
+   }
+  ],
+  "illus": "normal-curve",
+  "tf": {
+   "statement_zh": "答對 80 percent 的題目，就代表百分等級是 80。",
+   "answer": false,
+   "explain": "錯。答對率（百分比）和百分等級不同；百分等級要看在團體中的相對位置。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-epilepsy",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈepɪlepsi/",
+  "ipa_uk": "/ˈepɪlepsi/",
+  "syllables": "ep·i·lep·sy",
+  "def_en": "A brain disorder that causes repeated seizures from sudden bursts of abnormal electrical activity.",
+  "def_zh": "癲癇：大腦神經元突然異常、同步放電，導致反覆發作的神經疾病。",
+  "example_en": "EEG recordings help doctors diagnose epilepsy.",
+  "example_zh": "腦電圖記錄能幫助醫師診斷癲癇。",
+  "morph": [
+   {
+    "part": "epi-",
+    "meaning": "在上"
+   },
+   {
+    "part": "-lepsy",
+    "meaning": "抓住、發作（希臘文 lēpsis）"
+   }
+  ],
+  "related": [
+   "t-seizure",
+   "t-grand-mal",
+   "t-electroencephalograph",
+   "t-resection"
+  ],
+  "confusables": [
+   {
+    "term": "seizure",
+    "zh": "發作",
+    "note": "seizure 是單次發作；epilepsy 是會反覆發作的疾病"
+   }
+  ],
+  "illus": "epilepsy",
+  "tf": {
+   "statement_zh": "癲癇是一種會傳染的精神疾病。",
+   "answer": false,
+   "explain": "錯。癲癇是神經系統疾病，由腦部異常放電引起，不會傳染。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-auditory",
+  "unit": "u06",
+  "level": 1,
+  "pos": "adj.",
+  "ipa_us": "/ˈɔːdətɔːri/",
+  "ipa_uk": "/ˈɔːdɪtri/",
+  "syllables": "au·di·to·ry",
+  "def_en": "Related to hearing or the sense of sound.",
+  "def_zh": "聽覺的；與聽覺有關的。",
+  "example_en": "The auditory cortex is located in the temporal lobe.",
+  "example_zh": "聽覺皮質位於顳葉。",
+  "morph": [
+   {
+    "part": "audi-",
+    "meaning": "聽"
+   },
+   {
+    "part": "-ory",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-cochlea",
+   "t-temporal",
+   "t-olfactory",
+   "t-gustatory"
+  ],
+  "confusables": [],
+  "illus": "ear-cochlea",
+  "tf": {
+   "statement_zh": "聽覺皮質（auditory cortex）主要位於顳葉。",
+   "answer": true,
+   "explain": "對。初級聽覺皮質位於顳葉上方。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cochlea",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈkoʊkliə/",
+  "ipa_uk": "/ˈkɒkliə/",
+  "syllables": "coch·le·a",
+  "def_en": "The spiral, fluid-filled part of the inner ear that turns sound vibrations into nerve signals.",
+  "def_zh": "耳蝸：內耳中呈螺旋狀、充滿液體的構造，把聲音振動轉換成神經訊號。",
+  "example_en": "Tiny hair cells in the cochlea respond to different pitches.",
+  "example_zh": "耳蝸裡微小的毛細胞會對不同音高產生反應。",
+  "morph": [
+   {
+    "part": "cochle-",
+    "meaning": "蝸牛殼（拉丁文）"
+   }
+  ],
+  "related": [
+   "t-auditory"
+  ],
+  "confusables": [],
+  "illus": "ear-cochlea",
+  "tf": {
+   "statement_zh": "耳蝸位於中耳，主要負責保持身體平衡。",
+   "answer": false,
+   "explain": "錯。耳蝸位於內耳，負責聽覺；平衡主要靠內耳的前庭系統。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-autonomic",
+  "unit": "u07",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ˌɔːtəˈnɑːmɪk/",
+  "ipa_uk": "/ˌɔːtəˈnɒmɪk/",
+  "syllables": "au·to·nom·ic",
+  "def_en": "Describing the nervous system that automatically controls body functions like heartbeat and digestion.",
+  "def_zh": "自律的（自主神經的）：指不受意識控制、自動調節心跳、呼吸、消化等功能的神經系統。",
+  "example_en": "The autonomic nervous system speeds up your heart when you are scared.",
+  "example_zh": "當你害怕時，自律神經系統會讓心跳加快。",
+  "morph": [
+   {
+    "part": "auto-",
+    "meaning": "自己"
+   },
+   {
+    "part": "nom-",
+    "meaning": "法則"
+   }
+  ],
+  "related": [
+   "t-sympathetic",
+   "t-parasympathetic",
+   "t-heartbeat",
+   "t-breathing"
+  ],
+  "confusables": [
+   {
+    "term": "autonomous",
+    "zh": "自主的；獨立的",
+    "note": "autonomous 指人或機器能獨立自主；autonomic 專指自律神經系統"
+   }
+  ],
+  "illus": "autonomic",
+  "tf": {
+   "statement_zh": "自律神經系統包含交感神經與副交感神經。",
+   "answer": true,
+   "explain": "對。交感神經負責戰或逃，副交感神經負責休息與消化。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-self-report",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌself rɪˈpɔːrt/",
+  "ipa_uk": "/ˌself rɪˈpɔːt/",
+  "syllables": "self-re·port",
+  "def_en": "A method where people answer questions about their own feelings, thoughts or behavior.",
+  "def_zh": "自陳（自我報告）：由受試者自己回答有關自身感受、想法或行為的題目，例如自陳量表。",
+  "example_en": "The anxiety scale is a self-report questionnaire.",
+  "example_zh": "這份焦慮量表是自陳式問卷。",
+  "morph": [
+   {
+    "part": "self-",
+    "meaning": "自己"
+   },
+   {
+    "part": "re-",
+    "meaning": "回"
+   },
+   {
+    "part": "port",
+    "meaning": "帶、運送"
+   }
+  ],
+  "related": [
+   "t-questionnaire",
+   "t-personality-inventory",
+   "t-faking-it"
+  ],
+  "confusables": [],
+  "illus": "questionnaire",
+  "tf": {
+   "statement_zh": "自陳量表的結果可能受到受試者想留下好印象的影響。",
+   "answer": true,
+   "explain": "對。受試者可能刻意作答以顯得更好（社會期許），這是自陳量表的限制。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-autonomous",
+  "unit": "u14",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ɔːˈtɑːnəməs/",
+  "ipa_uk": "/ɔːˈtɒnəməs/",
+  "syllables": "au·ton·o·mous",
+  "def_en": "Able to act or make decisions independently, without being controlled by others.",
+  "def_zh": "自主的；獨立的：能自己做決定、不受他人控制。",
+  "example_en": "Self-directed learning helps students become autonomous learners.",
+  "example_zh": "自主學習幫助學生成為能獨立學習的人。",
+  "morph": [
+   {
+    "part": "auto-",
+    "meaning": "自己"
+   },
+   {
+    "part": "nom-",
+    "meaning": "法則"
+   },
+   {
+    "part": "-ous",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-autonomic"
+  ],
+  "confusables": [
+   {
+    "term": "autonomic",
+    "zh": "自律的（神經）",
+    "note": "autonomic 專指自律神經系統；autonomous 泛指獨立自主"
+   }
+  ],
+  "illus": "everyday-words",
+  "tf": {
+   "statement_zh": "autonomous 與 autonomic 意思完全相同，可以互換使用。",
+   "answer": false,
+   "explain": "錯。autonomous 是「自主、獨立的」；autonomic 專指自律神經系統，不能互換。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-ventromedial",
+  "unit": "u03",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˌventroʊˈmiːdiəl/",
+  "ipa_uk": "/ˌventrəʊˈmiːdiəl/",
+  "syllables": "ven·tro·me·di·al",
+  "def_en": "Located toward the lower (belly) side and near the middle of a structure.",
+  "def_zh": "腹內側的：位置偏向腹側（下方）且靠近中線，例如腹內側前額葉皮質。",
+  "example_en": "Damage to the ventromedial prefrontal cortex can affect decision-making.",
+  "example_zh": "腹內側前額葉皮質受損會影響做決定的能力。",
+  "morph": [
+   {
+    "part": "ventr-",
+    "meaning": "腹"
+   },
+   {
+    "part": "medi-",
+    "meaning": "中間"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-ventral",
+   "t-medial",
+   "t-prefrontal-cortex",
+   "t-orbitofrontal-cortex"
+  ],
+  "confusables": [],
+  "illus": "directions",
+  "tf": {
+   "statement_zh": "ventromedial 結合了 ventral（腹側）與 medial（內側）兩個方位。",
+   "answer": true,
+   "explain": "對。ventro- 表腹側，medial 表靠近中線，合起來是腹內側。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-inferior",
+  "unit": "u03",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ɪnˈfɪriər/",
+  "ipa_uk": "/ɪnˈfɪəriə(r)/",
+  "syllables": "in·fe·ri·or",
+  "def_en": "In anatomy, located below or lower; in daily use, lower in quality or rank.",
+  "def_zh": "下方的、下側的（解剖方位）；日常用法指較差的、較低等的。",
+  "example_en": "The inferior colliculi help process sound.",
+  "example_zh": "下丘協助處理聲音訊息。",
+  "morph": [
+   {
+    "part": "infer-",
+    "meaning": "下面的（拉丁文 inferus）"
+   },
+   {
+    "part": "-ior",
+    "meaning": "比較級字尾"
+   }
+  ],
+  "related": [
+   "t-superior",
+   "t-inferior-colliculi",
+   "t-inferiority-complex"
+  ],
+  "confusables": [
+   {
+    "term": "superior",
+    "zh": "上方的",
+    "note": "superior 在上；inferior 在下"
+   }
+  ],
+  "illus": "directions",
+  "tf": {
+   "statement_zh": "在解剖學中，inferior 的意思是「較差的」。",
+   "answer": false,
+   "explain": "錯。解剖學中 inferior 指「下方」，例如 inferior colliculi 下丘。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-caudal",
+  "unit": "u03",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˈkɔːdl/",
+  "ipa_uk": "/ˈkɔːdl/",
+  "syllables": "cau·dal",
+  "def_en": "Toward the tail or back end of the body; the opposite of rostral.",
+  "def_zh": "尾側的：朝向尾端（身體後下方）的方向，與吻側 rostral 相對。",
+  "example_en": "The cerebellum is caudal to the cerebrum.",
+  "example_zh": "小腦位於大腦的尾側。",
+  "morph": [
+   {
+    "part": "caud-",
+    "meaning": "尾巴"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-rostral",
+   "t-posterior",
+   "t-caudate-nucleus"
+  ],
+  "confusables": [
+   {
+    "term": "caudate",
+    "zh": "尾狀的",
+    "note": "caudate nucleus 尾核是「有尾巴形狀」的神經核，不是方位詞"
+   }
+  ],
+  "illus": "directions",
+  "tf": {
+   "statement_zh": "caudal 與 rostral 是一組意思相反的方位詞。",
+   "answer": true,
+   "explain": "對。rostral 朝鼻端，caudal 朝尾端。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-formative",
+  "unit": "u13",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ˈfɔːrmətɪv/",
+  "ipa_uk": "/ˈfɔːmətɪv/",
+  "syllables": "for·ma·tive",
+  "def_en": "Helping to shape or develop something; formative assessment checks learning during teaching.",
+  "def_zh": "形成的；形成性的：在發展過程中產生影響；形成性評量是在教學過程中檢視學習、以便調整教學。",
+  "example_en": "Short quizzes are a kind of formative assessment.",
+  "example_zh": "小考是一種形成性評量。",
+  "morph": [
+   {
+    "part": "form",
+    "meaning": "形狀、形成"
+   },
+   {
+    "part": "-ative",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-formative-assessment",
+   "t-summative",
+   "t-placement-assessment",
+   "t-assessment"
+  ],
+  "confusables": [
+   {
+    "term": "summative",
+    "zh": "總結性的",
+    "note": "總結性評量在學習結束時判定成果；形成性評量在過程中提供回饋"
+   }
+  ],
+  "illus": "assessment-types",
+  "tf": {
+   "statement_zh": "形成性評量通常在學期結束時才實施，用來決定最後成績。",
+   "answer": false,
+   "explain": "錯。那是總結性評量；形成性評量在教學過程中進行，用來回饋與調整。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-anomia",
+  "unit": "u09",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/əˈnoʊmiə/",
+  "ipa_uk": "/əˈnəʊmiə/",
+  "syllables": "a·no·mi·a",
+  "def_en": "Difficulty finding or recalling the names of familiar objects or words, often after brain injury.",
+  "def_zh": "失名症（命名不能）：難以想起常見物品或詞語的名稱，常見於中風或失語症患者。",
+  "example_en": "After his stroke, his anomia made it hard to name a pen.",
+  "example_zh": "中風後，他的失名症讓他叫不出「筆」的名稱。",
+  "morph": [
+   {
+    "part": "a-",
+    "meaning": "無"
+   },
+   {
+    "part": "nom-",
+    "meaning": "名字（希臘文 onoma）"
+   },
+   {
+    "part": "-ia",
+    "meaning": "病症"
+   }
+  ],
+  "related": [
+   "t-agraphia",
+   "t-alexia",
+   "t-acalculia",
+   "t-arcuate-fasciculus"
+  ],
+  "confusables": [
+   {
+    "term": "amnesia",
+    "zh": "失憶症",
+    "note": "失憶症是失去記憶；失名症是叫不出名稱"
+   }
+  ],
+  "illus": "language-areas",
+  "tf": {
+   "statement_zh": "失名症患者常知道物品的用途，只是叫不出它的名字。",
+   "answer": true,
+   "explain": "對。患者能描述或示範用途，困難在於提取名稱。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-critiques",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/krɪˈtiːks/",
+  "ipa_uk": "/krɪˈtiːks/",
+  "syllables": "cri·tiques",
+  "def_en": "Careful reviews that judge the strengths and weaknesses of a work or idea.",
+  "def_zh": "評論；評析：仔細評估作品、研究或理論優缺點的文章或意見。",
+  "example_en": "Scientists read critiques of the study before trusting its results.",
+  "example_zh": "科學家在相信研究結果前，會先閱讀對該研究的評論。",
+  "morph": [
+   {
+    "part": "critic",
+    "meaning": "評論者"
+   }
+  ],
+  "related": [
+   "t-hypothesis",
+   "t-objectivity"
+  ],
+  "confusables": [
+   {
+    "term": "criticism",
+    "zh": "批評",
+    "note": "criticism 常帶負面指責；critique 是有系統的評析，優缺點都談"
+   }
+  ],
+  "illus": "research-method",
+  "tf": {
+   "statement_zh": "critique 一定是負面的指責。",
+   "answer": false,
+   "explain": "錯。critique 是有系統的評析，會同時討論優點與缺點。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-amygdala",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/əˈmɪɡdələ/",
+  "ipa_uk": "/əˈmɪɡdələ/",
+  "syllables": "a·myg·da·la",
+  "def_en": "An almond-shaped structure deep in the temporal lobe that processes emotions, especially fear.",
+  "def_zh": "杏仁核：位於顳葉深處、形狀像杏仁的構造，負責處理情緒，特別是恐懼。",
+  "example_en": "The amygdala becomes active when we see a frightening face.",
+  "example_zh": "當我們看到驚恐的臉時，杏仁核會活化。",
+  "morph": [
+   {
+    "part": "amygdal-",
+    "meaning": "杏仁（希臘文）"
+   }
+  ],
+  "related": [
+   "t-hippocampus",
+   "t-emotion",
+   "t-anxiety"
+  ],
+  "confusables": [],
+  "illus": "limbic",
+  "tf": {
+   "statement_zh": "杏仁核屬於邊緣系統，與恐懼反應有關。",
+   "answer": true,
+   "explain": "對。杏仁核是邊緣系統的一部分，偵測威脅並引發恐懼反應。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-fasciculus",
+  "unit": "u09",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/fəˈsɪkjələs/",
+  "ipa_uk": "/fəˈsɪkjələs/",
+  "syllables": "fas·cic·u·lus",
+  "def_en": "A bundle of nerve fibers running together in the brain or spinal cord.",
+  "def_zh": "神經纖維束：一束並行的神經纖維，例如連接布洛卡區與威尼克區的弓狀束。",
+  "example_en": "The arcuate fasciculus links two important language areas.",
+  "example_zh": "弓狀束連接兩個重要的語言區。",
+  "morph": [
+   {
+    "part": "fasc-",
+    "meaning": "束（拉丁文 fascis）"
+   },
+   {
+    "part": "-ulus",
+    "meaning": "小的"
+   }
+  ],
+  "related": [
+   "t-arcuate-fasciculus",
+   "t-arcuate",
+   "t-white-matter",
+   "t-axon"
+  ],
+  "confusables": [],
+  "illus": "language-areas",
+  "tf": {
+   "statement_zh": "fasciculus 是一束神經纖維，屬於白質。",
+   "answer": true,
+   "explain": "對。纖維束由有髓鞘的軸突組成，屬於白質。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-bondage",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈbɑːndɪdʒ/",
+  "ipa_uk": "/ˈbɒndɪdʒ/",
+  "syllables": "bond·age",
+  "def_en": "The state of being a slave or being strongly controlled and not free.",
+  "def_zh": "束縛；奴役：失去自由、受人控制的狀態。也出現在毛姆小說《人性枷鎖》（Of Human Bondage）的書名中。",
+  "example_en": "The novel Of Human Bondage describes a man trapped by his own emotions.",
+  "example_zh": "小說《人性枷鎖》描寫一個被自身情感所困的人。",
+  "morph": [
+   {
+    "part": "bond",
+    "meaning": "綑綁"
+   },
+   {
+    "part": "-age",
+    "meaning": "名詞字尾（狀態）"
+   }
+  ],
+  "related": [
+   "t-human-bondage"
+  ],
+  "confusables": [],
+  "illus": "everyday-words",
+  "tf": {
+   "statement_zh": "bondage 的意思是自由、解放。",
+   "answer": false,
+   "explain": "錯。bondage 是束縛、奴役，正好與自由相反。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-precipitation",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/prɪˌsɪpɪˈteɪʃn/",
+  "ipa_uk": "/prɪˌsɪpɪˈteɪʃn/",
+  "syllables": "pre·cip·i·ta·tion",
+  "def_en": "In chemistry, a solid forming out of a liquid solution; in weather, rain or snow.",
+  "def_zh": "沉澱（化學中溶液析出固體）；在氣象上指降水（雨、雪等）。",
+  "example_en": "DNA precipitation with cold alcohol is a common lab step.",
+  "example_zh": "用冰冷酒精讓 DNA 沉澱是常見的實驗步驟。",
+  "morph": [
+   {
+    "part": "-ation",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-molecular-biology",
+   "t-dna-mutation"
+  ],
+  "confusables": [],
+  "illus": "genetics",
+  "tf": {
+   "statement_zh": "在實驗室中，沉澱（precipitation）可用來把 DNA 從溶液中分離出來。",
+   "answer": true,
+   "explain": "對。加入酒精可使 DNA 從溶液中沉澱析出。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-masculinity",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌmæskjəˈlɪnəti/",
+  "ipa_uk": "/ˌmæskjəˈlɪnəti/",
+  "syllables": "mas·cu·lin·i·ty",
+  "def_en": "Qualities or behaviors traditionally thought of as typical of men.",
+  "def_zh": "男子氣概；陽剛特質：傳統上被認為屬於男性的特質或行為。",
+  "example_en": "The study asked how culture shapes ideas of masculinity.",
+  "example_zh": "這項研究探討文化如何形塑對男子氣概的看法。",
+  "morph": [
+   {
+    "part": "mascul-",
+    "meaning": "男性"
+   },
+   {
+    "part": "-ity",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-androgens",
+   "t-stereotyping",
+   "t-sex-reversal"
+  ],
+  "confusables": [
+   {
+    "term": "femininity",
+    "zh": "女性特質",
+    "note": "兩者都是受文化影響的性別特質概念"
+   }
+  ],
+  "illus": "social-cognition",
+  "tf": {
+   "statement_zh": "男子氣概的內涵完全由基因決定，不受文化影響。",
+   "answer": false,
+   "explain": "錯。對男子氣概的期待深受社會文化影響，不同時代與地區並不相同。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-androgens",
+  "unit": "u02",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈændrədʒənz/",
+  "ipa_uk": "/ˈændrədʒənz/",
+  "syllables": "an·dro·gens",
+  "def_en": "Sex hormones, such as testosterone, that drive male traits and also affect the brain.",
+  "def_zh": "雄性素（男性荷爾蒙）：如睪固酮等性荷爾蒙，促進男性特徵發育，也會影響大腦；男女體內都有。",
+  "example_en": "Androgens are present in both males and females.",
+  "example_zh": "男性和女性體內都有雄性素。",
+  "morph": [
+   {
+    "part": "andro-",
+    "meaning": "男性"
+   },
+   {
+    "part": "-gen",
+    "meaning": "產生"
+   }
+  ],
+  "related": [
+   "t-hormones",
+   "t-masculinity",
+   "t-sex-reversal"
+  ],
+  "confusables": [],
+  "illus": "hormones",
+  "tf": {
+   "statement_zh": "只有男性體內才有雄性素（androgens）。",
+   "answer": false,
+   "explain": "錯。女性體內也有雄性素，只是濃度通常較低。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-breast",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/brest/",
+  "ipa_uk": "/brest/",
+  "syllables": "breast",
+  "def_en": "The front of the chest; also either of the two milk-producing organs on a woman's chest.",
+  "def_zh": "胸部；乳房。",
+  "example_en": "Oxytocin helps release milk from the breast during feeding.",
+  "example_zh": "哺乳時，催產素幫助乳汁從乳房排出。",
+  "morph": [],
+  "related": [
+   "t-oxytocin",
+   "t-hormones"
+  ],
+  "confusables": [
+   {
+    "term": "chest",
+    "zh": "胸腔、胸部",
+    "note": "chest 泛指胸部；breast 也特指乳房"
+   }
+  ],
+  "illus": "everyday-words",
+  "tf": {
+   "statement_zh": "哺乳時，催產素可以幫助乳汁從乳房排出。",
+   "answer": true,
+   "explain": "對。催產素引發排乳反射。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-syndrome",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsɪndroʊm/",
+  "ipa_uk": "/ˈsɪndrəʊm/",
+  "syllables": "syn·drome",
+  "def_en": "A group of symptoms that regularly appear together and mark a particular condition.",
+  "def_zh": "症候群：經常一起出現、代表某種疾病或狀況的一組症狀。",
+  "example_en": "Down syndrome is caused by an extra copy of chromosome 21.",
+  "example_zh": "唐氏症是由多一條第 21 號染色體所引起。",
+  "morph": [
+   {
+    "part": "syn-",
+    "meaning": "一起"
+   },
+   {
+    "part": "-drome",
+    "meaning": "跑（希臘文）"
+   }
+  ],
+  "related": [
+   "t-dementia",
+   "t-anorexia",
+   "t-mental-health"
+  ],
+  "confusables": [
+   {
+    "term": "symptom",
+    "zh": "症狀",
+    "note": "symptom 是單一症狀；syndrome 是一組同時出現的症狀"
+   }
+  ],
+  "illus": "mental-disorders",
+  "tf": {
+   "statement_zh": "syndrome 指的是單一的一個症狀。",
+   "answer": false,
+   "explain": "錯。syndrome 是一組常同時出現的症狀；單一症狀是 symptom。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-visualize",
+  "unit": "u08",
+  "level": 1,
+  "pos": "v.",
+  "ipa_us": "/ˈvɪʒuəlaɪz/",
+  "ipa_uk": "/ˈvɪʒuəlaɪz/",
+  "syllables": "vis·u·al·ize",
+  "def_en": "To form a picture of something in your mind.",
+  "def_zh": "想像；在腦中形成畫面；也指把資料以圖像呈現（視覺化）。",
+  "example_en": "Try to visualize the steps before you solve the problem.",
+  "example_zh": "解題之前，試著在腦中想像每個步驟。",
+  "morph": [
+   {
+    "part": "vis-",
+    "meaning": "看"
+   },
+   {
+    "part": "-ize",
+    "meaning": "動詞字尾"
+   }
+  ],
+  "related": [
+   "t-multimedia-learning",
+   "t-working-memory",
+   "t-functional-imaging"
+  ],
+  "confusables": [],
+  "illus": "memory-model",
+  "tf": {
+   "statement_zh": "visualize 可以指在腦中想像畫面。",
+   "answer": true,
+   "explain": "對。visualize 是在心中形成影像，也可指把資料視覺化。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-stimulus",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈstɪmjələs/",
+  "ipa_uk": "/ˈstɪmjələs/",
+  "syllables": "stim·u·lus",
+  "def_en": "Something, such as light or sound, that causes a reaction in a living thing or sense organ.",
+  "def_zh": "刺激：引起生物或感覺器官產生反應的事物，例如光、聲音；複數為 stimuli。",
+  "example_en": "A loud noise is a stimulus that makes you jump.",
+  "example_zh": "巨大的聲響是會讓你嚇一跳的刺激。",
+  "morph": [
+   {
+    "part": "stimul-",
+    "meaning": "刺棒、刺激（拉丁文）"
+   }
+  ],
+  "related": [
+   "t-reflex",
+   "t-afferent",
+   "t-evoked-potentials"
+  ],
+  "confusables": [],
+  "illus": "reflex-arc",
+  "tf": {
+   "statement_zh": "stimulus 的複數形是 stimuluses。",
+   "answer": false,
+   "explain": "錯。stimulus 的複數形是 stimuli。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-gustatory",
+  "unit": "u06",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˈɡʌstətɔːri/",
+  "ipa_uk": "/ˈɡʌstətəri/",
+  "syllables": "gus·ta·to·ry",
+  "def_en": "Related to the sense of taste.",
+  "def_zh": "味覺的。",
+  "example_en": "Taste signals travel to the gustatory cortex.",
+  "example_zh": "味覺訊號會傳到味覺皮質。",
+  "morph": [
+   {
+    "part": "gust-",
+    "meaning": "品嚐"
+   },
+   {
+    "part": "-ory",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-gustatory-cortex",
+   "t-olfactory",
+   "t-auditory"
+  ],
+  "confusables": [
+   {
+    "term": "olfactory",
+    "zh": "嗅覺的",
+    "note": "olfactory 是嗅覺；gustatory 是味覺"
+   }
+  ],
+  "illus": "smell-taste",
+  "tf": {
+   "statement_zh": "gustatory 是指嗅覺的。",
+   "answer": false,
+   "explain": "錯。gustatory 是味覺的；嗅覺的是 olfactory。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-breathing",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈbriːðɪŋ/",
+  "ipa_uk": "/ˈbriːðɪŋ/",
+  "syllables": "breath·ing",
+  "def_en": "The process of taking air into the lungs and letting it out.",
+  "def_zh": "呼吸：把空氣吸入肺部再呼出的過程。",
+  "example_en": "The medulla controls breathing automatically.",
+  "example_zh": "延髓自動控制呼吸。",
+  "morph": [],
+  "related": [
+   "t-medulla",
+   "t-autonomic",
+   "t-heartbeat",
+   "t-brainstem"
+  ],
+  "confusables": [],
+  "illus": "brainstem",
+  "tf": {
+   "statement_zh": "延髓受損可能危及呼吸與心跳。",
+   "answer": true,
+   "explain": "對。延髓含有調控呼吸與心跳的中樞。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-owl",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/aʊl/",
+  "ipa_uk": "/aʊl/",
+  "syllables": "owl",
+  "def_en": "A bird active at night; also a person who prefers to stay up late (a night owl).",
+  "def_zh": "貓頭鷹；也比喻夜貓子（晚睡晚起的人），是一種睡眠時型（chronotype）。",
+  "example_en": "My brother is a night owl who studies best after 10 p.m.",
+  "example_zh": "我哥哥是夜貓子，晚上十點後讀書效果最好。",
+  "morph": [],
+  "related": [
+   "t-lark",
+   "t-circadian",
+   "t-sleep",
+   "t-circadian-rhythm"
+  ],
+  "confusables": [
+   {
+    "term": "lark",
+    "zh": "雲雀（早鳥型）",
+    "note": "lark 早睡早起；owl 晚睡晚起"
+   }
+  ],
+  "illus": "chronotype",
+  "tf": {
+   "statement_zh": "在睡眠研究中，owl 型的人通常早睡早起。",
+   "answer": false,
+   "explain": "錯。owl（夜貓型）晚睡晚起；早睡早起的是 lark（雲雀型）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-stereotyping",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsteriəˌtaɪpɪŋ/",
+  "ipa_uk": "/ˈsteriətaɪpɪŋ/",
+  "syllables": "ster·e·o·typ·ing",
+  "def_en": "Judging people based on fixed, oversimplified beliefs about a group they belong to.",
+  "def_zh": "刻板化（形成刻板印象）：依據對某群體固定而過度簡化的看法來判斷個人。",
+  "example_en": "Stereotyping can lead to unfair treatment of others.",
+  "example_zh": "刻板化可能導致對他人的不公平對待。",
+  "morph": [
+   {
+    "part": "stereo-",
+    "meaning": "固定的、堅實的"
+   },
+   {
+    "part": "type",
+    "meaning": "類型"
+   }
+  ],
+  "related": [
+   "t-bias",
+   "t-halo-effect",
+   "t-misattribution"
+  ],
+  "confusables": [
+   {
+    "term": "prejudice",
+    "zh": "偏見",
+    "note": "刻板印象是對群體的看法；偏見還帶有負面的情感態度"
+   }
+  ],
+  "illus": "social-cognition",
+  "tf": {
+   "statement_zh": "刻板印象也可能是正面的，但仍然是過度簡化的看法。",
+   "answer": true,
+   "explain": "對。例如「某群人都很會讀書」也是刻板印象，忽略了個別差異。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-agonist",
+  "unit": "u02",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈæɡənɪst/",
+  "ipa_uk": "/ˈæɡənɪst/",
+  "syllables": "ag·o·nist",
+  "def_en": "A drug or chemical that binds to a receptor and activates it, copying a natural messenger.",
+  "def_zh": "促效劑：與受體結合並活化受體、模仿天然神經傳導物質作用的藥物或化學物質。",
+  "example_en": "Morphine is an agonist at opioid receptors.",
+  "example_zh": "嗎啡是鴉片類受體的促效劑。",
+  "morph": [
+   {
+    "part": "agon-",
+    "meaning": "競賽、行動"
+   },
+   {
+    "part": "-ist",
+    "meaning": "者"
+   }
+  ],
+  "related": [
+   "t-antagonist",
+   "t-psychoactive",
+   "t-reuptake"
+  ],
+  "confusables": [
+   {
+    "term": "antagonist",
+    "zh": "拮抗劑",
+    "note": "agonist 活化受體；antagonist 阻斷受體"
+   }
+  ],
+  "illus": "agonist-antagonist",
+  "tf": {
+   "statement_zh": "促效劑（agonist）會阻斷受體，使神經傳導物質無法作用。",
+   "answer": false,
+   "explain": "錯。促效劑會活化受體；阻斷受體的是拮抗劑。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-coronal",
+  "unit": "u03",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/kəˈroʊnl/",
+  "ipa_uk": "/kəˈrəʊnl/",
+  "syllables": "co·ro·nal",
+  "def_en": "Describing a vertical slice that divides the brain into front and back parts.",
+  "def_zh": "冠狀的：冠狀切面是垂直切面，把腦分成前、後兩部分。",
+  "example_en": "A coronal section shows both hemispheres side by side.",
+  "example_zh": "冠狀切面可以同時看到左右兩個半球。",
+  "morph": [
+   {
+    "part": "coron-",
+    "meaning": "冠、王冠"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-sagittal",
+   "t-anterior",
+   "t-posterior"
+  ],
+  "confusables": [
+   {
+    "term": "sagittal",
+    "zh": "矢狀的",
+    "note": "矢狀切面把腦分成左右；冠狀切面分成前後"
+   }
+  ],
+  "illus": "planes",
+  "tf": {
+   "statement_zh": "冠狀切面會把大腦分成左右兩半。",
+   "answer": false,
+   "explain": "錯。分成左右的是矢狀切面；冠狀切面分成前後。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-superior",
+  "unit": "u03",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/suːˈpɪriər/",
+  "ipa_uk": "/suːˈpɪəriə(r)/",
+  "syllables": "su·pe·ri·or",
+  "def_en": "In anatomy, located above or higher; in daily use, better than others.",
+  "def_zh": "上方的、上側的（解剖方位）；日常用法為較優秀的。注意：解剖學的「前」是 anterior。",
+  "example_en": "The superior colliculi help guide eye movements.",
+  "example_zh": "上丘協助引導眼球運動。",
+  "morph": [
+   {
+    "part": "super-",
+    "meaning": "在上"
+   },
+   {
+    "part": "-ior",
+    "meaning": "比較級字尾"
+   }
+  ],
+  "related": [
+   "t-inferior",
+   "t-superior-colliculi",
+   "t-superiority",
+   "t-anterior"
+  ],
+  "confusables": [
+   {
+    "term": "anterior",
+    "zh": "前側的",
+    "note": "superior 是上；anterior 是前"
+   }
+  ],
+  "illus": "directions",
+  "tf": {
+   "statement_zh": "在解剖學中，superior 的意思是「前方」。",
+   "answer": false,
+   "explain": "錯。superior 是「上方」；前方是 anterior。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-anterior",
+  "unit": "u03",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ænˈtɪriər/",
+  "ipa_uk": "/ænˈtɪəriə(r)/",
+  "syllables": "an·te·ri·or",
+  "def_en": "Located toward the front of the body or brain.",
+  "def_zh": "前側的、前方的（解剖方位）。",
+  "example_en": "The frontal lobe is in the anterior part of the brain.",
+  "example_zh": "額葉位於大腦的前方。",
+  "morph": [
+   {
+    "part": "ante-",
+    "meaning": "在前"
+   },
+   {
+    "part": "-ior",
+    "meaning": "比較級字尾"
+   }
+  ],
+  "related": [
+   "t-posterior",
+   "t-rostral",
+   "t-superior"
+  ],
+  "confusables": [
+   {
+    "term": "posterior",
+    "zh": "後側的",
+    "note": "anterior 在前；posterior 在後"
+   }
+  ],
+  "illus": "directions",
+  "tf": {
+   "statement_zh": "額葉位於大腦的 anterior（前方）部分。",
+   "answer": true,
+   "explain": "對。額葉是大腦最前方的腦葉。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-forebrain",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈfɔːrbreɪn/",
+  "ipa_uk": "/ˈfɔːbreɪn/",
+  "syllables": "fore·brain",
+  "def_en": "The front part of the developing brain, which becomes the cerebrum, thalamus and hypothalamus.",
+  "def_zh": "前腦：胚胎腦發育的前段，日後發展成端腦（大腦）與間腦（視丘、下視丘）。",
+  "example_en": "The forebrain is the largest part of the human brain.",
+  "example_zh": "前腦是人腦中最大的部分。",
+  "morph": [
+   {
+    "part": "fore-",
+    "meaning": "前面"
+   },
+   {
+    "part": "brain",
+    "meaning": "腦"
+   }
+  ],
+  "related": [
+   "t-hindbrain",
+   "t-telencephalon",
+   "t-diencephalon",
+   "t-mesencephalon"
+  ],
+  "confusables": [],
+  "illus": "brain-development",
+  "tf": {
+   "statement_zh": "小腦屬於前腦的一部分。",
+   "answer": false,
+   "explain": "錯。小腦屬於後腦，和橋腦、延髓一起。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-premotor",
+  "unit": "u04",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/priˈmoʊtər/",
+  "ipa_uk": "/priːˈməʊtə(r)/",
+  "syllables": "pre·mo·tor",
+  "def_en": "Describing the brain area just in front of the primary motor cortex that helps plan movements.",
+  "def_zh": "運動前的：運動前區位於初級運動皮質前方，負責規劃與準備動作。",
+  "example_en": "The premotor cortex is active when we prepare to reach for a cup.",
+  "example_zh": "當我們準備伸手拿杯子時，運動前皮質會活化。",
+  "morph": [
+   {
+    "part": "pre-",
+    "meaning": "在前"
+   },
+   {
+    "part": "motor",
+    "meaning": "運動"
+   }
+  ],
+  "related": [
+   "t-premotor-cortex",
+   "t-frontal",
+   "t-supplementary",
+   "t-apraxia"
+  ],
+  "confusables": [],
+  "illus": "cortex-areas",
+  "tf": {
+   "statement_zh": "運動前區位於額葉，在初級運動皮質的前方。",
+   "answer": true,
+   "explain": "對。premotor 的 pre- 正表示它位於運動皮質之前。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-prefrontal",
+  "unit": "u04",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/priˈfrʌntl/",
+  "ipa_uk": "/priːˈfrʌntl/",
+  "syllables": "pre·fron·tal",
+  "def_en": "Describing the very front part of the frontal lobe, important for planning, decisions and self-control.",
+  "def_zh": "前額葉的：位於額葉最前端，負責計畫、決策與自我控制等高階功能。",
+  "example_en": "The prefrontal cortex keeps developing into the mid-twenties.",
+  "example_zh": "前額葉皮質會持續發育到二十多歲中期。",
+  "morph": [
+   {
+    "part": "pre-",
+    "meaning": "在前"
+   },
+   {
+    "part": "front",
+    "meaning": "額、前"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-prefrontal-cortex",
+   "t-frontal",
+   "t-working-memory",
+   "t-orbitofrontal-cortex"
+  ],
+  "confusables": [],
+  "illus": "lobes",
+  "tf": {
+   "statement_zh": "前額葉皮質在青少年時期就已經完全發育成熟。",
+   "answer": false,
+   "explain": "錯。前額葉是最晚成熟的區域之一，約到二十多歲才發育完成。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-objectivity",
+  "unit": "u12",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌɑːbdʒekˈtɪvəti/",
+  "ipa_uk": "/ˌɒbdʒekˈtɪvəti/",
+  "syllables": "ob·jec·tiv·i·ty",
+  "def_en": "Judging based on facts rather than personal feelings or opinions.",
+  "def_zh": "客觀性：依據事實而非個人感受或意見來判斷；在測驗中指計分不受評分者主觀影響。",
+  "example_en": "Multiple-choice tests have high scoring objectivity.",
+  "example_zh": "選擇題測驗的計分客觀性很高。",
+  "morph": [
+   {
+    "part": "object",
+    "meaning": "客體、對象"
+   },
+   {
+    "part": "-ive",
+    "meaning": "形容詞字尾"
+   },
+   {
+    "part": "-ity",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-subjective-tests",
+   "t-reliability",
+   "t-rubrics"
+  ],
+  "confusables": [
+   {
+    "term": "subjectivity",
+    "zh": "主觀性",
+    "note": "主觀性受個人感受影響；客觀性以事實與一致標準判斷"
+   }
+  ],
+  "illus": "rubric",
+  "tf": {
+   "statement_zh": "選擇題的計分客觀性通常高於申論題。",
+   "answer": true,
+   "explain": "對。選擇題答案固定，不同評分者結果一致；申論題較受評分者主觀影響。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-ventricle",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈventrɪkl/",
+  "ipa_uk": "/ˈventrɪkl/",
+  "syllables": "ven·tri·cle",
+  "def_en": "A hollow space in the brain filled with cerebrospinal fluid, or a lower chamber of the heart.",
+  "def_zh": "腦室（充滿腦脊髓液的腔室）；也指心臟的心室。",
+  "example_en": "Cerebrospinal fluid is made in the ventricles of the brain.",
+  "example_zh": "腦脊髓液在腦室中產生。",
+  "morph": [
+   {
+    "part": "ventr-",
+    "meaning": "腹、腔"
+   },
+   {
+    "part": "-icle",
+    "meaning": "小（指小字尾）"
+   }
+  ],
+  "related": [
+   "t-meninges",
+   "t-arachnoid",
+   "t-brainstem"
+  ],
+  "confusables": [],
+  "illus": "ventricles",
+  "tf": {
+   "statement_zh": "腦室裡充滿血液。",
+   "answer": false,
+   "explain": "錯。腦室裡充滿的是腦脊髓液，不是血液。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-posterior",
+  "unit": "u03",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/pɑːˈstɪriər/",
+  "ipa_uk": "/pɒˈstɪəriə(r)/",
+  "syllables": "pos·te·ri·or",
+  "def_en": "Located toward the back of the body or brain.",
+  "def_zh": "後側的、後方的（解剖方位）。",
+  "example_en": "The occipital lobe is at the posterior end of the brain.",
+  "example_zh": "枕葉位於大腦的後端。",
+  "morph": [
+   {
+    "part": "post-",
+    "meaning": "在後"
+   },
+   {
+    "part": "-ior",
+    "meaning": "比較級字尾"
+   }
+  ],
+  "related": [
+   "t-anterior",
+   "t-caudal",
+   "t-occipital-lobe"
+  ],
+  "confusables": [
+   {
+    "term": "anterior",
+    "zh": "前側的",
+    "note": "posterior 在後；anterior 在前"
+   }
+  ],
+  "illus": "directions",
+  "tf": {
+   "statement_zh": "枕葉位於大腦的 posterior（後方）。",
+   "answer": true,
+   "explain": "對。枕葉在大腦最後方，負責視覺。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-hindbrain",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈhaɪndbreɪn/",
+  "ipa_uk": "/ˈhaɪndbreɪn/",
+  "syllables": "hind·brain",
+  "def_en": "The back part of the brain, including the cerebellum, pons and medulla.",
+  "def_zh": "後腦：包含小腦、橋腦與延髓，負責呼吸、心跳等基本功能與動作協調。",
+  "example_en": "The hindbrain controls basic life functions such as breathing.",
+  "example_zh": "後腦控制呼吸等基本生命功能。",
+  "morph": [
+   {
+    "part": "hind-",
+    "meaning": "後面的"
+   },
+   {
+    "part": "brain",
+    "meaning": "腦"
+   }
+  ],
+  "related": [
+   "t-forebrain",
+   "t-cerebellum",
+   "t-pons",
+   "t-medulla"
+  ],
+  "confusables": [],
+  "illus": "brain-development",
+  "tf": {
+   "statement_zh": "小腦、橋腦與延髓都屬於後腦。",
+   "answer": true,
+   "explain": "對。這三者都由胚胎的後腦發育而來。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-schizophrenia",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌskɪtsəˈfriːniə/",
+  "ipa_uk": "/ˌskɪtsəˈfriːniə/",
+  "syllables": "schiz·o·phre·ni·a",
+  "def_en": "A serious mental disorder involving hallucinations, delusions and disorganized thinking.",
+  "def_zh": "思覺失調症：一種嚴重的精神疾病，可能出現幻覺、妄想及思考混亂等症狀。",
+  "example_en": "Medicines that block dopamine receptors can reduce some symptoms of schizophrenia.",
+  "example_zh": "阻斷多巴胺受體的藥物可以減輕思覺失調症的部分症狀。",
+  "morph": [
+   {
+    "part": "schizo-",
+    "meaning": "分裂"
+   },
+   {
+    "part": "phren-",
+    "meaning": "心智"
+   },
+   {
+    "part": "-ia",
+    "meaning": "病症"
+   }
+  ],
+  "related": [
+   "t-psychosis",
+   "t-delusion",
+   "t-hallucination",
+   "t-dopamine"
+  ],
+  "confusables": [
+   {
+    "term": "dissociative identity disorder",
+    "zh": "解離性身分障礙",
+    "note": "俗稱的「多重人格」是解離性身分障礙，與思覺失調症不同"
+   }
+  ],
+  "illus": "mental-disorders",
+  "tf": {
+   "statement_zh": "思覺失調症就是「多重人格」。",
+   "answer": false,
+   "explain": "錯。思覺失調症的特徵是幻覺、妄想與思考混亂；多重人格是解離性身分障礙。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-antagonist",
+  "unit": "u02",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ænˈtæɡənɪst/",
+  "ipa_uk": "/ænˈtæɡənɪst/",
+  "syllables": "an·tag·o·nist",
+  "def_en": "A drug that binds to a receptor and blocks it, stopping the natural messenger from working.",
+  "def_zh": "拮抗劑：與受體結合後阻斷受體，使天然神經傳導物質無法發揮作用的藥物。",
+  "example_en": "Naloxone is an opioid antagonist used to treat overdoses.",
+  "example_zh": "納洛酮是鴉片類拮抗劑，可用於治療藥物過量。",
+  "morph": [
+   {
+    "part": "ant-",
+    "meaning": "對抗"
+   },
+   {
+    "part": "agon-",
+    "meaning": "競賽、行動"
+   },
+   {
+    "part": "-ist",
+    "meaning": "者"
+   }
+  ],
+  "related": [
+   "t-agonist",
+   "t-psychoactive",
+   "t-propranolol"
+  ],
+  "confusables": [
+   {
+    "term": "agonist",
+    "zh": "促效劑",
+    "note": "agonist 活化受體；antagonist 阻斷受體"
+   }
+  ],
+  "illus": "agonist-antagonist",
+  "tf": {
+   "statement_zh": "納洛酮（naloxone）是鴉片類受體的拮抗劑，可用於急救藥物過量。",
+   "answer": true,
+   "explain": "對。它佔據鴉片類受體並阻斷其作用，可逆轉過量。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-fornix",
+  "unit": "u05",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈfɔːrnɪks/",
+  "ipa_uk": "/ˈfɔːnɪks/",
+  "syllables": "for·nix",
+  "def_en": "An arch-shaped bundle of nerve fibers that carries signals from the hippocampus to other brain areas.",
+  "def_zh": "穹窿：呈拱形的神經纖維束，把海馬迴的訊息傳到乳狀體等部位，屬於邊緣系統。",
+  "example_en": "The fornix connects the hippocampus with the mammillary bodies.",
+  "example_zh": "穹窿連接海馬迴與乳狀體。",
+  "morph": [
+   {
+    "part": "fornix",
+    "meaning": "拱、拱門（拉丁文）"
+   }
+  ],
+  "related": [
+   "t-hippocampus",
+   "t-mammillary-bodies",
+   "t-white-matter"
+  ],
+  "confusables": [],
+  "illus": "limbic",
+  "tf": {
+   "statement_zh": "穹窿（fornix）是由神經元細胞體組成的神經核。",
+   "answer": false,
+   "explain": "錯。穹窿是一束神經纖維（白質），不是由細胞體組成的神經核。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-astrocyte",
+  "unit": "u01",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈæstrəsaɪt/",
+  "ipa_uk": "/ˈæstrəsaɪt/",
+  "syllables": "as·tro·cyte",
+  "def_en": "A star-shaped glial cell that supports neurons, supplies nutrients and helps form the blood-brain barrier.",
+  "def_zh": "星狀膠細胞：一種星形的神經膠細胞，支持神經元、供應養分並參與形成血腦障壁。",
+  "example_en": "An astrocyte can touch thousands of synapses.",
+  "example_zh": "一個星狀膠細胞可以接觸數千個突觸。",
+  "morph": [
+   {
+    "part": "astro-",
+    "meaning": "星星"
+   },
+   {
+    "part": "-cyte",
+    "meaning": "細胞"
+   }
+  ],
+  "related": [
+   "t-neuron",
+   "t-synapse",
+   "t-myelin"
+  ],
+  "confusables": [],
+  "illus": "glia",
+  "tf": {
+   "statement_zh": "星狀膠細胞是一種會發出動作電位的神經元。",
+   "answer": false,
+   "explain": "錯。星狀膠細胞是神經膠細胞，不像神經元那樣發出動作電位。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-transcranial",
+  "unit": "u11",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/trænsˈkreɪniəl/",
+  "ipa_uk": "/trænzˈkreɪniəl/",
+  "syllables": "trans·cra·ni·al",
+  "def_en": "Passing through the skull, such as brain stimulation applied from outside the head.",
+  "def_zh": "經顱的：穿過顱骨作用於大腦，例如經顱磁刺激（TMS）。",
+  "example_en": "Transcranial magnetic stimulation can briefly change activity in the motor cortex.",
+  "example_zh": "經顱磁刺激能短暫改變運動皮質的活動。",
+  "morph": [
+   {
+    "part": "trans-",
+    "meaning": "穿過"
+   },
+   {
+    "part": "crani-",
+    "meaning": "頭顱"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-cranium",
+   "t-cranial",
+   "t-cerebral-cortex"
+  ],
+  "confusables": [],
+  "illus": "tms",
+  "tf": {
+   "statement_zh": "經顱磁刺激必須開刀打開頭骨才能進行。",
+   "answer": false,
+   "explain": "錯。經顱磁刺激是非侵入性的，線圈放在頭皮外即可。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-synapse",
+  "unit": "u01",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈsɪnæps/",
+  "ipa_uk": "/ˈsaɪnæps/",
+  "syllables": "syn·apse",
+  "def_en": "The tiny junction where one neuron passes a signal to another cell, usually using chemicals.",
+  "def_zh": "突觸：神經元與另一個細胞傳遞訊息的接合處，多以神經傳導物質傳遞訊號。",
+  "example_en": "Neurotransmitters carry the signal across the synapse.",
+  "example_zh": "神經傳導物質把訊號傳過突觸。",
+  "morph": [
+   {
+    "part": "syn-",
+    "meaning": "一起"
+   },
+   {
+    "part": "-apse",
+    "meaning": "接合（希臘文 haptein）"
+   }
+  ],
+  "related": [
+   "t-presynaptic",
+   "t-neuron",
+   "t-reuptake",
+   "t-dendrite"
+  ],
+  "confusables": [],
+  "illus": "synapse",
+  "tf": {
+   "statement_zh": "神經元之間傳遞訊息的接合處叫做突觸。",
+   "answer": true,
+   "explain": "對。訊息在突觸處由突觸前細胞傳到突觸後細胞。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-presynaptic",
+  "unit": "u01",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˌpriːsɪˈnæptɪk/",
+  "ipa_uk": "/ˌpriːsɪˈnæptɪk/",
+  "syllables": "pre·syn·ap·tic",
+  "def_en": "Located before the synapse; the presynaptic neuron releases neurotransmitters.",
+  "def_zh": "突觸前的：位於突觸之前；突觸前神經元負責釋放神經傳導物質。",
+  "example_en": "The presynaptic terminal releases dopamine into the synapse.",
+  "example_zh": "突觸前末梢把多巴胺釋放到突觸中。",
+  "morph": [
+   {
+    "part": "pre-",
+    "meaning": "在前"
+   },
+   {
+    "part": "syn-",
+    "meaning": "一起"
+   },
+   {
+    "part": "-ic",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-synapse",
+   "t-reuptake",
+   "t-axon"
+  ],
+  "confusables": [
+   {
+    "term": "postsynaptic",
+    "zh": "突觸後的",
+    "note": "突觸前釋放神經傳導物質；突觸後以受體接收"
+   }
+  ],
+  "illus": "synapse",
+  "tf": {
+   "statement_zh": "突觸後神經元負責釋放神經傳導物質，突觸前神經元負責接收。",
+   "answer": false,
+   "explain": "錯。剛好相反：突觸前釋放，突觸後以受體接收。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-dementia",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/dɪˈmenʃə/",
+  "ipa_uk": "/dɪˈmenʃə/",
+  "syllables": "de·men·tia",
+  "def_en": "A group of brain conditions causing a lasting decline in memory, thinking and daily abilities.",
+  "def_zh": "失智症：一群使記憶、思考與日常生活能力持續退化的腦部疾病，以阿茲海默症最常見。",
+  "example_en": "Alzheimer's disease is the most common cause of dementia.",
+  "example_zh": "阿茲海默症是失智症最常見的原因。",
+  "morph": [
+   {
+    "part": "de-",
+    "meaning": "離開、失去"
+   },
+   {
+    "part": "ment-",
+    "meaning": "心智"
+   },
+   {
+    "part": "-ia",
+    "meaning": "病症"
+   }
+  ],
+  "related": [
+   "t-amnesia",
+   "t-parkinsons-disease",
+   "t-hippocampus",
+   "t-arteriosclerosis"
+  ],
+  "confusables": [
+   {
+    "term": "delirium",
+    "zh": "譫妄",
+    "note": "譫妄是急性、可逆的意識混亂；失智症是慢性、逐漸退化"
+   }
+  ],
+  "illus": "dementia",
+  "tf": {
+   "statement_zh": "失智症是正常老化的一部分，每位老人都會得。",
+   "answer": false,
+   "explain": "錯。失智症是疾病，不是正常老化；多數長者不會罹患。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-dorsal",
+  "unit": "u03",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ˈdɔːrsl/",
+  "ipa_uk": "/ˈdɔːsl/",
+  "syllables": "dor·sal",
+  "def_en": "Toward the back of the body, or the top of the brain; the opposite of ventral.",
+  "def_zh": "背側的：朝向身體背部；在大腦中指上方，與腹側 ventral 相對。",
+  "example_en": "The dorsal side of the brain faces the top of the head.",
+  "example_zh": "大腦的背側朝向頭頂。",
+  "morph": [
+   {
+    "part": "dors-",
+    "meaning": "背"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-ventral",
+   "t-ventromedial",
+   "t-rostral"
+  ],
+  "confusables": [
+   {
+    "term": "ventral",
+    "zh": "腹側的",
+    "note": "dorsal 朝背（腦中朝上）；ventral 朝腹（腦中朝下）"
+   }
+  ],
+  "illus": "directions",
+  "tf": {
+   "statement_zh": "在人類大腦中，dorsal 指朝向下方（下巴）的方向。",
+   "answer": false,
+   "explain": "錯。在大腦中 dorsal 指朝上（頭頂）；朝下是 ventral。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-peptides",
+  "unit": "u02",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈpeptaɪdz/",
+  "ipa_uk": "/ˈpeptaɪdz/",
+  "syllables": "pep·tides",
+  "def_en": "Short chains of amino acids; some act as hormones or brain messengers, like oxytocin.",
+  "def_zh": "胜肽：由少數胺基酸連成的短鏈；有些是荷爾蒙或神經胜肽，如催產素、腦內啡。",
+  "example_en": "Oxytocin and endorphins are peptides that act in the brain.",
+  "example_zh": "催產素和腦內啡都是在腦中作用的胜肽。",
+  "morph": [
+   {
+    "part": "pept-",
+    "meaning": "消化（希臘文 peptos）"
+   },
+   {
+    "part": "-ide",
+    "meaning": "化合物字尾"
+   }
+  ],
+  "related": [
+   "t-protein",
+   "t-oxytocin",
+   "t-endorphins",
+   "t-encephalin"
+  ],
+  "confusables": [
+   {
+    "term": "protein",
+    "zh": "蛋白質",
+    "note": "胜肽是較短的胺基酸鏈；蛋白質是較長、會摺疊的鏈"
+   }
+  ],
+  "illus": "hormones",
+  "tf": {
+   "statement_zh": "催產素是一種胜肽類荷爾蒙。",
+   "answer": true,
+   "explain": "對。催產素由九個胺基酸組成，屬於胜肽。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-tracks",
+  "unit": "u11",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/træks/",
+  "ipa_uk": "/træks/",
+  "syllables": "tracks",
+  "def_en": "Paths or marks left by something moving; in brain imaging, traced routes of nerve fibers.",
+  "def_zh": "軌道；足跡；小徑。在腦影像研究中也指追蹤出的神經纖維路徑（fiber tracks）。",
+  "example_en": "Brain scans can show the tracks of nerve fibers in white matter.",
+  "example_zh": "腦部掃描可以顯示白質中神經纖維的路徑。",
+  "morph": [],
+  "related": [
+   "t-white-matter",
+   "t-functional-imaging",
+   "t-axon"
+  ],
+  "confusables": [],
+  "illus": "imaging",
+  "tf": {
+   "statement_zh": "tracks 只能指火車鐵軌，沒有其他意思。",
+   "answer": false,
+   "explain": "錯。tracks 也可指足跡、小徑，或腦影像中追蹤出的神經纖維路徑。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-recycle",
+  "unit": "u02",
+  "level": 1,
+  "pos": "v.",
+  "ipa_us": "/ˌriːˈsaɪkl/",
+  "ipa_uk": "/ˌriːˈsaɪkl/",
+  "syllables": "re·cy·cle",
+  "def_en": "To use something again; neurons recycle neurotransmitters by taking them back after use.",
+  "def_zh": "回收再利用；神經元會透過再攝取，把釋放出去的神經傳導物質回收。",
+  "example_en": "Neurons recycle serotonin through reuptake.",
+  "example_zh": "神經元透過再攝取回收血清素。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "再"
+   },
+   {
+    "part": "cycle",
+    "meaning": "循環"
+   }
+  ],
+  "related": [
+   "t-reuptake",
+   "t-serotonin",
+   "t-synapse"
+  ],
+  "confusables": [],
+  "illus": "synapse",
+  "tf": {
+   "statement_zh": "再攝取（reuptake）可以讓神經元回收釋放出去的神經傳導物質。",
+   "answer": true,
+   "explain": "對。突觸前神經元把神經傳導物質吸回去重複使用。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-prosopagnosia",
+  "unit": "u06",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˌprɑːsəpæɡˈnoʊʒə/",
+  "ipa_uk": "/ˌprɒsəpæɡˈnəʊziə/",
+  "syllables": "pros·o·pag·no·si·a",
+  "def_en": "Face blindness; being unable to recognize familiar faces even though eyesight is normal.",
+  "def_zh": "臉盲症（面孔失認症）：視力正常，卻無法辨認熟悉的面孔，與梭狀回等區域有關。",
+  "example_en": "People with prosopagnosia may recognize friends by their voices instead.",
+  "example_zh": "臉盲症患者可能改用聲音來認出朋友。",
+  "morph": [
+   {
+    "part": "prosop-",
+    "meaning": "臉"
+   },
+   {
+    "part": "a-",
+    "meaning": "無"
+   },
+   {
+    "part": "-gnosia",
+    "meaning": "認識"
+   }
+  ],
+  "related": [
+   "t-agnosia",
+   "t-fusiform",
+   "t-recognition"
+  ],
+  "confusables": [],
+  "illus": "cortex-areas",
+  "tf": {
+   "statement_zh": "臉盲症患者的問題主要是眼睛視力不好。",
+   "answer": false,
+   "explain": "錯。他們視力通常正常，問題在大腦辨識臉孔的處理（如梭狀回）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-flight",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/flaɪt/",
+  "ipa_uk": "/flaɪt/",
+  "syllables": "flight",
+  "def_en": "The act of flying, or of running away; in 'fight or flight', escaping from danger.",
+  "def_zh": "飛行；逃離。在「戰或逃」（fight or flight）反應中指逃跑。",
+  "example_en": "The sympathetic nervous system prepares the body for fight or flight.",
+  "example_zh": "交感神經系統讓身體準備好戰鬥或逃跑。",
+  "morph": [],
+  "related": [
+   "t-sympathetic",
+   "t-adrenaline",
+   "t-amygdala"
+  ],
+  "confusables": [
+   {
+    "term": "fight",
+    "zh": "戰鬥",
+    "note": "fight 是迎戰；flight 是逃跑"
+   }
+  ],
+  "illus": "autonomic",
+  "tf": {
+   "statement_zh": "「戰或逃」反應主要由副交感神經系統啟動。",
+   "answer": false,
+   "explain": "錯。戰或逃反應由交感神經系統啟動；副交感負責休息與消化。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-revised",
+  "unit": "u12",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/rɪˈvaɪzd/",
+  "ipa_uk": "/rɪˈvaɪzd/",
+  "syllables": "re·vised",
+  "def_en": "Changed or updated to correct mistakes or improve something, like a new edition of a test.",
+  "def_zh": "修訂的：經過修改更新的，例如修訂版的測驗或常模。",
+  "example_en": "The school used the revised version of the aptitude test.",
+  "example_zh": "學校使用修訂版的性向測驗。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "再"
+   },
+   {
+    "part": "vis-",
+    "meaning": "看"
+   }
+  ],
+  "related": [
+   "t-test",
+   "t-local-norms",
+   "t-aptitude-test"
+  ],
+  "confusables": [],
+  "illus": "norms",
+  "tf": {
+   "statement_zh": "測驗修訂時，常會重新建立常模。",
+   "answer": true,
+   "explain": "對。時代與受試群體改變，修訂版常需重新取樣建立常模。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-mammalian",
+  "unit": "u05",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/məˈmeɪliən/",
+  "ipa_uk": "/məˈmeɪliən/",
+  "syllables": "mam·ma·li·an",
+  "def_en": "Relating to mammals, animals that have hair and feed their young with milk.",
+  "def_zh": "哺乳動物的。在「三位一體腦」比喻中，邊緣系統常被稱為「哺乳類腦」，但現代神經科學認為此說法過度簡化。",
+  "example_en": "The mammalian brain has a neocortex.",
+  "example_zh": "哺乳動物的腦具有新皮質。",
+  "morph": [
+   {
+    "part": "mamm-",
+    "meaning": "乳房"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   },
+   {
+    "part": "-ian",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-reptilian-brain",
+   "t-neocortex",
+   "t-hippocampus"
+  ],
+  "confusables": [],
+  "illus": "limbic",
+  "tf": {
+   "statement_zh": "所有哺乳動物都用乳汁哺育幼兒。",
+   "answer": true,
+   "explain": "對。分泌乳汁哺育幼兒是哺乳動物的共同特徵。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-ganglia",
+  "unit": "u05",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈɡæŋɡliə/",
+  "ipa_uk": "/ˈɡæŋɡliə/",
+  "syllables": "gan·gli·a",
+  "def_en": "Plural of ganglion; clusters of nerve cell bodies, as in the basal ganglia.",
+  "def_zh": "神經節（ganglion 的複數）；腦內的基底核（basal ganglia）則是一群參與動作控制的神經核團。",
+  "example_en": "The basal ganglia help control movement.",
+  "example_zh": "基底核協助控制動作。",
+  "morph": [],
+  "related": [
+   "t-ganglion",
+   "t-basal",
+   "t-striatum",
+   "t-parkinsons-disease"
+  ],
+  "confusables": [],
+  "illus": "basal-ganglia",
+  "tf": {
+   "statement_zh": "ganglia 是 ganglion 的複數形。",
+   "answer": true,
+   "explain": "對。ganglion 單數，ganglia 複數。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-checklist",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈtʃeklɪst/",
+  "ipa_uk": "/ˈtʃeklɪst/",
+  "syllables": "check·list",
+  "def_en": "A list of items or behaviors to tick off to see whether each one is present or done.",
+  "def_zh": "檢核表：列出項目或行為，逐一勾選是否出現或完成的評量工具。",
+  "example_en": "The teacher used a checklist to observe lab safety skills.",
+  "example_zh": "老師用檢核表觀察實驗安全技能。",
+  "morph": [
+   {
+    "part": "check",
+    "meaning": "檢查"
+   },
+   {
+    "part": "list",
+    "meaning": "清單"
+   }
+  ],
+  "related": [
+   "t-rubrics",
+   "t-assessment",
+   "t-anecdotal"
+  ],
+  "confusables": [
+   {
+    "term": "rubric",
+    "zh": "評分規準",
+    "note": "檢核表只勾「有／沒有」；評分規準分等級描述表現品質"
+   }
+  ],
+  "illus": "rubric",
+  "tf": {
+   "statement_zh": "檢核表通常會詳細描述每個表現等級的品質。",
+   "answer": false,
+   "explain": "錯。檢核表多只記錄有或沒有；分等級描述品質的是評分規準。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-hippocampus",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌhɪpəˈkæmpəs/",
+  "ipa_uk": "/ˌhɪpəˈkæmpəs/",
+  "syllables": "hip·po·cam·pus",
+  "def_en": "A seahorse-shaped brain structure that helps form new long-term memories and supports spatial navigation.",
+  "def_zh": "海馬迴：形狀像海馬的構造，負責把新經驗轉成長期記憶，也與空間導航有關。",
+  "example_en": "Patient H.M. lost much of his hippocampus on both sides and could not form new memories.",
+  "example_zh": "病人 H.M. 雙側海馬迴大部分被切除後，無法形成新的記憶。",
+  "morph": [
+   {
+    "part": "hippo-",
+    "meaning": "馬"
+   },
+   {
+    "part": "campus",
+    "meaning": "海怪（希臘文 kampos）"
+   }
+  ],
+  "related": [
+   "t-consolidation",
+   "t-amnesia",
+   "t-neurogenesis",
+   "t-entorhinal-cortex"
+  ],
+  "confusables": [],
+  "illus": "consolidation",
+  "tf": {
+   "statement_zh": "海馬迴受損常會影響形成新的長期記憶。",
+   "answer": true,
+   "explain": "對。海馬迴是記憶鞏固的關鍵，受損常造成順向失憶。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-feature",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈfiːtʃər/",
+  "ipa_uk": "/ˈfiːtʃə(r)/",
+  "syllables": "fea·ture",
+  "def_en": "An important part or quality of something; in perception, a basic element like a line, color or edge.",
+  "def_zh": "特徵；特色。在知覺研究中指線條、顏色、邊緣等基本元素。",
+  "example_en": "Some neurons in the visual cortex respond to a single feature, such as a line's angle.",
+  "example_zh": "視覺皮質中有些神經元只對單一特徵（如線條角度）反應。",
+  "morph": [],
+  "related": [
+   "t-pattern-matching",
+   "t-bottom-up",
+   "t-demon"
+  ],
+  "confusables": [],
+  "illus": "top-down",
+  "tf": {
+   "statement_zh": "視覺皮質中有些神經元只對特定角度的線條反應。",
+   "answer": true,
+   "explain": "對。Hubel 與 Wiesel 發現了這類對線條方向敏感的特徵偵測細胞。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-germ",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/dʒɜːrm/",
+  "ipa_uk": "/dʒɜːm/",
+  "syllables": "germ",
+  "def_en": "A tiny living thing, such as a bacterium or virus, that can cause disease; also the earliest stage of something.",
+  "def_zh": "病菌；微生物；也指胚芽、萌芽。",
+  "example_en": "Washing your hands stops you from passing a germ to others.",
+  "example_zh": "洗手可以避免把病菌傳給別人。",
+  "morph": [],
+  "related": [
+   "t-to-carry-germs",
+   "t-encephalitis"
+  ],
+  "confusables": [],
+  "illus": "everyday-words",
+  "tf": {
+   "statement_zh": "germ 只能指細菌，不能指胚芽或萌芽。",
+   "answer": false,
+   "explain": "錯。germ 也有胚芽、萌芽之意，例如 wheat germ（小麥胚芽）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-empathy",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈempəθi/",
+  "ipa_uk": "/ˈempəθi/",
+  "syllables": "em·pa·thy",
+  "def_en": "The ability to understand and share another person's feelings.",
+  "def_zh": "同理心：能理解並感受他人情緒的能力。",
+  "example_en": "Showing empathy helps friends feel understood.",
+  "example_zh": "展現同理心能讓朋友感到被理解。",
+  "morph": [
+   {
+    "part": "em-",
+    "meaning": "在內"
+   },
+   {
+    "part": "path-",
+    "meaning": "感受"
+   }
+  ],
+  "related": [
+   "t-emotion",
+   "t-theory-of-mind",
+   "t-prosocial"
+  ],
+  "confusables": [
+   {
+    "term": "sympathy",
+    "zh": "同情",
+    "note": "同情是為對方感到難過；同理是站在對方角度感受"
+   }
+  ],
+  "illus": "emotion",
+  "tf": {
+   "statement_zh": "empathy 和 sympathy 完全同義。",
+   "answer": false,
+   "explain": "錯。empathy 是感同身受；sympathy 是同情、為對方難過。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-neurons",
+  "unit": "u01",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈnʊrɑːnz/",
+  "ipa_uk": "/ˈnjʊərɒnz/",
+  "syllables": "neu·rons",
+  "def_en": "Nerve cells that send and receive electrical and chemical signals in the nervous system.",
+  "def_zh": "神經元（複數）：神經系統中接收與傳遞電與化學訊號的細胞。",
+  "example_en": "The human brain contains about 86 billion neurons.",
+  "example_zh": "人腦大約有 860 億個神經元。",
+  "morph": [
+   {
+    "part": "neur-",
+    "meaning": "神經"
+   },
+   {
+    "part": "-on",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-neuron",
+   "t-synapse",
+   "t-axon",
+   "t-dendrites"
+  ],
+  "confusables": [],
+  "illus": "neuron",
+  "tf": {
+   "statement_zh": "人腦大約有 860 億個神經元。",
+   "answer": true,
+   "explain": "對。目前常引用的估計約為 860 億個。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-neurosurgeon",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈnʊroʊsɜːrdʒən/",
+  "ipa_uk": "/ˈnjʊərəʊsɜːdʒən/",
+  "syllables": "neu·ro·sur·geon",
+  "def_en": "A doctor who performs operations on the brain, spinal cord and nerves.",
+  "def_zh": "神經外科醫師：為腦、脊髓與神經進行手術的醫師。",
+  "example_en": "A neurosurgeon may remove a small brain area that causes seizures.",
+  "example_zh": "神經外科醫師可能切除引起癲癇發作的小區域。",
+  "morph": [
+   {
+    "part": "neuro-",
+    "meaning": "神經"
+   },
+   {
+    "part": "surgeon",
+    "meaning": "外科醫師"
+   }
+  ],
+  "related": [
+   "t-resection",
+   "t-lesion",
+   "t-epilepsy"
+  ],
+  "confusables": [
+   {
+    "term": "neurologist",
+    "zh": "神經科醫師",
+    "note": "神經科醫師主要以檢查與藥物治療，不開刀"
+   }
+  ],
+  "illus": "brain-injury",
+  "tf": {
+   "statement_zh": "neurologist 與 neurosurgeon 都主要以開刀治療病人。",
+   "answer": false,
+   "explain": "錯。開刀的是 neurosurgeon；neurologist 主要以藥物與檢查治療。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-neuroscience",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈnʊroʊsaɪəns/",
+  "ipa_uk": "/ˈnjʊərəʊsaɪəns/",
+  "syllables": "neu·ro·sci·ence",
+  "def_en": "The scientific study of the nervous system, including the brain, and how it shapes behavior.",
+  "def_zh": "神經科學：研究神經系統（包括大腦）的構造、功能及其與行為關係的科學。",
+  "example_en": "Neuroscience shows that sleep helps the brain store memories.",
+  "example_zh": "神經科學顯示睡眠有助大腦儲存記憶。",
+  "morph": [
+   {
+    "part": "neuro-",
+    "meaning": "神經"
+   },
+   {
+    "part": "science",
+    "meaning": "科學"
+   }
+  ],
+  "related": [
+   "t-neuron",
+   "t-molecular-biology",
+   "t-functional-imaging"
+  ],
+  "confusables": [],
+  "illus": "research-method",
+  "tf": {
+   "statement_zh": "神經科學是結合生物、心理、化學等領域的跨領域學科。",
+   "answer": true,
+   "explain": "對。神經科學整合了多種學科來研究神經系統。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-nucleus",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈnuːkliəs/",
+  "ipa_uk": "/ˈnjuːkliəs/",
+  "syllables": "nu·cle·us",
+  "def_en": "In the brain, a cluster of neuron cell bodies; in a cell, the part holding DNA.",
+  "def_zh": "神經核：腦中一群神經元細胞體的集合；在細胞中則指存放 DNA 的細胞核。",
+  "example_en": "The caudate nucleus is part of the basal ganglia.",
+  "example_zh": "尾核是基底核的一部分。",
+  "morph": [
+   {
+    "part": "nucle-",
+    "meaning": "核、果仁"
+   }
+  ],
+  "related": [
+   "t-caudate-nucleus",
+   "t-ganglion",
+   "t-basal",
+   "t-dna-mutation"
+  ],
+  "confusables": [
+   {
+    "term": "ganglion",
+    "zh": "神經節",
+    "note": "nucleus 在中樞神經系統內；ganglion 多在中樞之外"
+   }
+  ],
+  "illus": "basal-ganglia",
+  "tf": {
+   "statement_zh": "在腦中，nucleus 指的是一群神經元細胞體。",
+   "answer": true,
+   "explain": "對。例如尾核、下視丘中的各個神經核。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-neuron",
+  "unit": "u01",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈnʊrɑːn/",
+  "ipa_uk": "/ˈnjʊərɒn/",
+  "syllables": "neu·ron",
+  "def_en": "A nerve cell that receives, processes and sends information using electrical and chemical signals.",
+  "def_zh": "神經元：神經系統的基本單位，以電與化學訊號接收、處理並傳送訊息。",
+  "example_en": "A neuron sends signals down its axon.",
+  "example_zh": "神經元沿著軸突傳送訊號。",
+  "morph": [
+   {
+    "part": "neur-",
+    "meaning": "神經"
+   },
+   {
+    "part": "-on",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-neurons",
+   "t-axon",
+   "t-dendrite",
+   "t-myelin"
+  ],
+  "confusables": [],
+  "illus": "neuron",
+  "tf": {
+   "statement_zh": "神經元的軸突主要負責接收其他神經元的訊號。",
+   "answer": false,
+   "explain": "錯。主要接收訊號的是樹突；軸突負責把訊號傳出去。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-neurogenesis",
+  "unit": "u08",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˌnʊroʊˈdʒenəsɪs/",
+  "ipa_uk": "/ˌnjʊərəʊˈdʒenəsɪs/",
+  "syllables": "neu·ro·gen·e·sis",
+  "def_en": "The process of making new neurons, which in adults may happen in the hippocampus.",
+  "def_zh": "神經新生：產生新神經元的過程；成人大腦中可能主要發生在海馬迴的齒狀回。",
+  "example_en": "Aerobic exercise may support neurogenesis in the hippocampus.",
+  "example_zh": "有氧運動可能促進海馬迴的神經新生。",
+  "morph": [
+   {
+    "part": "neuro-",
+    "meaning": "神經"
+   },
+   {
+    "part": "gen-",
+    "meaning": "產生"
+   },
+   {
+    "part": "-esis",
+    "meaning": "過程"
+   }
+  ],
+  "related": [
+   "t-hippocampus",
+   "t-dentate",
+   "t-aerobic-exercise",
+   "t-plasticity"
+  ],
+  "confusables": [],
+  "illus": "plasticity",
+  "tf": {
+   "statement_zh": "科學家已證明成年人的大腦完全不會產生新的神經元。",
+   "answer": false,
+   "explain": "錯。動物研究顯示成年海馬迴有神經新生；人類的程度仍在研究中，但並未被證明完全沒有。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-ganglion",
+  "unit": "u05",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈɡæŋɡliən/",
+  "ipa_uk": "/ˈɡæŋɡliən/",
+  "syllables": "gan·gli·on",
+  "def_en": "A cluster of nerve cell bodies, usually outside the brain and spinal cord.",
+  "def_zh": "神經節：一群神經元細胞體的集合，通常位於腦與脊髓之外（周邊神經系統）。",
+  "example_en": "A ganglion can relay signals in the autonomic nervous system.",
+  "example_zh": "神經節可以在自律神經系統中轉傳訊號。",
+  "morph": [],
+  "related": [
+   "t-ganglia",
+   "t-nucleus",
+   "t-autonomic"
+  ],
+  "confusables": [
+   {
+    "term": "nucleus",
+    "zh": "神經核",
+    "note": "nucleus 位於中樞神經系統內；ganglion 多位於中樞之外"
+   }
+  ],
+  "illus": "autonomic",
+  "tf": {
+   "statement_zh": "神經節通常位於中樞神經系統之外。",
+   "answer": true,
+   "explain": "對。中樞內的細胞體群多稱神經核；基底核（basal ganglia）是名稱上的例外。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-striatum",
+  "unit": "u05",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/straɪˈeɪtəm/",
+  "ipa_uk": "/straɪˈeɪtəm/",
+  "syllables": "stri·a·tum",
+  "def_en": "A part of the basal ganglia, made up of the caudate and putamen, involved in movement and reward.",
+  "def_zh": "紋狀體：基底核的一部分，由尾核與殼核組成，參與動作控制與獎賞學習。",
+  "example_en": "Dopamine loss in the striatum causes movement problems in Parkinson's disease.",
+  "example_zh": "紋狀體的多巴胺減少會造成帕金森氏症的動作問題。",
+  "morph": [
+   {
+    "part": "striat-",
+    "meaning": "有條紋的"
+   }
+  ],
+  "related": [
+   "t-putamen",
+   "t-caudate-nucleus",
+   "t-dopamine",
+   "t-parkinsons-disease"
+  ],
+  "confusables": [
+   {
+    "term": "striate",
+    "zh": "紋狀的",
+    "note": "striate cortex 是初級視覺皮質，與基底核的紋狀體不同"
+   }
+  ],
+  "illus": "basal-ganglia",
+  "tf": {
+   "statement_zh": "紋狀體主要由尾核與殼核組成。",
+   "answer": true,
+   "explain": "對。尾核與殼核合稱（背側）紋狀體。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-striate",
+  "unit": "u04",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˈstraɪeɪt/",
+  "ipa_uk": "/ˈstraɪeɪt/",
+  "syllables": "stri·ate",
+  "def_en": "Striped or marked with lines; the striate cortex is the primary visual cortex.",
+  "def_zh": "有條紋的；紋狀皮質（striate cortex）即位於枕葉的初級視覺皮質。",
+  "example_en": "The striate cortex in the occipital lobe receives visual input first.",
+  "example_zh": "枕葉的紋狀皮質最先接收視覺訊號。",
+  "morph": [
+   {
+    "part": "striat-",
+    "meaning": "有條紋的"
+   }
+  ],
+  "related": [
+   "t-striatum",
+   "t-occipital-lobe",
+   "t-primary-cortex"
+  ],
+  "confusables": [
+   {
+    "term": "striatum",
+    "zh": "紋狀體",
+    "note": "紋狀體屬基底核；紋狀皮質屬枕葉視覺區"
+   }
+  ],
+  "illus": "visual-pathway",
+  "tf": {
+   "statement_zh": "striate cortex 位於額葉，負責運動。",
+   "answer": false,
+   "explain": "錯。striate cortex 是枕葉的初級視覺皮質。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-callosum",
+  "unit": "u04",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/kəˈloʊsəm/",
+  "ipa_uk": "/kəˈləʊsəm/",
+  "syllables": "cal·lo·sum",
+  "def_en": "Latin for 'hard'; used in corpus callosum, the thick fiber band joining the two hemispheres.",
+  "def_zh": "胼胝（拉丁文「堅硬的」）；常用於 corpus callosum 胼胝體，即連接左右大腦半球的粗大神經纖維束。",
+  "example_en": "Surgeons sometimes cut the callosum to stop severe seizures from spreading.",
+  "example_zh": "外科醫師有時切開胼胝體，以阻止嚴重的癲癇發作擴散。",
+  "morph": [
+   {
+    "part": "call-",
+    "meaning": "硬皮、硬"
+   }
+  ],
+  "related": [
+   "t-corpus-callosum",
+   "t-corpus",
+   "t-hemisphere",
+   "t-white-matter"
+  ],
+  "confusables": [],
+  "illus": "hemispheres",
+  "tf": {
+   "statement_zh": "切開胼胝體的手術可用來治療部分嚴重的癲癇。",
+   "answer": true,
+   "explain": "對。胼胝體切開術可防止異常放電擴散到另一半球。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-corpus",
+  "unit": "u04",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈkɔːrpəs/",
+  "ipa_uk": "/ˈkɔːpəs/",
+  "syllables": "cor·pus",
+  "def_en": "Latin for 'body'; a collection of writings or data, or a body-like structure, as in corpus callosum.",
+  "def_zh": "拉丁文「體」；可指文集、語料庫，或解剖學上的「體」，如 corpus callosum 胼胝體。",
+  "example_en": "The corpus callosum lets the two hemispheres share information.",
+  "example_zh": "胼胝體讓左右兩個半球互相交換訊息。",
+  "morph": [
+   {
+    "part": "corp-",
+    "meaning": "身體"
+   }
+  ],
+  "related": [
+   "t-corpus-callosum",
+   "t-callosum",
+   "t-hemisphere"
+  ],
+  "confusables": [
+   {
+    "term": "corpse",
+    "zh": "屍體",
+    "note": "corpse 是屍體；corpus 是體、文集"
+   }
+  ],
+  "illus": "hemispheres",
+  "tf": {
+   "statement_zh": "corpus 在拉丁文中是「身體」的意思。",
+   "answer": true,
+   "explain": "對。corpus 源自拉丁文「身體」。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-remembrance",
+  "unit": "u08",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/rɪˈmembrəns/",
+  "ipa_uk": "/rɪˈmembrəns/",
+  "syllables": "re·mem·brance",
+  "def_en": "The act of remembering someone or something, or a thing that helps you remember.",
+  "def_zh": "記憶；回憶；紀念：想起某人或某事，或用來紀念的事物。",
+  "example_en": "The photo album was a remembrance of her school days.",
+  "example_zh": "那本相簿是她學生時代的紀念。",
+  "morph": [
+   {
+    "part": "re-",
+    "meaning": "再"
+   },
+   {
+    "part": "member",
+    "meaning": "記得（拉丁文 memor）"
+   },
+   {
+    "part": "-ance",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-human-memory",
+   "t-forget",
+   "t-explicit-memory"
+  ],
+  "confusables": [],
+  "illus": "memory-model",
+  "tf": {
+   "statement_zh": "remembrance 的意思是忘記。",
+   "answer": false,
+   "explain": "錯。remembrance 是回憶、紀念，與忘記相反。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-amnesia",
+  "unit": "u08",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/æmˈniːʒə/",
+  "ipa_uk": "/æmˈniːziə/",
+  "syllables": "am·ne·sia",
+  "def_en": "Loss of memory, often caused by brain injury, illness or emotional shock.",
+  "def_zh": "失憶症：因腦傷、疾病或心理創傷造成的記憶喪失。",
+  "example_en": "Patients with anterograde amnesia cannot form new memories.",
+  "example_zh": "順向失憶症患者無法形成新的記憶。",
+  "morph": [
+   {
+    "part": "a-",
+    "meaning": "無"
+   },
+   {
+    "part": "mnes-",
+    "meaning": "記憶"
+   }
+  ],
+  "related": [
+   "t-anterograde",
+   "t-hippocampus",
+   "t-explicit-memory",
+   "t-implicit-memory"
+  ],
+  "confusables": [
+   {
+    "term": "anomia",
+    "zh": "失名症",
+    "note": "失名症是叫不出名稱；失憶症是失去記憶"
+   }
+  ],
+  "illus": "memory-model",
+  "tf": {
+   "statement_zh": "順向失憶症患者通常仍能學會新的動作技能。",
+   "answer": true,
+   "explain": "對。如 H.M. 能練會鏡像描圖，因內隱記憶仍保留。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-psychedelic",
+  "unit": "u02",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˌsaɪkəˈdelɪk/",
+  "ipa_uk": "/ˌsaɪkəˈdelɪk/",
+  "syllables": "psy·che·del·ic",
+  "def_en": "Describing drugs, like LSD, that strongly change perception and thinking, often causing hallucinations.",
+  "def_zh": "迷幻的；迷幻藥：會強烈改變知覺與思考、常引起幻覺的藥物，如 LSD。",
+  "example_en": "Psychedelic drugs mainly act on serotonin receptors.",
+  "example_zh": "迷幻藥主要作用在血清素受體上。",
+  "morph": [
+   {
+    "part": "psyche-",
+    "meaning": "心靈"
+   },
+   {
+    "part": "-delic",
+    "meaning": "顯現（希臘文 dēloun）"
+   }
+  ],
+  "related": [
+   "t-psychoactive",
+   "t-hallucination",
+   "t-serotonin"
+  ],
+  "confusables": [],
+  "illus": "drugs",
+  "tf": {
+   "statement_zh": "典型迷幻藥主要作用於血清素受體。",
+   "answer": true,
+   "explain": "對。LSD、裸蓋菇素等主要作用於 5-HT2A 血清素受體。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-hypothesis",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/haɪˈpɑːθəsɪs/",
+  "ipa_uk": "/haɪˈpɒθəsɪs/",
+  "syllables": "hy·poth·e·sis",
+  "def_en": "A possible explanation that can be tested by experiments or observation.",
+  "def_zh": "假說：可以透過實驗或觀察加以檢驗的暫定解釋。",
+  "example_en": "Her hypothesis was that sleep improves memory.",
+  "example_zh": "她的假說是睡眠能改善記憶。",
+  "morph": [
+   {
+    "part": "hypo-",
+    "meaning": "在下"
+   },
+   {
+    "part": "thesis",
+    "meaning": "放置、論點"
+   }
+  ],
+  "related": [
+   "t-measurement",
+   "t-construct",
+   "t-cross-validation"
+  ],
+  "confusables": [
+   {
+    "term": "theory",
+    "zh": "理論",
+    "note": "假說是待檢驗的猜想；理論是經大量證據支持的解釋體系"
+   }
+  ],
+  "illus": "research-method",
+  "tf": {
+   "statement_zh": "一個假說一旦提出，就代表已經被證明是正確的。",
+   "answer": false,
+   "explain": "錯。假說需要經過實驗或觀察檢驗，可能被支持也可能被推翻。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-tendency",
+  "unit": "u12",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈtendənsi/",
+  "ipa_uk": "/ˈtendənsi/",
+  "syllables": "ten·den·cy",
+  "def_en": "A likelihood to act in a certain way; in statistics, central tendency describes a typical score.",
+  "def_zh": "傾向；趨勢。在統計中「集中趨勢」（central tendency）指平均數等代表一組分數中心的量數。",
+  "example_en": "The mean is a measure of central tendency.",
+  "example_zh": "平均數是一種集中趨勢量數。",
+  "morph": [
+   {
+    "part": "tend",
+    "meaning": "趨向"
+   },
+   {
+    "part": "-ency",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-mean",
+   "t-distribution",
+   "t-bias"
+  ],
+  "confusables": [],
+  "illus": "normal-curve",
+  "tf": {
+   "statement_zh": "平均數是一種集中趨勢量數。",
+   "answer": true,
+   "explain": "對。平均數、中位數、眾數都是集中趨勢量數。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-bias",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈbaɪəs/",
+  "ipa_uk": "/ˈbaɪəs/",
+  "syllables": "bi·as",
+  "def_en": "An unfair preference for or against something; in testing, a systematic error that favors some groups.",
+  "def_zh": "偏見；偏誤：不公平地偏向或反對某事；在測驗中指系統性地使某些群體得分偏高或偏低的誤差。",
+  "example_en": "Test makers check items for cultural bias.",
+  "example_zh": "測驗編製者會檢查題目是否有文化偏誤。",
+  "morph": [],
+  "related": [
+   "t-stereotyping",
+   "t-validity",
+   "t-representative-sample",
+   "t-misattribution"
+  ],
+  "confusables": [],
+  "illus": "social-cognition",
+  "tf": {
+   "statement_zh": "測驗偏誤只會隨機出現，不會系統性地影響特定群體。",
+   "answer": false,
+   "explain": "錯。偏誤（bias）正是系統性誤差，會一致地影響某些群體。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-profile",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈproʊfaɪl/",
+  "ipa_uk": "/ˈprəʊfaɪl/",
+  "syllables": "pro·file",
+  "def_en": "A side view of a face; also a description or chart showing a person's scores or features.",
+  "def_zh": "側面；側影。在測驗中指剖面圖，呈現一個人在各分測驗上的分數高低。",
+  "example_en": "The aptitude test gives each student a score profile.",
+  "example_zh": "性向測驗為每位學生提供分數剖面圖。",
+  "morph": [
+   {
+    "part": "pro-",
+    "meaning": "向前"
+   },
+   {
+    "part": "-file",
+    "meaning": "線條（義大利文 filo）"
+   }
+  ],
+  "related": [
+   "t-aptitude-test",
+   "t-personality-inventory",
+   "t-t-score"
+  ],
+  "confusables": [],
+  "illus": "questionnaire",
+  "tf": {
+   "statement_zh": "測驗剖面圖可以顯示學生在各項能力上的相對強弱。",
+   "answer": true,
+   "explain": "對。剖面圖把各分測驗分數並列，方便比較強弱項。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-lateral",
+  "unit": "u03",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ˈlætərəl/",
+  "ipa_uk": "/ˈlætərəl/",
+  "syllables": "lat·er·al",
+  "def_en": "Located toward the side, away from the middle line of the body or brain.",
+  "def_zh": "外側的：遠離身體或大腦中線、朝向兩側的方向，與內側 medial 相對。",
+  "example_en": "The temporal lobe lies on the lateral side of the brain.",
+  "example_zh": "顳葉位於大腦的外側。",
+  "morph": [
+   {
+    "part": "later-",
+    "meaning": "側邊"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-medial",
+   "t-bilateral",
+   "t-unilateral",
+   "t-ipsilateral"
+  ],
+  "confusables": [
+   {
+    "term": "medial",
+    "zh": "內側的",
+    "note": "medial 靠近中線；lateral 遠離中線"
+   }
+  ],
+  "illus": "directions",
+  "tf": {
+   "statement_zh": "lateral 指靠近中線的方向。",
+   "answer": false,
+   "explain": "錯。靠近中線是 medial；lateral 是遠離中線、朝向兩側。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-parasympathetic",
+  "unit": "u07",
+  "level": 3,
+  "pos": "adj.",
+  "ipa_us": "/ˌpærəˌsɪmpəˈθetɪk/",
+  "ipa_uk": "/ˌpærəˌsɪmpəˈθetɪk/",
+  "syllables": "par·a·sym·pa·thet·ic",
+  "def_en": "Describing the part of the autonomic nervous system that calms the body and supports rest and digestion.",
+  "def_zh": "副交感的：自律神經系統中負責「休息與消化」、使身體放鬆的部分。",
+  "example_en": "The parasympathetic system slows your heart rate after danger passes.",
+  "example_zh": "危險過後，副交感神經系統會讓心跳變慢。",
+  "morph": [
+   {
+    "part": "para-",
+    "meaning": "旁邊"
+   },
+   {
+    "part": "sym-",
+    "meaning": "一起"
+   },
+   {
+    "part": "path-",
+    "meaning": "感受"
+   }
+  ],
+  "related": [
+   "t-sympathetic",
+   "t-autonomic",
+   "t-heartbeat"
+  ],
+  "confusables": [
+   {
+    "term": "sympathetic",
+    "zh": "交感的",
+    "note": "交感負責戰或逃；副交感負責休息與消化"
+   }
+  ],
+  "illus": "autonomic",
+  "tf": {
+   "statement_zh": "副交感神經會讓心跳加快、瞳孔放大。",
+   "answer": false,
+   "explain": "錯。那是交感神經的作用；副交感神經使心跳變慢、瞳孔縮小。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-arteriosclerosis",
+  "unit": "u10",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ɑːrˌtɪrioʊskləˈroʊsɪs/",
+  "ipa_uk": "/ɑːˌtɪəriəʊskləˈrəʊsɪs/",
+  "syllables": "ar·te·ri·o·scle·ro·sis",
+  "def_en": "Hardening and thickening of the artery walls, which can reduce blood flow to the brain.",
+  "def_zh": "動脈硬化：動脈管壁變硬、變厚，可能減少腦部血流，增加中風與血管性失智症的風險。",
+  "example_en": "Arteriosclerosis raises the risk of stroke.",
+  "example_zh": "動脈硬化會提高中風的風險。",
+  "morph": [
+   {
+    "part": "arteri-",
+    "meaning": "動脈"
+   },
+   {
+    "part": "scler-",
+    "meaning": "硬"
+   },
+   {
+    "part": "-osis",
+    "meaning": "病變"
+   }
+  ],
+  "related": [
+   "t-dementia",
+   "t-blood-of-the-brain",
+   "t-aerobic-exercise"
+  ],
+  "confusables": [],
+  "illus": "brain-injury",
+  "tf": {
+   "statement_zh": "動脈硬化會增加中風的風險。",
+   "answer": true,
+   "explain": "對。血管變硬變窄，容易阻塞或破裂而導致中風。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-questionnaire",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌkwestʃəˈner/",
+  "ipa_uk": "/ˌkwestʃəˈneə(r)/",
+  "syllables": "ques·tion·naire",
+  "def_en": "A set of written questions used to collect information or opinions from people.",
+  "def_zh": "問卷：一組書面問題，用來蒐集人們的資料或意見。",
+  "example_en": "Students filled out a questionnaire about their sleep habits.",
+  "example_zh": "學生填寫了一份關於睡眠習慣的問卷。",
+  "morph": [
+   {
+    "part": "question",
+    "meaning": "問題"
+   },
+   {
+    "part": "-aire",
+    "meaning": "名詞字尾（法文）"
+   }
+  ],
+  "related": [
+   "t-self-report",
+   "t-personality-inventory",
+   "t-leading-question"
+  ],
+  "confusables": [],
+  "illus": "questionnaire",
+  "tf": {
+   "statement_zh": "問卷中的誘導性問題可能使答案產生偏差。",
+   "answer": true,
+   "explain": "對。誘導性問題（leading question）會暗示答案，影響作答。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-genentech",
+  "unit": "u11",
+  "level": 3,
+  "pos": "proper n.",
+  "ipa_us": "/ˈdʒenəntek/",
+  "ipa_uk": "/ˈdʒenəntek/",
+  "syllables": "Gen·en·tech",
+  "def_en": "An American biotechnology company, founded in 1976, that makes medicines using genetic engineering.",
+  "def_zh": "基因泰克：1976 年成立於美國的生物科技公司，以基因工程技術開發藥物，現為羅氏集團成員。",
+  "example_en": "Genentech was one of the first biotechnology companies.",
+  "example_zh": "基因泰克是最早的生物科技公司之一。",
+  "morph": [
+   {
+    "part": "Gen-",
+    "meaning": "genetic 基因的"
+   },
+   {
+    "part": "-en-",
+    "meaning": "engineering 工程"
+   },
+   {
+    "part": "-tech",
+    "meaning": "technology 技術"
+   }
+  ],
+  "related": [
+   "t-molecular-biology",
+   "t-dna-mutation",
+   "t-molecular-geneticist"
+  ],
+  "confusables": [],
+  "illus": "genetics",
+  "tf": {
+   "statement_zh": "Genentech 是一家生產電腦晶片的科技公司。",
+   "answer": false,
+   "explain": "錯。Genentech 是以基因工程開發藥物的生物科技公司。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-schema",
+  "unit": "u09",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈskiːmə/",
+  "ipa_uk": "/ˈskiːmə/",
+  "syllables": "sche·ma",
+  "def_en": "A mental framework that organizes knowledge and helps us understand new information.",
+  "def_zh": "基模：大腦中組織知識的心智架構，幫助理解與記憶新資訊；也可指概要、綱要。",
+  "example_en": "Your restaurant schema tells you to order before you eat.",
+  "example_zh": "你對餐廳的基模告訴你要先點餐再用餐。",
+  "morph": [],
+  "related": [
+   "t-top-down",
+   "t-cognition",
+   "t-pattern-matching"
+  ],
+  "confusables": [],
+  "illus": "top-down",
+  "tf": {
+   "statement_zh": "基模會影響我們如何理解與記住新資訊。",
+   "answer": true,
+   "explain": "對。基模提供由上而下的預期，影響理解與記憶。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-basal",
+  "unit": "u05",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/ˈbeɪsl/",
+  "ipa_uk": "/ˈbeɪsl/",
+  "syllables": "ba·sal",
+  "def_en": "Forming or located at the base or bottom of something, as in the basal ganglia.",
+  "def_zh": "基部的；基礎的：位於底部或作為基礎，如基底核（basal ganglia）、基礎代謝率。",
+  "example_en": "The basal ganglia lie deep beneath the cerebral cortex.",
+  "example_zh": "基底核位於大腦皮質下方的深處。",
+  "morph": [
+   {
+    "part": "bas-",
+    "meaning": "基礎、底部"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-ganglia",
+   "t-striatum",
+   "t-globus"
+  ],
+  "confusables": [],
+  "illus": "basal-ganglia",
+  "tf": {
+   "statement_zh": "基底核（basal ganglia）位於大腦皮質表面。",
+   "answer": false,
+   "explain": "錯。基底核位於大腦深處，屬於皮質下構造。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-columnist",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈkɑːləmnɪst/",
+  "ipa_uk": "/ˈkɒləmnɪst/",
+  "syllables": "col·um·nist",
+  "def_en": "A writer who regularly writes articles for a newspaper or magazine column.",
+  "def_zh": "專欄作家：定期為報紙或雜誌專欄撰寫文章的人。",
+  "example_en": "The science columnist wrote about how sleep affects the brain.",
+  "example_zh": "那位科學專欄作家寫了睡眠如何影響大腦的文章。",
+  "morph": [
+   {
+    "part": "column",
+    "meaning": "專欄、柱"
+   },
+   {
+    "part": "-ist",
+    "meaning": "者"
+   }
+  ],
+  "related": [
+   "t-critiques",
+   "t-fast-company"
+  ],
+  "confusables": [],
+  "illus": "everyday-words",
+  "tf": {
+   "statement_zh": "columnist 是指負責設計建築柱子的人。",
+   "answer": false,
+   "explain": "錯。columnist 是報章雜誌的專欄作家。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-emotion",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ɪˈmoʊʃn/",
+  "ipa_uk": "/ɪˈməʊʃn/",
+  "syllables": "e·mo·tion",
+  "def_en": "A strong feeling, such as joy, fear or anger, with changes in the body and brain.",
+  "def_zh": "情緒：如快樂、恐懼、憤怒等強烈感受，伴隨身體與大腦的變化。",
+  "example_en": "The amygdala plays a key role in emotion.",
+  "example_zh": "杏仁核在情緒中扮演關鍵角色。",
+  "morph": [
+   {
+    "part": "e-",
+    "meaning": "向外"
+   },
+   {
+    "part": "mot-",
+    "meaning": "移動"
+   }
+  ],
+  "related": [
+   "t-amygdala",
+   "t-empathy",
+   "t-anxiety",
+   "t-cingulate"
+  ],
+  "confusables": [],
+  "illus": "emotion",
+  "tf": {
+   "statement_zh": "情緒只發生在腦中，與身體反應無關。",
+   "answer": false,
+   "explain": "錯。情緒常伴隨心跳、呼吸、荷爾蒙等身體變化。"
+  },
+  "confidence": "high"
+ }
+]

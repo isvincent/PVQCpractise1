@@ -1,0 +1,3337 @@
+[
+ {
+  "id": "t-flow",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n./v.",
+  "ipa_us": "/floʊ/",
+  "ipa_uk": "/fləʊ/",
+  "syllables": "flow",
+  "def_en": "The movement of a fluid such as water, air, or lava from one place to another.",
+  "def_zh": "流體（水、空氣、熔岩等）由一處移動到另一處的現象；在潮汐中也可指漲潮時的水流。",
+  "example_en": "The flow of the river becomes much faster during the plum rain season.",
+  "example_zh": "梅雨季期間，河水的流動變得快很多。",
+  "morph": [],
+  "related": [
+   "t-current",
+   "t-runoff",
+   "t-flood-tide",
+   "t-airflow"
+  ],
+  "confusables": [
+   {
+    "term": "current",
+    "zh": "流；海流",
+    "note": "current 多指持續朝固定方向的水流或海流，flow 是泛指流動"
+   }
+  ],
+  "illus": "river-landforms",
+  "tf": {
+   "statement_zh": "flow 在海洋學中只能指退潮。",
+   "answer": false,
+   "explain": "flow 泛指流體的流動，在潮汐用語中反而常與漲潮（flood/flow tide）相關，並非只指退潮。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-flood",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n./v.",
+  "ipa_us": "/flʌd/",
+  "ipa_uk": "/flʌd/",
+  "syllables": "flood",
+  "def_en": "An overflow of water onto land that is normally dry, often after heavy rain or a typhoon.",
+  "def_zh": "水位上漲而漫溢到平時乾燥的陸地上，常由颱風或豪雨造成；氾濫平原就是河流洪水反覆堆積而成。",
+  "example_en": "The typhoon brought a flood that covered the low-lying farmland in Yilan.",
+  "example_zh": "颱風帶來的洪水淹沒了宜蘭的低窪農田。",
+  "morph": [],
+  "related": [
+   "t-flood-plain",
+   "t-flood-peak",
+   "t-extremely-heavy-rain",
+   "t-typhoon"
+  ],
+  "confusables": [
+   {
+    "term": "flood tide",
+    "zh": "漲潮",
+    "note": "flood tide 是潮汐中的漲潮，不是洪水"
+   }
+  ],
+  "illus": "river-landforms",
+  "tf": {
+   "statement_zh": "都市化使不透水地面增加，可能讓洪峰更快、更高。",
+   "answer": true,
+   "explain": "不透水面使雨水難以入滲，逕流迅速匯集，洪峰提早出現且流量增大。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-fault",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/fɔːlt/",
+  "ipa_uk": "/fɔːlt/",
+  "syllables": "fault",
+  "def_en": "A fracture in rock along which the blocks on either side have moved relative to each other.",
+  "def_zh": "斷層：岩層破裂面兩側的岩塊沿破裂面發生相對位移的構造；1999 年 921 地震即由車籠埔斷層錯動造成。",
+  "example_en": "The 921 earthquake was caused by sudden movement along the Chelungpu fault.",
+  "example_zh": "921 地震是由車籠埔斷層突然錯動所引起的。",
+  "morph": [],
+  "related": [
+   "t-joint",
+   "t-fracture",
+   "t-earthquake",
+   "t-host"
+  ],
+  "confusables": [
+   {
+    "term": "joint",
+    "zh": "節理",
+    "note": "節理是岩石中沒有明顯位移的裂隙；有明顯位移的才是斷層"
+   }
+  ],
+  "illus": "faults",
+  "tf": {
+   "statement_zh": "斷層與節理的主要差別在於斷層兩側的岩塊有明顯相對位移。",
+   "answer": true,
+   "explain": "節理只是裂開，斷層則兩側岩塊沿破裂面發生錯動。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-evolution",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌevəˈluːʃən/",
+  "ipa_uk": "/ˌiːvəˈluːʃən/",
+  "syllables": "ev·o·lu·tion",
+  "def_en": "The gradual change of living things over many generations, recorded by fossils in rock layers.",
+  "def_zh": "生物經過許多世代逐漸改變的過程；地層中依序出現的化石提供了演化的重要證據。",
+  "example_en": "Fossils from different rock layers show the evolution of life over millions of years.",
+  "example_zh": "不同地層中的化石顯示了生命在數百萬年間的演化。",
+  "morph": [
+   {
+    "part": "e-",
+    "meaning": "向外"
+   },
+   {
+    "part": "volv/volu",
+    "meaning": "捲動、展開"
+   }
+  ],
+  "related": [
+   "t-fossil",
+   "t-faunal",
+   "t-trilobite",
+   "t-succession"
+  ],
+  "confusables": [],
+  "illus": "fossils",
+  "tf": {
+   "statement_zh": "越下層（越老）的地層中，化石通常越接近現生物種。",
+   "answer": false,
+   "explain": "依疊置定律，越上層越年輕，所含化石才越接近現生物種。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-evaporation",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ɪˌvæpəˈreɪʃən/",
+  "ipa_uk": "/ɪˌvæpəˈreɪʃən/",
+  "syllables": "e·vap·o·ra·tion",
+  "def_en": "The change of liquid water into water vapor, mainly powered by energy from the Sun.",
+  "def_zh": "液態水吸收熱量變成水氣的過程，是水循環中水由地表進入大氣的主要途徑。",
+  "example_en": "Strong sunshine and wind increase evaporation from the ocean surface.",
+  "example_zh": "強烈的日照和風會增加海面的蒸發。",
+  "morph": [
+   {
+    "part": "e-",
+    "meaning": "向外"
+   },
+   {
+    "part": "vapor",
+    "meaning": "蒸氣"
+   },
+   {
+    "part": "-ation",
+    "meaning": "作用、過程"
+   }
+  ],
+  "related": [
+   "t-water-cycle",
+   "t-condensation",
+   "t-water-vapor",
+   "t-humidity"
+  ],
+  "confusables": [
+   {
+    "term": "condensation",
+    "zh": "凝結",
+    "note": "凝結是水氣變回液態水，與蒸發方向相反"
+   }
+  ],
+  "illus": "water-cycle",
+  "tf": {
+   "statement_zh": "蒸發作用會釋放潛熱，使周圍空氣增溫。",
+   "answer": false,
+   "explain": "蒸發需要吸收潛熱；釋放潛熱的是凝結作用。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-erosion",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ɪˈroʊʒən/",
+  "ipa_uk": "/ɪˈrəʊʒən/",
+  "syllables": "e·ro·sion",
+  "def_en": "The wearing away and removal of rock and soil by water, wind, ice, or waves.",
+  "def_zh": "侵蝕：流水、風、冰川或波浪將岩石與土壤磨蝕並帶離原地的作用。",
+  "example_en": "Wave erosion has carved a wide platform along the coast of Yehliu.",
+  "example_zh": "波浪侵蝕在野柳海岸刻出了寬廣的平台。",
+  "morph": [
+   {
+    "part": "e-",
+    "meaning": "向外"
+   },
+   {
+    "part": "rod/ros",
+    "meaning": "啃、咬"
+   }
+  ],
+  "related": [
+   "t-weathering",
+   "t-transportation",
+   "t-deposition",
+   "t-wave-cut-platform"
+  ],
+  "confusables": [
+   {
+    "term": "weathering",
+    "zh": "風化",
+    "note": "風化是岩石在原地破碎分解；侵蝕則包含把物質帶走"
+   }
+  ],
+  "illus": "weathering-erosion",
+  "tf": {
+   "statement_zh": "侵蝕作用強調岩屑或土壤被搬離原地。",
+   "answer": true,
+   "explain": "侵蝕包含磨蝕與移除，與在原地發生的風化不同。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-era",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈɪrə/",
+  "ipa_uk": "/ˈɪərə/",
+  "syllables": "e·ra",
+  "def_en": "A major division of geologic time, longer than a period and shorter than an eon.",
+  "def_zh": "地質年代單位「代」，位階在宙之下、紀之上，例如古生代、中生代、新生代。",
+  "example_en": "Dinosaurs lived during the Mesozoic era.",
+  "example_zh": "恐龍生存於中生代。",
+  "morph": [],
+  "related": [
+   "t-eon",
+   "t-epoch",
+   "t-mesozoic",
+   "t-precambrian"
+  ],
+  "confusables": [
+   {
+    "term": "epoch",
+    "zh": "世",
+    "note": "epoch（世）是紀之下更小的單位"
+   }
+  ],
+  "illus": "geologic-time",
+  "tf": {
+   "statement_zh": "「代」(era) 的時間長度比「紀」(period) 短。",
+   "answer": false,
+   "explain": "代由數個紀組成，所以代比紀長。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-equator",
+  "unit": "u11",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ɪˈkweɪtər/",
+  "ipa_uk": "/ɪˈkweɪtə/",
+  "syllables": "e·qua·tor",
+  "def_en": "The imaginary line around Earth at 0° latitude, halfway between the North and South Poles.",
+  "def_zh": "赤道：緯度 0° 的假想大圓，與南北兩極距離相等，全長約 40,075 km。",
+  "example_en": "On the equinoxes, the Sun is directly overhead at noon on the equator.",
+  "example_zh": "春分和秋分時，赤道上正午的太陽位於頭頂正上方。",
+  "morph": [
+   {
+    "part": "equ-",
+    "meaning": "相等"
+   }
+  ],
+  "related": [
+   "t-latitude",
+   "t-north-pole",
+   "t-tropical",
+   "t-declination"
+  ],
+  "confusables": [],
+  "illus": "seasons",
+  "tf": {
+   "statement_zh": "春分與秋分時，太陽直射赤道。",
+   "answer": true,
+   "explain": "分點時太陽直射點在赤道上，晝夜幾乎等長。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-eon",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈiːɑːn/",
+  "ipa_uk": "/ˈiːɒn/",
+  "syllables": "e·on",
+  "def_en": "The largest division of geologic time, such as the Phanerozoic Eon, made up of several eras.",
+  "def_zh": "地質年代最大的單位「宙」，例如顯生宙，其下再分為古生代、中生代與新生代等數個代。",
+  "example_en": "The Phanerozoic eon began about 539 million years ago.",
+  "example_zh": "顯生宙約始於 5.39 億年前。",
+  "morph": [],
+  "related": [
+   "t-era",
+   "t-precambrian",
+   "t-epoch",
+   "t-cambrian"
+  ],
+  "confusables": [
+   {
+    "term": "era",
+    "zh": "代",
+    "note": "era 是宙之下的單位"
+   }
+  ],
+  "illus": "geologic-time",
+  "tf": {
+   "statement_zh": "地質年代單位由大到小依序為宙、代、紀、世。",
+   "answer": true,
+   "explain": "宙 > 代 > 紀 > 世。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-energy",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈenərdʒi/",
+  "ipa_uk": "/ˈenədʒi/",
+  "syllables": "en·er·gy",
+  "def_en": "The ability to do work or cause change, in forms such as heat, light, and motion.",
+  "def_zh": "物體作功或造成變化的能力，如熱能、光能、動能；太陽輻射是驅動大氣與海洋運動的主要能源。",
+  "example_en": "Most of the energy that drives weather comes from the Sun.",
+  "example_zh": "驅動天氣的能量大多來自太陽。",
+  "morph": [
+   {
+    "part": "en-",
+    "meaning": "在…之中"
+   },
+   {
+    "part": "erg",
+    "meaning": "工作"
+   }
+  ],
+  "related": [
+   "t-heat-energy",
+   "t-solar-energy",
+   "t-energy-source",
+   "t-radiation"
+  ],
+  "confusables": [],
+  "illus": "energy-resources",
+  "tf": {
+   "statement_zh": "驅動地表大氣與海洋運動的主要能量來源是地球內部熱能。",
+   "answer": false,
+   "explain": "大氣與海洋運動主要由太陽能驅動；地球內部熱能主要驅動板塊運動與火山。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-electron",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ɪˈlektrɑːn/",
+  "ipa_uk": "/ɪˈlektrɒn/",
+  "syllables": "e·lec·tron",
+  "def_en": "A tiny particle with a negative charge that moves around the nucleus of an atom.",
+  "def_zh": "帶負電的基本粒子，圍繞原子核運動；質量約為質子的 1/1836。",
+  "example_en": "When an atom loses an electron in the ionosphere, it becomes a positive ion.",
+  "example_zh": "電離層中的原子失去一個電子後，就成為正離子。",
+  "morph": [
+   {
+    "part": "electr-",
+    "meaning": "電"
+   },
+   {
+    "part": "-on",
+    "meaning": "粒子"
+   }
+  ],
+  "related": [
+   "t-atom",
+   "t-atomic-nucleus",
+   "t-ionization",
+   "t-recombination"
+  ],
+  "confusables": [],
+  "illus": "atom-ion",
+  "tf": {
+   "statement_zh": "原子失去電子後會成為帶正電的離子。",
+   "answer": true,
+   "explain": "電子帶負電，失去電子後正電荷多於負電荷。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-earthquake",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈɜːrθkweɪk/",
+  "ipa_uk": "/ˈɜːθkweɪk/",
+  "syllables": "earth·quake",
+  "def_en": "Sudden shaking of the ground caused by released energy, usually when rocks slip along a fault.",
+  "def_zh": "地下岩層突然錯動釋放能量，使地面震動的現象；臺灣位於板塊交界帶，地震頻繁。",
+  "example_en": "Taiwan has many earthquakes because it lies on a plate boundary.",
+  "example_zh": "臺灣位於板塊交界，所以地震很多。",
+  "morph": [
+   {
+    "part": "earth",
+    "meaning": "地"
+   },
+   {
+    "part": "quake",
+    "meaning": "震動"
+   }
+  ],
+  "related": [
+   "t-fault",
+   "t-seismic",
+   "t-earthquake-zone",
+   "t-tsunami"
+  ],
+  "confusables": [
+   {
+    "term": "magnitude",
+    "zh": "規模",
+    "note": "規模表示地震釋放的能量；震度是各地搖晃程度"
+   }
+  ],
+  "illus": "earthquake",
+  "tf": {
+   "statement_zh": "地震規模每增加 1，釋放的能量約增加 32 倍。",
+   "answer": true,
+   "explain": "規模與能量呈對數關係，規模 +1 約為能量 ×32。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-earth-proper",
+  "unit": "u01",
+  "level": 1,
+  "pos": "proper n.",
+  "ipa_us": "/ɜːrθ/",
+  "ipa_uk": "/ɜːθ/",
+  "syllables": "Earth",
+  "def_en": "The third planet from the Sun, the only known planet with surface oceans of liquid water and life.",
+  "def_zh": "地球：太陽系由內往外第三顆行星，距太陽約 1.5 億 km（1 AU），是目前已知唯一有生命的行星。",
+  "example_en": "Earth is about 150 million kilometers from the Sun.",
+  "example_zh": "地球距離太陽約 1.5 億公里。",
+  "morph": [],
+  "related": [
+   "t-earth-system",
+   "t-planet",
+   "t-solar-system",
+   "t-geosphere"
+  ],
+  "confusables": [
+   {
+    "term": "earth",
+    "zh": "泥土；土地",
+    "note": "小寫 earth 常指泥土、地面"
+   }
+  ],
+  "illus": "earth-spheres",
+  "tf": {
+   "statement_zh": "地球是太陽系中體積最大的類地行星。",
+   "answer": true,
+   "explain": "四顆類地行星（水、金、地、火）中，地球最大。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-earth",
+  "unit": "u01",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ɜːrθ/",
+  "ipa_uk": "/ɜːθ/",
+  "syllables": "earth",
+  "def_en": "Soil or ground; the loose material that covers much of the land surface.",
+  "def_zh": "泥土、土地；小寫時常指地表的土壤或地面，而非行星名稱。",
+  "example_en": "After the landslide, loose earth covered the mountain road.",
+  "example_zh": "山崩後，鬆散的泥土覆蓋了山路。",
+  "morph": [],
+  "related": [
+   "t-earth-proper",
+   "t-weathering",
+   "t-geosphere",
+   "t-landslide"
+  ],
+  "confusables": [
+   {
+    "term": "Earth",
+    "zh": "地球",
+    "note": "首字母大寫的 Earth 指行星地球"
+   }
+  ],
+  "illus": "earth-spheres",
+  "tf": {
+   "statement_zh": "英文中指行星「地球」時，通常首字母大寫寫成 Earth。",
+   "answer": true,
+   "explain": "作專有名詞指行星時用 Earth；小寫 earth 多指泥土。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-diffusion",
+  "unit": "u15",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/dɪˈfjuːʒən/",
+  "ipa_uk": "/dɪˈfjuːʒən/",
+  "syllables": "dif·fu·sion",
+  "def_en": "The spreading of particles from areas of higher concentration to areas of lower concentration.",
+  "def_zh": "擴散：粒子由高濃度區域往低濃度區域散布的現象，例如污染物在空氣或海水中逐漸散開。",
+  "example_en": "Diffusion slowly spreads the pollutant through the still air.",
+  "example_zh": "擴散作用讓污染物在靜止的空氣中慢慢散開。",
+  "morph": [
+   {
+    "part": "dif-",
+    "meaning": "分開"
+   },
+   {
+    "part": "fus",
+    "meaning": "倒、流"
+   }
+  ],
+  "related": [
+   "t-air-pollution",
+   "t-mixing",
+   "t-convection",
+   "t-water-pollution"
+  ],
+  "confusables": [],
+  "illus": "pollution",
+  "tf": {
+   "statement_zh": "擴散作用使物質由低濃度處往高濃度處移動。",
+   "answer": false,
+   "explain": "擴散是由高濃度往低濃度移動。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-dew",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/duː/",
+  "ipa_uk": "/djuː/",
+  "syllables": "dew",
+  "def_en": "Water droplets that form on cool surfaces near the ground when air cools to its dew point.",
+  "def_zh": "露：夜間地面輻射冷卻，貼近地面的空氣降到露點，水氣凝結在草葉等物體表面形成的水珠。",
+  "example_en": "On clear, calm mornings, dew covers the grass in the schoolyard.",
+  "example_zh": "晴朗無風的早晨，校園的草地上布滿露水。",
+  "morph": [],
+  "related": [
+   "t-frost",
+   "t-condensation",
+   "t-saturation",
+   "t-humidity"
+  ],
+  "confusables": [
+   {
+    "term": "frost",
+    "zh": "霜",
+    "note": "露點低於 0 °C 時，水氣直接凝華成冰晶就是霜"
+   }
+  ],
+  "illus": "precipitation",
+  "tf": {
+   "statement_zh": "晴朗無風的夜晚比多雲的夜晚更容易形成露。",
+   "answer": true,
+   "explain": "晴夜地面輻射散熱快，容易降到露點。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-deposit",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n./v.",
+  "ipa_us": "/dɪˈpɑːzɪt/",
+  "ipa_uk": "/dɪˈpɒzɪt/",
+  "syllables": "de·pos·it",
+  "def_en": "Material laid down by water, wind, or ice; also a natural concentration of useful minerals.",
+  "def_zh": "由流水、風或冰川堆積下來的物質；也指有開採價值的礦物富集處，即礦床（ore deposit）。",
+  "example_en": "The river left a thick deposit of sand at its mouth.",
+  "example_zh": "河流在河口留下了厚厚的沙堆積。",
+  "morph": [
+   {
+    "part": "de-",
+    "meaning": "向下"
+   },
+   {
+    "part": "pos",
+    "meaning": "放置"
+   }
+  ],
+  "related": [
+   "t-deposition",
+   "t-sediment",
+   "t-mineral-deposits",
+   "t-sedimentation"
+  ],
+  "confusables": [],
+  "illus": "weathering-erosion",
+  "tf": {
+   "statement_zh": "deposit 在地質學中也可以指礦床。",
+   "answer": true,
+   "explain": "如 ore deposit、mineral deposits 即礦床。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-density",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈdensəti/",
+  "ipa_uk": "/ˈdensɪti/",
+  "syllables": "den·si·ty",
+  "def_en": "The mass of a substance per unit volume, often measured in grams per cubic centimeter.",
+  "def_zh": "密度：單位體積的質量（ρ = m/V）；海水約 1.025 g/cm³，地球平均密度約 5.5 g/cm³。",
+  "example_en": "Cold, salty water has a higher density and sinks to the deep ocean.",
+  "example_zh": "冷而鹹的海水密度較大，會下沉到深海。",
+  "morph": [
+   {
+    "part": "dens",
+    "meaning": "濃密"
+   }
+  ],
+  "related": [
+   "t-mass",
+   "t-salinity",
+   "t-isostasy",
+   "t-water-mass"
+  ],
+  "confusables": [],
+  "illus": "seawater-profile",
+  "tf": {
+   "statement_zh": "海水溫度降低、鹽度增加時，密度會變大。",
+   "answer": true,
+   "explain": "低溫高鹽的海水密度大，是深層水形成的原因。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-degree",
+  "unit": "u11",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/dɪˈɡriː/",
+  "ipa_uk": "/dɪˈɡriː/",
+  "syllables": "de·gree",
+  "def_en": "A unit for measuring angles, latitude, longitude, or temperature, shown by the symbol °.",
+  "def_zh": "度：量度角度、經緯度或溫度的單位（°）；一圓周為 360°，1° = 60 角分 = 3600 角秒。",
+  "example_en": "Taipei is located at about 25 degrees north latitude.",
+  "example_zh": "臺北約位於北緯 25 度。",
+  "morph": [],
+  "related": [
+   "t-latitude",
+   "t-azimuth",
+   "t-declination",
+   "t-coordinate"
+  ],
+  "confusables": [],
+  "illus": "celestial-sphere",
+  "tf": {
+   "statement_zh": "1 度等於 60 角秒。",
+   "answer": false,
+   "explain": "1 度 = 60 角分 = 3600 角秒。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-current",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkɜːrənt/",
+  "ipa_uk": "/ˈkʌrənt/",
+  "syllables": "cur·rent",
+  "def_en": "A continuous, directed movement of seawater or air, such as the Kuroshio Current.",
+  "def_zh": "海流：海水持續朝某方向流動的現象，例如流經臺灣東部的黑潮是一道暖流。",
+  "example_en": "The warm Kuroshio current flows northward along Taiwan's east coast.",
+  "example_zh": "溫暖的黑潮沿著臺灣東岸向北流。",
+  "morph": [
+   {
+    "part": "curr",
+    "meaning": "跑、流"
+   },
+   {
+    "part": "-ent",
+    "meaning": "…的"
+   }
+  ],
+  "related": [
+   "t-kuroshio",
+   "t-cold-current",
+   "t-ocean-circulation",
+   "t-upwelling"
+  ],
+  "confusables": [],
+  "illus": "ocean-currents",
+  "tf": {
+   "statement_zh": "黑潮是由高緯度流向低緯度的寒流。",
+   "answer": false,
+   "explain": "黑潮是由低緯度流向高緯度的暖流。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cumulus",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkjuːmjələs/",
+  "ipa_uk": "/ˈkjuːmjʊləs/",
+  "syllables": "cu·mu·lus",
+  "def_en": "A puffy, white cloud with a flat base, formed by rising air currents.",
+  "def_zh": "積雲：底部平坦、頂部像棉花團隆起的雲，由上升氣流形成；旺盛發展可成為積雨雲。",
+  "example_en": "By afternoon, tall cumulus clouds had built up over the Central Mountain Range.",
+  "example_zh": "到了下午，中央山脈上空堆起了高聳的積雲。",
+  "morph": [
+   {
+    "part": "cumul",
+    "meaning": "堆積"
+   }
+  ],
+  "related": [
+   "t-cloud",
+   "t-convection",
+   "t-thunderstorm",
+   "t-lifting"
+  ],
+  "confusables": [],
+  "illus": "clouds",
+  "tf": {
+   "statement_zh": "積雲通常在大氣穩定、沒有上升氣流時形成。",
+   "answer": false,
+   "explain": "積雲是對流旺盛、有上升氣流時形成的雲。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-core",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/kɔːr/",
+  "ipa_uk": "/kɔː/",
+  "syllables": "core",
+  "def_en": "Earth's central layer of iron and nickel, with a liquid outer core and solid inner core; also a rock sample.",
+  "def_zh": "地核：地球最內部的圈層，主要由鐵、鎳組成，外核為液態、內核為固態；也指鑽探取得的岩心。",
+  "example_en": "S waves cannot pass through Earth's liquid outer core.",
+  "example_zh": "S 波無法通過地球液態的外核。",
+  "morph": [],
+  "related": [
+   "t-mantle",
+   "t-crust",
+   "t-chikyu",
+   "t-density"
+  ],
+  "confusables": [],
+  "illus": "earth-layers",
+  "tf": {
+   "statement_zh": "地球外核為液態，因此 S 波無法通過。",
+   "answer": true,
+   "explain": "S 波（橫波）不能在液體中傳播，形成 S 波陰影區。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-coral",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkɔːrəl/",
+  "ipa_uk": "/ˈkɒrəl/",
+  "syllables": "cor·al",
+  "def_en": "A small sea animal that builds a calcium carbonate skeleton; many together form reefs in warm, shallow seas.",
+  "def_zh": "珊瑚：珊瑚蟲分泌碳酸鈣骨骼形成的構造，造礁珊瑚生長在溫暖、清澈的淺海；墾丁有隆起珊瑚礁地形。",
+  "example_en": "Rising sea temperatures have caused coral bleaching around Kenting.",
+  "example_zh": "海水溫度上升已造成墾丁附近的珊瑚白化。",
+  "morph": [],
+  "related": [
+   "t-algae",
+   "t-limestone",
+   "t-global-warming",
+   "t-tropical"
+  ],
+  "confusables": [],
+  "illus": "coastal-landforms",
+  "tf": {
+   "statement_zh": "海水溫度過高可能造成珊瑚白化。",
+   "answer": true,
+   "explain": "高溫使珊瑚排出共生藻而失去顏色，即白化。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-coordinate",
+  "unit": "u11",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/koʊˈɔːrdənət/",
+  "ipa_uk": "/kəʊˈɔːdɪnət/",
+  "syllables": "co·or·di·nate",
+  "def_en": "One of a set of numbers, such as latitude and longitude, that gives an exact position.",
+  "def_zh": "坐標：用來標定位置的一組數值，如地表的經度與緯度；天球上則用方位角與仰角或赤經與赤緯。",
+  "example_en": "A GPS receiver shows the coordinate of your location.",
+  "example_zh": "GPS 接收器會顯示你所在位置的坐標。",
+  "morph": [
+   {
+    "part": "co-",
+    "meaning": "共同"
+   },
+   {
+    "part": "ordin",
+    "meaning": "順序"
+   }
+  ],
+  "related": [
+   "t-latitude",
+   "t-azimuth",
+   "t-declination",
+   "t-global-positioning-system"
+  ],
+  "confusables": [],
+  "illus": "celestial-sphere",
+  "tf": {
+   "statement_zh": "地平坐標系統以方位角和仰角表示天體位置。",
+   "answer": true,
+   "explain": "地平坐標以觀測者地平為基準，使用方位角與仰角。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cooling",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkuːlɪŋ/",
+  "ipa_uk": "/ˈkuːlɪŋ/",
+  "syllables": "cool·ing",
+  "def_en": "A drop in temperature, for example when rising air expands, or when magma loses heat.",
+  "def_zh": "冷卻：溫度下降的過程，例如上升氣塊膨脹而冷卻，或岩漿冷卻結晶成火成岩。",
+  "example_en": "The cooling of rising air leads to condensation and cloud formation.",
+  "example_zh": "上升空氣的冷卻導致凝結並形成雲。",
+  "morph": [],
+  "related": [
+   "t-adiabatic-process",
+   "t-expansion",
+   "t-lifting",
+   "t-condensation"
+  ],
+  "confusables": [],
+  "illus": "adiabatic-lifting",
+  "tf": {
+   "statement_zh": "岩漿冷卻越慢，形成的礦物晶體通常越小。",
+   "answer": false,
+   "explain": "冷卻越慢晶體越大，例如深成岩花崗岩為粗粒。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-convection",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/kənˈvekʃən/",
+  "ipa_uk": "/kənˈvekʃən/",
+  "syllables": "con·vec·tion",
+  "def_en": "Heat transfer by moving fluid, as warm, less dense material rises and cooler material sinks.",
+  "def_zh": "對流：流體受熱不均，熱而輕的物質上升、冷而重的物質下沉而傳遞熱量；見於大氣、海洋與地函。",
+  "example_en": "Convection in the mantle may help move the tectonic plates.",
+  "example_zh": "地函中的對流可能有助於推動板塊。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "一起"
+   },
+   {
+    "part": "vect",
+    "meaning": "搬運"
+   }
+  ],
+  "related": [
+   "t-conduction",
+   "t-radiation",
+   "t-mantle",
+   "t-cumulus"
+  ],
+  "confusables": [
+   {
+    "term": "conduction",
+    "zh": "傳導",
+    "note": "傳導靠粒子碰觸傳熱，物質本身不流動"
+   }
+  ],
+  "illus": "heat-transfer",
+  "tf": {
+   "statement_zh": "對流可以在真空中傳遞熱量。",
+   "answer": false,
+   "explain": "對流需要流體流動；能在真空中傳熱的是輻射。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-continental",
+  "unit": "u03",
+  "level": 1,
+  "pos": "adj.",
+  "ipa_us": "/ˌkɑːntɪˈnentl/",
+  "ipa_uk": "/ˌkɒntɪˈnentl/",
+  "syllables": "con·ti·nen·tal",
+  "def_en": "Relating to a continent, such as continental crust or a dry continental air mass.",
+  "def_zh": "大陸的；例如大陸地殼（花崗岩質為主，較厚且密度較小）或乾冷的大陸性氣團。",
+  "example_en": "Continental crust is thicker but less dense than oceanic crust.",
+  "example_zh": "大陸地殼比海洋地殼厚，但密度較小。",
+  "morph": [
+   {
+    "part": "contin",
+    "meaning": "連續相連"
+   },
+   {
+    "part": "-al",
+    "meaning": "…的"
+   }
+  ],
+  "related": [
+   "t-crust",
+   "t-pangea",
+   "t-cold-air-mass",
+   "t-ocean"
+  ],
+  "confusables": [],
+  "illus": "plate-boundaries",
+  "tf": {
+   "statement_zh": "大陸地殼的平均密度比海洋地殼大。",
+   "answer": false,
+   "explain": "大陸地殼約 2.7 g/cm³，海洋地殼約 3.0 g/cm³，大陸地殼較小。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-constellation",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌkɑːnstəˈleɪʃən/",
+  "ipa_uk": "/ˌkɒnstəˈleɪʃən/",
+  "syllables": "con·stel·la·tion",
+  "def_en": "A group of stars forming a pattern; officially, one of 88 regions of the sky set by the IAU.",
+  "def_zh": "星座：天空中由恆星組成的圖形；國際天文學聯合會（IAU）將全天劃分為 88 個星座區域。",
+  "example_en": "Orion is an easy constellation to find in the winter sky.",
+  "example_zh": "獵戶座是冬季夜空中容易找到的星座。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "一起"
+   },
+   {
+    "part": "stell",
+    "meaning": "星"
+   }
+  ],
+  "related": [
+   "t-orion",
+   "t-lyra",
+   "t-zodiac",
+   "t-international-astronomical-union"
+  ],
+  "confusables": [
+   {
+    "term": "galaxy",
+    "zh": "星系",
+    "note": "星系是由重力束縛的數十億顆恆星系統，星座只是天空中的圖形"
+   }
+  ],
+  "illus": "constellations",
+  "tf": {
+   "statement_zh": "同一星座中的恆星與地球的距離都差不多。",
+   "answer": false,
+   "explain": "星座中的恆星只是看起來在同一方向，實際距離可相差很大。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-conduction",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/kənˈdʌkʃən/",
+  "ipa_uk": "/kənˈdʌkʃən/",
+  "syllables": "con·duc·tion",
+  "def_en": "Transfer of heat through direct contact between particles, without the material itself moving.",
+  "def_zh": "傳導：熱經由物質粒子直接碰觸傳遞，物質本身不流動；例如地面把熱傳給緊貼地面的空氣。",
+  "example_en": "Heat moves through solid rock mainly by conduction.",
+  "example_zh": "熱在固體岩石中主要靠傳導移動。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "一起"
+   },
+   {
+    "part": "duct",
+    "meaning": "引導"
+   }
+  ],
+  "related": [
+   "t-convection",
+   "t-radiation",
+   "t-heat-energy",
+   "t-collision"
+  ],
+  "confusables": [],
+  "illus": "heat-transfer",
+  "tf": {
+   "statement_zh": "固體中熱的傳遞主要依靠傳導。",
+   "answer": true,
+   "explain": "固體粒子不能自由流動，主要靠傳導傳熱。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-condensation",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌkɑːndenˈseɪʃən/",
+  "ipa_uk": "/ˌkɒndenˈseɪʃən/",
+  "syllables": "con·den·sa·tion",
+  "def_en": "The change of water vapor into liquid water, which releases latent heat and forms clouds, fog, and dew.",
+  "def_zh": "凝結：水氣變成液態水的過程，同時釋放潛熱；雲、霧、露都是凝結的結果。",
+  "example_en": "Condensation releases latent heat that fuels a typhoon.",
+  "example_zh": "凝結釋放的潛熱為颱風提供能量。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "一起"
+   },
+   {
+    "part": "dens",
+    "meaning": "濃密"
+   }
+  ],
+  "related": [
+   "t-evaporation",
+   "t-saturation",
+   "t-cloud",
+   "t-dew"
+  ],
+  "confusables": [
+   {
+    "term": "evaporation",
+    "zh": "蒸發",
+    "note": "蒸發是液態水變成水氣，吸收潛熱"
+   }
+  ],
+  "illus": "adiabatic-lifting",
+  "tf": {
+   "statement_zh": "水氣凝結時會放出潛熱，是颱風發展的重要能量來源。",
+   "answer": true,
+   "explain": "凝結釋放潛熱加熱空氣，使上升運動增強。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-comet",
+  "unit": "u12",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkɑːmɪt/",
+  "ipa_uk": "/ˈkɒmɪt/",
+  "syllables": "com·et",
+  "def_en": "A small icy body orbiting the Sun that forms a glowing coma and tails when it nears the Sun.",
+  "def_zh": "彗星：由冰與塵埃組成的小天體，接近太陽時冰物質升華形成彗髮，並產生背向太陽的彗尾。",
+  "example_en": "Halley's comet returns to the inner solar system about every 76 years.",
+  "example_zh": "哈雷彗星大約每 76 年回到內太陽系一次。",
+  "morph": [],
+  "related": [
+   "t-coma",
+   "t-meteor-shower",
+   "t-asteroid",
+   "t-solar-wind"
+  ],
+  "confusables": [
+   {
+    "term": "asteroid",
+    "zh": "小行星",
+    "note": "小行星多為岩石或金屬，通常不會形成彗髮與彗尾"
+   }
+  ],
+  "illus": "small-bodies",
+  "tf": {
+   "statement_zh": "彗尾總是指向彗星運動方向的正後方。",
+   "answer": false,
+   "explain": "彗尾受太陽風與輻射壓推動，總是大致背向太陽。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-coma",
+  "unit": "u12",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈkoʊmə/",
+  "ipa_uk": "/ˈkəʊmə/",
+  "syllables": "co·ma",
+  "def_en": "The cloud of gas and dust that surrounds a comet's nucleus as it nears the Sun.",
+  "def_zh": "彗髮：彗星接近太陽時，彗核的冰物質升華，形成包圍彗核的氣體與塵埃雲（原講義誤寫為「慧髮」）。",
+  "example_en": "As the comet approached the Sun, its coma grew larger and brighter.",
+  "example_zh": "彗星接近太陽時，它的彗髮變得更大更亮。",
+  "morph": [],
+  "related": [
+   "t-comet",
+   "t-solar-wind",
+   "t-asteroid",
+   "t-meteor"
+  ],
+  "confusables": [
+   {
+    "term": "coma (醫學)",
+    "zh": "昏迷",
+    "note": "同一拼字在醫學上指昏迷，天文上指彗髮"
+   }
+  ],
+  "illus": "small-bodies",
+  "tf": {
+   "statement_zh": "「彗髮」的「彗」與「智慧」的「慧」是同一個字。",
+   "answer": false,
+   "explain": "彗星、彗髮用「彗」（掃帚之意），不是「慧」。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-color",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkʌlər/",
+  "ipa_uk": "/ˈkʌlə/",
+  "syllables": "col·or",
+  "def_en": "The visible quality of light set by its wavelength; a star's color shows its surface temperature.",
+  "def_zh": "顏色：由光的波長決定的視覺性質；恆星顏色反映表面溫度，藍白色星較熱、紅色星較冷。",
+  "example_en": "The red color of Betelgeuse tells us it is cooler than the Sun.",
+  "example_zh": "參宿四的紅色顯示它比太陽冷。",
+  "morph": [],
+  "related": [
+   "t-blackbody-radiation",
+   "t-wavelength",
+   "t-spectrum",
+   "t-red-giant"
+  ],
+  "confusables": [],
+  "illus": "blackbody",
+  "tf": {
+   "statement_zh": "紅色恆星的表面溫度比藍色恆星高。",
+   "answer": false,
+   "explain": "溫度越高峰值波長越短，藍色恆星較熱。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-collision",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/kəˈlɪʒən/",
+  "ipa_uk": "/kəˈlɪʒən/",
+  "syllables": "col·li·sion",
+  "def_en": "The crashing together of objects, such as two plates pushing into each other and building mountains.",
+  "def_zh": "碰撞：物體互相撞擊；地球科學中常指板塊碰撞，例如菲律賓海板塊與歐亞板塊碰撞造就臺灣山脈。",
+  "example_en": "The collision between the Philippine Sea Plate and the Eurasian Plate built Taiwan's mountains.",
+  "example_zh": "菲律賓海板塊與歐亞板塊的碰撞造就了臺灣的山脈。",
+  "morph": [
+   {
+    "part": "col-",
+    "meaning": "一起"
+   },
+   {
+    "part": "lis",
+    "meaning": "撞擊"
+   }
+  ],
+  "related": [
+   "t-orogeny",
+   "t-convergence",
+   "t-accretion",
+   "t-pacific-plate"
+  ],
+  "confusables": [],
+  "illus": "plate-boundaries",
+  "tf": {
+   "statement_zh": "喜馬拉雅山脈是印度板塊與歐亞板塊碰撞所形成。",
+   "answer": true,
+   "explain": "兩個大陸板塊碰撞擠壓，形成高聳山脈。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-coal",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/koʊl/",
+  "ipa_uk": "/kəʊl/",
+  "syllables": "coal",
+  "def_en": "A black sedimentary rock formed from buried plant remains, burned as a fossil fuel.",
+  "def_zh": "煤：古代植物遺骸被埋藏，經長時間溫度、壓力作用碳化而成的可燃沉積岩，是非再生的化石燃料。",
+  "example_en": "Burning coal releases large amounts of carbon dioxide.",
+  "example_zh": "燃燒煤炭會釋放大量二氧化碳。",
+  "morph": [],
+  "related": [
+   "t-petroleum",
+   "t-carbon",
+   "t-non-renewable-energy",
+   "t-carboniferous"
+  ],
+  "confusables": [],
+  "illus": "energy-resources",
+  "tf": {
+   "statement_zh": "煤屬於再生能源。",
+   "answer": false,
+   "explain": "煤需數百萬年才能形成，是非再生能源。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cluster",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈklʌstər/",
+  "ipa_uk": "/ˈklʌstə/",
+  "syllables": "clus·ter",
+  "def_en": "A group of stars or galaxies held together by gravity, such as the Pleiades star cluster.",
+  "def_zh": "由重力聚集在一起的一群恆星（星團，如昴宿星團）或星系（星系團）。",
+  "example_en": "The Pleiades is a young star cluster visible in winter.",
+  "example_zh": "昴宿星團是冬季可見的年輕星團。",
+  "morph": [],
+  "related": [
+   "t-galaxy-cluster",
+   "t-cluster-of-galaxies",
+   "t-constellation",
+   "t-gravity"
+  ],
+  "confusables": [
+   {
+    "term": "constellation",
+    "zh": "星座",
+    "note": "星座只是視線方向上的圖形，星團成員受重力束縛且距離相近"
+   }
+  ],
+  "illus": "galaxy-structure",
+  "tf": {
+   "statement_zh": "星團中的恆星彼此受重力束縛，與地球的距離大致相同。",
+   "answer": true,
+   "explain": "星團成員一起形成、聚在一起，因此距離相近。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cloud",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/klaʊd/",
+  "ipa_uk": "/klaʊd/",
+  "syllables": "cloud",
+  "def_en": "A visible mass of tiny water droplets or ice crystals floating in the air.",
+  "def_zh": "雲：懸浮在空中的大量微小水滴或冰晶，通常由上升空氣冷卻凝結形成。",
+  "example_en": "A dark cloud moved over the mountains before the afternoon rain.",
+  "example_zh": "午後下雨前，一片烏雲飄到山上。",
+  "morph": [],
+  "related": [
+   "t-cumulus",
+   "t-condensation",
+   "t-cold-cloud",
+   "t-fog"
+  ],
+  "confusables": [
+   {
+    "term": "fog",
+    "zh": "霧",
+    "note": "霧是貼近地面的雲"
+   }
+  ],
+  "illus": "clouds",
+  "tf": {
+   "statement_zh": "雲與霧的主要差別在於形成高度不同，霧貼近地面。",
+   "answer": true,
+   "explain": "兩者都是水滴或冰晶的集合，霧接觸地面。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-clockwise",
+  "unit": "u08",
+  "level": 1,
+  "pos": "adj./adv.",
+  "ipa_us": "/ˈklɑːkwaɪz/",
+  "ipa_uk": "/ˈklɒkwaɪz/",
+  "syllables": "clock·wise",
+  "def_en": "In the same direction as the hands of a clock move.",
+  "def_zh": "順時鐘方向；北半球高氣壓（反氣旋）的地面風以順時鐘方向向外吹出。",
+  "example_en": "In the Northern Hemisphere, winds blow clockwise out of a high-pressure center.",
+  "example_zh": "在北半球，風以順時鐘方向從高氣壓中心吹出。",
+  "morph": [
+   {
+    "part": "clock",
+    "meaning": "時鐘"
+   },
+   {
+    "part": "-wise",
+    "meaning": "方向、方式"
+   }
+  ],
+  "related": [
+   "t-counterclockwise",
+   "t-anticyclone",
+   "t-cold-high",
+   "t-low-pressure"
+  ],
+  "confusables": [
+   {
+    "term": "counterclockwise",
+    "zh": "逆時鐘方向",
+    "note": "北半球低氣壓與颱風為逆時鐘旋轉"
+   }
+  ],
+  "illus": "pressure-systems",
+  "tf": {
+   "statement_zh": "北半球颱風的氣流以順時鐘方向旋轉。",
+   "answer": false,
+   "explain": "北半球颱風是逆時鐘旋轉；南半球才是順時鐘。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-climate",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈklaɪmət/",
+  "ipa_uk": "/ˈklaɪmət/",
+  "syllables": "cli·mate",
+  "def_en": "The average weather conditions of a place over a long period, usually 30 years or more.",
+  "def_zh": "氣候：一地區長時間（通常 30 年以上）天氣狀況的平均特徵。",
+  "example_en": "Taiwan has a warm and humid climate.",
+  "example_zh": "臺灣屬於溫暖潮濕的氣候。",
+  "morph": [],
+  "related": [
+   "t-weather",
+   "t-climate-change",
+   "t-monsoon",
+   "t-paleoclimate"
+  ],
+  "confusables": [
+   {
+    "term": "weather",
+    "zh": "天氣",
+    "note": "天氣是短時間的大氣狀況，氣候是長期平均"
+   }
+  ],
+  "illus": "climate-change",
+  "tf": {
+   "statement_zh": "今天下午的雷陣雨屬於氣候現象。",
+   "answer": false,
+   "explain": "單次雷陣雨是天氣；長期平均狀態才是氣候。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-celestial",
+  "unit": "u11",
+  "level": 1,
+  "pos": "adj.",
+  "ipa_us": "/səˈlestʃəl/",
+  "ipa_uk": "/səˈlestiəl/",
+  "syllables": "ce·les·tial",
+  "def_en": "Relating to the sky or outer space, as in the celestial sphere used to locate stars.",
+  "def_zh": "天空的、天體的；天球（celestial sphere）是以觀測者為中心的假想球面，用來描述天體位置。",
+  "example_en": "Astronomers use the celestial sphere to describe where stars appear in the sky.",
+  "example_zh": "天文學家利用天球來描述恆星在天空中的位置。",
+  "morph": [
+   {
+    "part": "celest",
+    "meaning": "天空"
+   }
+  ],
+  "related": [
+   "t-zenith",
+   "t-declination",
+   "t-horizon",
+   "t-ecliptic"
+  ],
+  "confusables": [],
+  "illus": "celestial-sphere",
+  "tf": {
+   "statement_zh": "天球是一個真實存在、所有恆星都固定在上面的球殼。",
+   "answer": false,
+   "explain": "天球是假想的球面，恆星實際距離各不相同。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-carbon",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkɑːrbən/",
+  "ipa_uk": "/ˈkɑːbən/",
+  "syllables": "car·bon",
+  "def_en": "A chemical element (C) found in all living things, fossil fuels, limestone, and carbon dioxide.",
+  "def_zh": "碳：化學元素 C，存在於生物體、化石燃料、石灰岩與二氧化碳中，在碳循環中於各圈層間移動。",
+  "example_en": "Forests store large amounts of carbon in their wood.",
+  "example_zh": "森林在木材中儲存了大量的碳。",
+  "morph": [],
+  "related": [
+   "t-greenhouse-gas",
+   "t-coal",
+   "t-petroleum",
+   "t-element"
+  ],
+  "confusables": [],
+  "illus": "greenhouse",
+  "tf": {
+   "statement_zh": "燃燒化石燃料會把封存在地層中的碳以二氧化碳形式釋放到大氣中。",
+   "answer": true,
+   "explain": "這是大氣二氧化碳濃度上升的主因之一。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-brightness",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈbraɪtnəs/",
+  "ipa_uk": "/ˈbraɪtnəs/",
+  "syllables": "bright·ness",
+  "def_en": "How bright a star or other object appears to an observer; for stars it is given by magnitude.",
+  "def_zh": "亮度：天體看起來的明亮程度；恆星的視亮度以星等表示，數字越小越亮。",
+  "example_en": "The brightness of a star depends on its luminosity and its distance.",
+  "example_zh": "恆星的亮度取決於它的光度與距離。",
+  "morph": [
+   {
+    "part": "-ness",
+    "meaning": "性質、狀態"
+   }
+  ],
+  "related": [
+   "t-magnitude",
+   "t-luminosity",
+   "t-apparent",
+   "t-distance"
+  ],
+  "confusables": [
+   {
+    "term": "luminosity",
+    "zh": "光度",
+    "note": "光度是恆星每秒實際發出的總能量，與距離無關"
+   }
+  ],
+  "illus": "star-brightness",
+  "tf": {
+   "statement_zh": "視星等 1 等星大約比 6 等星亮 100 倍。",
+   "answer": true,
+   "explain": "星等相差 5 等，亮度相差 100 倍。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-black-hole",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌblæk ˈhoʊl/",
+  "ipa_uk": "/ˌblæk ˈhəʊl/",
+  "syllables": "black hole",
+  "def_en": "A region of space where gravity is so strong that nothing, not even light, can escape.",
+  "def_zh": "黑洞：重力極強、連光都無法逃脫的天體區域；大質量恆星死亡時核心塌縮可形成黑洞。",
+  "example_en": "A supermassive black hole lies at the center of the Milky Way.",
+  "example_zh": "銀河系中心有一個超大質量黑洞。",
+  "morph": [],
+  "related": [
+   "t-red-giant",
+   "t-gravity",
+   "t-galaxy",
+   "t-solar-mass"
+  ],
+  "confusables": [],
+  "illus": "star-life",
+  "tf": {
+   "statement_zh": "太陽在生命末期會演化成黑洞。",
+   "answer": false,
+   "explain": "太陽質量不夠大，最後會成為白矮星。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-biosphere",
+  "unit": "u01",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈbaɪəsfɪr/",
+  "ipa_uk": "/ˈbaɪəʊsfɪə/",
+  "syllables": "bi·o·sphere",
+  "def_en": "The part of Earth where life exists, including land, water, and the lower atmosphere.",
+  "def_zh": "生物圈：地球上所有生物及其生存空間的總稱，與大氣圈、水圈、地圈相互作用。",
+  "example_en": "Plants in the biosphere take in carbon dioxide from the atmosphere.",
+  "example_zh": "生物圈中的植物從大氣中吸收二氧化碳。",
+  "morph": [
+   {
+    "part": "bio-",
+    "meaning": "生命"
+   },
+   {
+    "part": "sphere",
+    "meaning": "球、圈"
+   }
+  ],
+  "related": [
+   "t-hydrosphere",
+   "t-geosphere",
+   "t-atmosphere",
+   "t-earth-system"
+  ],
+  "confusables": [],
+  "illus": "earth-spheres",
+  "tf": {
+   "statement_zh": "生物圈與其他三個圈層彼此獨立、互不影響。",
+   "answer": false,
+   "explain": "各圈層持續交換物質與能量，例如光合作用連結生物圈與大氣圈。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-binary",
+  "unit": "u13",
+  "level": 2,
+  "pos": "adj./n.",
+  "ipa_us": "/ˈbaɪnəri/",
+  "ipa_uk": "/ˈbaɪnəri/",
+  "syllables": "bi·na·ry",
+  "def_en": "Made of two parts; a binary star is a pair of stars orbiting a common center of mass.",
+  "def_zh": "由兩部分組成的；原講義譯「二進制」，天文中常指雙星（binary star），即兩顆繞共同質心互繞的恆星。",
+  "example_en": "Sirius is actually a binary star system.",
+  "example_zh": "天狼星其實是一個雙星系統。",
+  "morph": [
+   {
+    "part": "bi-",
+    "meaning": "二"
+   }
+  ],
+  "related": [
+   "t-sirius",
+   "t-constellation",
+   "t-gravity",
+   "t-cluster"
+  ],
+  "confusables": [],
+  "illus": "constellations",
+  "tf": {
+   "statement_zh": "天狼星是一對雙星，它的伴星是一顆白矮星。",
+   "answer": true,
+   "explain": "天狼星 B 是白矮星，與天狼星 A 互繞。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-aurora",
+  "unit": "u12",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/əˈrɔːrə/",
+  "ipa_uk": "/ɔːˈrɔːrə/",
+  "syllables": "au·ro·ra",
+  "def_en": "Colorful lights in the sky near the poles, caused by solar wind particles hitting the upper atmosphere.",
+  "def_zh": "極光：太陽風帶電粒子沿地球磁力線進入高緯度高層大氣，撞擊氣體原子與分子而發光的現象。",
+  "example_en": "A strong solar storm made the aurora visible farther south than usual.",
+  "example_zh": "強烈的太陽風暴讓極光在比平常更南的地方也看得到。",
+  "morph": [],
+  "related": [
+   "t-solar-wind",
+   "t-magnetosphere",
+   "t-ionosphere",
+   "t-space-weather"
+  ],
+  "confusables": [],
+  "illus": "aurora",
+  "tf": {
+   "statement_zh": "極光最常出現在赤道地區上空。",
+   "answer": false,
+   "explain": "極光多出現在高緯度的極光橢圓帶。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-atom",
+  "unit": "u15",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈætəm/",
+  "ipa_uk": "/ˈætəm/",
+  "syllables": "at·om",
+  "def_en": "The smallest unit of a chemical element, made of a nucleus surrounded by electrons.",
+  "def_zh": "原子：構成化學元素的最小單位，由原子核（質子與中子）與外圍的電子組成。",
+  "example_en": "An oxygen atom has eight protons in its nucleus.",
+  "example_zh": "氧原子的原子核中有八個質子。",
+  "morph": [
+   {
+    "part": "a-",
+    "meaning": "不"
+   },
+   {
+    "part": "tom",
+    "meaning": "切割"
+   }
+  ],
+  "related": [
+   "t-electron",
+   "t-atomic-nucleus",
+   "t-element",
+   "t-ionization"
+  ],
+  "confusables": [],
+  "illus": "atom-ion",
+  "tf": {
+   "statement_zh": "原子核帶正電，電子帶負電。",
+   "answer": true,
+   "explain": "質子帶正電使原子核帶正電，電子帶負電。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-asthenosphere",
+  "unit": "u03",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/æsˈθenəsfɪr/",
+  "ipa_uk": "/æsˈθenəsfɪə/",
+  "syllables": "as·then·o·sphere",
+  "def_en": "The soft, partly molten layer of the upper mantle beneath the lithosphere, on which plates move.",
+  "def_zh": "軟流圈：位於岩石圈下方、上部地函中溫度接近熔點而具可塑性的軟弱層，約在深 100–350 km，板塊在其上移動。",
+  "example_en": "The plates of the lithosphere slide over the asthenosphere.",
+  "example_zh": "岩石圈的板塊在軟流圈上滑動。",
+  "morph": [
+   {
+    "part": "asthen-",
+    "meaning": "虛弱的"
+   },
+   {
+    "part": "sphere",
+    "meaning": "球、圈"
+   }
+  ],
+  "related": [
+   "t-mantle",
+   "t-crust",
+   "t-isostasy",
+   "t-convection"
+  ],
+  "confusables": [],
+  "illus": "earth-layers",
+  "tf": {
+   "statement_zh": "軟流圈屬於地殼的一部分。",
+   "answer": false,
+   "explain": "軟流圈位於上部地函，在岩石圈之下。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-aerosol",
+  "unit": "u07",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈerəsɑːl/",
+  "ipa_uk": "/ˈeərəsɒl/",
+  "syllables": "aer·o·sol",
+  "def_en": "Tiny solid or liquid particles suspended in the air, such as dust, smoke, sea salt, or volcanic ash.",
+  "def_zh": "氣膠：懸浮在空氣中的微小固體或液體粒子（如沙塵、煙、海鹽、火山灰），可作為凝結核並影響氣候；PM2.5 即屬氣膠。",
+  "example_en": "Volcanic aerosol in the stratosphere can cool global temperatures for a year or two.",
+  "example_zh": "平流層中的火山氣膠可使全球氣溫降低一兩年。",
+  "morph": [
+   {
+    "part": "aero-",
+    "meaning": "空氣"
+   },
+   {
+    "part": "sol",
+    "meaning": "溶液"
+   }
+  ],
+  "related": [
+   "t-air-pollution",
+   "t-atmosphere",
+   "t-condensation",
+   "t-airborne"
+  ],
+  "confusables": [],
+  "illus": "pollution",
+  "tf": {
+   "statement_zh": "大規模火山爆發噴出的氣膠可能使全球氣溫暫時下降。",
+   "answer": true,
+   "explain": "氣膠反射陽光，如 1991 年皮納圖博火山爆發後全球降溫。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-accelerometer",
+  "unit": "u01",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/əkˌseləˈrɑːmɪtər/",
+  "ipa_uk": "/əkˌseləˈrɒmɪtə/",
+  "syllables": "ac·cel·er·om·e·ter",
+  "def_en": "An instrument that measures acceleration, used in seismographs and phones to detect ground shaking.",
+  "def_zh": "加速度計：測量加速度的儀器；強震儀與手機都用它偵測地面搖晃，臺灣震度分級即參考地表加速度與速度。",
+  "example_en": "The accelerometer recorded strong shaking during the earthquake.",
+  "example_zh": "加速度計記錄到地震時的強烈搖晃。",
+  "morph": [
+   {
+    "part": "accelero-",
+    "meaning": "加速"
+   },
+   {
+    "part": "-meter",
+    "meaning": "測量器"
+   }
+  ],
+  "related": [
+   "t-seismic",
+   "t-earthquake",
+   "t-accelerated-motion",
+   "t-transducer"
+  ],
+  "confusables": [],
+  "illus": "observation-tools",
+  "tf": {
+   "statement_zh": "加速度計可以用來記錄地震時地表搖晃的程度。",
+   "answer": true,
+   "explain": "強震儀以加速度計量測地表加速度。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-abyssal",
+  "unit": "u10",
+  "level": 2,
+  "pos": "adj.",
+  "ipa_us": "/əˈbɪsəl/",
+  "ipa_uk": "/əˈbɪsəl/",
+  "syllables": "a·bys·sal",
+  "def_en": "Relating to the deep ocean floor, usually 3,000 to 6,000 meters below sea level.",
+  "def_zh": "深海的；例如深海平原（abyssal plain）位於約 3,000–6,000 m 深、地形平坦的海底。",
+  "example_en": "Few animals live on the dark, cold abyssal plain.",
+  "example_zh": "黑暗寒冷的深海平原上只有少數動物生存。",
+  "morph": [
+   {
+    "part": "a-",
+    "meaning": "沒有"
+   },
+   {
+    "part": "byss",
+    "meaning": "底部"
+   }
+  ],
+  "related": [
+   "t-abyssal-plain",
+   "t-trench",
+   "t-ocean",
+   "t-deep-layer"
+  ],
+  "confusables": [],
+  "illus": "seawater-profile",
+  "tf": {
+   "statement_zh": "深海平原是海底最深的地形。",
+   "answer": false,
+   "explain": "海溝比深海平原深，最深可超過 10,000 m。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-absolute",
+  "unit": "u13",
+  "level": 1,
+  "pos": "adj.",
+  "ipa_us": "/ˈæbsəluːt/",
+  "ipa_uk": "/ˈæbsəluːt/",
+  "syllables": "ab·so·lute",
+  "def_en": "Not compared with anything else; measured on a fixed scale, as in absolute magnitude or absolute zero.",
+  "def_zh": "絕對的；例如絕對星等（把恆星放在 10 秒差距處所見的星等）或絕對零度（0 K ≈ −273.15 °C）。",
+  "example_en": "Astronomers compare stars using their absolute magnitude.",
+  "example_zh": "天文學家用絕對星等來比較恆星。",
+  "morph": [
+   {
+    "part": "ab-",
+    "meaning": "離開"
+   },
+   {
+    "part": "solut",
+    "meaning": "鬆開"
+   }
+  ],
+  "related": [
+   "t-absolute-zero",
+   "t-magnitude",
+   "t-apparent",
+   "t-luminosity"
+  ],
+  "confusables": [
+   {
+    "term": "apparent",
+    "zh": "視的",
+    "note": "視星等是從地球看到的亮度，受距離影響"
+   }
+  ],
+  "illus": "star-brightness",
+  "tf": {
+   "statement_zh": "絕對星等是假設恆星位於 10 秒差距處時的星等。",
+   "answer": true,
+   "explain": "統一距離後，絕對星等可直接比較恆星真正的發光能力。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-above-normal",
+  "unit": "u08",
+  "level": 1,
+  "pos": "adj. phr.",
+  "ipa_us": "/əˌbʌv ˈnɔːrməl/",
+  "ipa_uk": "/əˌbʌv ˈnɔːməl/",
+  "syllables": "a·bove nor·mal",
+  "def_en": "Higher than the usual long-term average, as in rainfall or temperature.",
+  "def_zh": "高於正常值：高於氣候平均值（常用 30 年平均）；氣象署常以此描述雨量或氣溫偏多、偏高。",
+  "example_en": "Rainfall this May was above normal, so the reservoirs filled quickly.",
+  "example_zh": "今年五月雨量高於正常值，所以水庫很快就蓄滿了。",
+  "morph": [],
+  "related": [
+   "t-rainfall",
+   "t-climate",
+   "t-anomaly",
+   "t-plum-rain"
+  ],
+  "confusables": [],
+  "illus": "precipitation",
+  "tf": {
+   "statement_zh": "「高於正常值」中的「正常值」通常指長期（如 30 年）的氣候平均值。",
+   "answer": true,
+   "explain": "氣象上的正常值即氣候平均值。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-zodiac",
+  "unit": "u11",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈzoʊdiæk/",
+  "ipa_uk": "/ˈzəʊdiæk/",
+  "syllables": "zo·di·ac",
+  "def_en": "The band of sky along the ecliptic through which the Sun, Moon, and planets appear to move.",
+  "def_zh": "黃道帶：沿黃道兩側約各 8° 的天空帶，太陽、月球與行星都在此帶中移動，傳統分為黃道十二宮。",
+  "example_en": "The planets always appear within the zodiac.",
+  "example_zh": "行星總是出現在黃道帶內。",
+  "morph": [
+   {
+    "part": "zo-",
+    "meaning": "動物"
+   }
+  ],
+  "related": [
+   "t-ecliptic",
+   "t-zodiacal-signs",
+   "t-constellation",
+   "t-annual-motion"
+  ],
+  "confusables": [],
+  "illus": "ecliptic-zodiac",
+  "tf": {
+   "statement_zh": "行星在天空中的視運動大致都在黃道帶附近。",
+   "answer": true,
+   "explain": "行星軌道面與地球公轉軌道面接近。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-zircon",
+  "unit": "u02",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈzɜːrkɑːn/",
+  "ipa_uk": "/ˈzɜːkɒn/",
+  "syllables": "zir·con",
+  "def_en": "A hard, durable mineral containing traces of uranium, widely used to date very old rocks.",
+  "def_zh": "鋯石：化學式 ZrSiO₄ 的礦物，堅硬耐風化，晶體含微量鈾，可做放射性定年；最古老的鋯石約 44 億年。",
+  "example_en": "Scientists dated the granite by measuring uranium in its zircon crystals.",
+  "example_zh": "科學家藉由測量鋯石晶體中的鈾來推定花崗岩的年代。",
+  "morph": [],
+  "related": [
+   "t-minerals",
+   "t-half-life",
+   "t-granite",
+   "t-mineral"
+  ],
+  "confusables": [],
+  "illus": "minerals",
+  "tf": {
+   "statement_zh": "鋯石因含鈾，常被用於放射性定年。",
+   "answer": true,
+   "explain": "鈾衰變為鉛，可依半衰期計算年代。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-zenith",
+  "unit": "u11",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈziːnɪθ/",
+  "ipa_uk": "/ˈzenɪθ/",
+  "syllables": "ze·nith",
+  "def_en": "The point in the sky directly above an observer, at an altitude of 90 degrees.",
+  "def_zh": "天頂：觀測者正上方的天球點，仰角 90°；夏至正午太陽可直射北回歸線上方的天頂。",
+  "example_en": "At noon on the summer solstice, the Sun reaches the zenith over the Tropic of Cancer.",
+  "example_zh": "夏至正午，太陽到達北回歸線上空的天頂。",
+  "morph": [],
+  "related": [
+   "t-horizon",
+   "t-azimuth",
+   "t-celestial",
+   "t-altazimuth"
+  ],
+  "confusables": [],
+  "illus": "celestial-sphere",
+  "tf": {
+   "statement_zh": "地球上不同地點的觀測者，天頂所指的方向都相同。",
+   "answer": false,
+   "explain": "天頂是各觀測者的正上方，位置不同方向就不同。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-xenolith",
+  "unit": "u02",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˈzenəlɪθ/",
+  "ipa_uk": "/ˈzenəlɪθ/",
+  "syllables": "xen·o·lith",
+  "def_en": "A fragment of older rock enclosed within an igneous rock after being picked up by magma.",
+  "def_zh": "捕獲岩：被岩漿捕獲並包裹在火成岩中的外來岩塊；依包裹關係，捕獲岩比包住它的火成岩更老。",
+  "example_en": "The dark xenolith inside the granite is older than the granite itself.",
+  "example_zh": "花崗岩中的深色捕獲岩比花崗岩本身更老。",
+  "morph": [
+   {
+    "part": "xeno-",
+    "meaning": "外來的"
+   },
+   {
+    "part": "-lith",
+    "meaning": "石"
+   }
+  ],
+  "related": [
+   "t-superposition",
+   "t-granite",
+   "t-basalt",
+   "t-peridotite"
+  ],
+  "confusables": [],
+  "illus": "superposition",
+  "tf": {
+   "statement_zh": "捕獲岩的年代比包裹它的火成岩年輕。",
+   "answer": false,
+   "explain": "岩漿必須先捕獲已存在的岩石，所以捕獲岩較老。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-wind",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/wɪnd/",
+  "ipa_uk": "/wɪnd/",
+  "syllables": "wind",
+  "def_en": "Air moving horizontally, generally from areas of higher pressure toward areas of lower pressure.",
+  "def_zh": "風：空氣的水平流動，大致由高氣壓區吹向低氣壓區；氣壓梯度越大，風速越強。",
+  "example_en": "A strong northeast wind blows across Taiwan in winter.",
+  "example_zh": "冬季強勁的東北風吹過臺灣。",
+  "morph": [],
+  "related": [
+   "t-wind-speed",
+   "t-wind-direction",
+   "t-air-pressure",
+   "t-monsoon"
+  ],
+  "confusables": [],
+  "illus": "pressure-systems",
+  "tf": {
+   "statement_zh": "風向是指風吹去的方向。",
+   "answer": false,
+   "explain": "風向是指風吹來的方向，例如北風是從北方吹來。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-weathering",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈweðərɪŋ/",
+  "ipa_uk": "/ˈweðərɪŋ/",
+  "syllables": "weath·er·ing",
+  "def_en": "The breaking down of rocks in place by physical, chemical, or biological processes.",
+  "def_zh": "風化：岩石在原地受物理（溫差、冰劈）、化學或生物作用而破碎、分解的過程。",
+  "example_en": "Chemical weathering is strong in Taiwan's hot, rainy climate.",
+  "example_zh": "在臺灣高溫多雨的氣候下，化學風化很旺盛。",
+  "morph": [],
+  "related": [
+   "t-erosion",
+   "t-transportation",
+   "t-sediment",
+   "t-rock"
+  ],
+  "confusables": [
+   {
+    "term": "erosion",
+    "zh": "侵蝕",
+    "note": "侵蝕會把物質帶離原地，風化則在原地進行"
+   }
+  ],
+  "illus": "weathering-erosion",
+  "tf": {
+   "statement_zh": "高溫多雨的地區，化學風化通常較旺盛。",
+   "answer": true,
+   "explain": "溫度高、水分多會加快化學反應。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-waveband",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈweɪvbænd/",
+  "ipa_uk": "/ˈweɪvbænd/",
+  "syllables": "wave·band",
+  "def_en": "A range of wavelengths or frequencies in the electromagnetic spectrum, such as the infrared band.",
+  "def_zh": "波段：電磁波譜中某一段波長或頻率範圍，例如紅外線波段；不同波段的望遠鏡可看到天體不同的面貌。",
+  "example_en": "This space telescope observes in the infrared waveband.",
+  "example_zh": "這座太空望遠鏡在紅外線波段進行觀測。",
+  "morph": [
+   {
+    "part": "wave",
+    "meaning": "波"
+   },
+   {
+    "part": "band",
+    "meaning": "帶、範圍"
+   }
+  ],
+  "related": [
+   "t-wavelength",
+   "t-frequency",
+   "t-infrared",
+   "t-electromagnetic-em-waves"
+  ],
+  "confusables": [],
+  "illus": "em-spectrum",
+  "tf": {
+   "statement_zh": "地球大氣對所有電磁波段都完全透明。",
+   "answer": false,
+   "explain": "大氣會吸收大部分 X 射線、紫外線與部分紅外線，只有可見光與無線電等「窗口」能透過。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-wave",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/weɪv/",
+  "ipa_uk": "/weɪv/",
+  "syllables": "wave",
+  "def_en": "A disturbance that carries energy through water, air, or rock; on the sea, the wind-driven rise and fall of the surface.",
+  "def_zh": "波：傳遞能量的擾動；海面波浪多由風吹形成，水粒子大致做圓周運動，並不隨波長距離前進。",
+  "example_en": "Each wave carries energy toward the shore.",
+  "example_zh": "每一道波浪都把能量帶向海岸。",
+  "morph": [],
+  "related": [
+   "t-wave-height",
+   "t-wavelength",
+   "t-swell",
+   "t-breaker"
+  ],
+  "confusables": [],
+  "illus": "waves",
+  "tf": {
+   "statement_zh": "波浪傳播時，水粒子也跟著波一起長距離前進。",
+   "answer": false,
+   "explain": "波傳遞的是能量，水粒子主要在原處做圓周運動。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-watershed",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈwɔːtərʃed/",
+  "ipa_uk": "/ˈwɔːtəʃed/",
+  "syllables": "wa·ter·shed",
+  "def_en": "The land area that drains into one river; also the ridge that separates two such areas.",
+  "def_zh": "集水區：降水匯流到同一條河川的區域；也指分隔兩個集水區的稜線（分水嶺）。",
+  "example_en": "Protecting the forest in the watershed keeps the reservoir water clean.",
+  "example_zh": "保護集水區的森林能讓水庫的水保持乾淨。",
+  "morph": [
+   {
+    "part": "water",
+    "meaning": "水"
+   },
+   {
+    "part": "shed",
+    "meaning": "分開、流下"
+   }
+  ],
+  "related": [
+   "t-runoff",
+   "t-flood-plain",
+   "t-ground-water",
+   "t-water-resource"
+  ],
+  "confusables": [],
+  "illus": "river-landforms",
+  "tf": {
+   "statement_zh": "在集水區上游過度開發，可能使下游洪水風險增加。",
+   "answer": true,
+   "explain": "植被減少使入滲變少、逕流增加。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-water",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈwɔːtər/",
+  "ipa_uk": "/ˈwɔːtə/",
+  "syllables": "wa·ter",
+  "def_en": "The substance H₂O, found on Earth as liquid, ice, and vapor, and essential for life.",
+  "def_zh": "水：化學式 H₂O，在地球上以液態、固態（冰）與氣態（水氣）存在；地球上約 97% 的水是海水。",
+  "example_en": "About 97 percent of Earth's water is in the oceans.",
+  "example_zh": "地球上約 97% 的水在海洋中。",
+  "morph": [],
+  "related": [
+   "t-water-cycle",
+   "t-water-vapor",
+   "t-hydrosphere",
+   "t-water-resource"
+  ],
+  "confusables": [],
+  "illus": "water-cycle",
+  "tf": {
+   "statement_zh": "地球上的水大部分是淡水。",
+   "answer": false,
+   "explain": "約 97% 是海水，淡水不到 3%，且多為冰川。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-volcanism",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈvɑːlkənɪzəm/",
+  "ipa_uk": "/ˈvɒlkənɪzəm/",
+  "syllables": "vol·can·ism",
+  "def_en": "All the processes by which magma and gases rise and erupt onto Earth's surface or into the air.",
+  "def_zh": "火山作用：岩漿及氣體上升並噴出地表的各種作用，包括噴發、噴氣與溫泉活動，例如大屯火山群。",
+  "example_en": "Volcanism at hot spots built the Hawaiian Islands.",
+  "example_zh": "熱點的火山作用造就了夏威夷群島。",
+  "morph": [
+   {
+    "part": "volcan",
+    "meaning": "火山"
+   },
+   {
+    "part": "-ism",
+    "meaning": "作用、現象"
+   }
+  ],
+  "related": [
+   "t-volcano",
+   "t-degassing",
+   "t-hot-spot",
+   "t-fumarole"
+  ],
+  "confusables": [],
+  "illus": "volcano",
+  "tf": {
+   "statement_zh": "火山作用只會發生在板塊邊界。",
+   "answer": false,
+   "explain": "熱點（如夏威夷）位於板塊內部，也有火山作用。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-venus",
+  "unit": "u12",
+  "level": 1,
+  "pos": "proper n.",
+  "ipa_us": "/ˈviːnəs/",
+  "ipa_uk": "/ˈviːnəs/",
+  "syllables": "Ve·nus",
+  "def_en": "The second planet from the Sun, with a thick carbon dioxide atmosphere and the hottest planetary surface.",
+  "def_zh": "金星：太陽系第二顆行星，有濃厚的 CO₂ 大氣與強烈溫室效應，表面溫度約 460 °C，是最熱的行星。",
+  "example_en": "Venus is often seen as a bright evening star after sunset.",
+  "example_zh": "金星常在日落後被看到，是明亮的昏星。",
+  "morph": [],
+  "related": [
+   "t-greenhouse-effect",
+   "t-planet",
+   "t-mercury",
+   "t-solar-system"
+  ],
+  "confusables": [],
+  "illus": "solar-system",
+  "tf": {
+   "statement_zh": "金星離太陽比水星遠，但表面溫度比水星高。",
+   "answer": true,
+   "explain": "金星濃厚 CO₂ 大氣造成極強溫室效應。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-vega",
+  "unit": "u13",
+  "level": 1,
+  "pos": "proper n.",
+  "ipa_us": "/ˈviːɡə/",
+  "ipa_uk": "/ˈviːɡə/",
+  "syllables": "Ve·ga",
+  "def_en": "The brightest star in the constellation Lyra, a white star about 25 light-years away.",
+  "def_zh": "織女星：天琴座最亮的恆星（天琴座 α），距離約 25 光年，是夏季大三角之一，也是七夕故事中的織女。",
+  "example_en": "Vega forms part of the Summer Triangle.",
+  "example_zh": "織女星是夏季大三角的一部分。",
+  "morph": [],
+  "related": [
+   "t-lyra",
+   "t-constellation",
+   "t-light-year",
+   "t-precession"
+  ],
+  "confusables": [],
+  "illus": "constellations",
+  "tf": {
+   "statement_zh": "因為歲差，大約 1 萬 2 千年後織女星將成為北極星。",
+   "answer": true,
+   "explain": "地軸緩慢擺動使北天極指向改變，織女星將靠近北天極。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-urbanization",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌɜːrbənəˈzeɪʃən/",
+  "ipa_uk": "/ˌɜːbənaɪˈzeɪʃən/",
+  "syllables": "ur·ban·i·za·tion",
+  "def_en": "The growth of cities as people move to urban areas, changing land surfaces and local climate.",
+  "def_zh": "都市化：人口向都市集中、都市擴張的過程；會增加不透水地面，造成熱島效應與地表逕流增加。",
+  "example_en": "Rapid urbanization has made Taipei warmer than the surrounding countryside.",
+  "example_zh": "快速都市化使臺北比周圍鄉間更熱。",
+  "morph": [
+   {
+    "part": "urb",
+    "meaning": "城市"
+   },
+   {
+    "part": "-ize",
+    "meaning": "使成為"
+   },
+   {
+    "part": "-ation",
+    "meaning": "過程"
+   }
+  ],
+  "related": [
+   "t-light-pollution",
+   "t-air-pollution",
+   "t-runoff",
+   "t-global-change"
+  ],
+  "confusables": [],
+  "illus": "pollution",
+  "tf": {
+   "statement_zh": "都市化通常會使地表逕流減少。",
+   "answer": false,
+   "explain": "不透水面增加使入滲減少，逕流反而增加。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-uranus",
+  "unit": "u12",
+  "level": 1,
+  "pos": "proper n.",
+  "ipa_us": "/ˈjʊrənəs/",
+  "ipa_uk": "/ˈjʊərənəs/",
+  "syllables": "U·ra·nus",
+  "def_en": "The seventh planet from the Sun, an ice giant whose rotation axis is tilted about 98 degrees.",
+  "def_zh": "天王星：太陽系第七顆行星，屬冰巨行星，自轉軸傾斜約 98°，幾乎「躺著」繞太陽公轉。",
+  "example_en": "Uranus rotates on its side compared with the other planets.",
+  "example_zh": "與其他行星相比，天王星是側躺著自轉的。",
+  "morph": [],
+  "related": [
+   "t-neptune",
+   "t-saturn",
+   "t-planet",
+   "t-solar-system"
+  ],
+  "confusables": [],
+  "illus": "solar-system",
+  "tf": {
+   "statement_zh": "天王星位於土星與海王星之間。",
+   "answer": true,
+   "explain": "順序為木星、土星、天王星、海王星。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-upwelling",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈʌpwelɪŋ/",
+  "ipa_uk": "/ˈʌpwelɪŋ/",
+  "syllables": "up·well·ing",
+  "def_en": "The rising of cold, nutrient-rich deep water to the ocean surface, often along coasts.",
+  "def_zh": "湧升流：深層低溫、富含營養鹽的海水上升到表層的現象，常形成良好漁場，如秘魯外海。",
+  "example_en": "Upwelling off Peru brings nutrients that support huge fish populations.",
+  "example_zh": "秘魯外海的湧升流帶來營養鹽，養活了大量魚群。",
+  "morph": [
+   {
+    "part": "up-",
+    "meaning": "向上"
+   },
+   {
+    "part": "well",
+    "meaning": "湧出"
+   }
+  ],
+  "related": [
+   "t-sinking",
+   "t-nutrient",
+   "t-el-nino",
+   "t-cold-current"
+  ],
+  "confusables": [
+   {
+    "term": "sinking",
+    "zh": "沉降流",
+    "note": "沉降流是表層海水下沉，方向與湧升流相反"
+   }
+  ],
+  "illus": "ocean-currents",
+  "tf": {
+   "statement_zh": "聖嬰年時，秘魯外海的湧升流會增強。",
+   "answer": false,
+   "explain": "聖嬰年信風減弱，秘魯外海湧升流減弱、海溫偏高。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-universe",
+  "unit": "u13",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈjuːnɪvɜːrs/",
+  "ipa_uk": "/ˈjuːnɪvɜːs/",
+  "syllables": "u·ni·verse",
+  "def_en": "All of space, time, matter, and energy that exist, including every galaxy.",
+  "def_zh": "宇宙：所有時間、空間、物質與能量的總和，約形成於 138 億年前，至今仍在膨脹。",
+  "example_en": "The universe is about 13.8 billion years old.",
+  "example_zh": "宇宙的年齡約為 138 億年。",
+  "morph": [
+   {
+    "part": "uni-",
+    "meaning": "一"
+   },
+   {
+    "part": "vers",
+    "meaning": "轉"
+   }
+  ],
+  "related": [
+   "t-galaxy",
+   "t-redshift",
+   "t-cluster-of-galaxies",
+   "t-matter"
+  ],
+  "confusables": [],
+  "illus": "redshift",
+  "tf": {
+   "statement_zh": "遙遠星系普遍有紅移，是宇宙膨脹的證據。",
+   "answer": true,
+   "explain": "星系越遠紅移越大（哈伯定律），顯示宇宙在膨脹。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-uniformitarianism",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌjuːnɪˌfɔːrmɪˈteriənɪzəm/",
+  "ipa_uk": "/ˌjuːnɪˌfɔːmɪˈteəriənɪzəm/",
+  "syllables": "u·ni·form·i·tar·i·an·ism",
+  "def_en": "The principle that geologic processes working today also worked in the past: the present is the key to the past.",
+  "def_zh": "均變說：現今作用於地表的地質作用，在過去也以相似方式進行，即「現在是了解過去的鑰匙」（赫頓提出、萊爾推廣）。",
+  "example_en": "Uniformitarianism helps geologists read rock layers by studying rivers and beaches today.",
+  "example_zh": "均變說幫助地質學家藉由研究現今的河流與海灘來解讀岩層。",
+  "morph": [
+   {
+    "part": "uni-",
+    "meaning": "一"
+   },
+   {
+    "part": "form",
+    "meaning": "形式"
+   },
+   {
+    "part": "-ism",
+    "meaning": "主義、學說"
+   }
+  ],
+  "related": [
+   "t-superposition",
+   "t-horizontality",
+   "t-succession",
+   "t-sedimentation"
+  ],
+  "confusables": [],
+  "illus": "geologic-time",
+  "tf": {
+   "statement_zh": "均變說主張地球歷史主要是由少數突發的大災變所塑造。",
+   "answer": false,
+   "explain": "那是災變說；均變說強調長時間、持續進行的作用。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-undulation",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌʌndʒəˈleɪʃən/",
+  "ipa_uk": "/ˌʌndjʊˈleɪʃən/",
+  "syllables": "un·du·la·tion",
+  "def_en": "A gentle, wave-like rise and fall of a land surface or water surface.",
+  "def_zh": "起伏：地表緩和的高低起伏，或水面的波動；例如丘陵的起伏，或大地水準面的起伏。",
+  "example_en": "The gentle undulation of the hills shows the shape of old folded layers.",
+  "example_zh": "丘陵緩和的起伏顯示了古老褶皺岩層的形狀。",
+  "morph": [
+   {
+    "part": "und",
+    "meaning": "波浪"
+   },
+   {
+    "part": "-ation",
+    "meaning": "狀態"
+   }
+  ],
+  "related": [
+   "t-wave",
+   "t-geoid",
+   "t-elevation",
+   "t-wave-motion"
+  ],
+  "confusables": [],
+  "illus": "waves",
+  "tf": {
+   "statement_zh": "undulation 可以用來描述地面高低起伏的樣子。",
+   "answer": true,
+   "explain": "undulation 指波狀起伏，可用於地形或水面。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-tsunami",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/tsuːˈnɑːmi/",
+  "ipa_uk": "/tsuːˈnɑːmi/",
+  "syllables": "tsu·na·mi",
+  "def_en": "A series of huge ocean waves caused by sudden seafloor movement, such as an undersea earthquake.",
+  "def_zh": "海嘯：海底地震、火山爆發或海底山崩使海床突然變動而引發的長波長巨浪；深海中速度可達每小時 700 km 以上。",
+  "example_en": "The 2011 Japan earthquake triggered a deadly tsunami.",
+  "example_zh": "2011 年日本地震引發了致命的海嘯。",
+  "morph": [
+   {
+    "part": "tsu",
+    "meaning": "港（日語）"
+   },
+   {
+    "part": "nami",
+    "meaning": "浪（日語）"
+   }
+  ],
+  "related": [
+   "t-earthquake",
+   "t-trench",
+   "t-wave",
+   "t-wave-height"
+  ],
+  "confusables": [],
+  "illus": "geohazards",
+  "tf": {
+   "statement_zh": "海嘯在深海中波高很大，接近海岸時反而變小。",
+   "answer": false,
+   "explain": "深海中波高小、速度快；進入淺水後減速，波高急遽增大。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-tropopause",
+  "unit": "u07",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈtroʊpəpɔːz/",
+  "ipa_uk": "/ˈtrɒpəpɔːz/",
+  "syllables": "trop·o·pause",
+  "def_en": "The boundary between the troposphere and stratosphere, where temperature stops falling with height.",
+  "def_zh": "對流層頂：對流層與平流層的交界，氣溫不再隨高度遞減；高度在赤道約 16–18 km，極區約 8 km。",
+  "example_en": "Thunderstorm tops often spread out flat at the tropopause.",
+  "example_zh": "雷暴雲頂常在對流層頂攤平散開。",
+  "morph": [
+   {
+    "part": "tropo-",
+    "meaning": "轉變"
+   },
+   {
+    "part": "-pause",
+    "meaning": "停止"
+   }
+  ],
+  "related": [
+   "t-mesosphere",
+   "t-mesopause",
+   "t-atmosphere",
+   "t-ozone-layer"
+  ],
+  "confusables": [],
+  "illus": "atmosphere-layers",
+  "tf": {
+   "statement_zh": "對流層頂的高度在赤道比在極區高。",
+   "answer": true,
+   "explain": "赤道熱、對流旺盛，對流層較厚。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-tropical",
+  "unit": "u08",
+  "level": 1,
+  "pos": "adj.",
+  "ipa_us": "/ˈtrɑːpɪkəl/",
+  "ipa_uk": "/ˈtrɒpɪkəl/",
+  "syllables": "trop·i·cal",
+  "def_en": "Relating to the tropics, the warm region between the Tropic of Cancer and the Tropic of Capricorn.",
+  "def_zh": "熱帶的；指南北回歸線（約 23.5°）之間的地區，例如颱風是在熱帶海洋上形成的熱帶氣旋。",
+  "example_en": "A typhoon is a strong tropical cyclone in the western Pacific.",
+  "example_zh": "颱風是西北太平洋上的強烈熱帶氣旋。",
+  "morph": [
+   {
+    "part": "trop",
+    "meaning": "轉向"
+   },
+   {
+    "part": "-ical",
+    "meaning": "…的"
+   }
+  ],
+  "related": [
+   "t-typhoon",
+   "t-equator",
+   "t-hurricane",
+   "t-cyclone"
+  ],
+  "confusables": [],
+  "illus": "typhoon",
+  "tf": {
+   "statement_zh": "嘉義北回歸線標誌以南的臺灣地區屬於熱帶。",
+   "answer": true,
+   "explain": "北回歸線以南即位於熱帶範圍內。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-trilobite",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈtraɪləbaɪt/",
+  "ipa_uk": "/ˈtraɪləbaɪt/",
+  "syllables": "tri·lo·bite",
+  "def_en": "An extinct sea arthropod with a three-lobed body, common in the Paleozoic and an important index fossil.",
+  "def_zh": "三葉蟲：已滅絕的海生節肢動物，身體縱分為三葉；盛行於古生代（寒武紀最繁盛），二疊紀末滅絕，是重要指準化石。",
+  "example_en": "Finding a trilobite fossil tells us the rock formed in a Paleozoic sea.",
+  "example_zh": "發現三葉蟲化石，表示這塊岩石形成於古生代的海洋中。",
+  "morph": [
+   {
+    "part": "tri-",
+    "meaning": "三"
+   },
+   {
+    "part": "lob",
+    "meaning": "葉、瓣"
+   }
+  ],
+  "related": [
+   "t-fossil",
+   "t-cambrian",
+   "t-permian",
+   "t-ammonite"
+  ],
+  "confusables": [],
+  "illus": "fossils",
+  "tf": {
+   "statement_zh": "在地層中發現三葉蟲化石，可推斷該地層屬於中生代。",
+   "answer": false,
+   "explain": "三葉蟲是古生代指準化石，中生代代表性化石是菊石。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-triassic",
+  "unit": "u06",
+  "level": 2,
+  "pos": "proper n./adj.",
+  "ipa_us": "/traɪˈæsɪk/",
+  "ipa_uk": "/traɪˈæsɪk/",
+  "syllables": "Tri·as·sic",
+  "def_en": "The first period of the Mesozoic Era, about 252 to 201 million years ago, when dinosaurs appeared.",
+  "def_zh": "三疊紀：中生代的第一個紀，約 2.52 億至 2.01 億年前；恐龍與早期哺乳類出現，盤古大陸開始分裂。",
+  "example_en": "The first dinosaurs appeared in the Triassic period.",
+  "example_zh": "最早的恐龍出現在三疊紀。",
+  "morph": [
+   {
+    "part": "tri-",
+    "meaning": "三"
+   }
+  ],
+  "related": [
+   "t-mesozoic",
+   "t-jurassic",
+   "t-permian",
+   "t-pangea"
+  ],
+  "confusables": [],
+  "illus": "geologic-time",
+  "tf": {
+   "statement_zh": "三疊紀位於侏羅紀之後。",
+   "answer": false,
+   "explain": "中生代依序為三疊紀、侏羅紀、白堊紀。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-transgression",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/trænsˈɡreʃən/",
+  "ipa_uk": "/trænzˈɡreʃən/",
+  "syllables": "trans·gres·sion",
+  "def_en": "The landward advance of the sea over land due to rising sea level or sinking land.",
+  "def_zh": "海進：海水面相對上升或陸地下沉，使海岸線向陸地推進；同一地點的沉積物常由下往上變細。",
+  "example_en": "A marine transgression after the last ice age flooded the Taiwan Strait.",
+  "example_zh": "末次冰期後的海進淹沒了臺灣海峽。",
+  "morph": [
+   {
+    "part": "trans-",
+    "meaning": "越過"
+   },
+   {
+    "part": "gress",
+    "meaning": "走"
+   }
+  ],
+  "related": [
+   "t-regression",
+   "t-shoreline",
+   "t-beach",
+   "t-sedimentation"
+  ],
+  "confusables": [
+   {
+    "term": "regression",
+    "zh": "海退",
+    "note": "海退是海岸線向海後退，方向相反"
+   }
+  ],
+  "illus": "sea-level",
+  "tf": {
+   "statement_zh": "發生海進時，同一地點的沉積物顆粒通常由下往上變細。",
+   "answer": true,
+   "explain": "海水變深、離岸變遠，沉積環境由粗粒轉為細粒。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-titan",
+  "unit": "u12",
+  "level": 2,
+  "pos": "proper n.",
+  "ipa_us": "/ˈtaɪtn/",
+  "ipa_uk": "/ˈtaɪtn/",
+  "syllables": "Ti·tan",
+  "def_en": "Saturn's largest moon, the only moon with a thick atmosphere, mostly nitrogen.",
+  "def_zh": "土衛六（泰坦）：土星最大的衛星，是太陽系唯一具濃厚大氣（主要為氮氣）的衛星，表面有液態甲烷湖。",
+  "example_en": "Titan has lakes of liquid methane on its surface.",
+  "example_zh": "土衛六表面有液態甲烷湖。",
+  "morph": [],
+  "related": [
+   "t-saturn",
+   "t-satellite",
+   "t-planet",
+   "t-atmosphere"
+  ],
+  "confusables": [],
+  "illus": "solar-system",
+  "tf": {
+   "statement_zh": "土衛六是太陽系中唯一擁有濃厚大氣的衛星。",
+   "answer": true,
+   "explain": "其大氣主要為氮氣，地表氣壓約為地球的 1.5 倍。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-thunderstorm",
+  "unit": "u08",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈθʌndərstɔːrm/",
+  "ipa_uk": "/ˈθʌndəstɔːm/",
+  "syllables": "thun·der·storm",
+  "def_en": "A storm from a cumulonimbus cloud with lightning, thunder, heavy rain, and sometimes hail.",
+  "def_zh": "雷暴（雷雨）：由積雨雲產生，伴隨閃電、雷聲與強降雨，有時有冰雹；臺灣夏季午後常見熱雷雨。",
+  "example_en": "An afternoon thunderstorm is common in Taipei in summer.",
+  "example_zh": "夏天的臺北常有午後雷陣雨。",
+  "morph": [
+   {
+    "part": "thunder",
+    "meaning": "雷"
+   },
+   {
+    "part": "storm",
+    "meaning": "暴風雨"
+   }
+  ],
+  "related": [
+   "t-lightning",
+   "t-hail",
+   "t-cumulus",
+   "t-tornado"
+  ],
+  "confusables": [],
+  "illus": "tornado-thunderstorm",
+  "tf": {
+   "statement_zh": "臺灣夏季午後雷陣雨主要是地表強烈受熱產生對流所致。",
+   "answer": true,
+   "explain": "白天地面受熱使空氣上升，形成積雨雲。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-thermosphere",
+  "unit": "u07",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈθɜːrməsfɪr/",
+  "ipa_uk": "/ˈθɜːməsfɪə/",
+  "syllables": "ther·mo·sphere",
+  "def_en": "The layer above the mesosphere, where temperature rises with height as gases absorb solar radiation.",
+  "def_zh": "增溫層：位於中氣層頂之上（約 85 km 以上），氣體吸收太陽高能輻射，溫度隨高度上升，可達 1000 °C 以上；極光多發生於此。",
+  "example_en": "The International Space Station orbits within the thermosphere.",
+  "example_zh": "國際太空站在增溫層中繞行地球。",
+  "morph": [
+   {
+    "part": "thermo-",
+    "meaning": "熱"
+   },
+   {
+    "part": "sphere",
+    "meaning": "圈"
+   }
+  ],
+  "related": [
+   "t-mesopause",
+   "t-ionosphere",
+   "t-aurora",
+   "t-mesosphere"
+  ],
+  "confusables": [],
+  "illus": "atmosphere-layers",
+  "tf": {
+   "statement_zh": "增溫層溫度很高，所以在其中的太空人會覺得非常熱。",
+   "answer": false,
+   "explain": "增溫層氣體極稀薄，雖然分子溫度高，傳給物體的熱量很少。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-thermocline",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈθɜːrməklaɪn/",
+  "ipa_uk": "/ˈθɜːməklaɪn/",
+  "syllables": "ther·mo·cline",
+  "def_en": "The ocean layer where temperature drops quickly with depth, between the mixed layer and deep water.",
+  "def_zh": "斜溫層：位於混合層與深水層之間，水溫隨深度快速下降的水層。",
+  "example_en": "Below the thermocline, the water stays cold all year.",
+  "example_zh": "在斜溫層以下，海水終年寒冷。",
+  "morph": [
+   {
+    "part": "thermo-",
+    "meaning": "熱"
+   },
+   {
+    "part": "cline",
+    "meaning": "傾斜"
+   }
+  ],
+  "related": [
+   "t-mixing",
+   "t-deep-layer",
+   "t-upwelling",
+   "t-salinity"
+  ],
+  "confusables": [],
+  "illus": "seawater-profile",
+  "tf": {
+   "statement_zh": "斜溫層中的水溫幾乎不隨深度改變。",
+   "answer": false,
+   "explain": "斜溫層的特徵正是水溫隨深度快速下降。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-tertiary",
+  "unit": "u06",
+  "level": 2,
+  "pos": "proper n./adj.",
+  "ipa_us": "/ˈtɜːrʃieri/",
+  "ipa_uk": "/ˈtɜːʃəri/",
+  "syllables": "Ter·ti·ar·y",
+  "def_en": "An older name for the time from about 66 to 2.6 million years ago, now split into Paleogene and Neogene.",
+  "def_zh": "第三紀：約 6600 萬至 260 萬年前的舊年代名稱，現已改分為古近紀與新近紀。",
+  "example_en": "Many mammals spread across the continents during the Tertiary.",
+  "example_zh": "許多哺乳類在第三紀擴散到各大陸。",
+  "morph": [
+   {
+    "part": "terti-",
+    "meaning": "第三"
+   }
+  ],
+  "related": [
+   "t-paleogene",
+   "t-neogene",
+   "t-quaternary",
+   "t-cretaceous"
+  ],
+  "confusables": [],
+  "illus": "geologic-time",
+  "tf": {
+   "statement_zh": "第三紀屬於新生代，恐龍在此之前已大致滅絕。",
+   "answer": true,
+   "explain": "非鳥恐龍在白堊紀末滅絕，之後才進入第三紀。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-syncline",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsɪŋklaɪn/",
+  "ipa_uk": "/ˈsɪŋklaɪn/",
+  "syllables": "syn·cline",
+  "def_en": "A downward, U-shaped fold in rock layers, with the youngest layers at its center.",
+  "def_zh": "向斜：岩層向下彎曲成槽狀的褶皺，核部（中心）的岩層最年輕。",
+  "example_en": "The rock layers bend downward to form a syncline.",
+  "example_zh": "岩層向下彎曲形成向斜。",
+  "morph": [
+   {
+    "part": "syn-",
+    "meaning": "一起"
+   },
+   {
+    "part": "cline",
+    "meaning": "傾斜"
+   }
+  ],
+  "related": [
+   "t-anticline",
+   "t-fold",
+   "t-joint",
+   "t-superposition"
+  ],
+  "confusables": [
+   {
+    "term": "anticline",
+    "zh": "背斜",
+    "note": "背斜向上拱起，核部岩層最老"
+   }
+  ],
+  "illus": "folds",
+  "tf": {
+   "statement_zh": "向斜核部的岩層比兩翼的岩層年輕。",
+   "answer": true,
+   "explain": "向斜向下凹，越靠中心的岩層越晚沉積。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-superposition",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌsuːpərpəˈzɪʃən/",
+  "ipa_uk": "/ˌsuːpəpəˈzɪʃən/",
+  "syllables": "su·per·po·si·tion",
+  "def_en": "The principle that in undisturbed rock layers, the oldest layers lie at the bottom and the youngest at the top.",
+  "def_zh": "疊置定律：在未受擾動的沉積岩層中，下面的岩層較老、上面的較新。",
+  "example_en": "By the law of superposition, the bottom layer of the cliff is the oldest.",
+  "example_zh": "根據疊置定律，懸崖最底下的岩層最老。",
+  "morph": [
+   {
+    "part": "super-",
+    "meaning": "在上"
+   },
+   {
+    "part": "pos",
+    "meaning": "放置"
+   }
+  ],
+  "related": [
+   "t-succession",
+   "t-horizontality",
+   "t-uniformitarianism",
+   "t-sedimentation"
+  ],
+  "confusables": [],
+  "illus": "superposition",
+  "tf": {
+   "statement_zh": "若地層曾被褶皺翻轉，判讀新舊時需要配合其他證據。",
+   "answer": true,
+   "explain": "翻轉地層的上下順序會顛倒，需靠化石或沉積構造判斷。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-succession",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/səkˈseʃən/",
+  "ipa_uk": "/səkˈseʃən/",
+  "syllables": "suc·ces·sion",
+  "def_en": "The ordered sequence of rock layers, or of fossils within them, from older to younger.",
+  "def_zh": "層序：岩層（或其中化石）由老到新依序排列的順序；化石層序（faunal succession）可用來對比不同地區的地層。",
+  "example_en": "Geologists used the fossil succession to match rock layers in two valleys.",
+  "example_zh": "地質學家利用化石層序來對比兩個山谷的岩層。",
+  "morph": [
+   {
+    "part": "suc-",
+    "meaning": "在後"
+   },
+   {
+    "part": "cess",
+    "meaning": "走"
+   }
+  ],
+  "related": [
+   "t-superposition",
+   "t-faunal",
+   "t-fossil",
+   "t-horizontality"
+  ],
+  "confusables": [],
+  "illus": "superposition",
+  "tf": {
+   "statement_zh": "不同地區的地層，可利用相同的化石層序來對比年代。",
+   "answer": true,
+   "explain": "化石依固定順序出現，可做地層對比。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-spirifers",
+  "unit": "u06",
+  "level": 3,
+  "pos": "n. (pl.)",
+  "ipa_us": "/ˈspaɪrɪfərz/",
+  "ipa_uk": "/ˈspaɪrɪfəz/",
+  "syllables": "spir·i·fers",
+  "def_en": "Extinct brachiopods with wing-shaped shells and spiral internal supports, common in Paleozoic seas.",
+  "def_zh": "石燕：已滅絕的腕足動物，殼形似展翅的燕子，內有螺旋狀腕骨，盛行於古生代（泥盆紀最多）。",
+  "example_en": "The limestone was full of spirifers from an ancient Devonian sea.",
+  "example_zh": "這塊石灰岩中滿是來自古泥盆紀海洋的石燕。",
+  "morph": [
+   {
+    "part": "spir",
+    "meaning": "螺旋"
+   },
+   {
+    "part": "-fer",
+    "meaning": "攜帶"
+   }
+  ],
+  "related": [
+   "t-fossil",
+   "t-devonian",
+   "t-trilobite",
+   "t-carboniferous"
+  ],
+  "confusables": [],
+  "illus": "fossils",
+  "tf": {
+   "statement_zh": "石燕是古代鳥類形成的化石。",
+   "answer": false,
+   "explain": "石燕是海生腕足動物，只因殼形像燕子而得名。"
+  },
+  "confidence": "medium"
+ },
+ {
+  "id": "t-spectrum",
+  "unit": "u14",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈspektrəm/",
+  "ipa_uk": "/ˈspektrəm/",
+  "syllables": "spec·trum",
+  "def_en": "The range of colors or wavelengths produced when light is spread out, for example by a prism.",
+  "def_zh": "光譜：光經稜鏡或光柵分散後，依波長排列的色帶；分析恆星光譜可得知其溫度與化學組成。",
+  "example_en": "The spectrum of a star shows dark lines made by elements in its atmosphere.",
+  "example_zh": "恆星的光譜顯示出由其大氣中元素造成的暗線。",
+  "morph": [
+   {
+    "part": "spect",
+    "meaning": "看"
+   }
+  ],
+  "related": [
+   "t-spectrometer",
+   "t-emission-line",
+   "t-absorption-spectrum",
+   "t-wavelength"
+  ],
+  "confusables": [],
+  "illus": "spectra-lines",
+  "tf": {
+   "statement_zh": "恆星光譜中的吸收線可以用來推知恆星大氣的化學成分。",
+   "answer": true,
+   "explain": "每種元素都有特定波長的譜線，像指紋一樣。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-spectrometer",
+  "unit": "u14",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/spekˈtrɑːmɪtər/",
+  "ipa_uk": "/spekˈtrɒmɪtə/",
+  "syllables": "spec·trom·e·ter",
+  "def_en": "An instrument that splits light into a spectrum and measures its intensity at each wavelength.",
+  "def_zh": "光譜計：將光分解成光譜並測量各波長強度的儀器，用於分析天體的成分、溫度與運動（紅移）。",
+  "example_en": "The spectrometer on the telescope measured the galaxy's redshift.",
+  "example_zh": "望遠鏡上的光譜計測得該星系的紅移。",
+  "morph": [
+   {
+    "part": "spectro-",
+    "meaning": "光譜"
+   },
+   {
+    "part": "-meter",
+    "meaning": "測量器"
+   }
+  ],
+  "related": [
+   "t-spectrum",
+   "t-photometry",
+   "t-redshift",
+   "t-emission-line"
+  ],
+  "confusables": [],
+  "illus": "spectra-lines",
+  "tf": {
+   "statement_zh": "光譜計可以藉由譜線位移量測天體遠離或接近的速度。",
+   "answer": true,
+   "explain": "利用都卜勒效應造成的紅移或藍移計算視線速度。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-sinking",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsɪŋkɪŋ/",
+  "ipa_uk": "/ˈsɪŋkɪŋ/",
+  "syllables": "sink·ing",
+  "def_en": "The downward movement of dense surface water, or of air, toward deeper levels.",
+  "def_zh": "下沉；海洋中低溫高鹽、密度大的表層海水下沉成為深層水（沉降流），也可指空氣下沉。",
+  "example_en": "The sinking of cold, salty water near Greenland drives deep ocean circulation.",
+  "example_zh": "格陵蘭附近冷而鹹的海水下沉，驅動深層海洋環流。",
+  "morph": [],
+  "related": [
+   "t-upwelling",
+   "t-density",
+   "t-ocean-circulation",
+   "t-water-mass"
+  ],
+  "confusables": [
+   {
+    "term": "upwelling",
+    "zh": "湧升流",
+    "note": "湧升流是深層水上升，與下沉方向相反"
+   }
+  ],
+  "illus": "ocean-currents",
+  "tf": {
+   "statement_zh": "高緯度海域低溫高鹽的海水容易下沉，驅動深層海洋環流。",
+   "answer": true,
+   "explain": "密度大的海水下沉，形成溫鹽環流。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-silurian",
+  "unit": "u06",
+  "level": 3,
+  "pos": "proper n./adj.",
+  "ipa_us": "/saɪˈlʊriən/",
+  "ipa_uk": "/saɪˈljʊəriən/",
+  "syllables": "Si·lu·ri·an",
+  "def_en": "A period of the Paleozoic Era, about 444 to 419 million years ago, when early land plants appeared.",
+  "def_zh": "志留紀：古生代的一個紀，約 4.44 億至 4.19 億年前，位於奧陶紀與泥盆紀之間，早期陸生維管束植物出現。",
+  "example_en": "Early land plants spread during the Silurian period.",
+  "example_zh": "早期陸生植物在志留紀擴展開來。",
+  "morph": [],
+  "related": [
+   "t-ordovician",
+   "t-devonian",
+   "t-cambrian",
+   "t-trilobite"
+  ],
+  "confusables": [],
+  "illus": "geologic-time",
+  "tf": {
+   "statement_zh": "志留紀位於奧陶紀與泥盆紀之間。",
+   "answer": true,
+   "explain": "古生代：寒武、奧陶、志留、泥盆、石炭、二疊。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-shoreline",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈʃɔːrlaɪn/",
+  "ipa_uk": "/ˈʃɔːlaɪn/",
+  "syllables": "shore·line",
+  "def_en": "The line where the sea or a lake meets the land; it shifts with tides and sea-level change.",
+  "def_zh": "海岸線（濱線）：海或湖水與陸地交界的線，會隨潮汐、海進或海退而移動。",
+  "example_en": "During the ice age, the shoreline lay far west of today's Taiwan coast.",
+  "example_zh": "冰期時，海岸線位於今日臺灣海岸以西很遠的地方。",
+  "morph": [
+   {
+    "part": "shore",
+    "meaning": "岸"
+   },
+   {
+    "part": "line",
+    "meaning": "線"
+   }
+  ],
+  "related": [
+   "t-beach",
+   "t-transgression",
+   "t-regression",
+   "t-headland"
+  ],
+  "confusables": [],
+  "illus": "sea-level",
+  "tf": {
+   "statement_zh": "發生海退時，海岸線會往海的方向移動。",
+   "answer": true,
+   "explain": "海水面下降，陸地露出，海岸線向海推移。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-shale",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ʃeɪl/",
+  "ipa_uk": "/ʃeɪl/",
+  "syllables": "shale",
+  "def_en": "A fine-grained sedimentary rock formed from compacted mud or clay that splits into thin layers.",
+  "def_zh": "頁岩：由泥或黏土壓密膠結而成的細粒沉積岩，具頁狀剝理，容易裂成薄片。",
+  "example_en": "The shale cliff breaks into thin, flat pieces.",
+  "example_zh": "頁岩懸崖會碎裂成薄而平的片狀。",
+  "morph": [],
+  "related": [
+   "t-sedimentation",
+   "t-limestone",
+   "t-conglomerate",
+   "t-sediment"
+  ],
+  "confusables": [
+   {
+    "term": "slate",
+    "zh": "板岩",
+    "note": "板岩是頁岩受變質作用形成的變質岩"
+   }
+  ],
+  "illus": "sedimentary-rocks",
+  "tf": {
+   "statement_zh": "頁岩的組成顆粒比礫岩粗。",
+   "answer": false,
+   "explain": "頁岩由極細的泥與黏土組成，礫岩則含粗大礫石。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-self-purification",
+  "unit": "u09",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌself ˌpjʊrəfɪˈkeɪʃən/",
+  "ipa_uk": "/ˌself ˌpjʊərɪfɪˈkeɪʃən/",
+  "syllables": "self-pu·ri·fi·ca·tion",
+  "def_en": "The natural ability of rivers, lakes, or air to reduce pollutants by dilution, settling, and microbial breakdown.",
+  "def_zh": "自淨作用：河川、湖泊或大氣藉稀釋、沉澱與微生物分解等作用，使污染物自然減少的能力；污染超過負荷就會失效。",
+  "example_en": "The river's self-purification cannot handle the large amount of factory waste.",
+  "example_zh": "河川的自淨作用無法處理大量的工廠廢水。",
+  "morph": [
+   {
+    "part": "self-",
+    "meaning": "自己"
+   },
+   {
+    "part": "pur",
+    "meaning": "純淨"
+   },
+   {
+    "part": "-ification",
+    "meaning": "使成為…的過程"
+   }
+  ],
+  "related": [
+   "t-water-pollution",
+   "t-diffusion",
+   "t-aerobe",
+   "t-air-pollution"
+  ],
+  "confusables": [],
+  "illus": "pollution",
+  "tf": {
+   "statement_zh": "只要有自淨作用，河川可以承受任何數量的污染。",
+   "answer": false,
+   "explain": "自淨能力有限，污染量超過負荷時水質就會惡化。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-sedimentation",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌsedɪmenˈteɪʃən/",
+  "ipa_uk": "/ˌsedɪmenˈteɪʃən/",
+  "syllables": "sed·i·men·ta·tion",
+  "def_en": "The settling and building up of sediment carried by water, wind, or ice.",
+  "def_zh": "沉積作用：被流水、風、冰川搬運的碎屑，因流速變慢等原因沉降並堆積的過程。",
+  "example_en": "Sedimentation at the river mouth has formed a wide delta.",
+  "example_zh": "河口的沉積作用形成了廣闊的三角洲。",
+  "morph": [
+   {
+    "part": "sedi-",
+    "meaning": "坐、沉降"
+   },
+   {
+    "part": "-ation",
+    "meaning": "作用"
+   }
+  ],
+  "related": [
+   "t-sediment",
+   "t-deposition",
+   "t-deposit",
+   "t-transportation"
+  ],
+  "confusables": [],
+  "illus": "weathering-erosion",
+  "tf": {
+   "statement_zh": "河流流速減慢時，較大的顆粒會先沉積下來。",
+   "answer": true,
+   "explain": "大顆粒需要較大流速才能搬運，流速一減慢就先沉降。"
+  },
+  "confidence": "high"
+ }
+]

@@ -1,0 +1,14 @@
+{
+ "schema": 1,
+ "materials": [
+  {
+   "id": "chem-sci-en",
+   "title": "科學專業英文(化學)",
+   "file": "data/course-chem.json",
+   "pdf": "materials/科學專業英文(化學).pdf",
+   "terms": 541,
+   "mode": "vocabulary",
+   "version": "2026.10.26"
+  }
+ ]
+}

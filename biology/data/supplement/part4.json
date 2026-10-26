@@ -1,0 +1,2403 @@
+[
+ {
+  "id": "t-cytosol",
+  "unit": "u03",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsaɪtəˌsɔl/",
+  "ipa_uk": "/ˈsaɪtəʊsɒl/",
+  "syllables": "cy·to·sol",
+  "def_en": "The fluid part of the cytoplasm in which organelles are suspended and many chemical reactions occur.",
+  "def_zh": "細胞質中除去各種胞器後的半流動液體部分，含水、離子、酵素等，糖解作用即在此進行。",
+  "example_en": "Glycolysis takes place in the cytosol, not inside the mitochondria.",
+  "example_zh": "糖解作用在細胞質液中進行，而不是在粒線體內。",
+  "morph": [
+   {
+    "part": "cyto-",
+    "meaning": "細胞"
+   },
+   {
+    "part": "-sol",
+    "meaning": "溶液"
+   }
+  ],
+  "related": [
+   "t-cytoplasm",
+   "t-glycolysis",
+   "t-cytoskeleton"
+  ],
+  "confusables": [
+   {
+    "term": "cytoplasm",
+    "zh": "細胞質",
+    "note": "細胞質＝細胞質液＋懸浮其中的胞器（不含細胞核）；細胞質液只指液體部分"
+   }
+  ],
+  "illus": "cell-animal",
+  "tf": {
+   "statement_zh": "細胞質液是指細胞質中除去胞器以外的液體部分。",
+   "answer": true,
+   "explain": "細胞質包含胞器與細胞質液，細胞質液只是其中的液態基質。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cytoskeleton",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˌsaɪtoʊˈskɛlətən/",
+  "ipa_uk": "/ˌsaɪtəʊˈskelɪtən/",
+  "syllables": "cy·to·skel·e·ton",
+  "def_en": "A network of protein fibers in the cytoplasm that supports cell shape and helps movement and transport.",
+  "def_zh": "由微管、中間絲與微絲組成的蛋白質纖維網路，可維持細胞形狀、固定胞器，並參與細胞運動與物質運輸。",
+  "example_en": "The cytoskeleton helps the cell keep its shape and move vesicles to the right places.",
+  "example_zh": "細胞骨架幫助細胞維持形狀，並把囊泡運送到正確位置。",
+  "morph": [
+   {
+    "part": "cyto-",
+    "meaning": "細胞"
+   },
+   {
+    "part": "skeleton",
+    "meaning": "骨架"
+   }
+  ],
+  "related": [
+   "t-microtubule",
+   "t-microfilament",
+   "t-intermediate-filaments",
+   "t-actin-binding-protein"
+  ],
+  "confusables": [],
+  "illus": "cytoskeleton",
+  "tf": {
+   "statement_zh": "細胞骨架只存在於植物細胞中，動物細胞沒有。",
+   "answer": false,
+   "explain": "真核細胞（包括動物與植物細胞）都具有細胞骨架；動物細胞沒有細胞壁，更依賴細胞骨架維持形狀。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cytoplasmic-microtubule",
+  "unit": "u04",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌsaɪtəˈplæzmɪk ˌmaɪkroʊˈtubjul/",
+  "ipa_uk": "/ˌsaɪtəʊˈplæzmɪk ˌmaɪkrəʊˈtjuːbjuːl/",
+  "syllables": "cy·to·plas·mic mi·cro·tu·bule",
+  "def_en": "A microtubule spread through the cytoplasm, mainly in non-dividing cells, that supports the cell and guides organelle transport.",
+  "def_zh": "分布於細胞質中的微管（主要見於間期細胞），由微管蛋白組成，可支撐細胞並作為囊泡與胞器運輸的軌道。",
+  "example_en": "Motor proteins carry vesicles along a cytoplasmic microtubule like trains on a track.",
+  "example_zh": "運動蛋白沿著胞質微小管運送囊泡，就像火車在軌道上行駛。",
+  "morph": [
+   {
+    "part": "cyto-",
+    "meaning": "細胞"
+   },
+   {
+    "part": "micro-",
+    "meaning": "微小"
+   },
+   {
+    "part": "tubule",
+    "meaning": "小管"
+   }
+  ],
+  "related": [
+   "t-microtubule",
+   "t-chromosomal-microtubule",
+   "t-microtubule-organizing-center",
+   "t-cytoskeleton"
+  ],
+  "confusables": [
+   {
+    "term": "spindle fiber",
+    "zh": "紡錘絲",
+    "note": "紡錘絲是分裂期由微管組成、用來移動染色體的構造；胞質微小管則是間期分布於細胞質的微管"
+   }
+  ],
+  "illus": "cytoskeleton",
+  "tf": {
+   "statement_zh": "胞質微小管由微管蛋白組成，可作為囊泡運輸的軌道。",
+   "answer": true,
+   "explain": "微管由α、β微管蛋白聚合而成，運動蛋白可沿微管搬運囊泡與胞器。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cytoplasm",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈsaɪtəˌplæzəm/",
+  "ipa_uk": "/ˈsaɪtəʊplæzəm/",
+  "syllables": "cy·to·plasm",
+  "def_en": "Everything inside the cell membrane except the nucleus, including the cytosol and organelles.",
+  "def_zh": "細胞膜以內、細胞核以外的部分，包括細胞質液及其中的各種胞器。",
+  "example_en": "Mitochondria and ribosomes are found in the cytoplasm of the cell.",
+  "example_zh": "粒線體和核糖體位於細胞的細胞質中。",
+  "morph": [
+   {
+    "part": "cyto-",
+    "meaning": "細胞"
+   },
+   {
+    "part": "-plasm",
+    "meaning": "形成物；物質"
+   }
+  ],
+  "related": [
+   "t-cytosol",
+   "t-organelle",
+   "t-cell",
+   "t-cytoskeleton"
+  ],
+  "confusables": [
+   {
+    "term": "nucleoplasm",
+    "zh": "核質",
+    "note": "核質位於細胞核內；細胞質位於細胞核外"
+   }
+  ],
+  "illus": "cell-animal",
+  "tf": {
+   "statement_zh": "細胞質包含細胞核在內的所有細胞內部物質。",
+   "answer": false,
+   "explain": "細胞質不包含細胞核，是指細胞膜以內、細胞核以外的部分。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cyclin",
+  "unit": "u07",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈsaɪklɪn/",
+  "ipa_uk": "/ˈsaɪklɪn/",
+  "syllables": "cy·clin",
+  "def_en": "A protein whose level rises and falls during the cell cycle and activates kinases that control cell-cycle stages.",
+  "def_zh": "一類濃度隨細胞週期規律升降的蛋白質，可與週期素依賴型激酶（CDK）結合並活化它，控制細胞是否進入下一階段。",
+  "example_en": "When cyclin builds up, it activates a kinase that pushes the cell into mitosis.",
+  "example_zh": "週期素累積到一定量時，會活化一種激酶，推動細胞進入有絲分裂。",
+  "morph": [
+   {
+    "part": "cycl-",
+    "meaning": "循環；週期"
+   },
+   {
+    "part": "-in",
+    "meaning": "蛋白質等物質字尾"
+   }
+  ],
+  "related": [
+   "t-cell-cycle",
+   "t-protein-kinase",
+   "t-interphase",
+   "t-mitotic-phase"
+  ],
+  "confusables": [
+   {
+    "term": "cyclin-dependent kinase (CDK)",
+    "zh": "週期素依賴型激酶",
+    "note": "CDK 是激酶，濃度大致恆定；週期素濃度起伏，負責活化 CDK"
+   }
+  ],
+  "illus": "cell-cycle",
+  "tf": {
+   "statement_zh": "週期素在細胞週期中的濃度始終保持恆定。",
+   "answer": false,
+   "explain": "週期素會在細胞週期中合成與分解，濃度週期性升降，因而得名。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cyclic-flow",
+  "unit": "u06",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsaɪklɪk ˈfloʊ/",
+  "ipa_uk": "/ˈsaɪklɪk ˈfləʊ/",
+  "syllables": "cy·clic flow",
+  "def_en": "Cyclic electron flow: electrons from photosystem I cycle back through the electron transport chain, making ATP but no NADPH or oxygen.",
+  "def_zh": "即循環式電子流：光系統 I 的電子經電子傳遞鏈回到光系統 I，只產生 ATP，不產生 NADPH，也不釋放氧氣。",
+  "example_en": "In cyclic flow, electrons return to photosystem I, so extra ATP is made without NADPH.",
+  "example_zh": "在循環式電子流中，電子回到光系統 I，因此只多產生 ATP，而不產生 NADPH。",
+  "morph": [],
+  "related": [
+   "t-noncyclic-flow",
+   "t-photosystem",
+   "t-light-reaction",
+   "t-primary-electron-acceptor"
+  ],
+  "confusables": [
+   {
+    "term": "noncyclic flow",
+    "zh": "非循環式電子流",
+    "note": "非循環式電子流由水提供電子，產生 ATP、NADPH 和 O₂；循環式只產生 ATP"
+   }
+  ],
+  "illus": "light-reaction",
+  "tf": {
+   "statement_zh": "循環式電子流會同時產生 ATP、NADPH 與氧氣。",
+   "answer": false,
+   "explain": "循環式電子流只涉及光系統 I，不分解水，因此只產生 ATP，不產生 NADPH 與 O₂。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-confocal-microscopy",
+  "unit": "u02",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/kɑnˈfoʊkəl maɪˈkrɑskəpi/",
+  "ipa_uk": "/kɒnˈfəʊkəl maɪˈkrɒskəpi/",
+  "syllables": "con·fo·cal mi·cros·co·py",
+  "def_en": "A light microscopy method using a laser and pinhole to block out-of-focus light, giving sharp optical sections.",
+  "def_zh": "共軛焦顯微術：以雷射光掃描樣本，並用針孔濾除焦平面以外的光，能取得清晰的光學切片並重建立體影像。",
+  "example_en": "Confocal microscopy lets scientists build a 3D image of a cell from many thin optical slices.",
+  "example_zh": "共軛焦顯微術讓科學家能用許多薄的光學切片重建細胞的立體影像。",
+  "morph": [
+   {
+    "part": "con-",
+    "meaning": "共同"
+   },
+   {
+    "part": "focal",
+    "meaning": "焦點的"
+   },
+   {
+    "part": "micro-",
+    "meaning": "微小"
+   }
+  ],
+  "related": [
+   "t-fluorescence-microscopy",
+   "t-microscope",
+   "t-differential-interference-contrast",
+   "t-phase-contrast-microscope"
+  ],
+  "confusables": [
+   {
+    "term": "fluorescence microscopy",
+    "zh": "螢光顯微術",
+    "note": "一般螢光顯微鏡會收到焦平面外的光而較模糊；共軛焦以針孔去除這些光"
+   }
+  ],
+  "illus": "microscope-advanced",
+  "tf": {
+   "statement_zh": "共軛焦顯微鏡利用針孔濾除焦平面以外的光，使影像更清晰。",
+   "answer": true,
+   "explain": "針孔只讓焦平面上的光通過，可減少模糊，得到清晰的光學切片。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-complementary-base-pairing",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌkɑmpləˈmɛntəri ˈbeɪs ˈpɛrɪŋ/",
+  "ipa_uk": "/ˌkɒmplɪˈmentəri ˈbeɪs ˈpeərɪŋ/",
+  "syllables": "com·ple·men·ta·ry base pair·ing",
+  "def_en": "The rule that A pairs with T (or U in RNA) and C pairs with G through hydrogen bonds.",
+  "def_zh": "核酸鹼基之間以氫鍵專一配對的規則：DNA 中 A 配 T、C 配 G；RNA 中 A 配 U。",
+  "example_en": "Complementary base pairing allows each DNA strand to serve as a template for a new strand.",
+  "example_zh": "互補鹼基配對使每一股 DNA 都能作為合成新股的模板。",
+  "morph": [
+   {
+    "part": "com-",
+    "meaning": "共同；完全"
+   },
+   {
+    "part": "-ary",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-semiconservative-replication",
+   "t-transcription",
+   "t-dna-polymerase",
+   "t-translation"
+  ],
+  "confusables": [],
+  "illus": "dna",
+  "tf": {
+   "statement_zh": "依互補鹼基配對原則，DNA 中的 A 會與 G 配對。",
+   "answer": false,
+   "explain": "DNA 中 A 與 T 配對、C 與 G 配對；A 與 G 都是嘌呤，不會互相配對。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-common-descent",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkɑmən dɪˈsɛnt/",
+  "ipa_uk": "/ˈkɒmən dɪˈsent/",
+  "syllables": "com·mon de·scent",
+  "def_en": "The idea that different species are related because they evolved from shared ancestors.",
+  "def_zh": "共同祖先（共同起源）學說：不同物種之間有親緣關係，因為牠們由共同的祖先演化而來。",
+  "example_en": "Similar bone structures in whale fins and human arms support common descent.",
+  "example_zh": "鯨的鰭與人類手臂有相似的骨骼構造，支持共同祖先的觀點。",
+  "morph": [
+   {
+    "part": "de-",
+    "meaning": "向下"
+   },
+   {
+    "part": "scend",
+    "meaning": "攀爬；走"
+   }
+  ],
+  "related": [
+   "t-evolution",
+   "t-theory-of-natural-selection",
+   "t-adaptive-radiation",
+   "t-the-origin-of-species"
+  ],
+  "confusables": [],
+  "illus": "evolution-tree",
+  "tf": {
+   "statement_zh": "依共同祖先的觀念，人類與黑猩猩在演化上有一個共同祖先。",
+   "answer": true,
+   "explain": "演化樹上人類與黑猩猩的分支可回溯到同一個祖先，這正是共同祖先的概念。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-codominance",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/koʊˈdɑmənəns/",
+  "ipa_uk": "/kəʊˈdɒmɪnəns/",
+  "syllables": "co·dom·i·nance",
+  "def_en": "A pattern in which both alleles in a heterozygote are fully and separately expressed in the phenotype.",
+  "def_zh": "異型合子中兩個等位基因的性狀同時且完全表現出來的遺傳模式，例如 ABO 血型中的 AB 型。",
+  "example_en": "Type AB blood is a classic example of codominance.",
+  "example_zh": "AB 型血是共顯性的經典例子。",
+  "morph": [
+   {
+    "part": "co-",
+    "meaning": "共同"
+   },
+   {
+    "part": "domin-",
+    "meaning": "支配"
+   },
+   {
+    "part": "-ance",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-incomplete-dominance",
+   "t-semidominance",
+   "t-multiple-allele-inheritance",
+   "t-dominance"
+  ],
+  "confusables": [
+   {
+    "term": "incomplete dominance",
+    "zh": "不完全顯性",
+    "note": "不完全顯性的異型合子呈中間型（紅×白→粉紅）；共顯性兩種性狀都完整出現（紅白斑）"
+   }
+  ],
+  "illus": "phenotype-blend",
+  "tf": {
+   "statement_zh": "ABO 血型中，IA 與 IB 對偶基因表現為共顯性。",
+   "answer": true,
+   "explain": "AB 型的人紅血球上同時有 A 抗原與 B 抗原，兩個等位基因都完整表現。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-citric-acid-cycle",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɪtrɪk ˈæsɪd ˈsaɪkəl/",
+  "ipa_uk": "/ˈsɪtrɪk ˈæsɪd ˈsaɪkl/",
+  "syllables": "cit·ric ac·id cy·cle",
+  "def_en": "A series of reactions in the mitochondrial matrix that breaks down acetyl-CoA, releasing CO₂ and making NADH, FADH₂ and ATP.",
+  "def_zh": "又稱克氏循環或三羧酸循環，在粒線體基質中進行，將乙醯輔酶 A 氧化分解，釋出 CO₂ 並產生 NADH、FADH₂ 與少量 ATP。",
+  "example_en": "The citric acid cycle releases carbon dioxide as acetyl groups are broken down.",
+  "example_zh": "檸檬酸循環在分解乙醯基時會釋出二氧化碳。",
+  "morph": [],
+  "related": [
+   "t-krebs-cycle",
+   "t-tricarboxylic-acid-cycle",
+   "t-acetyl-coa",
+   "t-aerobic-respiration"
+  ],
+  "confusables": [],
+  "illus": "krebs",
+  "tf": {
+   "statement_zh": "檸檬酸循環在細胞質液中進行。",
+   "answer": false,
+   "explain": "真核細胞的檸檬酸循環在粒線體基質中進行；在細胞質液中進行的是糖解作用。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-chromosome-theory-of-inheritance",
+  "unit": "u09",
+  "level": 2,
+  "pos": "proper n.",
+  "ipa_us": "/ˈkroʊməˌsoʊm ˈθiəri əv ɪnˈhɛrɪtəns/",
+  "ipa_uk": "/ˈkrəʊməsəʊm ˈθɪəri əv ɪnˈherɪtəns/",
+  "syllables": "Chro·mo·some The·o·ry of In·her·i·tance",
+  "def_en": "The theory that genes are located on chromosomes, and chromosome behavior in meiosis explains Mendel's laws.",
+  "def_zh": "遺傳的染色體學說：基因位於染色體上，減數分裂時染色體的分離與自由組合可解釋孟德爾遺傳定律；由薩頓與巴夫來提出，摩根以果蠅實驗證實。",
+  "example_en": "Morgan's fruit fly experiments provided strong evidence for the Chromosome Theory of Inheritance.",
+  "example_zh": "摩根的果蠅實驗為遺傳的染色體學說提供了有力證據。",
+  "morph": [],
+  "related": [
+   "t-chromosome",
+   "t-mendels-law",
+   "t-drosophila-melanogaster",
+   "t-sex-linked-inheritance"
+  ],
+  "confusables": [],
+  "illus": "gene",
+  "tf": {
+   "statement_zh": "摩根以果蠅白眼性聯遺傳的實驗支持遺傳的染色體學說。",
+   "answer": true,
+   "explain": "摩根發現白眼性狀的遺傳與 X 染色體相關，證明特定基因位於特定染色體上。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-chromosome",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkroʊməˌsoʊm/",
+  "ipa_uk": "/ˈkrəʊməsəʊm/",
+  "syllables": "chro·mo·some",
+  "def_en": "A thread-like structure of DNA and proteins that carries genes; it condenses and becomes visible during cell division.",
+  "def_zh": "由 DNA 與蛋白質組成、攜帶基因的構造；細胞分裂時染色質高度濃縮成棒狀的染色體，可在顯微鏡下觀察。",
+  "example_en": "Human body cells normally contain 46 chromosomes.",
+  "example_zh": "人類體細胞通常含有 46 條染色體。",
+  "morph": [
+   {
+    "part": "chromo-",
+    "meaning": "顏色"
+   },
+   {
+    "part": "-some",
+    "meaning": "體"
+   }
+  ],
+  "related": [
+   "t-chromatin",
+   "t-sister-chromatids",
+   "t-autosome",
+   "t-sex-chromosome"
+  ],
+  "confusables": [
+   {
+    "term": "chromatid",
+    "zh": "染色分體",
+    "note": "複製後的一條染色體含兩條姊妹染色分體"
+   }
+  ],
+  "illus": "chromosome",
+  "tf": {
+   "statement_zh": "人類的體細胞共有 23 條染色體。",
+   "answer": false,
+   "explain": "人類體細胞有 46 條（23 對）染色體；配子才含 23 條。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-chromosomal-microtubule",
+  "unit": "u07",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌkroʊməˈsoʊməl ˌmaɪkroʊˈtubjul/",
+  "ipa_uk": "/ˌkrəʊməˈsəʊml ˌmaɪkrəʊˈtjuːbjuːl/",
+  "syllables": "chro·mo·so·mal mi·cro·tu·bule",
+  "def_en": "A spindle microtubule attached to a chromosome's kinetochore that moves the chromosome during cell division.",
+  "def_zh": "連接在染色體著絲點（動原體）上的紡錘體微管，又稱動原體微管；分裂後期縮短，將染色體拉向細胞兩極。",
+  "example_en": "During anaphase, each chromosomal microtubule shortens and pulls a chromatid toward one pole.",
+  "example_zh": "在後期，每條染色體微管縮短，把染色分體拉向一極。",
+  "morph": [
+   {
+    "part": "chromo-",
+    "meaning": "顏色"
+   },
+   {
+    "part": "micro-",
+    "meaning": "微小"
+   }
+  ],
+  "related": [
+   "t-spindle-fiber",
+   "t-anaphase",
+   "t-microtubule",
+   "t-cytoplasmic-microtubule"
+  ],
+  "confusables": [
+   {
+    "term": "polar microtubule",
+    "zh": "極微管",
+    "note": "極微管不接染色體，而是由兩極伸出互相重疊，使細胞拉長"
+   }
+  ],
+  "illus": "mitosis",
+  "tf": {
+   "statement_zh": "染色體微管連接在著絲點上，於後期縮短把染色體拉向兩極。",
+   "answer": true,
+   "explain": "染色體（動原體）微管在後期解聚縮短，牽引姊妹染色分體分向兩極。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-chromatin",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkroʊmətɪn/",
+  "ipa_uk": "/ˈkrəʊmətɪn/",
+  "syllables": "chro·ma·tin",
+  "def_en": "The loose complex of DNA and proteins in the nucleus that condenses into chromosomes during cell division.",
+  "def_zh": "細胞核中由 DNA 與組織蛋白等蛋白質組成的鬆散絲狀物質，細胞分裂時會濃縮成染色體。",
+  "example_en": "In a non-dividing cell, DNA exists as loosely packed chromatin.",
+  "example_zh": "在未分裂的細胞中，DNA 以鬆散的染色質形式存在。",
+  "morph": [
+   {
+    "part": "chromat-",
+    "meaning": "顏色（易被染色）"
+   }
+  ],
+  "related": [
+   "t-chromosome",
+   "t-nucleus",
+   "t-nucleoplasm",
+   "t-interphase"
+  ],
+  "confusables": [
+   {
+    "term": "chromatid",
+    "zh": "染色分體",
+    "note": "染色質是 DNA 鬆散狀態；染色分體是複製後染色體的其中一條"
+   }
+  ],
+  "illus": "nucleus",
+  "tf": {
+   "statement_zh": "染色質由 DNA 與蛋白質組成，在細胞分裂時會濃縮成染色體。",
+   "answer": true,
+   "explain": "染色質與染色體是同一物質的不同狀態：間期鬆散為染色質，分裂期濃縮為染色體。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-chloroplast",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈklɔrəˌplæst/",
+  "ipa_uk": "/ˈklɒrəplɑːst/",
+  "syllables": "chlo·ro·plast",
+  "def_en": "The organelle in plant and algal cells where photosynthesis takes place.",
+  "def_zh": "植物與藻類細胞中進行光合作用的胞器，具雙層膜，內有類囊體堆疊成的葉綠餅及基質。",
+  "example_en": "Light reactions occur on the thylakoid membranes inside the chloroplast.",
+  "example_zh": "光反應在葉綠體內的類囊體膜上進行。",
+  "morph": [
+   {
+    "part": "chloro-",
+    "meaning": "綠色"
+   },
+   {
+    "part": "-plast",
+    "meaning": "形成體；胞器"
+   }
+  ],
+  "related": [
+   "t-thylakoid",
+   "t-granum",
+   "t-chlorophyll",
+   "t-plastid"
+  ],
+  "confusables": [
+   {
+    "term": "chlorophyll",
+    "zh": "葉綠素",
+    "note": "葉綠體是胞器；葉綠素是葉綠體中的色素分子"
+   }
+  ],
+  "illus": "chloroplast",
+  "tf": {
+   "statement_zh": "動物細胞也含有葉綠體，可以進行光合作用。",
+   "answer": false,
+   "explain": "葉綠體存在於植物與藻類細胞中，動物細胞沒有葉綠體。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-chlorophyll",
+  "unit": "u06",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈklɔrəfɪl/",
+  "ipa_uk": "/ˈklɒrəfɪl/",
+  "syllables": "chlo·ro·phyll",
+  "def_en": "The green pigment in chloroplasts that absorbs mainly red and blue-violet light for photosynthesis.",
+  "def_zh": "葉綠體中的綠色色素，主要吸收紅光與藍紫光，反射綠光，是光合作用捕捉光能的主要色素。",
+  "example_en": "Leaves look green because chlorophyll reflects green light.",
+  "example_zh": "葉子看起來是綠色，是因為葉綠素會反射綠光。",
+  "morph": [
+   {
+    "part": "chloro-",
+    "meaning": "綠色"
+   },
+   {
+    "part": "-phyll",
+    "meaning": "葉"
+   }
+  ],
+  "related": [
+   "t-chloroplast",
+   "t-accessory-pigment",
+   "t-antenna-pigment",
+   "t-reaction-center"
+  ],
+  "confusables": [
+   {
+    "term": "chloroplast",
+    "zh": "葉綠體",
+    "note": "葉綠素是色素分子；葉綠體是含有葉綠素的胞器"
+   }
+  ],
+  "illus": "pigment",
+  "tf": {
+   "statement_zh": "葉綠素主要吸收綠光，因此葉片呈綠色。",
+   "answer": false,
+   "explain": "葉綠素主要吸收紅光與藍紫光，綠光被反射，所以葉片呈綠色。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-chlorella",
+  "unit": "u02",
+  "level": 2,
+  "pos": "proper n.",
+  "ipa_us": "/kləˈrɛlə/",
+  "ipa_uk": "/kləˈrelə/",
+  "syllables": "Chlo·rel·la",
+  "def_en": "A genus of tiny, round, single-celled green algae often used in photosynthesis research.",
+  "def_zh": "綠球藻屬，一種微小、球形的單細胞真核綠藻，具葉綠體；卡爾文等人即以綠球藻研究光合作用中碳的固定途徑。",
+  "example_en": "Calvin used Chlorella to trace how carbon from CO₂ is fixed into sugar.",
+  "example_zh": "卡爾文利用綠球藻追蹤 CO₂ 中的碳如何被固定成醣類。",
+  "morph": [
+   {
+    "part": "chlor-",
+    "meaning": "綠色"
+   },
+   {
+    "part": "-ella",
+    "meaning": "小（指小字尾）"
+   }
+  ],
+  "related": [
+   "t-paramecium",
+   "t-photosynthesis",
+   "t-chloroplast",
+   "t-calvin-cycle"
+  ],
+  "confusables": [],
+  "illus": "protist",
+  "tf": {
+   "statement_zh": "綠球藻是單細胞的真核綠藻，可以進行光合作用。",
+   "answer": true,
+   "explain": "綠球藻有細胞核與葉綠體，屬單細胞真核綠藻，能行光合作用。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-character",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈkærəktər/",
+  "ipa_uk": "/ˈkærəktə/",
+  "syllables": "char·ac·ter",
+  "def_en": "In genetics, a heritable feature such as flower color that can vary among individuals.",
+  "def_zh": "遺傳學中的「性狀」，指可遺傳、在個體間有差異的特徵，例如花色、種子形狀。",
+  "example_en": "Mendel studied seven characters in pea plants, including seed shape and flower color.",
+  "example_zh": "孟德爾研究了豌豆的七種性狀，包括種子形狀與花色。",
+  "morph": [],
+  "related": [
+   "t-trait",
+   "t-phenotype",
+   "t-dominant-trait",
+   "t-mendels-law"
+  ],
+  "confusables": [
+   {
+    "term": "trait",
+    "zh": "性狀（表現）",
+    "note": "character 指特徵類別（花色）；trait 常指該特徵的某一表現（紫花、白花）"
+   }
+  ],
+  "illus": "punnett",
+  "tf": {
+   "statement_zh": "孟德爾研究的豌豆「花色」是一種性狀，紫花與白花則是其不同的表現。",
+   "answer": true,
+   "explain": "character 是特徵類別，紫花、白花是這個性狀的不同變異（trait）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-centriole",
+  "unit": "u04",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈsɛntriˌoʊl/",
+  "ipa_uk": "/ˈsentriəʊl/",
+  "syllables": "cen·tri·ole",
+  "def_en": "A small cylinder of microtubules; two at right angles form the centrosome in animal cells.",
+  "def_zh": "由九組三聯微管排成的短圓柱構造；動物細胞中一對互相垂直的中心粒與周圍物質組成中心體，參與紡錘體形成。",
+  "example_en": "Before mitosis, the centriole pair duplicates in an animal cell.",
+  "example_zh": "在有絲分裂之前，動物細胞的中心粒會複製。",
+  "morph": [
+   {
+    "part": "centr-",
+    "meaning": "中心"
+   },
+   {
+    "part": "-iole",
+    "meaning": "小（指小字尾）"
+   }
+  ],
+  "related": [
+   "t-microtubule-organizing-center",
+   "t-pericentriolar-materials",
+   "t-microtubule",
+   "t-spindle-fiber"
+  ],
+  "confusables": [
+   {
+    "term": "centromere",
+    "zh": "著絲點",
+    "note": "著絲點是染色體上連接姊妹染色分體的部位；中心粒是細胞質中的微管構造"
+   }
+  ],
+  "illus": "centrosome",
+  "tf": {
+   "statement_zh": "高等植物細胞通常具有中心粒。",
+   "answer": false,
+   "explain": "多數高等植物細胞沒有中心粒，但仍能形成紡錘體；中心粒主要見於動物細胞。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-central-vacuole",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɛntrəl ˈvækjuˌoʊl/",
+  "ipa_uk": "/ˈsentrəl ˈvækjuəʊl/",
+  "syllables": "cen·tral vac·u·ole",
+  "def_en": "A large membrane sac in mature plant cells that stores water and substances and maintains turgor pressure.",
+  "def_zh": "成熟植物細胞中由液泡膜包圍的大型液泡，儲存水分、離子與色素等，並維持細胞膨壓。",
+  "example_en": "A wilted plant recovers when its central vacuole fills with water again.",
+  "example_zh": "當中央液泡重新充滿水，枯萎的植物就會恢復挺立。",
+  "morph": [
+   {
+    "part": "vacu-",
+    "meaning": "空的"
+   },
+   {
+    "part": "-ole",
+    "meaning": "小（指小字尾）"
+   }
+  ],
+  "related": [
+   "t-vacuole",
+   "t-cell-wall",
+   "t-organelle"
+  ],
+  "confusables": [],
+  "illus": "cell-plant",
+  "tf": {
+   "statement_zh": "中央液泡吸水後可維持植物細胞的膨壓。",
+   "answer": true,
+   "explain": "中央液泡充滿水時向外推擠細胞壁，產生膨壓，使植物挺立。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-central-dogma",
+  "unit": "u10",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɛntrəl ˈdɔɡmə/",
+  "ipa_uk": "/ˈsentrəl ˈdɒɡmə/",
+  "syllables": "cen·tral dog·ma",
+  "def_en": "The principle that genetic information flows from DNA to RNA to protein.",
+  "def_zh": "中心法則：遺傳訊息由 DNA 複製傳遞，並經轉錄成 RNA、再轉譯成蛋白質的流向。",
+  "example_en": "The central dogma describes how a gene's information becomes a protein.",
+  "example_zh": "中心法則說明基因的訊息如何變成蛋白質。",
+  "morph": [],
+  "related": [
+   "t-transcription",
+   "t-translation",
+   "t-rna-polymerase",
+   "t-semiconservative-replication"
+  ],
+  "confusables": [],
+  "illus": "central-dogma",
+  "tf": {
+   "statement_zh": "中心法則指出遺傳訊息一般由蛋白質流向 DNA。",
+   "answer": false,
+   "explain": "中心法則的主要流向是 DNA → RNA → 蛋白質；蛋白質的序列資訊不會再傳回核酸。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cell-wall",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɛl ˌwɔl/",
+  "ipa_uk": "/ˈsel ˌwɔːl/",
+  "syllables": "cell wall",
+  "def_en": "A rigid layer outside the cell membrane of plants, fungi and bacteria that gives support and protection.",
+  "def_zh": "位於細胞膜外的堅固構造，可支持與保護細胞；植物細胞壁主要由纖維素組成，細菌細胞壁含肽聚糖。",
+  "example_en": "The cell wall stops a plant cell from bursting when it absorbs water.",
+  "example_zh": "細胞壁能防止植物細胞吸水後破裂。",
+  "morph": [],
+  "related": [
+   "t-peptidoglycan",
+   "t-cell-plate",
+   "t-central-vacuole",
+   "t-capsule"
+  ],
+  "confusables": [
+   {
+    "term": "cell membrane",
+    "zh": "細胞膜",
+    "note": "細胞膜由磷脂雙層構成、具選擇透性；細胞壁在膜外，主要負責支持"
+   }
+  ],
+  "illus": "cell-plant",
+  "tf": {
+   "statement_zh": "植物細胞壁主要成分是纖維素，而細菌細胞壁含肽聚糖。",
+   "answer": true,
+   "explain": "植物細胞壁以纖維素為主；細菌細胞壁的主要成分為肽聚糖。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cell-theory",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɛl ˌθiəri/",
+  "ipa_uk": "/ˈsel ˌθɪəri/",
+  "syllables": "cell the·o·ry",
+  "def_en": "The theory that all living things are made of cells, cells are life's basic units, and cells come from existing cells.",
+  "def_zh": "細胞學說：所有生物由細胞構成，細胞是生物構造與功能的基本單位，且細胞皆由原已存在的細胞分裂而來。",
+  "example_en": "The cell theory was developed by Schleiden, Schwann and Virchow in the 1800s.",
+  "example_zh": "細胞學說由許來登、許旺與魏修等人在 19 世紀建立。",
+  "morph": [],
+  "related": [
+   "t-cell",
+   "t-theory",
+   "t-micrographia",
+   "t-microscope"
+  ],
+  "confusables": [],
+  "illus": "microscope",
+  "tf": {
+   "statement_zh": "細胞學說認為細胞可以由無生命的物質自然產生。",
+   "answer": false,
+   "explain": "細胞學說主張細胞皆來自原已存在的細胞（魏修），否定自然發生說。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cell-plate",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɛl ˌpleɪt/",
+  "ipa_uk": "/ˈsel ˌpleɪt/",
+  "syllables": "cell plate",
+  "def_en": "A disk of vesicles formed at the middle of a dividing plant cell that becomes the new cell wall.",
+  "def_zh": "植物細胞分裂末期，高基氏體產生的囊泡在細胞中央融合形成的板狀構造，之後發展成新的細胞膜與細胞壁。",
+  "example_en": "In onion root cells, a cell plate forms between the two new nuclei.",
+  "example_zh": "在洋蔥根尖細胞中，兩個新細胞核之間會形成細胞板。",
+  "morph": [],
+  "related": [
+   "t-telophase",
+   "t-cell-wall",
+   "t-golgi-apparatus",
+   "t-mitosis"
+  ],
+  "confusables": [
+   {
+    "term": "cleavage furrow",
+    "zh": "分裂溝",
+    "note": "動物細胞以分裂溝向內凹陷分裂細胞質；植物細胞形成細胞板"
+   }
+  ],
+  "illus": "mitosis",
+  "tf": {
+   "statement_zh": "動物細胞在末期以形成細胞板的方式分裂細胞質。",
+   "answer": false,
+   "explain": "動物細胞以分裂溝（細胞膜內凹）分裂細胞質；細胞板是植物細胞的方式。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cell-differentiation",
+  "unit": "u12",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɛl ˌdɪfəˌrɛnʃiˈeɪʃən/",
+  "ipa_uk": "/ˈsel ˌdɪfəˌrenʃiˈeɪʃn/",
+  "syllables": "cell dif·fer·en·ti·a·tion",
+  "def_en": "The process by which unspecialized cells become specialized in structure and function.",
+  "def_zh": "未特化的細胞透過基因的選擇性表現，在構造與功能上變成特定細胞（如肌肉細胞、神經細胞）的過程。",
+  "example_en": "Cell differentiation turns stem cells into nerve, muscle or blood cells.",
+  "example_zh": "細胞分化使幹細胞變成神經、肌肉或血球細胞。",
+  "morph": [
+   {
+    "part": "differ-",
+    "meaning": "不同"
+   },
+   {
+    "part": "-ation",
+    "meaning": "名詞字尾（過程）"
+   }
+  ],
+  "related": [
+   "t-stem-cell",
+   "t-progenitor-cell",
+   "t-totipotency",
+   "t-myoblast"
+  ],
+  "confusables": [],
+  "illus": "stem-cell",
+  "tf": {
+   "statement_zh": "細胞分化時，細胞會丟失與其功能無關的大部分 DNA。",
+   "answer": false,
+   "explain": "分化的細胞通常保有完整基因組，差異來自基因的選擇性表現，而非丟失 DNA。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cell-cycle",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈsɛl ˌsaɪkəl/",
+  "ipa_uk": "/ˈsel ˌsaɪkl/",
+  "syllables": "cell cy·cle",
+  "def_en": "The repeating series of events in which a cell grows, copies its DNA and divides.",
+  "def_zh": "細胞週期：細胞從一次分裂結束到下一次分裂結束的過程，包括間期（G1、S、G2）與分裂期（M 期）。",
+  "example_en": "Most of the cell cycle is spent in interphase.",
+  "example_zh": "細胞週期中大部分的時間都處於間期。",
+  "morph": [],
+  "related": [
+   "t-interphase",
+   "t-mitotic-phase",
+   "t-cyclin",
+   "t-mitosis"
+  ],
+  "confusables": [],
+  "illus": "cell-cycle",
+  "tf": {
+   "statement_zh": "在細胞週期中，間期所占的時間通常比分裂期長。",
+   "answer": true,
+   "explain": "細胞在間期生長並複製 DNA，通常占細胞週期 90% 左右的時間。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-cell",
+  "unit": "u03",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/sɛl/",
+  "ipa_uk": "/sel/",
+  "syllables": "cell",
+  "def_en": "The smallest basic unit of structure and function in all living things.",
+  "def_zh": "生物體構造與功能的基本單位，外有細胞膜包圍，內含遺傳物質與細胞質。",
+  "example_en": "Robert Hooke first used the word cell after looking at cork under a microscope.",
+  "example_zh": "虎克以顯微鏡觀察軟木塞後，首先使用了「細胞」這個詞。",
+  "morph": [],
+  "related": [
+   "t-cell-theory",
+   "t-organelle",
+   "t-cytoplasm",
+   "t-nucleus"
+  ],
+  "confusables": [],
+  "illus": "cell-animal",
+  "tf": {
+   "statement_zh": "所有的細胞都具有細胞核。",
+   "answer": false,
+   "explain": "原核細胞（如細菌）沒有細胞核；哺乳類成熟紅血球也沒有細胞核。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-catastrophism",
+  "unit": "u13",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/kəˈtæstrəˌfɪzəm/",
+  "ipa_uk": "/kəˈtæstrəfɪzəm/",
+  "syllables": "ca·tas·tro·phism",
+  "def_en": "The idea that Earth's features and the fossil record were shaped by sudden, violent catastrophes.",
+  "def_zh": "災變說：認為地球的地貌與化石紀錄是由多次突然、劇烈的大災難造成；以法國學者居維葉為代表。",
+  "example_en": "Cuvier used catastrophism to explain why fossil species disappear in different rock layers.",
+  "example_zh": "居維葉以災變說解釋為何不同岩層中的化石物種會消失。",
+  "morph": [
+   {
+    "part": "catastroph-",
+    "meaning": "災難"
+   },
+   {
+    "part": "-ism",
+    "meaning": "學說；主義"
+   }
+  ],
+  "related": [
+   "t-evolution",
+   "t-natural-history",
+   "t-theory"
+  ],
+  "confusables": [
+   {
+    "term": "uniformitarianism",
+    "zh": "均變說",
+    "note": "均變說認為地質變化是長期、緩慢且持續的作用所造成，與災變說相對"
+   }
+  ],
+  "illus": "evolution-tree",
+  "tf": {
+   "statement_zh": "災變說的主要代表人物是法國學者居維葉。",
+   "answer": true,
+   "explain": "居維葉從化石研究提出災變說，認為多次大災難造成生物滅絕。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-carotenoid-pigment",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/kəˈrɑtəˌnɔɪd ˈpɪɡmənt/",
+  "ipa_uk": "/kəˈrɒtɪnɔɪd ˈpɪɡmənt/",
+  "syllables": "ca·rot·e·noid pig·ment",
+  "def_en": "A yellow, orange or red accessory pigment that absorbs blue-violet light and protects chlorophyll.",
+  "def_zh": "類胡蘿蔔素色素：呈黃、橙、紅色的輔助色素，包括胡蘿蔔素與葉黃素，可吸收藍紫光並保護葉綠素。",
+  "example_en": "In autumn, carotenoid pigment becomes visible as chlorophyll breaks down.",
+  "example_zh": "秋天葉綠素分解後，類胡蘿蔔素色素就顯現出來。",
+  "morph": [
+   {
+    "part": "carot-",
+    "meaning": "胡蘿蔔"
+   },
+   {
+    "part": "-oid",
+    "meaning": "類似"
+   }
+  ],
+  "related": [
+   "t-carotenoid",
+   "t-accessory-pigment",
+   "t-xanthophyll",
+   "t-carotene"
+  ],
+  "confusables": [],
+  "illus": "pigment",
+  "tf": {
+   "statement_zh": "類胡蘿蔔素色素主要吸收藍紫光，反射黃、橙色光。",
+   "answer": true,
+   "explain": "類胡蘿蔔素吸收藍紫光，反射黃橙光，所以呈黃橙色。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-carotenoid-pathway",
+  "unit": "u06",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/kəˈrɑtəˌnɔɪd ˈpæθˌweɪ/",
+  "ipa_uk": "/kəˈrɒtɪnɔɪd ˈpɑːθweɪ/",
+  "syllables": "ca·rot·e·noid path·way",
+  "def_en": "The series of enzyme-controlled reactions that organisms use to make carotenoids.",
+  "def_zh": "類胡蘿蔔素途徑：生物以一連串酵素反應合成類胡蘿蔔素的代謝途徑；植物、藻類與部分細菌、真菌具有此途徑。",
+  "example_en": "Scientists added genes of the carotenoid pathway to rice to produce Golden Rice.",
+  "example_zh": "科學家將類胡蘿蔔素途徑的基因轉入水稻，培育出黃金米。",
+  "morph": [],
+  "related": [
+   "t-carotenoid",
+   "t-carotene",
+   "t-bacterial-carotenoid",
+   "t-transgenic-organism"
+  ],
+  "confusables": [],
+  "illus": "pigment",
+  "tf": {
+   "statement_zh": "類胡蘿蔔素途徑是指光反應中電子傳遞的路徑。",
+   "answer": false,
+   "explain": "類胡蘿蔔素途徑是合成類胡蘿蔔素的生化代謝途徑，與光反應的電子傳遞鏈不同。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-carotenoid",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/kəˈrɑtəˌnɔɪd/",
+  "ipa_uk": "/kəˈrɒtɪnɔɪd/",
+  "syllables": "ca·rot·e·noid",
+  "def_en": "A group of yellow-to-red pigments, including carotenes and xanthophylls, found in plants, algae and some bacteria.",
+  "def_zh": "類胡蘿蔔素：一類黃至紅色的色素，包括胡蘿蔔素與葉黃素，在光合作用中擔任輔助色素並保護葉綠素免受強光傷害。",
+  "example_en": "A carotenoid gives carrots and tomatoes their orange or red color.",
+  "example_zh": "類胡蘿蔔素使胡蘿蔔和番茄呈現橙色或紅色。",
+  "morph": [
+   {
+    "part": "carot-",
+    "meaning": "胡蘿蔔"
+   },
+   {
+    "part": "-oid",
+    "meaning": "類似"
+   }
+  ],
+  "related": [
+   "t-carotene",
+   "t-xanthophyll",
+   "t-accessory-pigment",
+   "t-carotenoid-pigment"
+  ],
+  "confusables": [],
+  "illus": "pigment",
+  "tf": {
+   "statement_zh": "類胡蘿蔔素可幫助保護葉綠素，避免強光造成傷害。",
+   "answer": true,
+   "explain": "類胡蘿蔔素能消散過多的光能，具光保護作用。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-carotene",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈkærəˌtin/",
+  "ipa_uk": "/ˈkærətiːn/",
+  "syllables": "car·o·tene",
+  "def_en": "An orange carotenoid pigment made only of carbon and hydrogen; β-carotene can be converted into vitamin A.",
+  "def_zh": "胡蘿蔔素：只由碳、氫組成的橙色類胡蘿蔔素，β-胡蘿蔔素可在人體內轉變成維生素 A。",
+  "example_en": "Carrots are rich in beta-carotene, which our body turns into vitamin A.",
+  "example_zh": "胡蘿蔔富含β-胡蘿蔔素，人體可將其轉變成維生素 A。",
+  "morph": [
+   {
+    "part": "carot-",
+    "meaning": "胡蘿蔔"
+   },
+   {
+    "part": "-ene",
+    "meaning": "烯（碳氫化合物）"
+   }
+  ],
+  "related": [
+   "t-carotenoid",
+   "t-xanthophyll",
+   "t-carotenoid-pigment"
+  ],
+  "confusables": [
+   {
+    "term": "xanthophyll",
+    "zh": "葉黃素",
+    "note": "葉黃素含氧原子、呈黃色；胡蘿蔔素只含碳氫、呈橙色"
+   }
+  ],
+  "illus": "pigment",
+  "tf": {
+   "statement_zh": "胡蘿蔔素分子含氧原子，而葉黃素不含氧。",
+   "answer": false,
+   "explain": "恰好相反：胡蘿蔔素只含碳和氫，葉黃素則是含氧的類胡蘿蔔素。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-carbon-reaction",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkɑrbən riˈækʃən/",
+  "ipa_uk": "/ˈkɑːbən riˈækʃn/",
+  "syllables": "car·bon re·ac·tion",
+  "def_en": "The stage of photosynthesis that uses ATP and NADPH to fix CO₂ into sugar in the stroma.",
+  "def_zh": "固碳反應：光合作用中在葉綠體基質進行的反應，利用光反應產生的 ATP 與 NADPH，將 CO₂ 固定並還原成醣類（卡爾文循環）。",
+  "example_en": "The carbon reaction depends on ATP and NADPH made by the light reactions.",
+  "example_zh": "固碳反應需要光反應所產生的 ATP 和 NADPH。",
+  "morph": [],
+  "related": [
+   "t-calvin-cycle",
+   "t-ribulose-1-5-bisphosphate",
+   "t-3-phosphoglycerate",
+   "t-light-reaction"
+  ],
+  "confusables": [
+   {
+    "term": "dark reaction",
+    "zh": "暗反應",
+    "note": "舊稱「暗反應」易誤解為只在黑暗中進行；實際上白天有光時最活躍"
+   }
+  ],
+  "illus": "calvin",
+  "tf": {
+   "statement_zh": "固碳反應只能在黑暗中進行。",
+   "answer": false,
+   "explain": "固碳反應不直接需要光，但依賴光反應提供 ATP 與 NADPH，通常在白天進行。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-capsule",
+  "unit": "u03",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈkæpsəl/",
+  "ipa_uk": "/ˈkæpsjuːl/",
+  "syllables": "cap·sule",
+  "def_en": "A sticky outer layer outside some bacteria's cell wall that helps them stick to surfaces and resist immune cells.",
+  "def_zh": "莢膜：部分細菌細胞壁外的黏性多醣層，可幫助細菌附著，並抵抗宿主白血球的吞噬。",
+  "example_en": "Bacteria with a capsule are harder for white blood cells to engulf.",
+  "example_zh": "具有莢膜的細菌較不容易被白血球吞噬。",
+  "morph": [],
+  "related": [
+   "t-cell-wall",
+   "t-pili",
+   "t-flagella",
+   "t-bacterial"
+  ],
+  "confusables": [],
+  "illus": "prokaryote",
+  "tf": {
+   "statement_zh": "莢膜可幫助細菌附著，並抵抗宿主免疫細胞的吞噬。",
+   "answer": true,
+   "explain": "莢膜黏滑，使吞噬細胞不易抓住細菌，常與致病力有關。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-canine-hip-dysphasia",
+  "unit": "u09",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈkeɪnaɪn ˈhɪp dɪsˈfeɪʒə/",
+  "ipa_uk": "/ˈkeɪnaɪn ˈhɪp dɪsˈfeɪziə/",
+  "syllables": "ca·nine hip dys·pha·sia",
+  "def_en": "Misspelling of canine hip dysplasia: an inherited condition in dogs where the hip joint forms abnormally.",
+  "def_zh": "正確英文為 canine hip dysplasia（犬髖關節發育不良）：犬隻股骨頭與髖臼吻合不良的遺傳性疾病，受多基因與環境因素影響。（dysphasia 是語言障礙，為誤拼）",
+  "example_en": "The list says canine hip dysphasia, but the correct term is canine hip dysplasia, a polygenic disease in large dogs.",
+  "example_zh": "清單寫作 canine hip dysphasia，但正確名稱是 canine hip dysplasia，是大型犬常見的多基因疾病。",
+  "morph": [
+   {
+    "part": "canine",
+    "meaning": "犬的"
+   },
+   {
+    "part": "dys-",
+    "meaning": "異常；不良"
+   },
+   {
+    "part": "-plasia",
+    "meaning": "形成；發育"
+   }
+  ],
+  "related": [
+   "t-polygenic-inheritance",
+   "t-susceptible-gene"
+  ],
+  "confusables": [
+   {
+    "term": "dysphasia",
+    "zh": "語言障礙",
+    "note": "dysphasia 指說話或理解語言困難；髖關節疾病應為 dysplasia"
+   }
+  ],
+  "illus": "dog-hip",
+  "tf": {
+   "statement_zh": "犬髖關節發育不良是股骨頭與髖臼吻合不良的疾病，受遺傳與環境共同影響。",
+   "answer": true,
+   "explain": "此病屬多基因遺傳，體重、生長速度等環境因素也會影響發病。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-camptothecin-alkaloids",
+  "unit": "u11",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌkæmptəˈθisɪn ˈælkəˌlɔɪdz/",
+  "ipa_uk": "/ˌkæmptəʊˈθiːsɪn ˈælkəlɔɪdz/",
+  "syllables": "camp·to·the·cin al·ka·loids",
+  "def_en": "A group of plant alkaloids from the Chinese happy tree that block topoisomerase I and are used against cancer.",
+  "def_zh": "喜樹生物鹼：由喜樹萃取、以喜樹鹼為代表的一類生物鹼，可抑制 DNA 拓樸異構酶 I，其衍生物用於癌症治療。",
+  "example_en": "Drugs based on camptothecin alkaloids are used to treat colon cancer.",
+  "example_zh": "以喜樹生物鹼為基礎的藥物被用於治療大腸癌。",
+  "morph": [],
+  "related": [
+   "t-camptothecin",
+   "t-taxol"
+  ],
+  "confusables": [],
+  "illus": "drug-plant",
+  "tf": {
+   "statement_zh": "喜樹生物鹼能抑制拓樸異構酶 I，干擾癌細胞的 DNA 複製。",
+   "answer": true,
+   "explain": "喜樹鹼類藥物使拓樸異構酶 I 與 DNA 卡住，造成 DNA 斷裂而使癌細胞死亡。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-camptothecin",
+  "unit": "u11",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˌkæmptəˈθisɪn/",
+  "ipa_uk": "/ˌkæmptəʊˈθiːsɪn/",
+  "syllables": "camp·to·the·cin",
+  "def_en": "An anticancer alkaloid from the Chinese happy tree (Camptotheca) that inhibits the enzyme topoisomerase I.",
+  "def_zh": "喜樹鹼：從喜樹中分離出的生物鹼，可抑制 DNA 拓樸異構酶 I，是多種抗癌藥物的原型。",
+  "example_en": "Camptothecin was first isolated from the bark and wood of the Chinese happy tree.",
+  "example_zh": "喜樹鹼最初是從喜樹的樹皮與木材中分離出來的。",
+  "morph": [],
+  "related": [
+   "t-camptothecin-alkaloids",
+   "t-taxol"
+  ],
+  "confusables": [
+   {
+    "term": "Taxol",
+    "zh": "紫杉醇",
+    "note": "紫杉醇來自紫杉、作用於微管；喜樹鹼來自喜樹、抑制拓樸異構酶 I"
+   }
+  ],
+  "illus": "drug-plant",
+  "tf": {
+   "statement_zh": "喜樹鹼是從紫杉樹皮中萃取出來的抗癌藥物。",
+   "answer": false,
+   "explain": "喜樹鹼來自喜樹；從紫杉（太平洋紫杉）樹皮萃取的是紫杉醇（Taxol）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-calvin-cycle",
+  "unit": "u06",
+  "level": 1,
+  "pos": "proper n.",
+  "ipa_us": "/ˈkælvɪn ˌsaɪkəl/",
+  "ipa_uk": "/ˈkælvɪn ˌsaɪkl/",
+  "syllables": "Cal·vin cy·cle",
+  "def_en": "The cycle in the chloroplast stroma that fixes CO₂ with RuBP and uses ATP and NADPH to make G3P.",
+  "def_zh": "卡爾文循環：在葉綠體基質中進行，CO₂ 與 RuBP 結合，再利用 ATP 與 NADPH 還原成 G3P，並再生 RuBP。",
+  "example_en": "The Calvin cycle uses the ATP and NADPH produced by the light reactions.",
+  "example_zh": "卡爾文循環利用光反應產生的 ATP 與 NADPH。",
+  "morph": [],
+  "related": [
+   "t-carbon-reaction",
+   "t-ribulose-1-5-bisphosphate",
+   "t-3-phosphoglycerate",
+   "t-glyceraldehyde-3-phosphate"
+  ],
+  "confusables": [
+   {
+    "term": "Krebs cycle",
+    "zh": "克氏循環",
+    "note": "克氏循環在粒線體中分解有機物釋出 CO₂；卡爾文循環在葉綠體中固定 CO₂"
+   }
+  ],
+  "illus": "calvin",
+  "tf": {
+   "statement_zh": "卡爾文循環在葉綠體的類囊體膜上進行。",
+   "answer": false,
+   "explain": "卡爾文循環在葉綠體基質中進行；類囊體膜上進行的是光反應。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-boyles-law",
+  "unit": "u01",
+  "level": 2,
+  "pos": "proper n.",
+  "ipa_us": "/ˈbɔɪlz ˌlɔ/",
+  "ipa_uk": "/ˈbɔɪlz ˌlɔː/",
+  "syllables": "Boyle's law",
+  "def_en": "Boyle's law: at constant temperature, the pressure of a fixed amount of gas is inversely proportional to its volume.",
+  "def_zh": "波以耳定律（正確寫法 Boyle's law）：溫度固定時，定量氣體的壓力與體積成反比；可用來解釋呼吸時肺部進出氣體。",
+  "example_en": "Boyles law, properly written Boyle's law, explains why air rushes into the lungs when the chest expands.",
+  "example_zh": "波以耳定律（正確寫法為 Boyle's law）說明胸腔擴大時空氣為何會流入肺部。",
+  "morph": [],
+  "related": [],
+  "confusables": [],
+  "illus": "gas-law",
+  "tf": {
+   "statement_zh": "依波以耳定律，溫度不變時，氣體體積減為一半，壓力會變為原來的兩倍。",
+   "answer": true,
+   "explain": "壓力與體積成反比（PV＝定值），體積減半則壓力加倍。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-blastocyst",
+  "unit": "u12",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˈblæstəˌsɪst/",
+  "ipa_uk": "/ˈblæstəʊsɪst/",
+  "syllables": "blas·to·cyst",
+  "def_en": "An early mammalian embryo: a hollow ball of cells with an inner cell mass and an outer trophoblast.",
+  "def_zh": "囊胚（胚泡）：哺乳動物受精後約 5 天的早期胚胎，外層為滋養層，內含內細胞群與囊胚腔。",
+  "example_en": "Embryonic stem cells are taken from the inner cell mass of a blastocyst.",
+  "example_zh": "胚胎幹細胞取自囊胚的內細胞群。",
+  "morph": [
+   {
+    "part": "blasto-",
+    "meaning": "胚芽"
+   },
+   {
+    "part": "-cyst",
+    "meaning": "囊"
+   }
+  ],
+  "related": [
+   "t-inner-cell-mass",
+   "t-embryonic-stem-cells",
+   "t-pluripotent"
+  ],
+  "confusables": [],
+  "illus": "blastocyst",
+  "tf": {
+   "statement_zh": "胚胎幹細胞取自囊胚外層的滋養層細胞。",
+   "answer": false,
+   "explain": "胚胎幹細胞取自囊胚的內細胞群；滋養層將來發育成胎盤的一部分。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-biological-potential",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌbaɪəˈlɑdʒɪkəl pəˈtɛnʃəl/",
+  "ipa_uk": "/ˌbaɪəˈlɒdʒɪkl pəˈtenʃl/",
+  "syllables": "bi·o·log·i·cal po·ten·tial",
+  "def_en": "The maximum rate at which a population could reproduce under ideal conditions with unlimited resources.",
+  "def_zh": "生物潛能：族群在資源無限、無環境阻力的理想條件下所能達到的最大繁殖能力；實際上受環境阻力限制。",
+  "example_en": "Because of environmental resistance, a population never reaches its full biological potential.",
+  "example_zh": "由於環境阻力，族群永遠無法完全發揮其生物潛能。",
+  "morph": [
+   {
+    "part": "bio-",
+    "meaning": "生命"
+   },
+   {
+    "part": "-logy",
+    "meaning": "學科"
+   }
+  ],
+  "related": [
+   "t-theory-of-natural-selection",
+   "t-variation",
+   "t-the-survival-of-the-fittest"
+  ],
+  "confusables": [],
+  "illus": "natural-selection",
+  "tf": {
+   "statement_zh": "生物潛能是指族群在理想環境下的最大繁殖能力，實際上會受環境阻力限制。",
+   "answer": true,
+   "explain": "生物產生的後代遠多於能存活者，這正是達爾文天擇說的前提之一。"
+  },
+  "confidence": "medium"
+ },
+ {
+  "id": "t-bioinformation",
+  "unit": "u10",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌbaɪoʊˌɪnfərˈmeɪʃən/",
+  "ipa_uk": "/ˌbaɪəʊˌɪnfəˈmeɪʃn/",
+  "syllables": "bi·o·in·for·ma·tion",
+  "def_en": "Here used for bioinformatics: using computers and statistics to store and analyze biological data such as DNA sequences.",
+  "def_zh": "生物資訊學（正確英文為 bioinformatics；bioinformation 字面意思是「生物資訊」）：以電腦與統計方法儲存、比對及分析 DNA、蛋白質序列等生物資料的學科。",
+  "example_en": "Bioinformation, more correctly called bioinformatics, uses computers to compare DNA sequences.",
+  "example_zh": "生物資訊學（正確英文為 bioinformatics）利用電腦比對 DNA 序列。",
+  "morph": [
+   {
+    "part": "bio-",
+    "meaning": "生命"
+   },
+   {
+    "part": "information",
+    "meaning": "資訊"
+   }
+  ],
+  "related": [
+   "t-genotyping",
+   "t-dna-marker",
+   "t-gene"
+  ],
+  "confusables": [
+   {
+    "term": "bioinformatics",
+    "zh": "生物資訊學",
+    "note": "學科名稱應為 bioinformatics；bioinformation 指生物資料本身"
+   }
+  ],
+  "illus": "computer-bio",
+  "tf": {
+   "statement_zh": "生物資訊學利用電腦分析 DNA 與蛋白質序列等生物資料。",
+   "answer": true,
+   "explain": "生物資訊學結合生物學、資訊科學與統計，處理大量序列資料。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-bacterial-carotenoid",
+  "unit": "u06",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/bækˈtɪriəl kəˈrɑtəˌnɔɪd/",
+  "ipa_uk": "/bækˈtɪəriəl kəˈrɒtɪnɔɪd/",
+  "syllables": "bac·te·ri·al ca·rot·e·noid",
+  "def_en": "A carotenoid made by bacteria, used for light harvesting in photosynthetic bacteria and for protection against strong light.",
+  "def_zh": "細菌類胡蘿蔔素：由細菌合成的類胡蘿蔔素，在光合細菌中協助吸收光能，也能保護細胞免受強光與氧化傷害。",
+  "example_en": "A bacterial carotenoid gives some bacterial colonies a yellow or orange color.",
+  "example_zh": "細菌類胡蘿蔔素使某些細菌菌落呈黃色或橙色。",
+  "morph": [],
+  "related": [
+   "t-carotenoid",
+   "t-carotenoid-pathway",
+   "t-bacterial"
+  ],
+  "confusables": [],
+  "illus": "pigment",
+  "tf": {
+   "statement_zh": "只有植物能合成類胡蘿蔔素，細菌無法合成。",
+   "answer": false,
+   "explain": "許多細菌（包括光合細菌）也能經類胡蘿蔔素途徑合成類胡蘿蔔素。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-bacterial",
+  "unit": "u03",
+  "level": 1,
+  "pos": "adj.",
+  "ipa_us": "/bækˈtɪriəl/",
+  "ipa_uk": "/bækˈtɪəriəl/",
+  "syllables": "bac·te·ri·al",
+  "def_en": "Relating to or caused by bacteria.",
+  "def_zh": "細菌的；由細菌引起的，例如細菌性感染。",
+  "example_en": "Antibiotics can treat a bacterial infection but not the common cold.",
+  "example_zh": "抗生素能治療細菌性感染，但不能治療普通感冒。",
+  "morph": [
+   {
+    "part": "bacteri-",
+    "meaning": "細菌（原意小棒）"
+   },
+   {
+    "part": "-al",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-bacterial-carotenoid",
+   "t-capsule",
+   "t-nucleoid-region",
+   "t-peptidoglycan"
+  ],
+  "confusables": [],
+  "illus": "prokaryote",
+  "tf": {
+   "statement_zh": "抗生素對細菌性感染與病毒性感染都同樣有效。",
+   "answer": false,
+   "explain": "抗生素作用於細菌特有的構造或代謝（如細胞壁），對病毒無效。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-autosome",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈɔtəˌsoʊm/",
+  "ipa_uk": "/ˈɔːtəsəʊm/",
+  "syllables": "au·to·some",
+  "def_en": "Any chromosome that is not a sex chromosome; humans have 22 pairs.",
+  "def_zh": "體染色體：性染色體以外的染色體，在雌雄個體中相同；人類有 22 對體染色體。",
+  "example_en": "A gene on an autosome is inherited the same way in males and females.",
+  "example_zh": "位於體染色體上的基因，在男性和女性中的遺傳方式相同。",
+  "morph": [
+   {
+    "part": "auto-",
+    "meaning": "自身"
+   },
+   {
+    "part": "-some",
+    "meaning": "體"
+   }
+  ],
+  "related": [
+   "t-sex-chromosome",
+   "t-chromosome",
+   "t-sex-linked-inheritance"
+  ],
+  "confusables": [
+   {
+    "term": "sex chromosome",
+    "zh": "性染色體",
+    "note": "性染色體（X、Y）決定性別；其餘為體染色體"
+   }
+  ],
+  "illus": "chromosome",
+  "tf": {
+   "statement_zh": "人類體細胞含有 22 對體染色體和 1 對性染色體。",
+   "answer": true,
+   "explain": "人類 23 對染色體中，22 對為體染色體，1 對為性染色體（XX 或 XY）。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-aquaporin",
+  "unit": "u04",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌækwəˈpɔrɪn/",
+  "ipa_uk": "/ˌækwəˈpɔːrɪn/",
+  "syllables": "aq·ua·po·rin",
+  "def_en": "A channel protein in the cell membrane that lets water molecules pass through quickly.",
+  "def_zh": "水通道蛋白：鑲嵌在細胞膜上的通道蛋白，可讓水分子快速通過，屬於被動運輸。",
+  "example_en": "Kidney cells use aquaporin channels to reabsorb water.",
+  "example_zh": "腎臟細胞利用水通道蛋白再吸收水分。",
+  "morph": [
+   {
+    "part": "aqua-",
+    "meaning": "水"
+   },
+   {
+    "part": "por-",
+    "meaning": "孔"
+   },
+   {
+    "part": "-in",
+    "meaning": "蛋白質等物質字尾"
+   }
+  ],
+  "related": [
+   "t-ion-channel",
+   "t-transport-protein",
+   "t-fluid-mosaic-model"
+  ],
+  "confusables": [],
+  "illus": "channel",
+  "tf": {
+   "statement_zh": "水分子通過水通道蛋白時需要消耗 ATP。",
+   "answer": false,
+   "explain": "水分子經水通道蛋白順濃度（滲透）梯度移動，屬被動運輸，不需 ATP。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-apoptosis",
+  "unit": "u07",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/ˌæpəpˈtoʊsɪs/",
+  "ipa_uk": "/ˌæpəpˈtəʊsɪs/",
+  "syllables": "a·pop·to·sis",
+  "def_en": "Programmed cell death, in which a cell shrinks and breaks into apoptotic bodies in a controlled way.",
+  "def_zh": "細胞凋亡：受基因調控的計畫性細胞死亡，細胞縮小並分解成凋亡小體，再被吞噬細胞清除，不引起發炎。",
+  "example_en": "Apoptosis removes the web of skin between our fingers before birth.",
+  "example_zh": "細胞凋亡在出生前移除我們手指間的蹼。",
+  "morph": [
+   {
+    "part": "apo-",
+    "meaning": "離開"
+   },
+   {
+    "part": "ptosis",
+    "meaning": "掉落"
+   }
+  ],
+  "related": [
+   "t-cell-cycle",
+   "t-cyclin"
+  ],
+  "confusables": [
+   {
+    "term": "necrosis",
+    "zh": "壞死",
+    "note": "壞死是受傷造成的非計畫性死亡，細胞腫脹破裂並引起發炎"
+   }
+  ],
+  "illus": "apoptosis",
+  "tf": {
+   "statement_zh": "細胞凋亡是受基因調控的計畫性細胞死亡。",
+   "answer": true,
+   "explain": "細胞凋亡由特定基因與酵素控制，是正常發育與維持組織恆定的過程。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-antibiotic-genes",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌæntibaɪˈɑtɪk ˈdʒinz/",
+  "ipa_uk": "/ˌæntibaɪˈɒtɪk ˈdʒiːnz/",
+  "syllables": "an·ti·bi·ot·ic genes",
+  "def_en": "Short for antibiotic resistance genes: genes that let cells survive an antibiotic, used as markers in genetic engineering.",
+  "def_zh": "抗抗生素基因（正確英文為 antibiotic resistance genes）：使細胞能在抗生素存在下存活的基因，常作為基因轉殖的篩選標誌。",
+  "example_en": "The plasmid carries antibiotic genes, so only transformed bacteria grow on the antibiotic plate.",
+  "example_zh": "質體帶有抗抗生素基因，因此只有轉形成功的細菌能在含抗生素的培養基上生長。",
+  "morph": [
+   {
+    "part": "anti-",
+    "meaning": "對抗"
+   },
+   {
+    "part": "bio-",
+    "meaning": "生命"
+   }
+  ],
+  "related": [
+   "t-selective-marker-genes",
+   "t-plasmid",
+   "t-reporter-genes",
+   "t-target-gene"
+  ],
+  "confusables": [
+   {
+    "term": "antibiotic resistance genes",
+    "zh": "抗藥性基因",
+    "note": "完整名稱應含 resistance，表示「抵抗」抗生素"
+   }
+  ],
+  "illus": "plasmid-gmo",
+  "tf": {
+   "statement_zh": "抗抗生素基因可作為篩選標誌，只有帶入質體的細菌能在含抗生素的培養基中存活。",
+   "answer": true,
+   "explain": "未取得質體的細菌會被抗生素殺死，因此可篩選出轉形成功的細菌。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-antenna-pigment",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ænˈtɛnə ˈpɪɡmənt/",
+  "ipa_uk": "/ænˈtenə ˈpɪɡmənt/",
+  "syllables": "an·ten·na pig·ment",
+  "def_en": "A pigment in a photosystem that absorbs light and passes the energy to the reaction center.",
+  "def_zh": "天線色素：光系統中負責吸收光能的色素分子（葉綠素與類胡蘿蔔素），將能量逐一傳遞至反應中心。",
+  "example_en": "Each antenna pigment passes absorbed energy toward the reaction center.",
+  "example_zh": "每個天線色素都會把吸收的能量傳向反應中心。",
+  "morph": [],
+  "related": [
+   "t-light-harvesting-complex",
+   "t-reaction-center",
+   "t-accessory-pigment",
+   "t-photosystem"
+  ],
+  "confusables": [],
+  "illus": "light-reaction",
+  "tf": {
+   "statement_zh": "天線色素會直接把電子交給初級電子接受者。",
+   "answer": false,
+   "explain": "天線色素只傳遞能量；由反應中心的葉綠素 a 將電子交給初級電子接受者。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-anaphase",
+  "unit": "u07",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/ˈænəˌfeɪz/",
+  "ipa_uk": "/ˈænəfeɪz/",
+  "syllables": "an·a·phase",
+  "def_en": "The stage of mitosis in which sister chromatids separate and move to opposite poles.",
+  "def_zh": "後期：有絲分裂中姊妹染色分體分離，並被紡錘絲拉向細胞兩極的時期。",
+  "example_en": "During anaphase, the cell becomes longer as chromatids move apart.",
+  "example_zh": "在後期，隨著染色分體分開，細胞會被拉長。",
+  "morph": [
+   {
+    "part": "ana-",
+    "meaning": "向上；向後"
+   },
+   {
+    "part": "phase",
+    "meaning": "時期"
+   }
+  ],
+  "related": [
+   "t-metaphase",
+   "t-telophase",
+   "t-sister-chromatids",
+   "t-chromosomal-microtubule"
+  ],
+  "confusables": [],
+  "illus": "mitosis",
+  "tf": {
+   "statement_zh": "減數分裂 I 的後期中，姊妹染色分體彼此分離。",
+   "answer": false,
+   "explain": "減數分裂 I 後期是同源染色體分離；姊妹染色分體在有絲分裂後期與減數分裂 II 後期才分離。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-an-acid-solution",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ən ˈæsɪd səˈluʃən/",
+  "ipa_uk": "/ən ˈæsɪd səˈluːʃn/",
+  "syllables": "an ac·id so·lu·tion",
+  "def_en": "A solution with more hydrogen ions than hydroxide ions, so its pH is below 7.",
+  "def_zh": "酸溶液：氫離子濃度高於氫氧根離子濃度的溶液，pH 值小於 7（25°C）。",
+  "example_en": "Litmus paper turns red in an acid solution.",
+  "example_zh": "石蕊試紙在酸溶液中會變成紅色。",
+  "morph": [
+   {
+    "part": "solu-",
+    "meaning": "溶解"
+   },
+   {
+    "part": "-tion",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-acid",
+   "t-strong-acid",
+   "t-weak-acid",
+   "t-solution"
+  ],
+  "confusables": [],
+  "illus": "lab-solution",
+  "tf": {
+   "statement_zh": "在 25°C 時，酸溶液的 pH 值大於 7。",
+   "answer": false,
+   "explain": "25°C 時酸溶液 pH < 7，中性為 7，鹼性溶液才大於 7。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-allele",
+  "unit": "u09",
+  "level": 1,
+  "pos": "n.",
+  "ipa_us": "/əˈlil/",
+  "ipa_uk": "/əˈliːl/",
+  "syllables": "al·lele",
+  "def_en": "One of the different forms of a gene found at the same position on homologous chromosomes.",
+  "def_zh": "等位基因（又稱對偶基因）：位於同源染色體相同基因座上、控制同一性狀的不同形式基因，例如 A 與 a。",
+  "example_en": "A pea plant with genotype Aa carries one dominant allele and one recessive allele.",
+  "example_zh": "基因型為 Aa 的豌豆帶有一個顯性等位基因和一個隱性等位基因。",
+  "morph": [
+   {
+    "part": "allel-",
+    "meaning": "彼此；互相"
+   }
+  ],
+  "related": [
+   "t-heterozygote",
+   "t-homozygote",
+   "t-gene",
+   "t-multiple-allele-inheritance"
+  ],
+  "confusables": [
+   {
+    "term": "gene",
+    "zh": "基因",
+    "note": "基因指控制某性狀的 DNA 片段；等位基因是同一基因的不同版本"
+   }
+  ],
+  "illus": "gene",
+  "tf": {
+   "statement_zh": "等位基因位於同源染色體的相同基因座上。",
+   "answer": true,
+   "explain": "等位基因是同一基因座上的不同形式，分別位於一對同源染色體上。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-alcohol-fermentation",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈælkəˌhɔl ˌfɜrmɛnˈteɪʃən/",
+  "ipa_uk": "/ˈælkəhɒl ˌfɜːmenˈteɪʃn/",
+  "syllables": "al·co·hol fer·men·ta·tion",
+  "def_en": "Anaerobic process in which pyruvate is converted to ethanol and CO₂, regenerating NAD⁺; used by yeast.",
+  "def_zh": "酒精發酵：在無氧下，糖解產生的丙酮酸轉變成乙醇與二氧化碳，並再生 NAD⁺；酵母菌常進行此作用。",
+  "example_en": "Bread rises because alcohol fermentation by yeast produces carbon dioxide.",
+  "example_zh": "麵包會膨脹，是因為酵母菌的酒精發酵產生了二氧化碳。",
+  "morph": [
+   {
+    "part": "ferment-",
+    "meaning": "發酵；沸騰"
+   },
+   {
+    "part": "-ation",
+    "meaning": "名詞字尾（過程）"
+   }
+  ],
+  "related": [
+   "t-fermentation",
+   "t-lactic-acid-fermentation",
+   "t-glycolysis",
+   "t-lactate-fermentation"
+  ],
+  "confusables": [
+   {
+    "term": "lactic acid fermentation",
+    "zh": "乳酸發酵",
+    "note": "乳酸發酵產物為乳酸、不產生 CO₂；酒精發酵產生乙醇與 CO₂"
+   }
+  ],
+  "illus": "fermentation",
+  "tf": {
+   "statement_zh": "人體肌肉在缺氧時會進行酒精發酵。",
+   "answer": false,
+   "explain": "人體肌肉缺氧時進行的是乳酸發酵；酒精發酵見於酵母菌與部分植物細胞。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-agrobacteria-infection-method",
+  "unit": "u11",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/ˌæɡroʊbækˈtɪriə ɪnˈfɛkʃən ˈmɛθəd/",
+  "ipa_uk": "/ˌæɡrəʊbækˈtɪəriə ɪnˈfekʃn ˈmeθəd/",
+  "syllables": "Ag·ro·bac·te·ri·a in·fec·tion meth·od",
+  "def_en": "A plant gene-transfer method using Agrobacterium to carry a target gene on its Ti plasmid into plant cells.",
+  "def_zh": "農桿菌感染法（學術常稱 Agrobacterium-mediated transformation）：利用農桿菌 Ti 質體的 T-DNA，將目標基因送入植物細胞基因組的轉殖方法。",
+  "example_en": "Researchers used the Agrobacteria infection method to insert a pest-resistance gene into leaf disks.",
+  "example_zh": "研究人員以農桿菌感染法將抗蟲基因轉入葉圓片。",
+  "morph": [
+   {
+    "part": "agro-",
+    "meaning": "田地；農業"
+   },
+   {
+    "part": "bacteri-",
+    "meaning": "細菌"
+   }
+  ],
+  "related": [
+   "t-transgenic-organism",
+   "t-plasmid",
+   "t-leaf-disks",
+   "t-microprojectile-bombardment"
+  ],
+  "confusables": [
+   {
+    "term": "microprojectile bombardment",
+    "zh": "粒子槍法",
+    "note": "粒子槍以包覆 DNA 的金屬微粒直接射入細胞，不需農桿菌"
+   }
+  ],
+  "illus": "gene-transfer",
+  "tf": {
+   "statement_zh": "農桿菌的 Ti 質體可將其中的 T-DNA 嵌入植物細胞的基因組。",
+   "answer": true,
+   "explain": "農桿菌天然會把 Ti 質體上的 T-DNA 送入植物染色體，科學家利用此特性轉殖基因。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-aerobic-respiration",
+  "unit": "u05",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/ɛˈroʊbɪk ˌrɛspəˈreɪʃən/",
+  "ipa_uk": "/eəˈrəʊbɪk ˌrespəˈreɪʃn/",
+  "syllables": "aer·o·bic res·pi·ra·tion",
+  "def_en": "Cellular respiration that uses oxygen to break down glucose completely into CO₂ and water, making much ATP.",
+  "def_zh": "有氧呼吸：在氧氣參與下，經糖解作用、克氏循環與電子傳遞鏈，把葡萄糖完全分解成 CO₂ 和水，並產生大量 ATP。",
+  "example_en": "Aerobic respiration produces far more ATP per glucose than fermentation.",
+  "example_zh": "每分子葡萄糖經有氧呼吸所產生的 ATP 遠多於發酵。",
+  "morph": [
+   {
+    "part": "aero-",
+    "meaning": "空氣"
+   },
+   {
+    "part": "-ic",
+    "meaning": "形容詞字尾"
+   },
+   {
+    "part": "re-",
+    "meaning": "再；反覆"
+   }
+  ],
+  "related": [
+   "t-respiration",
+   "t-glycolysis",
+   "t-krebs-cycle",
+   "t-electron-transport-chain"
+  ],
+  "confusables": [
+   {
+    "term": "anaerobic respiration",
+    "zh": "無氧呼吸",
+    "note": "無氧呼吸以氧以外的物質作為最終電子接受者，常見於某些細菌"
+   }
+  ],
+  "illus": "mitochondrion",
+  "tf": {
+   "statement_zh": "有氧呼吸的所有步驟都在粒線體內進行。",
+   "answer": false,
+   "explain": "有氧呼吸的第一步糖解作用在細胞質液中進行，之後的步驟才在粒線體內。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-adult-stem-cells",
+  "unit": "u12",
+  "level": 1,
+  "pos": "n. phr.",
+  "ipa_us": "/əˈdʌlt ˈstɛm ˌsɛlz/",
+  "ipa_uk": "/ˈædʌlt ˈstem ˌselz/",
+  "syllables": "a·dult stem cells",
+  "def_en": "Undifferentiated cells in mature tissues, such as bone marrow, that renew and repair those tissues.",
+  "def_zh": "成體幹細胞：存在於已發育組織（如骨髓、皮膚）中的未分化細胞，可更新與修補組織，多屬多潛能幹細胞。",
+  "example_en": "Bone marrow transplants rely on adult stem cells that make new blood cells.",
+  "example_zh": "骨髓移植依靠能產生新血球的成體幹細胞。",
+  "morph": [],
+  "related": [
+   "t-stem-cell",
+   "t-hematopoietic-stem-cell",
+   "t-multipotent",
+   "t-embryonic-stem-cells"
+  ],
+  "confusables": [
+   {
+    "term": "embryonic stem cells",
+    "zh": "胚胎幹細胞",
+    "note": "胚胎幹細胞取自囊胚內細胞群，為多能性，分化範圍比成體幹細胞廣"
+   }
+  ],
+  "illus": "blood-lineage",
+  "tf": {
+   "statement_zh": "成體幹細胞的分化潛能通常比胚胎幹細胞小。",
+   "answer": true,
+   "explain": "成體幹細胞多為多潛能，只能分化成特定組織的細胞；胚胎幹細胞為多能性。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-adaptive-radiation",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/əˈdæptɪv ˌreɪdiˈeɪʃən/",
+  "ipa_uk": "/əˈdæptɪv ˌreɪdiˈeɪʃn/",
+  "syllables": "a·dap·tive ra·di·a·tion",
+  "def_en": "The rapid evolution of one ancestral species into many species adapted to different environments.",
+  "def_zh": "適應輻射：同一祖先物種在短時間內分化出許多適應不同環境或生活方式的物種，例如加拉巴哥群島的達爾文雀。",
+  "example_en": "The many beak shapes of Darwin's finches are a classic example of adaptive radiation.",
+  "example_zh": "達爾文雀多樣的鳥喙形狀是適應輻射的經典例子。",
+  "morph": [
+   {
+    "part": "adapt-",
+    "meaning": "使適合"
+   },
+   {
+    "part": "radi-",
+    "meaning": "放射"
+   }
+  ],
+  "related": [
+   "t-adaption",
+   "t-common-descent",
+   "t-evolution",
+   "t-variation"
+  ],
+  "confusables": [
+   {
+    "term": "convergent evolution",
+    "zh": "趨同演化",
+    "note": "趨同演化是不同祖先演化出相似特徵，方向與適應輻射相反"
+   }
+  ],
+  "illus": "adaptive-radiation",
+  "tf": {
+   "statement_zh": "適應輻射是指不同祖先的物種演化出相似的形態。",
+   "answer": false,
+   "explain": "這描述的是趨同演化；適應輻射是同一祖先分化成多種不同形態的物種。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-adaption",
+  "unit": "u13",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/əˈdæpʃən/",
+  "ipa_uk": "/əˈdæpʃn/",
+  "syllables": "a·dap·tion",
+  "def_en": "A less common form of adaptation: an inherited trait that helps an organism survive and reproduce in its environment.",
+  "def_zh": "適應（標準寫法為 adaptation）：生物經天擇保留下來、有利於在環境中生存與繁殖的可遺傳特徵。",
+  "example_en": "Thick fur is an adaption that helps polar bears survive the Arctic cold.",
+  "example_zh": "厚毛皮是幫助北極熊在嚴寒中生存的一種適應。",
+  "morph": [
+   {
+    "part": "adapt-",
+    "meaning": "使適合"
+   },
+   {
+    "part": "-ion",
+    "meaning": "名詞字尾"
+   }
+  ],
+  "related": [
+   "t-adaptive-radiation",
+   "t-theory-of-natural-selection",
+   "t-variation",
+   "t-the-survival-of-the-fittest"
+  ],
+  "confusables": [
+   {
+    "term": "adaptation",
+    "zh": "適應",
+    "note": "生物學標準用字為 adaptation；adaption 為較少見的拼法"
+   }
+  ],
+  "illus": "natural-selection",
+  "tf": {
+   "statement_zh": "個體在一生中因努力而獲得的特徵，都能作為適應遺傳給後代。",
+   "answer": false,
+   "explain": "演化上的適應必須是可遺傳的特徵；後天獲得的性狀（如練出的肌肉）不會遺傳。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-actin-binding-protein",
+  "unit": "u04",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈæktɪn ˈbaɪndɪŋ ˈproʊtin/",
+  "ipa_uk": "/ˈæktɪn ˈbaɪndɪŋ ˈprəʊtiːn/",
+  "syllables": "ac·tin-bind·ing pro·tein",
+  "def_en": "A protein that attaches to actin and controls how microfilaments grow, break, bundle or cross-link.",
+  "def_zh": "微絲結合蛋白（肌動蛋白結合蛋白）：能與肌動蛋白結合的蛋白質，調控微絲的聚合、切斷、成束與交聯，例如肌凝蛋白。",
+  "example_en": "Myosin is an actin-binding protein that drives muscle contraction.",
+  "example_zh": "肌凝蛋白是一種推動肌肉收縮的微絲結合蛋白。",
+  "morph": [],
+  "related": [
+   "t-microfilament",
+   "t-cytoskeleton"
+  ],
+  "confusables": [],
+  "illus": "cytoskeleton",
+  "tf": {
+   "statement_zh": "微絲結合蛋白可調控微絲的聚合、切斷與交聯。",
+   "answer": true,
+   "explain": "細胞藉各種肌動蛋白結合蛋白控制微絲的組裝與排列，以改變形狀或運動。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acid-cycle",
+  "unit": "u05",
+  "level": 3,
+  "pos": "n. phr.",
+  "ipa_us": "/ˈæsɪd ˌsaɪkəl/",
+  "ipa_uk": "/ˈæsɪd ˌsaɪkl/",
+  "syllables": "ac·id cy·cle",
+  "def_en": "A shortened name for the citric acid (tricarboxylic acid) cycle of cellular respiration.",
+  "def_zh": "酸循環：檸檬酸循環（三羧酸循環、克氏循環）的簡稱，在粒線體基質中氧化乙醯輔酶 A。",
+  "example_en": "Each turn of the acid cycle releases two molecules of carbon dioxide.",
+  "example_zh": "酸循環每轉一圈會釋出兩分子二氧化碳。",
+  "morph": [],
+  "related": [
+   "t-citric-acid-cycle",
+   "t-krebs-cycle",
+   "t-tricarboxylic-acid-cycle",
+   "t-acetyl-coa"
+  ],
+  "confusables": [],
+  "illus": "krebs",
+  "tf": {
+   "statement_zh": "細胞呼吸產生的 ATP 大部分直接來自酸循環。",
+   "answer": false,
+   "explain": "酸循環主要產生 NADH 與 FADH₂；大部分 ATP 由電子傳遞鏈的氧化磷酸化產生。"
+  },
+  "confidence": "medium"
+ },
+ {
+  "id": "t-acid",
+  "unit": "u02",
+  "level": 1,
+  "pos": "n. / adj.",
+  "ipa_us": "/ˈæsɪd/",
+  "ipa_uk": "/ˈæsɪd/",
+  "syllables": "ac·id",
+  "def_en": "n. a substance that releases hydrogen ions in water; adj. having a pH below 7 or a sour taste.",
+  "def_zh": "n. 酸：在水中能解離出氫離子的物質；adj. 酸的、酸性的。",
+  "example_en": "Hydrochloric acid in the stomach helps digest proteins.",
+  "example_zh": "胃中的鹽酸有助於消化蛋白質。",
+  "morph": [],
+  "related": [
+   "t-strong-acid",
+   "t-weak-acid",
+   "t-an-acid-solution",
+   "t-phosphate-buffer"
+  ],
+  "confusables": [
+   {
+    "term": "base",
+    "zh": "鹼",
+    "note": "鹼在水中產生氫氧根離子或接受氫離子，pH 大於 7"
+   }
+  ],
+  "illus": "lab-solution",
+  "tf": {
+   "statement_zh": "酸溶於水後會釋出氫離子（H⁺）。",
+   "answer": true,
+   "explain": "依阿瑞尼斯定義，酸在水中解離出 H⁺，使溶液 pH 降低。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-acetyl-coa",
+  "unit": "u05",
+  "level": 2,
+  "pos": "n.",
+  "ipa_us": "/əˌsitl̩ ˌkoʊˈeɪ/",
+  "ipa_uk": "/ˌæsɪtaɪl ˌkəʊˈeɪ/",
+  "syllables": "a·ce·tyl-Co·A",
+  "def_en": "Acetyl coenzyme A: a two-carbon molecule made from pyruvate that enters the citric acid cycle.",
+  "def_zh": "乙醯輔酶 A：丙酮酸進入粒線體後氧化脫羧所形成的二碳化合物，再進入克氏循環。",
+  "example_en": "Pyruvate is converted to acetyl-CoA before it enters the Krebs cycle.",
+  "example_zh": "丙酮酸在進入克氏循環之前會先轉變成乙醯輔酶 A。",
+  "morph": [
+   {
+    "part": "acet-",
+    "meaning": "醋"
+   },
+   {
+    "part": "-yl",
+    "meaning": "基（化學字尾）"
+   },
+   {
+    "part": "co-",
+    "meaning": "共同"
+   }
+  ],
+  "related": [
+   "t-citric-acid-cycle",
+   "t-krebs-cycle",
+   "t-glycolysis",
+   "t-aerobic-respiration"
+  ],
+  "confusables": [],
+  "illus": "krebs",
+  "tf": {
+   "statement_zh": "丙酮酸轉變成乙醯輔酶 A 時會釋出一分子 CO₂。",
+   "answer": true,
+   "explain": "三碳的丙酮酸氧化脫羧，失去一個碳（CO₂），形成二碳的乙醯基並接上輔酶 A。"
+  },
+  "confidence": "medium"
+ },
+ {
+  "id": "t-accessory-pigment",
+  "unit": "u06",
+  "level": 2,
+  "pos": "n. phr.",
+  "ipa_us": "/əkˈsɛsəri ˈpɪɡmənt/",
+  "ipa_uk": "/əkˈsesəri ˈpɪɡmənt/",
+  "syllables": "ac·ces·so·ry pig·ment",
+  "def_en": "A pigment, such as chlorophyll b or a carotenoid, that absorbs extra light wavelengths and passes energy to chlorophyll a.",
+  "def_zh": "輔助色素：葉綠素 b、類胡蘿蔔素等色素，可吸收葉綠素 a 不易吸收的光波，並將能量傳給葉綠素 a。",
+  "example_en": "An accessory pigment widens the range of light a plant can use.",
+  "example_zh": "輔助色素擴大了植物可利用的光波範圍。",
+  "morph": [
+   {
+    "part": "access-",
+    "meaning": "附加"
+   },
+   {
+    "part": "-ory",
+    "meaning": "形容詞字尾"
+   }
+  ],
+  "related": [
+   "t-carotenoid",
+   "t-xanthophyll",
+   "t-antenna-pigment",
+   "t-chlorophyll"
+  ],
+  "confusables": [],
+  "illus": "pigment",
+  "tf": {
+   "statement_zh": "輔助色素能取代葉綠素 a，直接在反應中心進行光化學反應。",
+   "answer": false,
+   "explain": "輔助色素只吸收光並把能量傳給反應中心的葉綠素 a，本身不進行電荷分離。"
+  },
+  "confidence": "high"
+ },
+ {
+  "id": "t-3-phosphoglycerate",
+  "unit": "u06",
+  "level": 3,
+  "pos": "n.",
+  "ipa_us": "/ˌθri ˌfɑsfoʊˈɡlɪsəˌreɪt/",
+  "ipa_uk": "/ˌθriː ˌfɒsfəʊˈɡlɪsəreɪt/",
+  "syllables": "3-phos·pho·glyc·er·ate",
+  "def_en": "A three-carbon compound (3-PGA) formed when CO₂ combines with RuBP in the Calvin cycle.",
+  "def_zh": "3-磷酸甘油酸（PGA）：卡爾文循環中 CO₂ 與 RuBP 結合後形成的三碳化合物，再被還原成 G3P。",
+  "example_en": "Rubisco joins CO₂ to RuBP, forming two molecules of 3-phosphoglycerate.",
+  "example_zh": "Rubisco 將 CO₂ 接到 RuBP 上，形成兩分子 3-磷酸甘油酸。",
+  "morph": [
+   {
+    "part": "phospho-",
+    "meaning": "磷酸"
+   },
+   {
+    "part": "glycer-",
+    "meaning": "甘油"
+   },
+   {
+    "part": "-ate",
+    "meaning": "酸根（鹽／酯）"
+   }
+  ],
+  "related": [
+   "t-calvin-cycle",
+   "t-ribulose-1-5-bisphosphate",
+   "t-glyceraldehyde-3-phosphate",
+   "t-carbon-reaction"
+  ],
+  "confusables": [],
+  "illus": "calvin",
+  "tf": {
+   "statement_zh": "卡爾文循環中，CO₂ 與 RuBP 結合後形成兩分子 3-磷酸甘油酸。",
+   "answer": true,
+   "explain": "一分子 CO₂＋一分子 RuBP（五碳）形成不穩定的六碳中間物，立即分成兩分子三碳的 3-PGA。"
+  },
+  "confidence": "high"
+ }
+]

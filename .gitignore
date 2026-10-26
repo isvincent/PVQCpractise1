@@ -1,0 +1,13 @@
+# 學生個人學習紀錄不可上傳到公開的 GitHub Repository
+*學習備份*.json
+*學習歷程*.csv
+*測驗成績*.csv
+*單元成果*.csv
+*班級學習統計*.csv
+student-records/
+# 開發用檔案
+__pycache__/
+*.pyc
+.claude/
+.DS_Store
+Thumbs.db

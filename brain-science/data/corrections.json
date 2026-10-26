@@ -1,0 +1,583 @@
+{
+ "schema": 1,
+ "corrections": [
+  {
+   "id": "t-daniel-offer",
+   "en": "Daniel Offer",
+   "field": "zh",
+   "original": "丹尼爾報價",
+   "suggestion": "丹尼爾·奧弗（Daniel Offer，青少年心理學家）",
+   "reason": "Offer 是姓氏，被誤譯為「報價」。",
+   "severity": "high"
+  },
+  {
+   "id": "t-cab-calloway",
+   "en": "cab Calloway",
+   "field": "zh",
+   "original": "出租車卡洛威",
+   "suggestion": "凱布·卡洛威（Cab Calloway，美國爵士歌手）",
+   "reason": "Cab 是人名，被誤譯為「出租車」；英文首字應大寫。",
+   "severity": "high"
+  },
+  {
+   "id": "t-thomas-inset",
+   "en": "Thomas Inset",
+   "field": "en",
+   "original": "Thomas Inset",
+   "suggestion": "Thomas Insel（湯瑪斯·因瑟爾，前美國國家心理衛生研究院院長）",
+   "reason": "姓氏應為 Insel，被誤拼為 Inset 並譯成「插圖」。",
+   "severity": "high"
+  },
+  {
+   "id": "t-henry-dryer",
+   "en": "Henry dryer",
+   "field": "zh",
+   "original": "亨利烘乾機",
+   "suggestion": "（人名，疑為 Henry Dreyer；不是烘乾機）",
+   "reason": "dryer 被當成一般名詞直譯為「烘乾機」。",
+   "severity": "high"
+  },
+  {
+   "id": "t-miguel-najdorf",
+   "en": "Miguel Najdorf",
+   "field": "zh",
+   "original": "米格爾·奈多夫",
+   "suggestion": "米格爾·納道夫（阿根廷西洋棋大師，以盲棋記憶聞名）",
+   "reason": "譯名可用，但與腦科學的關聯需補充說明。",
+   "severity": "low"
+  },
+  {
+   "id": "t-fast-company",
+   "en": "fast company",
+   "field": "zh",
+   "original": "快速公司",
+   "suggestion": "《Fast Company》（美國商業雜誌名稱）",
+   "reason": "應為雜誌名，不宜直譯。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-delusion",
+   "en": "delusion",
+   "field": "zh",
+   "original": "失能；混亂；無秩序；騷亂；動亂",
+   "suggestion": "妄想",
+   "reason": "delusion 是精神醫學的「妄想」；原文為 disorder 的譯義，疑似錯置。",
+   "severity": "high"
+  },
+  {
+   "id": "t-optic-disk",
+   "en": "optic disk",
+   "field": "zh",
+   "original": "光盤",
+   "suggestion": "視神經盤（視盤、盲點）",
+   "reason": "optic disk 是視網膜上視神經離開眼球處，「光盤」為光碟的直譯。",
+   "severity": "high"
+  },
+  {
+   "id": "t-circadian",
+   "en": "circadian",
+   "field": "zh",
+   "original": "生物",
+   "suggestion": "晝夜節律的（約 24 小時週期的）",
+   "reason": "原文譯名殘缺。",
+   "severity": "high"
+  },
+  {
+   "id": "t-globus",
+   "en": "globus",
+   "field": "zh",
+   "original": "蒼",
+   "suggestion": "球（globus pallidus 蒼白球）",
+   "reason": "原文譯名殘缺。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-pallidus",
+   "en": "pallidus",
+   "field": "zh",
+   "original": "白球",
+   "suggestion": "蒼白的（globus pallidus 蒼白球）",
+   "reason": "原文將「蒼白球」拆成兩個詞條。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-tendency",
+   "en": "tendency",
+   "field": "zh",
+   "original": "偏",
+   "suggestion": "傾向；趨勢",
+   "reason": "原文譯名殘缺。",
+   "severity": "high"
+  },
+  {
+   "id": "t-psychosis",
+   "en": "psychosis",
+   "field": "zh",
+   "original": "精神變態；精神病",
+   "suggestion": "精神病（思覺失調等失去現實感的狀態）",
+   "reason": "「精神變態」通常指 psychopathy，與 psychosis 不同。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-agnosia",
+   "en": "agnosia",
+   "field": "zh",
+   "original": "認識不能；部分或全部喪失感官之辨別力；病覺缺失症",
+   "suggestion": "失認症（無法辨識感覺訊息）",
+   "reason": "「病覺缺失症」是 anosognosia（不知道自己生病），與失認症不同。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-hallucination",
+   "en": "hallucination",
+   "field": "zh",
+   "original": "妄想；錯覺；幻覺",
+   "suggestion": "幻覺",
+   "reason": "妄想是 delusion、錯覺是 illusion，與幻覺不同。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-reflex",
+   "en": "reflex",
+   "field": "zh",
+   "original": "反映；反射",
+   "suggestion": "反射",
+   "reason": "「反映」為 reflect 的意思，神經學用語為「反射」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-inhibitory",
+   "en": "inhibitory",
+   "field": "zh",
+   "original": "控制性",
+   "suggestion": "抑制性的",
+   "reason": "inhibitory 對應 excitatory「興奮性」，應為「抑制性」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-ganglia",
+   "en": "ganglia",
+   "field": "zh",
+   "original": "核",
+   "suggestion": "神經節（複數；basal ganglia 基底核）",
+   "reason": "原文過度簡化。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-striatum",
+   "en": "striatum",
+   "field": "zh",
+   "original": "紋狀",
+   "suggestion": "紋狀體",
+   "reason": "缺少「體」字。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-superior",
+   "en": "superior",
+   "field": "zh",
+   "original": "前；上",
+   "suggestion": "上方的；上側（解剖方位）",
+   "reason": "解剖學 superior 為「上」，「前」是 anterior。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-central-executive",
+   "en": "central executive",
+   "field": "zh",
+   "original": "中央執行官",
+   "suggestion": "中央執行系統（工作記憶模型）",
+   "reason": "Baddeley 工作記憶模型的術語。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-multimodal-reinforcement",
+   "en": "multimodal reinforcement",
+   "field": "zh",
+   "original": "多模態加固",
+   "suggestion": "多模態增強",
+   "reason": "心理學 reinforcement 譯為「增強」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-corpus-callosum",
+   "en": "corpus callosum",
+   "field": "zh",
+   "original": "有胼胝體",
+   "suggestion": "胼胝體",
+   "reason": "多了「有」字。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-aurora-polaris",
+   "en": "aurora polaris",
+   "field": "en",
+   "original": "aurora polaris",
+   "suggestion": "aurora borealis（北極光）／aurora polaris（極光）",
+   "reason": "北極光的標準英文為 aurora borealis。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-human-memory",
+   "en": "human memory",
+   "field": "zh",
+   "original": "人類的記憶有關。",
+   "suggestion": "人類記憶",
+   "reason": "原文為句子殘段。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-anterograde",
+   "en": "anterograde",
+   "field": "zh",
+   "original": "階段前；順向",
+   "suggestion": "順向的（anterograde amnesia 順向失憶）",
+   "reason": "「階段前」不通順。",
+   "severity": "low"
+  },
+  {
+   "id": "t-thalamus",
+   "en": "thalamus",
+   "field": "zh",
+   "original": "視神經床；丘腦",
+   "suggestion": "視丘；丘腦",
+   "reason": "「視神經床」為舊稱，臺灣常用「視丘」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-glucocorticoids",
+   "en": "Glucocorticoids",
+   "field": "zh",
+   "original": "醣皮質素",
+   "suggestion": "糖皮質素（糖皮質激素）",
+   "reason": "常用「糖」；英文首字不須大寫。",
+   "severity": "low"
+  },
+  {
+   "id": "t-hormones",
+   "en": "hormones",
+   "field": "zh",
+   "original": "賀爾蒙",
+   "suggestion": "荷爾蒙；激素",
+   "reason": "臺灣常用「荷爾蒙」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-congenital-amusia",
+   "en": "congenital amusia",
+   "field": "zh",
+   "original": "先天性失樂",
+   "suggestion": "先天性失樂症",
+   "reason": "缺少「症」字。",
+   "severity": "low"
+  },
+  {
+   "id": "t-coefficient-alpha",
+   "en": "coefficient alpha",
+   "field": "zh",
+   "original": "a 係數",
+   "suggestion": "α 係數（Cronbach's α，信度係數）",
+   "reason": "希臘字母 α 被印成 a。",
+   "severity": "low"
+  },
+  {
+   "id": "t-schema",
+   "en": "schema",
+   "field": "zh",
+   "original": "基模：輪廓；概要；略圖",
+   "suggestion": "基模；概要",
+   "reason": "冒號應為分號。",
+   "severity": "low"
+  },
+  {
+   "id": "t-formative",
+   "en": "formative",
+   "field": "zh",
+   "original": "形成的；造形的；構成的形成性",
+   "suggestion": "形成的；形成性的",
+   "reason": "缺少分隔。",
+   "severity": "low"
+  },
+  {
+   "id": "t-anecdotal",
+   "en": "anecdotal",
+   "field": "zh",
+   "original": "軼事的軼事的；趣聞的；多軼事的；含軼事的",
+   "suggestion": "軼事的；趣聞的",
+   "reason": "「軼事的」重複。",
+   "severity": "low"
+  },
+  {
+   "id": "t-ventricle",
+   "en": "ventricle",
+   "field": "zh",
+   "original": "室；腦室；心室；腦室",
+   "suggestion": "腦室；心室",
+   "reason": "「腦室」重複。",
+   "severity": "low"
+  },
+  {
+   "id": "t-minded",
+   "en": "minded",
+   "field": "zh",
+   "original": "有意的；有心的；具有意志的 有意的；有心的；具有意志的",
+   "suggestion": "有意的；有心的",
+   "reason": "中文重複兩次；原列英文含音標與詞性，下一列為例句。",
+   "severity": "low"
+  },
+  {
+   "id": "t-dendrites",
+   "en": "dendrites",
+   "field": "zh",
+   "original": "樹狀突；樹模石",
+   "suggestion": "樹突（複數）",
+   "reason": "「樹模石」應為礦物學的「樹枝石」，與神經學無關。",
+   "severity": "low"
+  },
+  {
+   "id": "t-posterior",
+   "en": "posterior",
+   "field": "zh",
+   "original": "後部；臀部；後方",
+   "suggestion": "後側的（解剖方位）",
+   "reason": "「臀部」為非專業義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-jumping",
+   "en": "jumping",
+   "field": "zh",
+   "original": "開合跳",
+   "suggestion": "跳躍（jumping jacks 開合跳）",
+   "reason": "jumping 單獨使用為跳躍。",
+   "severity": "low"
+  },
+  {
+   "id": "t-demon",
+   "en": "Demon",
+   "field": "zh",
+   "original": "戴蒙",
+   "suggestion": "（疑為 Maxwell's demon 或人名，原文無上下文）",
+   "reason": "無法判斷所指。",
+   "severity": "low"
+  },
+  {
+   "id": "t-frisson",
+   "en": "frisson",
+   "field": "zh",
+   "original": "顫栗； 震顫；戰慄",
+   "suggestion": "顫慄（聽音樂時的起雞皮疙瘩感）",
+   "reason": "多餘空白。",
+   "severity": "low"
+  },
+  {
+   "id": "t-have-you-heard",
+   "en": "Have you heard?",
+   "field": "en",
+   "original": "Have you heard?",
+   "suggestion": "（一般問句，非專有名詞）",
+   "reason": "原 PDF 混入一般語句。",
+   "severity": "low"
+  },
+  {
+   "id": "t-as-a-senior-executive",
+   "en": "as a senior executive",
+   "field": "zh",
+   "original": "身為高階主管。",
+   "suggestion": "身為高階主管",
+   "reason": "句子殘段，非專有名詞。",
+   "severity": "low"
+  },
+  {
+   "id": "t-medulla",
+   "en": "medulla",
+   "field": "dup",
+   "original": "p.1「延髓；骨髓；延腦」與 p.4「延髓；骨髓；延腦」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-grumpy",
+   "en": "grumpy",
+   "field": "dup",
+   "original": "p.1「性情乖戾的；脾氣暴躁的」與 p.4「性情乖戾的；脾氣暴躁的」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-occipital",
+   "en": "occipital",
+   "field": "dup",
+   "original": "p.1「枕骨的」與 p.4「枕骨的」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-depression",
+   "en": "depression",
+   "field": "dup",
+   "original": "p.1「沮喪；意氣消沉；憂鬱」與 p.4「沮喪；意氣消沉；憂鬱」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-smug",
+   "en": "smug",
+   "field": "dup",
+   "original": "p.1「沾沾自喜的；整潔的；體面的；沾沾自喜的人；自鳴得意的人」與 p.5「沾沾自喜的；整潔的；體面的；沾沾自喜的人；自鳴得意的人」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-attention",
+   "en": "attention",
+   "field": "dup",
+   "original": "p.1「注意；注意力；專心；照料；立正」與 p.5「注意；注意力；專心；照料；立正」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-parkinsons-disease",
+   "en": "Parkinson's disease",
+   "field": "dup",
+   "original": "p.1「帕金森氏症」與 p.14「帕金森氏症」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-aptitude-test",
+   "en": "aptitude test",
+   "field": "dup",
+   "original": "p.1「性向測驗」與 p.14「性向測驗」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-sex-reversal",
+   "en": "sex reversal",
+   "field": "dup",
+   "original": "p.1「性逆轉」與 p.14「性逆轉」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-pineal-gland",
+   "en": "pineal gland",
+   "field": "dup",
+   "original": "p.1「松果體；松果腺」與 p.14「松果體；松果腺」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-occipital-lobe",
+   "en": "occipital lobe",
+   "field": "dup",
+   "original": "p.1「枕葉」與 p.14「枕葉」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-reptilian-brain",
+   "en": "reptilian brain",
+   "field": "dup",
+   "original": "p.1「爬蟲類的腦」與 p.14「爬蟲類的腦」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-blind-sight",
+   "en": "blind sight",
+   "field": "dup",
+   "original": "p.1「盲視」與 p.14「盲視」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-direct-assessment",
+   "en": "direct assessment",
+   "field": "dup",
+   "original": "p.1「直接評量」與 p.15「直接評量」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-knowledge-economy-era",
+   "en": "knowledge economy era",
+   "field": "dup",
+   "original": "p.1「知識經濟時代」與 p.15「知識經濟時代」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-social-graph",
+   "en": "social graph",
+   "field": "dup",
+   "original": "p.1「社交圖」與 p.15「社交圖」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  },
+  {
+   "id": "t-face-validity",
+   "en": "face validity",
+   "field": "dup",
+   "original": "p.1「表面效度」與 p.15「表面效度」",
+   "suggestion": "合併為一個詞條",
+   "reason": "同一英文詞條在 PDF 中出現兩次，中文相同。",
+   "severity": "low"
+  }
+ ],
+ "layoutIssues": [
+  {
+   "page": 1,
+   "note": "第 1 頁頁首「PVQC for Brain Sciences Specialist (Sample for Beta version)／腦科學 專業級 (Beta Version)」與日期為表頭；各頁右上頁碼與「Brain Sciences SP n」頁尾不列入詞條。"
+  },
+  {
+   "page": 0,
+   "note": "此 PDF 為單欄、英文與中文緊接在同一行的排版，長的中文會換行（如 temporal、stencil），擷取時已合併。"
+  },
+  {
+   "page": 2,
+   "note": "minded 一列的英文含音標與詞性「[ˈmaɪndɪd] adj.」，中文重複兩次；下一列「She has enough money to buy it if she were minded to do so.／如果她想買下它，她有的是錢。」是例句，不列為詞條。"
+  },
+  {
+   "page": 11,
+   "note": "coefficient alpha、DNA mutation、t-score、X inactivation、z-score 的中文以英文字母開頭（a／DNA／T／X／Z），已歸回中文。"
+  },
+  {
+   "page": 0,
+   "note": "第 4–5 頁末與第 14–15 頁重複了第 1 頁的 17 個詞條（face validity、attention、medulla、Parkinson's disease 等），合併為一個學習詞條並保留每一處的頁碼。"
+  },
+  {
+   "page": 0,
+   "note": "PDF 共 465 列，合併重複後為 448 個學習詞條。"
+  },
+  {
+   "page": 0,
+   "note": "第 12–14 頁有多個人名被機器逐字直譯（Daniel Offer「丹尼爾報價」、cab Calloway「出租車卡洛威」、Thomas Inset「托馬斯插圖」、Henry dryer「亨利烘乾機」），以及一般語句或句子殘段（Have you heard?、faking it、as fierce as、in the brain、human memory「人類的記憶有關。」），已列入更正建議。"
+  },
+  {
+   "page": 0,
+   "note": "詞表混合了腦科學、心理測驗與教育評量（效度、常模、檔案評量）、生活英文（owl／lark、hare、bait）與科技名詞（Arduino、Bluetooth、hackathons），App 依概念分單元。"
+  },
+  {
+   "page": 0,
+   "note": "全份 PDF 為英中對照詞彙表（PVQC 腦科學專業級 Beta），沒有定義、例句、音標或圖片；App 中這些欄位皆為 AI 補充並標示來源。"
+  }
+ ]
+}

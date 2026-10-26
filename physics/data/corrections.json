@@ -1,0 +1,341 @@
+{
+ "schema": 1,
+ "corrections": [
+  {
+   "id": "t-femtometer",
+   "en": "femtometer",
+   "field": "zh",
+   "original": "飛米；飛米(10-21m)",
+   "suggestion": "飛米（10⁻¹⁵ m）",
+   "reason": "飛米 femto- 為 10⁻¹⁵，原文 10-21 數值錯誤（10⁻²¹ 為 zepto-）。",
+   "severity": "high"
+  },
+  {
+   "id": "t-doping",
+   "en": "doping",
+   "field": "zh",
+   "original": "參雜",
+   "suggestion": "摻雜",
+   "reason": "半導體 doping 為「摻雜」，「參」為錯字。",
+   "severity": "high"
+  },
+  {
+   "id": "t-charge-coupled-device",
+   "en": "charge-coupled device",
+   "field": "zh",
+   "original": "電荷耦合元件；僅稱CCD",
+   "suggestion": "電荷耦合元件；簡稱 CCD",
+   "reason": "「僅稱」應為「簡稱」。",
+   "severity": "high"
+  },
+  {
+   "id": "t-envelope",
+   "en": "envelope",
+   "field": "zh",
+   "original": "包络；包封",
+   "suggestion": "包絡；包封",
+   "reason": "「络」為簡體字，繁體為「絡」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-donor",
+   "en": "donor",
+   "field": "zh",
+   "original": "施子",
+   "suggestion": "施體（施子）",
+   "reason": "臺灣半導體教材多稱「施體」，與受體 acceptor 對應。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-eye-lens",
+   "en": "eye-lens",
+   "field": "zh",
+   "original": "目鏡",
+   "suggestion": "接目鏡的眼透鏡（eye lens）；目鏡一般為 eyepiece",
+   "reason": "eye lens 指目鏡中靠近眼睛的那片透鏡，或眼睛的水晶體；目鏡英文常用 eyepiece。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-ballistic-transport",
+   "en": "ballistic transport",
+   "field": "zh",
+   "original": "無礙傳輸",
+   "suggestion": "彈道傳輸",
+   "reason": "ballistic transport 指載子不受散射的傳輸，學界多譯「彈道傳輸」。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-candela",
+   "en": "candela",
+   "field": "zh",
+   "original": "燭光；燭光 (亮度單位)",
+   "suggestion": "燭光（發光強度單位，cd）",
+   "reason": "candela 是發光強度（luminous intensity）單位，不是亮度；且「燭光」重複。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-wed",
+   "en": "wed",
+   "field": "en",
+   "original": "wed",
+   "suggestion": "（疑似非物理詞彙，可能為誤植）",
+   "reason": "wed（結婚、使結合）不是物理專有名詞，建議教師確認是否為其他詞（如 wedge 楔）誤植。",
+   "severity": "medium"
+  },
+  {
+   "id": "t-gauge-pressure",
+   "en": "gauge pressure",
+   "field": "zh",
+   "original": "計示壓",
+   "suggestion": "錶壓力（計示壓力）",
+   "reason": "臺灣課本常用「錶壓力」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-coulomb-blockade",
+   "en": "Coulomb blockade",
+   "field": "zh",
+   "original": "庫侖障礙",
+   "suggestion": "庫侖阻塞",
+   "reason": "奈米電子學多譯「庫侖阻塞」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-hot-big-bang",
+   "en": "hot big bang",
+   "field": "zh",
+   "original": "大熱爆",
+   "suggestion": "熱大霹靂",
+   "reason": "與同 PDF 的「大霹靂理論」一致。",
+   "severity": "low"
+  },
+  {
+   "id": "t-blue-shift",
+   "en": "blue shift",
+   "field": "zh",
+   "original": "藍位移",
+   "suggestion": "藍移",
+   "reason": "天文學常用「藍移」（對應紅移）。",
+   "severity": "low"
+  },
+  {
+   "id": "t-angular-displacement",
+   "en": "angular displacement",
+   "field": "zh",
+   "original": "角移",
+   "suggestion": "角位移",
+   "reason": "與 displacement 位移對應，課本用「角位移」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-celsius-degree",
+   "en": "Celsius degree",
+   "field": "zh",
+   "original": "攝度；攝氏度",
+   "suggestion": "攝氏度",
+   "reason": "「攝度」少用。",
+   "severity": "low"
+  },
+  {
+   "id": "t-period",
+   "en": "period",
+   "field": "zh",
+   "original": "周期",
+   "suggestion": "週期",
+   "reason": "臺灣課本慣用「週期」。",
+   "severity": "low"
+  },
+  {
+   "id": "t-coordinate",
+   "en": "coordinate",
+   "field": "zh",
+   "original": "坐標",
+   "suggestion": "座標",
+   "reason": "臺灣課本慣用「座標」（兩者皆可）。",
+   "severity": "low"
+  },
+  {
+   "id": "t-astronomical-unit",
+   "en": "astronomical unit",
+   "field": "zh",
+   "original": "天文單位：簡稱 AU",
+   "suggestion": "天文單位（AU）",
+   "reason": "格式統一。",
+   "severity": "low"
+  },
+  {
+   "id": "t-lens",
+   "en": "lens",
+   "field": "zh",
+   "original": "透鏡；鏡片；（照相機等的）鏡頭 ；給……攝影",
+   "suggestion": "透鏡；鏡片；鏡頭",
+   "reason": "「給……攝影」為動詞義，非物理用法。",
+   "severity": "low"
+  },
+  {
+   "id": "t-force",
+   "en": "force",
+   "field": "zh",
+   "original": "力；力量；力氣；武力；強迫；迫使；用力推進力",
+   "suggestion": "力",
+   "reason": "物理只取「力」，其餘為一般字典義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-mechanics",
+   "en": "mechanics",
+   "field": "zh",
+   "original": "力學 ；機械學；技術性的部分；技術；技巧",
+   "suggestion": "力學",
+   "reason": "後段為一般字典義項。",
+   "severity": "low"
+  },
+  {
+   "id": "t-conservation",
+   "en": "conservation",
+   "field": "zh",
+   "original": "守恆；保存；(對資源的)保護；管理",
+   "suggestion": "守恆",
+   "reason": "物理用法為守恆。",
+   "severity": "low"
+  },
+  {
+   "id": "t-component",
+   "en": "component",
+   "field": "zh",
+   "original": "分量；構成要素；零件；成分；組成的；構成的",
+   "suggestion": "分量；元件",
+   "reason": "物理用法為（向量的）分量或電路元件。",
+   "severity": "low"
+  },
+  {
+   "id": "t-coefficient",
+   "en": "coefficient",
+   "field": "zh",
+   "original": "係數；協同因素；共同作用的；合作的",
+   "suggestion": "係數",
+   "reason": "物理用法為係數。",
+   "severity": "low"
+  },
+  {
+   "id": "t-circular",
+   "en": "circular",
+   "field": "zh",
+   "original": "圓的；圓形的；環形的；循環的；通知；公告；傳單",
+   "suggestion": "圓的；圓形的；環形的",
+   "reason": "「通知；公告；傳單」為名詞義，非物理用法。",
+   "severity": "low"
+  },
+  {
+   "id": "t-restitution",
+   "en": "restitution",
+   "field": "zh",
+   "original": "恢復；賠償；歸還；復職",
+   "suggestion": "恢復（恢復係數 coefficient of restitution）",
+   "reason": "物理用於碰撞的恢復係數。",
+   "severity": "low"
+  },
+  {
+   "id": "t-newton",
+   "en": "Newton",
+   "field": "zh",
+   "original": "牛頓(人名)",
+   "suggestion": "牛頓（人名）；newton 為力的單位 N",
+   "reason": "人名大寫，單位小寫。",
+   "severity": "low"
+  },
+  {
+   "id": "t-nature",
+   "en": "nature",
+   "field": "zh",
+   "original": "本性",
+   "suggestion": "自然；本質",
+   "reason": "物理語境多指自然或本質。",
+   "severity": "low"
+  },
+  {
+   "id": "t-femtometer",
+   "en": "femtometer",
+   "field": "en",
+   "original": "femtometer",
+   "suggestion": "femtometer（又稱 fermi）",
+   "reason": "核物理常用 fermi 表示 10⁻¹⁵ m。",
+   "severity": "low"
+  },
+  {
+   "id": "t-aether",
+   "en": "aether",
+   "field": "zh",
+   "original": "以太；高處清新空氣",
+   "suggestion": "以太（古典物理假想的傳光介質）",
+   "reason": "與 ether 為同一概念的不同拼法。",
+   "severity": "low"
+  },
+  {
+   "id": "t-gas",
+   "en": "gas",
+   "field": "zh",
+   "original": "氣[體]",
+   "suggestion": "氣體",
+   "reason": "方括號格式。",
+   "severity": "low"
+  },
+  {
+   "id": "t-capacitor",
+   "en": "capacitor",
+   "field": "zh",
+   "original": "電容[器]",
+   "suggestion": "電容器",
+   "reason": "方括號格式。",
+   "severity": "low"
+  },
+  {
+   "id": "t-charge",
+   "en": "charge",
+   "field": "zh",
+   "original": "[電]荷",
+   "suggestion": "電荷",
+   "reason": "方括號格式。",
+   "severity": "low"
+  },
+  {
+   "id": "t-action-at-a-distance",
+   "en": "action at a distance",
+   "field": "zh",
+   "original": "超距力 ； 超距作用",
+   "suggestion": "超距作用；超距力",
+   "reason": "空白格式。",
+   "severity": "low"
+  }
+ ],
+ "layoutIssues": [
+  {
+   "page": 1,
+   "note": "第 1 頁頁首「PVQC for Physics (Beta Version) Specialist／物理 專業級／Terms／Chinese Traditional」與日期為表頭，不列入詞條；各頁「LIT SP n」為頁尾。"
+  },
+  {
+   "page": 5,
+   "note": "circular 的中文解釋跨兩行（「傳」「單」被斷開），已合併為一個詞條。"
+  },
+  {
+   "page": 6,
+   "note": "work-kinetic energy theorem 的英文跨兩行，已合併。"
+  },
+  {
+   "page": 9,
+   "note": "alpha decay 的中文在文字層中比英文高一行，已依版面對齊。"
+  },
+  {
+   "page": 0,
+   "note": "全份 PDF 為英中對照詞彙表（PVQC 物理專業級），沒有定義、例句、音標或圖片；App 中這些欄位皆為 AI 補充並標示來源。"
+  },
+  {
+   "page": 0,
+   "note": "詞條由數段 Z→A 反向字母序組成（單字一段、片語一段等），並非依概念排列；App 依概念重新分單元，並保留原始順序檢視。"
+  },
+  {
+   "page": 0,
+   "note": "部分詞條附有非物理的一般字典義項（如 force、lens、circular），以及同義重複（ether／aether、focus／focal point、wave crest／crest），App 以更正建議與相關詞標示。"
+  }
+ ]
+}
